@@ -1,0 +1,115 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteConfig } from '../../site.config';
+
+const title = 'FreshBlogs — Free Interactive Tools, Quizzes & Daily Inspiration';
+const description = 'Explore astrology, tarot, personality quizzes, dream meanings, recipes, pet matching, and 100+ free interactive tools. Updated daily.';
+---
+
+<BaseLayout title={title} description={description}>
+  <!-- Hero -->
+  <section class="relative overflow-hidden py-16 md:py-24">
+    <!-- Starfield background -->
+    <div class="absolute inset-0 bg-gradient-to-b from-primary/20 via-dark to-dark"></div>
+    <div class="relative max-w-6xl mx-auto px-4 text-center">
+      <h1 class="text-4xl md:text-6xl font-display font-bold mb-4 bg-gradient-to-r from-purple-400 via-pink-400 to-yellow-400 bg-clip-text text-transparent">
+        Discover Something New Today
+      </h1>
+      <p class="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto mb-8">
+        100+ free interactive tools, daily horoscopes, personality quizzes, tarot readings, and more. No sign-up required.
+      </p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/astrology/" class="px-6 py-3 bg-primary hover:bg-primary/80 rounded-full font-semibold transition-colors">
+          🔮 Today's Horoscope
+        </a>
+        <a href="/personality/" class="px-6 py-3 bg-white/10 hover:bg-white/20 rounded-full font-semibold transition-colors">
+          🧠 Take a Quiz
+        </a>
+        <a href="/tarot/" class="px-6 py-3 bg-white/10 hover:bg-white/20 rounded-full font-semibold transition-colors">
+          🃏 Pull a Card
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 13 Topic Cards -->
+  <section class="max-w-6xl mx-auto px-4 py-12">
+    <h2 class="text-2xl font-display font-bold text-center mb-8">Explore Our Topics</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+      {siteConfig.sites.map((site) => (
+        <a
+          href={`/${site.slug}/`}
+          class="group p-5 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-white/20 rounded-xl transition-all duration-300 hover:-translate-y-1"
+        >
+          <div class="text-3xl mb-2">{site.emoji}</div>
+          <h3 class="font-bold text-white group-hover:text-primary transition-colors">{site.name}</h3>
+          <p class="text-sm text-gray-400 mt-1 line-clamp-2">{site.description}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Popular Tools -->
+  <section class="max-w-6xl mx-auto px-4 py-12">
+    <h2 class="text-2xl font-display font-bold text-center mb-8">Most Popular Tools</h2>
+    <div class="grid md:grid-cols-3 gap-4">
+      <a href="/astrology/tools/compatibility/" class="flex items-center gap-4 p-4 bg-white/5 hover:bg-white/10 rounded-xl transition-colors border border-white/10">
+        <span class="text-3xl">💕</span>
+        <div>
+          <h3 class="font-bold">Zodiac Compatibility</h3>
+          <p class="text-sm text-gray-400">Find your perfect match</p>
+        </div>
+      </a>
+      <a href="/personality/tools/mbti-quiz/" class="flex items-center gap-4 p-4 bg-white/5 hover:bg-white/10 rounded-xl transition-colors border border-white/10">
+        <span class="text-3xl">🧠</span>
+        <div>
+          <h3 class="font-bold">MBTI Personality Quiz</h3>
+          <p class="text-sm text-gray-400">Discover your type</p>
+        </div>
+      </a>
+      <a href="/tarot/tools/daily-pull/" class="flex items-center gap-4 p-4 bg-white/5 hover:bg-white/10 rounded-xl transition-colors border border-white/10">
+        <span class="text-3xl">🃏</span>
+        <div>
+          <h3 class="font-bold">Daily Tarot Pull</h3>
+          <p class="text-sm text-gray-400">Your card of the day</p>
+        </div>
+      </a>
+      <a href="/dreams/tools/dictionary/" class="flex items-center gap-4 p-4 bg-white/5 hover:bg-white/10 rounded-xl transition-colors border border-white/10">
+        <span class="text-3xl">🌙</span>
+        <div>
+          <h3 class="font-bold">Dream Dictionary</h3>
+          <p class="text-sm text-gray-400">Decode your dreams</p>
+        </div>
+      </a>
+      <a href="/pets/tools/pet-match/" class="flex items-center gap-4 p-4 bg-white/5 hover:bg-white/10 rounded-xl transition-colors border border-white/10">
+        <span class="text-3xl">🐾</span>
+        <div>
+          <h3 class="font-bold">Pet Match Quiz</h3>
+          <p class="text-sm text-gray-400">Find your ideal pet</p>
+        </div>
+      </a>
+      <a href="/quotes/tools/image-maker/" class="flex items-center gap-4 p-4 bg-white/5 hover:bg-white/10 rounded-xl transition-colors border border-white/10">
+        <span class="text-3xl">💬</span>
+        <div>
+          <h3 class="font-bold">Quote Image Maker</h3>
+          <p class="text-sm text-gray-400">Create shareable quotes</p>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section class="max-w-6xl mx-auto px-4 py-12">
+    <div class="bg-white/5 rounded-2xl border border-white/10 p-8 text-center">
+      <h2 class="text-2xl font-display font-bold mb-4">About FreshBlogs</h2>
+      <p class="text-gray-300 max-w-2xl mx-auto mb-6">
+        FreshBlogs is a collection of free interactive tools and expert content across 13 topics.
+        Our editorial team creates engaging quizzes, calculators, and guides updated daily.
+        No accounts, no subscriptions — just tools that help you discover, learn, and have fun.
+      </p>
+      <a href="/about/" class="inline-block px-6 py-2 bg-white/10 hover:bg-white/20 rounded-full transition-colors">
+        Meet Our Team →
+      </a>
+    </div>
+  </section>
+</BaseLayout>

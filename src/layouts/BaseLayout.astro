@@ -1,0 +1,223 @@
+---
+import { siteConfig } from '../../site.config';
+import '../styles/global.css';
+
+export interface Props {
+  title: string;
+  description?: string;
+  canonical?: string;
+  ogImage?: string;
+  ogType?: string;
+  noindex?: boolean;
+  jsonLd?: object | object[];
+}
+
+const {
+  title,
+  description = siteConfig.description,
+  canonical,
+  ogImage = siteConfig.ogImage,
+  ogType = 'website',
+  noindex = false,
+  jsonLd,
+} = Astro.props;
+
+const pageTitle = title === siteConfig.name ? title : `${title} | ${siteConfig.name}`;
+const canonicalURL = canonical || new URL(Astro.url.pathname, siteConfig.url).href;
+const ogImageURL = ogImage?.startsWith('http') ? ogImage : new URL(ogImage, siteConfig.url).href;
+
+// Build JSON-LD array
+const jsonLdArray = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
+
+// Always add WebSite schema on homepage
+if (Astro.url.pathname === '/') {
+  jsonLdArray.push({
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: siteConfig.name,
+    url: siteConfig.url,
+    description: siteConfig.description,
+    publisher: {
+      '@type': 'Organization',
+      name: siteConfig.name,
+      url: siteConfig.url,
+    },
+  });
+}
+---
+
+<!doctype html>
+<html lang={siteConfig.lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- SEO -->
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:image" content={ogImageURL} />
+    <meta property="og:site_name" content={siteConfig.name} />
+    <meta property="og:locale" content={siteConfig.locale} />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageURL} />
+
+    <!-- hreflang -->
+    <link rel="alternate" hreflang="en" href={canonicalURL} />
+    <link rel="alternate" hreflang="x-default" href={canonicalURL} />
+
+    <!-- JSON-LD -->
+    {jsonLdArray.map((ld) => (
+      <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+    ))}
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet" />
+
+    <!-- Google AdSense -->
+    <script
+      async
+      src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${siteConfig.adsensePubId}`}
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- GA4 -->
+    {siteConfig.ga4Id && (
+      <>
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.ga4Id}`}></script>
+        <script define:vars={{ ga4Id: siteConfig.ga4Id }}>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', ga4Id);
+        </script>
+      </>
+    )}
+  </head>
+  <body class="bg-dark text-gray-100 min-h-screen flex flex-col font-sans">
+    <!-- Navigation -->
+    <nav class="bg-dark/95 backdrop-blur-sm border-b border-white/10 sticky top-0 z-50">
+      <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+        <a href="/" class="text-xl font-display font-bold text-white hover:text-primary transition-colors">
+          ✨ FreshBlogs
+        </a>
+        <div class="hidden md:flex items-center gap-1 text-sm overflow-x-auto">
+          {siteConfig.sites.slice(0, 7).map((site) => (
+            <a
+              href={`/${site.slug}/`}
+              class="px-2 py-1 rounded hover:bg-white/10 transition-colors whitespace-nowrap"
+            >
+              {site.emoji} {site.name}
+            </a>
+          ))}
+          <div class="relative group">
+            <button class="px-2 py-1 rounded hover:bg-white/10 transition-colors">More ▾</button>
+            <div class="absolute right-0 top-full mt-1 bg-gray-900 border border-white/10 rounded-lg shadow-xl hidden group-hover:block min-w-[160px]">
+              {siteConfig.sites.slice(7).map((site) => (
+                <a
+                  href={`/${site.slug}/`}
+                  class="block px-4 py-2 hover:bg-white/10 transition-colors text-sm"
+                >
+                  {site.emoji} {site.name}
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+        <!-- Mobile menu button -->
+        <button id="mobile-menu-btn" class="md:hidden text-white p-2" aria-label="Menu">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+      </div>
+      <!-- Mobile menu -->
+      <div id="mobile-menu" class="hidden md:hidden border-t border-white/10 px-4 py-3">
+        <div class="grid grid-cols-2 gap-2 text-sm">
+          {siteConfig.sites.map((site) => (
+            <a href={`/${site.slug}/`} class="px-3 py-2 rounded hover:bg-white/10 transition-colors">
+              {site.emoji} {site.name}
+            </a>
+          ))}
+        </div>
+      </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-1">
+      <slot />
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900/50 border-t border-white/10 mt-16">
+      <div class="max-w-6xl mx-auto px-4 py-12">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 mb-8">
+          <div>
+            <h3 class="font-bold text-white mb-3">Mystical</h3>
+            <ul class="space-y-2 text-sm text-gray-400">
+              <li><a href="/astrology/" class="hover:text-white transition-colors">🔮 Astrology</a></li>
+              <li><a href="/tarot/" class="hover:text-white transition-colors">🃏 Tarot</a></li>
+              <li><a href="/numerology/" class="hover:text-white transition-colors">🔢 Numerology</a></li>
+              <li><a href="/dreams/" class="hover:text-white transition-colors">🌙 Dreams</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3 class="font-bold text-white mb-3">Self-Discovery</h3>
+            <ul class="space-y-2 text-sm text-gray-400">
+              <li><a href="/personality/" class="hover:text-white transition-colors">🧠 Personality</a></li>
+              <li><a href="/manifest/" class="hover:text-white transition-colors">✨ Manifest</a></li>
+              <li><a href="/quotes/" class="hover:text-white transition-colors">💬 Quotes</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3 class="font-bold text-white mb-3">Lifestyle</h3>
+            <ul class="space-y-2 text-sm text-gray-400">
+              <li><a href="/pets/" class="hover:text-white transition-colors">🐾 Pets</a></li>
+              <li><a href="/recipes/" class="hover:text-white transition-colors">🍳 Recipes</a></li>
+              <li><a href="/travel/" class="hover:text-white transition-colors">✈️ Travel</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3 class="font-bold text-white mb-3">Practical</h3>
+            <ul class="space-y-2 text-sm text-gray-400">
+              <li><a href="/diy/" class="hover:text-white transition-colors">🔨 DIY</a></li>
+              <li><a href="/garden/" class="hover:text-white transition-colors">🌱 Garden</a></li>
+              <li><a href="/ai/" class="hover:text-white transition-colors">🤖 AI Tools</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-500">
+          <p>&copy; {new Date().getFullYear()} FreshBlogs. All rights reserved.</p>
+          <div class="flex gap-6">
+            <a href="/about/" class="hover:text-white transition-colors">About</a>
+            <a href="/privacy/" class="hover:text-white transition-colors">Privacy Policy</a>
+            <a href="/contact/" class="hover:text-white transition-colors">Contact</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Mobile menu toggle -->
+    <script>
+      const btn = document.getElementById('mobile-menu-btn');
+      const menu = document.getElementById('mobile-menu');
+      btn?.addEventListener('click', () => menu?.classList.toggle('hidden'));
+    </script>
+  </body>
+</html>

@@ -1,0 +1,67 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteConfig } from '../../site.config';
+
+const title = 'Contact Us';
+const description = 'Get in touch with the FreshBlogs team. Questions, feedback, or partnership inquiries welcome.';
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-gray-400 mb-8">
+      <a href="/" class="hover:text-white">Home</a>
+      <span class="mx-2">/</span>
+      <span class="text-white">Contact</span>
+    </nav>
+
+    <h1 class="text-3xl font-display font-bold mb-4">Contact Us</h1>
+    <p class="text-gray-300 text-lg mb-8">
+      We'd love to hear from you! Whether you have a question, feedback, or a partnership opportunity,
+      feel free to reach out.
+    </p>
+
+    <div class="grid md:grid-cols-2 gap-8">
+      <div class="space-y-6">
+        <div class="p-6 bg-white/5 rounded-xl border border-white/10">
+          <h2 class="font-bold text-lg mb-2">📧 General Inquiries</h2>
+          <p class="text-gray-400 text-sm mb-2">For questions, feedback, or suggestions:</p>
+          <a href="mailto:hello@freshblogs.cc" class="text-primary hover:underline">hello@freshblogs.cc</a>
+        </div>
+
+        <div class="p-6 bg-white/5 rounded-xl border border-white/10">
+          <h2 class="font-bold text-lg mb-2">🤝 Partnerships</h2>
+          <p class="text-gray-400 text-sm mb-2">For advertising, sponsorships, or collaborations:</p>
+          <a href="mailto:partners@freshblogs.cc" class="text-primary hover:underline">partners@freshblogs.cc</a>
+        </div>
+
+        <div class="p-6 bg-white/5 rounded-xl border border-white/10">
+          <h2 class="font-bold text-lg mb-2">🐛 Bug Reports</h2>
+          <p class="text-gray-400 text-sm mb-2">Found a bug or broken tool? Let us know:</p>
+          <a href="mailto:support@freshblogs.cc" class="text-primary hover:underline">support@freshblogs.cc</a>
+        </div>
+      </div>
+
+      <div class="p-6 bg-white/5 rounded-xl border border-white/10">
+        <h2 class="font-bold text-lg mb-4">Quick FAQ</h2>
+        <div class="space-y-4 text-sm">
+          <div>
+            <p class="font-semibold text-white">Are your tools really free?</p>
+            <p class="text-gray-400 mt-1">Yes, 100% free. No sign-ups, no hidden fees. We're supported by advertising.</p>
+          </div>
+          <div>
+            <p class="font-semibold text-white">Do you store my quiz results?</p>
+            <p class="text-gray-400 mt-1">Results are saved locally in your browser only. We never see or store your personal data.</p>
+          </div>
+          <div>
+            <p class="font-semibold text-white">Can I suggest a new tool?</p>
+            <p class="text-gray-400 mt-1">Absolutely! Send your ideas to hello@freshblogs.cc and we'll consider adding them.</p>
+          </div>
+          <div>
+            <p class="font-semibold text-white">How often is content updated?</p>
+            <p class="text-gray-400 mt-1">Daily horoscopes update every morning. Blog posts and new tools are added weekly.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

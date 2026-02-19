@@ -1,0 +1,86 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { siteConfig } from '../../../site.config';
+
+const title = 'About Us — Meet the FreshBlogs Editorial Team';
+const description = 'Meet the writers, editors, and experts behind FreshBlogs. Our team creates daily horoscopes, personality quizzes, dream guides, recipes, and 100+ free tools.';
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
+    { '@type': 'ListItem', position: 2, name: 'About', item: `${siteConfig.url}/about/` },
+  ],
+};
+---
+
+<BaseLayout title={title} description={description} jsonLd={breadcrumbLd}>
+  <div class="max-w-4xl mx-auto px-4 py-12">
+    <!-- Breadcrumb -->
+    <nav class="text-sm text-gray-400 mb-8">
+      <a href="/" class="hover:text-white">Home</a>
+      <span class="mx-2">/</span>
+      <span class="text-white">About</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-display font-bold mb-4">Meet the FreshBlogs Team</h1>
+    <p class="text-gray-300 text-lg mb-12 max-w-2xl">
+      We're a team of writers, researchers, and subject-matter experts passionate about creating
+      free tools and content that help you discover, learn, and have fun every day.
+    </p>
+
+    <!-- Team Grid -->
+    <div class="grid md:grid-cols-2 gap-6">
+      {siteConfig.authors.map((author) => {
+        const authorSites = siteConfig.sites.filter((s) => author.sites.includes(s.slug));
+        return (
+          <a
+            href={`/about/${author.slug}/`}
+            class="group p-6 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-all duration-300"
+          >
+            <div class="flex items-start gap-4">
+              <div class="w-16 h-16 bg-primary/20 rounded-full flex items-center justify-center text-2xl flex-shrink-0">
+                {author.name.charAt(0)}
+              </div>
+              <div>
+                <h2 class="text-lg font-bold text-white group-hover:text-primary transition-colors">
+                  {author.name}
+                </h2>
+                <p class="text-sm text-primary/80 mb-2">{author.role}</p>
+                <p class="text-sm text-gray-400 line-clamp-2">{author.bio}</p>
+                <div class="flex flex-wrap gap-1 mt-3">
+                  {authorSites.map((site) => (
+                    <span class="text-xs px-2 py-0.5 bg-white/5 rounded-full">{site.emoji} {site.name}</span>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+
+    <!-- Editorial Standards -->
+    <section class="mt-16 p-8 bg-white/5 rounded-xl border border-white/10">
+      <h2 class="text-2xl font-display font-bold mb-4">Our Editorial Standards</h2>
+      <div class="text-gray-300 space-y-4">
+        <p>
+          At FreshBlogs, accuracy and quality come first. Every article is researched, fact-checked,
+          and reviewed by our editorial team before publication. We cite authoritative sources and
+          update our content regularly to keep it relevant and reliable.
+        </p>
+        <p>
+          Our interactive tools are built with care — designed to be fun, educational, and completely
+          free. We never require sign-ups or collect personal data beyond basic analytics.
+          Your privacy matters to us.
+        </p>
+        <p>
+          We believe in transparency. When we discuss topics like astrology or personality types,
+          we present them as frameworks for self-reflection, not scientific predictions.
+          Our goal is to help you think about yourself and the world in new ways.
+        </p>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

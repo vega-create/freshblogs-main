@@ -1,0 +1,1520 @@
+[
+  {
+    "question": "Which element is Aries associated with?",
+    "options": [
+      "Fire",
+      "Water",
+      "Earth",
+      "Air"
+    ],
+    "answer": 0,
+    "category": "elements"
+  },
+  {
+    "question": "Which element is Taurus associated with?",
+    "options": [
+      "Water",
+      "Earth",
+      "Fire",
+      "Air"
+    ],
+    "answer": 1,
+    "category": "elements"
+  },
+  {
+    "question": "Which element is Gemini associated with?",
+    "options": [
+      "Air",
+      "Fire",
+      "Water",
+      "Earth"
+    ],
+    "answer": 0,
+    "category": "elements"
+  },
+  {
+    "question": "Which element is Cancer associated with?",
+    "options": [
+      "Earth",
+      "Air",
+      "Water",
+      "Fire"
+    ],
+    "answer": 2,
+    "category": "elements"
+  },
+  {
+    "question": "Which element is Leo associated with?",
+    "options": [
+      "Water",
+      "Fire",
+      "Air",
+      "Earth"
+    ],
+    "answer": 1,
+    "category": "elements"
+  },
+  {
+    "question": "Which element is Virgo associated with?",
+    "options": [
+      "Earth",
+      "Water",
+      "Fire",
+      "Air"
+    ],
+    "answer": 0,
+    "category": "elements"
+  },
+  {
+    "question": "Which element is Libra associated with?",
+    "options": [
+      "Fire",
+      "Earth",
+      "Water",
+      "Air"
+    ],
+    "answer": 3,
+    "category": "elements"
+  },
+  {
+    "question": "Which element is Scorpio associated with?",
+    "options": [
+      "Water",
+      "Fire",
+      "Air",
+      "Earth"
+    ],
+    "answer": 0,
+    "category": "elements"
+  },
+  {
+    "question": "Which element is Sagittarius associated with?",
+    "options": [
+      "Air",
+      "Water",
+      "Fire",
+      "Earth"
+    ],
+    "answer": 2,
+    "category": "elements"
+  },
+  {
+    "question": "Which element is Capricorn associated with?",
+    "options": [
+      "Fire",
+      "Earth",
+      "Water",
+      "Air"
+    ],
+    "answer": 1,
+    "category": "elements"
+  },
+  {
+    "question": "Which element is Aquarius associated with?",
+    "options": [
+      "Water",
+      "Fire",
+      "Air",
+      "Earth"
+    ],
+    "answer": 2,
+    "category": "elements"
+  },
+  {
+    "question": "Which element is Pisces associated with?",
+    "options": [
+      "Earth",
+      "Air",
+      "Water",
+      "Fire"
+    ],
+    "answer": 2,
+    "category": "elements"
+  },
+  {
+    "question": "How many fire signs are in the zodiac?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "category": "elements"
+  },
+  {
+    "question": "Which of these is NOT a water sign?",
+    "options": [
+      "Cancer",
+      "Scorpio",
+      "Libra",
+      "Pisces"
+    ],
+    "answer": 2,
+    "category": "elements"
+  },
+  {
+    "question": "Which of these is NOT an earth sign?",
+    "options": [
+      "Taurus",
+      "Virgo",
+      "Aquarius",
+      "Capricorn"
+    ],
+    "answer": 2,
+    "category": "elements"
+  },
+  {
+    "question": "All fire signs share which quality?",
+    "options": [
+      "Patience",
+      "Passion",
+      "Practicality",
+      "Pessimism"
+    ],
+    "answer": 1,
+    "category": "elements"
+  },
+  {
+    "question": "Which element group includes Gemini, Libra, and Aquarius?",
+    "options": [
+      "Fire",
+      "Water",
+      "Earth",
+      "Air"
+    ],
+    "answer": 3,
+    "category": "elements"
+  },
+  {
+    "question": "Earth signs are known for being...",
+    "options": [
+      "Emotional",
+      "Practical",
+      "Impulsive",
+      "Detached"
+    ],
+    "answer": 1,
+    "category": "elements"
+  },
+  {
+    "question": "Water signs are known for being...",
+    "options": [
+      "Logical",
+      "Practical",
+      "Emotional",
+      "Reckless"
+    ],
+    "answer": 2,
+    "category": "elements"
+  },
+  {
+    "question": "Air signs are associated with...",
+    "options": [
+      "Emotion",
+      "Communication",
+      "Stability",
+      "Action"
+    ],
+    "answer": 1,
+    "category": "elements"
+  },
+  {
+    "question": "Which planet rules Aries?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": 1,
+    "category": "planets"
+  },
+  {
+    "question": "Which planet rules Taurus?",
+    "options": [
+      "Mars",
+      "Mercury",
+      "Venus",
+      "Moon"
+    ],
+    "answer": 2,
+    "category": "planets"
+  },
+  {
+    "question": "Which planet rules Gemini?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": 0,
+    "category": "planets"
+  },
+  {
+    "question": "Which celestial body rules Cancer?",
+    "options": [
+      "Sun",
+      "Moon",
+      "Mercury",
+      "Venus"
+    ],
+    "answer": 1,
+    "category": "planets"
+  },
+  {
+    "question": "Which celestial body rules Leo?",
+    "options": [
+      "Moon",
+      "Mars",
+      "Sun",
+      "Jupiter"
+    ],
+    "answer": 2,
+    "category": "planets"
+  },
+  {
+    "question": "Mercury rules both Gemini and which other sign?",
+    "options": [
+      "Libra",
+      "Virgo",
+      "Sagittarius",
+      "Pisces"
+    ],
+    "answer": 1,
+    "category": "planets"
+  },
+  {
+    "question": "Venus rules both Taurus and which other sign?",
+    "options": [
+      "Cancer",
+      "Libra",
+      "Pisces",
+      "Scorpio"
+    ],
+    "answer": 1,
+    "category": "planets"
+  },
+  {
+    "question": "Which planet rules Sagittarius?",
+    "options": [
+      "Saturn",
+      "Mars",
+      "Jupiter",
+      "Uranus"
+    ],
+    "answer": 2,
+    "category": "planets"
+  },
+  {
+    "question": "Which planet rules Capricorn?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Mars",
+      "Pluto"
+    ],
+    "answer": 0,
+    "category": "planets"
+  },
+  {
+    "question": "Pluto is the ruling planet of which sign?",
+    "options": [
+      "Aries",
+      "Scorpio",
+      "Capricorn",
+      "Aquarius"
+    ],
+    "answer": 1,
+    "category": "planets"
+  },
+  {
+    "question": "Uranus is the ruling planet of which sign?",
+    "options": [
+      "Gemini",
+      "Sagittarius",
+      "Aquarius",
+      "Pisces"
+    ],
+    "answer": 2,
+    "category": "planets"
+  },
+  {
+    "question": "Neptune rules which zodiac sign?",
+    "options": [
+      "Cancer",
+      "Scorpio",
+      "Aquarius",
+      "Pisces"
+    ],
+    "answer": 3,
+    "category": "planets"
+  },
+  {
+    "question": "Saturn is known as the planet of...",
+    "options": [
+      "Love",
+      "Discipline",
+      "Communication",
+      "Adventure"
+    ],
+    "answer": 1,
+    "category": "planets"
+  },
+  {
+    "question": "Jupiter is known as the planet of...",
+    "options": [
+      "War",
+      "Love",
+      "Expansion",
+      "Restriction"
+    ],
+    "answer": 2,
+    "category": "planets"
+  },
+  {
+    "question": "Mars is known as the planet of...",
+    "options": [
+      "Love",
+      "War and Energy",
+      "Dreams",
+      "Wisdom"
+    ],
+    "answer": 1,
+    "category": "planets"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Ram?",
+    "options": [
+      "Taurus",
+      "Aries",
+      "Capricorn",
+      "Leo"
+    ],
+    "answer": 1,
+    "category": "symbols"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Bull?",
+    "options": [
+      "Aries",
+      "Leo",
+      "Taurus",
+      "Capricorn"
+    ],
+    "answer": 2,
+    "category": "symbols"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Twins?",
+    "options": [
+      "Pisces",
+      "Libra",
+      "Aquarius",
+      "Gemini"
+    ],
+    "answer": 3,
+    "category": "symbols"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Crab?",
+    "options": [
+      "Scorpio",
+      "Cancer",
+      "Pisces",
+      "Aquarius"
+    ],
+    "answer": 1,
+    "category": "symbols"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Lion?",
+    "options": [
+      "Aries",
+      "Sagittarius",
+      "Leo",
+      "Scorpio"
+    ],
+    "answer": 2,
+    "category": "symbols"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Maiden?",
+    "options": [
+      "Libra",
+      "Virgo",
+      "Pisces",
+      "Cancer"
+    ],
+    "answer": 1,
+    "category": "symbols"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Scales?",
+    "options": [
+      "Virgo",
+      "Gemini",
+      "Libra",
+      "Aquarius"
+    ],
+    "answer": 2,
+    "category": "symbols"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Scorpion?",
+    "options": [
+      "Aries",
+      "Cancer",
+      "Scorpio",
+      "Capricorn"
+    ],
+    "answer": 2,
+    "category": "symbols"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Archer?",
+    "options": [
+      "Leo",
+      "Aries",
+      "Aquarius",
+      "Sagittarius"
+    ],
+    "answer": 3,
+    "category": "symbols"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Sea-Goat?",
+    "options": [
+      "Capricorn",
+      "Aquarius",
+      "Taurus",
+      "Pisces"
+    ],
+    "answer": 0,
+    "category": "symbols"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Water Bearer?",
+    "options": [
+      "Pisces",
+      "Cancer",
+      "Aquarius",
+      "Scorpio"
+    ],
+    "answer": 2,
+    "category": "symbols"
+  },
+  {
+    "question": "Which zodiac sign is represented by the Fish?",
+    "options": [
+      "Aquarius",
+      "Cancer",
+      "Scorpio",
+      "Pisces"
+    ],
+    "answer": 3,
+    "category": "symbols"
+  },
+  {
+    "question": "Which sign is known as the most stubborn?",
+    "options": [
+      "Aries",
+      "Taurus",
+      "Leo",
+      "Scorpio"
+    ],
+    "answer": 1,
+    "category": "traits"
+  },
+  {
+    "question": "Which sign is considered the most emotional?",
+    "options": [
+      "Gemini",
+      "Leo",
+      "Pisces",
+      "Sagittarius"
+    ],
+    "answer": 2,
+    "category": "traits"
+  },
+  {
+    "question": "Which sign is known for being the most mysterious?",
+    "options": [
+      "Cancer",
+      "Scorpio",
+      "Pisces",
+      "Capricorn"
+    ],
+    "answer": 1,
+    "category": "traits"
+  },
+  {
+    "question": "Which sign is considered the most adventurous?",
+    "options": [
+      "Taurus",
+      "Cancer",
+      "Virgo",
+      "Sagittarius"
+    ],
+    "answer": 3,
+    "category": "traits"
+  },
+  {
+    "question": "Which sign is known for being the most analytical?",
+    "options": [
+      "Virgo",
+      "Libra",
+      "Sagittarius",
+      "Aries"
+    ],
+    "answer": 0,
+    "category": "traits"
+  },
+  {
+    "question": "Which sign is considered the most diplomatic?",
+    "options": [
+      "Aries",
+      "Scorpio",
+      "Libra",
+      "Capricorn"
+    ],
+    "answer": 2,
+    "category": "traits"
+  },
+  {
+    "question": "Which sign is known for being the most creative?",
+    "options": [
+      "Capricorn",
+      "Taurus",
+      "Pisces",
+      "Virgo"
+    ],
+    "answer": 2,
+    "category": "traits"
+  },
+  {
+    "question": "Which sign is considered the most ambitious?",
+    "options": [
+      "Leo",
+      "Capricorn",
+      "Aries",
+      "Sagittarius"
+    ],
+    "answer": 1,
+    "category": "traits"
+  },
+  {
+    "question": "Which sign is known for being the best communicator?",
+    "options": [
+      "Cancer",
+      "Gemini",
+      "Scorpio",
+      "Taurus"
+    ],
+    "answer": 1,
+    "category": "traits"
+  },
+  {
+    "question": "Which sign is considered the most nurturing?",
+    "options": [
+      "Aries",
+      "Gemini",
+      "Cancer",
+      "Aquarius"
+    ],
+    "answer": 2,
+    "category": "traits"
+  },
+  {
+    "question": "Which sign is known for being the most independent?",
+    "options": [
+      "Cancer",
+      "Pisces",
+      "Taurus",
+      "Aquarius"
+    ],
+    "answer": 3,
+    "category": "traits"
+  },
+  {
+    "question": "Which sign is considered the most loyal?",
+    "options": [
+      "Gemini",
+      "Sagittarius",
+      "Scorpio",
+      "Aquarius"
+    ],
+    "answer": 2,
+    "category": "traits"
+  },
+  {
+    "question": "What is the first sign of the zodiac?",
+    "options": [
+      "Capricorn",
+      "Leo",
+      "Aries",
+      "Pisces"
+    ],
+    "answer": 2,
+    "category": "basics"
+  },
+  {
+    "question": "What is the last sign of the zodiac?",
+    "options": [
+      "Aquarius",
+      "Pisces",
+      "Scorpio",
+      "Capricorn"
+    ],
+    "answer": 1,
+    "category": "basics"
+  },
+  {
+    "question": "How many signs are in the zodiac?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": 2,
+    "category": "basics"
+  },
+  {
+    "question": "A person born on July 4th is what sign?",
+    "options": [
+      "Gemini",
+      "Cancer",
+      "Leo",
+      "Virgo"
+    ],
+    "answer": 1,
+    "category": "dates"
+  },
+  {
+    "question": "A person born on December 25th is what sign?",
+    "options": [
+      "Sagittarius",
+      "Capricorn",
+      "Aquarius",
+      "Pisces"
+    ],
+    "answer": 1,
+    "category": "dates"
+  },
+  {
+    "question": "A person born on Valentine's Day (Feb 14) is what sign?",
+    "options": [
+      "Pisces",
+      "Capricorn",
+      "Aquarius",
+      "Aries"
+    ],
+    "answer": 2,
+    "category": "dates"
+  },
+  {
+    "question": "A person born on Halloween (Oct 31) is what sign?",
+    "options": [
+      "Libra",
+      "Scorpio",
+      "Sagittarius",
+      "Virgo"
+    ],
+    "answer": 1,
+    "category": "dates"
+  },
+  {
+    "question": "A person born on New Year's Day (Jan 1) is what sign?",
+    "options": [
+      "Sagittarius",
+      "Aquarius",
+      "Capricorn",
+      "Pisces"
+    ],
+    "answer": 2,
+    "category": "dates"
+  },
+  {
+    "question": "Which month has NO zodiac transition?",
+    "options": [
+      "All months have transitions",
+      "February",
+      "June",
+      "None \u2014 every month has one"
+    ],
+    "answer": 3,
+    "category": "dates"
+  },
+  {
+    "question": "What is the zodiac sign for someone born March 15?",
+    "options": [
+      "Aquarius",
+      "Pisces",
+      "Aries",
+      "Taurus"
+    ],
+    "answer": 1,
+    "category": "dates"
+  },
+  {
+    "question": "What sign starts the astrological new year?",
+    "options": [
+      "Capricorn",
+      "Aries",
+      "Aquarius",
+      "Leo"
+    ],
+    "answer": 1,
+    "category": "dates"
+  },
+  {
+    "question": "Which season is Scorpio associated with?",
+    "options": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "answer": 2,
+    "category": "dates"
+  },
+  {
+    "question": "Which sign marks the beginning of spring?",
+    "options": [
+      "Pisces",
+      "Aries",
+      "Taurus",
+      "Gemini"
+    ],
+    "answer": 1,
+    "category": "dates"
+  },
+  {
+    "question": "Which sign marks the beginning of summer?",
+    "options": [
+      "Gemini",
+      "Cancer",
+      "Leo",
+      "Virgo"
+    ],
+    "answer": 1,
+    "category": "dates"
+  },
+  {
+    "question": "Which sign marks the beginning of autumn?",
+    "options": [
+      "Virgo",
+      "Libra",
+      "Scorpio",
+      "Sagittarius"
+    ],
+    "answer": 1,
+    "category": "dates"
+  },
+  {
+    "question": "Which sign marks the beginning of winter?",
+    "options": [
+      "Sagittarius",
+      "Capricorn",
+      "Aquarius",
+      "Pisces"
+    ],
+    "answer": 1,
+    "category": "dates"
+  },
+  {
+    "question": "What are the three modalities in astrology?",
+    "options": [
+      "Fire, Earth, Air",
+      "Cardinal, Fixed, Mutable",
+      "Sun, Moon, Rising",
+      "Past, Present, Future"
+    ],
+    "answer": 1,
+    "category": "modalities"
+  },
+  {
+    "question": "Aries, Cancer, Libra, and Capricorn are all...",
+    "options": [
+      "Fixed signs",
+      "Mutable signs",
+      "Cardinal signs",
+      "Earth signs"
+    ],
+    "answer": 2,
+    "category": "modalities"
+  },
+  {
+    "question": "Taurus, Leo, Scorpio, and Aquarius are all...",
+    "options": [
+      "Cardinal signs",
+      "Fixed signs",
+      "Mutable signs",
+      "Water signs"
+    ],
+    "answer": 1,
+    "category": "modalities"
+  },
+  {
+    "question": "Gemini, Virgo, Sagittarius, and Pisces are all...",
+    "options": [
+      "Cardinal signs",
+      "Fixed signs",
+      "Mutable signs",
+      "Fire signs"
+    ],
+    "answer": 2,
+    "category": "modalities"
+  },
+  {
+    "question": "Cardinal signs are known for...",
+    "options": [
+      "Stability",
+      "Adaptability",
+      "Initiative",
+      "Mystery"
+    ],
+    "answer": 2,
+    "category": "modalities"
+  },
+  {
+    "question": "Fixed signs are known for...",
+    "options": [
+      "Change",
+      "Determination",
+      "Flexibility",
+      "Speed"
+    ],
+    "answer": 1,
+    "category": "modalities"
+  },
+  {
+    "question": "Mutable signs are known for...",
+    "options": [
+      "Stubbornness",
+      "Leadership",
+      "Adaptability",
+      "Aggression"
+    ],
+    "answer": 2,
+    "category": "modalities"
+  },
+  {
+    "question": "Which two signs are considered the most compatible?",
+    "options": [
+      "Aries & Cancer",
+      "Taurus & Capricorn",
+      "Gemini & Scorpio",
+      "Leo & Virgo"
+    ],
+    "answer": 1,
+    "category": "compatibility"
+  },
+  {
+    "question": "Same-element pairings are generally...",
+    "options": [
+      "Incompatible",
+      "Highly compatible",
+      "Neutral",
+      "Toxic"
+    ],
+    "answer": 1,
+    "category": "compatibility"
+  },
+  {
+    "question": "Fire signs are most compatible with which element?",
+    "options": [
+      "Water",
+      "Earth",
+      "Air",
+      "Other fire signs"
+    ],
+    "answer": 2,
+    "category": "compatibility"
+  },
+  {
+    "question": "Earth signs are most compatible with which element?",
+    "options": [
+      "Fire",
+      "Water",
+      "Air",
+      "Other earth signs"
+    ],
+    "answer": 1,
+    "category": "compatibility"
+  },
+  {
+    "question": "Which pair is known for intense attraction despite challenges?",
+    "options": [
+      "Taurus & Virgo",
+      "Aries & Libra",
+      "Cancer & Pisces",
+      "Leo & Sagittarius"
+    ],
+    "answer": 1,
+    "category": "compatibility"
+  },
+  {
+    "question": "Opposite signs on the zodiac wheel are...",
+    "options": [
+      "Always incompatible",
+      "Strongly attracted to each other",
+      "Identical",
+      "Random"
+    ],
+    "answer": 1,
+    "category": "compatibility"
+  },
+  {
+    "question": "What is the opposite sign of Aries?",
+    "options": [
+      "Scorpio",
+      "Cancer",
+      "Libra",
+      "Capricorn"
+    ],
+    "answer": 2,
+    "category": "compatibility"
+  },
+  {
+    "question": "What is the opposite sign of Taurus?",
+    "options": [
+      "Aquarius",
+      "Scorpio",
+      "Leo",
+      "Pisces"
+    ],
+    "answer": 1,
+    "category": "compatibility"
+  },
+  {
+    "question": "What is the opposite sign of Leo?",
+    "options": [
+      "Capricorn",
+      "Pisces",
+      "Aquarius",
+      "Scorpio"
+    ],
+    "answer": 2,
+    "category": "compatibility"
+  },
+  {
+    "question": "The 1st house in astrology represents...",
+    "options": [
+      "Career",
+      "Self and Identity",
+      "Relationships",
+      "Home"
+    ],
+    "answer": 1,
+    "category": "houses"
+  },
+  {
+    "question": "The 7th house in astrology represents...",
+    "options": [
+      "Career",
+      "Communication",
+      "Partnerships",
+      "Creativity"
+    ],
+    "answer": 2,
+    "category": "houses"
+  },
+  {
+    "question": "The 10th house in astrology represents...",
+    "options": [
+      "Home",
+      "Travel",
+      "Career",
+      "Secrets"
+    ],
+    "answer": 2,
+    "category": "houses"
+  },
+  {
+    "question": "The 4th house in astrology represents...",
+    "options": [
+      "Career",
+      "Home and Family",
+      "Travel",
+      "Health"
+    ],
+    "answer": 1,
+    "category": "houses"
+  },
+  {
+    "question": "How many houses are in the astrological chart?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "24"
+    ],
+    "answer": 2,
+    "category": "houses"
+  },
+  {
+    "question": "What zodiac sign is Taylor Swift?",
+    "options": [
+      "Scorpio",
+      "Sagittarius",
+      "Capricorn",
+      "Aquarius"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Beyonc\u00e9?",
+    "options": [
+      "Leo",
+      "Virgo",
+      "Libra",
+      "Scorpio"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Drake?",
+    "options": [
+      "Libra",
+      "Scorpio",
+      "Sagittarius",
+      "Capricorn"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Rihanna?",
+    "options": [
+      "Aquarius",
+      "Pisces",
+      "Aries",
+      "Taurus"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Kim Kardashian?",
+    "options": [
+      "Virgo",
+      "Libra",
+      "Scorpio",
+      "Sagittarius"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Oprah Winfrey?",
+    "options": [
+      "Capricorn",
+      "Aquarius",
+      "Pisces",
+      "Aries"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign was Albert Einstein?",
+    "options": [
+      "Aquarius",
+      "Pisces",
+      "Aries",
+      "Virgo"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Lady Gaga?",
+    "options": [
+      "Pisces",
+      "Aries",
+      "Taurus",
+      "Gemini"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is LeBron James?",
+    "options": [
+      "Sagittarius",
+      "Capricorn",
+      "Aquarius",
+      "Pisces"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Jennifer Lopez?",
+    "options": [
+      "Cancer",
+      "Leo",
+      "Virgo",
+      "Libra"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Adele?",
+    "options": [
+      "Aries",
+      "Taurus",
+      "Gemini",
+      "Cancer"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Harry Styles?",
+    "options": [
+      "Capricorn",
+      "Aquarius",
+      "Pisces",
+      "Aries"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Angelina Jolie?",
+    "options": [
+      "Taurus",
+      "Gemini",
+      "Cancer",
+      "Leo"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Barack Obama?",
+    "options": [
+      "Cancer",
+      "Leo",
+      "Virgo",
+      "Libra"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What zodiac sign is Dwayne 'The Rock' Johnson?",
+    "options": [
+      "Aries",
+      "Taurus",
+      "Gemini",
+      "Cancer"
+    ],
+    "answer": 1,
+    "category": "celebrities"
+  },
+  {
+    "question": "What is a 'Rising Sign' (Ascendant)?",
+    "options": [
+      "Your sun sign",
+      "The sign rising on the eastern horizon at birth",
+      "Your moon sign",
+      "Your partner's sign"
+    ],
+    "answer": 1,
+    "category": "advanced"
+  },
+  {
+    "question": "What does your Moon Sign represent?",
+    "options": [
+      "Career",
+      "Appearance",
+      "Inner emotions",
+      "Communication"
+    ],
+    "answer": 2,
+    "category": "advanced"
+  },
+  {
+    "question": "What does your Sun Sign represent?",
+    "options": [
+      "Emotions",
+      "Core identity",
+      "Career",
+      "Relationships"
+    ],
+    "answer": 1,
+    "category": "advanced"
+  },
+  {
+    "question": "Mercury Retrograde is known for causing...",
+    "options": [
+      "Good luck",
+      "Communication problems",
+      "Better sleep",
+      "Weight loss"
+    ],
+    "answer": 1,
+    "category": "advanced"
+  },
+  {
+    "question": "How often does Mercury go retrograde?",
+    "options": [
+      "Once a year",
+      "2-3 times a year",
+      "3-4 times a year",
+      "Every month"
+    ],
+    "answer": 2,
+    "category": "advanced"
+  },
+  {
+    "question": "What is a birth chart (natal chart)?",
+    "options": [
+      "A family tree",
+      "A map of the sky at the moment of birth",
+      "A personality test",
+      "A medical record"
+    ],
+    "answer": 1,
+    "category": "advanced"
+  },
+  {
+    "question": "What does 'cusp' mean in astrology?",
+    "options": [
+      "A lucky day",
+      "Born near the transition between two signs",
+      "A type of planet",
+      "A star constellation"
+    ],
+    "answer": 1,
+    "category": "advanced"
+  },
+  {
+    "question": "What is the zodiac?",
+    "options": [
+      "A type of boat",
+      "A band of constellations the Sun passes through",
+      "A calendar",
+      "A fortune-telling method"
+    ],
+    "answer": 1,
+    "category": "advanced"
+  },
+  {
+    "question": "What does 'transit' mean in astrology?",
+    "options": [
+      "A bus route",
+      "Current movement of planets",
+      "A personality trait",
+      "A type of chart"
+    ],
+    "answer": 1,
+    "category": "advanced"
+  },
+  {
+    "question": "Which planet's return marks a major life milestone around age 29?",
+    "options": [
+      "Jupiter",
+      "Mars",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": 2,
+    "category": "advanced"
+  },
+  {
+    "question": "What is a 'stellium' in astrology?",
+    "options": [
+      "A shooting star",
+      "3+ planets in one sign",
+      "A full moon",
+      "An eclipse"
+    ],
+    "answer": 1,
+    "category": "advanced"
+  },
+  {
+    "question": "The 'Big Three' in astrology refers to...",
+    "options": [
+      "Sun, Moon, Rising",
+      "Mars, Venus, Jupiter",
+      "Fire, Water, Earth",
+      "Past, Present, Future"
+    ],
+    "answer": 0,
+    "category": "advanced"
+  },
+  {
+    "question": "Which zodiac sign has the most US presidents?",
+    "options": [
+      "Aquarius",
+      "Scorpio",
+      "Leo",
+      "Pisces"
+    ],
+    "answer": 0,
+    "category": "fun"
+  },
+  {
+    "question": "Which zodiac sign is the rarest?",
+    "options": [
+      "Aries",
+      "Capricorn",
+      "Aquarius",
+      "Ophiuchus"
+    ],
+    "answer": 2,
+    "category": "fun"
+  },
+  {
+    "question": "The word 'zodiac' comes from a Greek word meaning...",
+    "options": [
+      "Stars",
+      "Circle of animals",
+      "Future",
+      "Light"
+    ],
+    "answer": 1,
+    "category": "fun"
+  },
+  {
+    "question": "How old is the practice of astrology?",
+    "options": [
+      "500 years",
+      "1,000 years",
+      "2,000+ years",
+      "100 years"
+    ],
+    "answer": 2,
+    "category": "fun"
+  },
+  {
+    "question": "Which sign is most likely to be a CEO, according to studies?",
+    "options": [
+      "Aries",
+      "Leo",
+      "Capricorn",
+      "Scorpio"
+    ],
+    "answer": 2,
+    "category": "fun"
+  },
+  {
+    "question": "Which sign is associated with Halloween?",
+    "options": [
+      "Libra",
+      "Scorpio",
+      "Sagittarius",
+      "Capricorn"
+    ],
+    "answer": 1,
+    "category": "fun"
+  },
+  {
+    "question": "What happens during a 'Blue Moon'?",
+    "options": [
+      "Moon turns blue",
+      "Second full moon in a calendar month",
+      "Moon disappears",
+      "Eclipse occurs"
+    ],
+    "answer": 1,
+    "category": "fun"
+  },
+  {
+    "question": "Astrology was once considered a branch of...",
+    "options": [
+      "Medicine",
+      "Astronomy",
+      "Philosophy",
+      "All of the above"
+    ],
+    "answer": 3,
+    "category": "fun"
+  },
+  {
+    "question": "Which ancient civilization is most credited with developing Western astrology?",
+    "options": [
+      "Egyptian",
+      "Chinese",
+      "Babylonian",
+      "Roman"
+    ],
+    "answer": 2,
+    "category": "fun"
+  },
+  {
+    "question": "There are actually how many constellations in the zodiac belt?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "10"
+    ],
+    "answer": 1,
+    "category": "fun"
+  },
+  {
+    "question": "What is Ophiuchus?",
+    "options": [
+      "A planet",
+      "The 13th constellation sometimes included in the zodiac",
+      "A type of eclipse",
+      "An asteroid"
+    ],
+    "answer": 1,
+    "category": "fun"
+  },
+  {
+    "question": "Which planet takes about 29 years to orbit the Sun?",
+    "options": [
+      "Jupiter",
+      "Mars",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": 2,
+    "category": "fun"
+  },
+  {
+    "question": "A solar eclipse can only happen during a...",
+    "options": [
+      "Full Moon",
+      "New Moon",
+      "Quarter Moon",
+      "Blue Moon"
+    ],
+    "answer": 1,
+    "category": "fun"
+  },
+  {
+    "question": "What does retrograde mean?",
+    "options": [
+      "Moving forward faster",
+      "Appearing to move backward",
+      "Disappearing",
+      "Growing brighter"
+    ],
+    "answer": 1,
+    "category": "fun"
+  },
+  {
+    "question": "Which zodiac sign starts on the spring equinox?",
+    "options": [
+      "Pisces",
+      "Aries",
+      "Taurus",
+      "Gemini"
+    ],
+    "answer": 1,
+    "category": "fun"
+  }
+]

@@ -1,0 +1,1374 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "number": "0",
+    "arcana": "major",
+    "keywords": [
+      "new beginnings",
+      "innocence",
+      "spontaneity",
+      "free spirit"
+    ],
+    "upright": "A fresh start awaits you. Trust in the journey and take that leap of faith. The universe supports your new adventure.",
+    "reversed": "Recklessness and poor judgment. You may be taking unnecessary risks or being naive about a situation.",
+    "element": "Air",
+    "zodiac": "Uranus",
+    "yesNo": "yes",
+    "advice": "Embrace the unknown. Sometimes the best plan is no plan at all.",
+    "suit": "major"
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "number": "I",
+    "arcana": "major",
+    "keywords": [
+      "manifestation",
+      "resourcefulness",
+      "power",
+      "inspired action"
+    ],
+    "upright": "You have all the tools and resources you need. Channel your willpower and make things happen. Your potential is limitless.",
+    "reversed": "Manipulation, poor planning, or untapped talents. You may be using your abilities for the wrong purposes.",
+    "element": "Air",
+    "zodiac": "Mercury",
+    "yesNo": "yes",
+    "advice": "Focus your energy. You are more powerful than you realize.",
+    "suit": "major"
+  },
+  {
+    "id": 2,
+    "name": "The High Priestess",
+    "number": "II",
+    "arcana": "major",
+    "keywords": [
+      "intuition",
+      "sacred knowledge",
+      "divine feminine",
+      "subconscious"
+    ],
+    "upright": "Trust your intuition. The answers you seek are within. Pay attention to your dreams and inner voice.",
+    "reversed": "Secrets, disconnected from intuition, withdrawal. You may be ignoring your inner wisdom.",
+    "element": "Water",
+    "zodiac": "Moon",
+    "yesNo": "maybe",
+    "advice": "Be still and listen. The truth reveals itself in silence.",
+    "suit": "major"
+  },
+  {
+    "id": 3,
+    "name": "The Empress",
+    "number": "III",
+    "arcana": "major",
+    "keywords": [
+      "femininity",
+      "beauty",
+      "nature",
+      "abundance"
+    ],
+    "upright": "Abundance flows to you. Nurture yourself and others. A period of growth, creativity, and sensual pleasure.",
+    "reversed": "Creative block, dependence on others, or neglecting self-care. Reconnect with nature and your body.",
+    "element": "Earth",
+    "zodiac": "Venus",
+    "yesNo": "yes",
+    "advice": "Create beauty in your life. Let yourself receive.",
+    "suit": "major"
+  },
+  {
+    "id": 4,
+    "name": "The Emperor",
+    "number": "IV",
+    "arcana": "major",
+    "keywords": [
+      "authority",
+      "structure",
+      "stability",
+      "father figure"
+    ],
+    "upright": "Take charge and establish order. Your leadership is needed. Build solid foundations for lasting success.",
+    "reversed": "Domination, excessive control, inflexibility. You may be too rigid or power-hungry.",
+    "element": "Fire",
+    "zodiac": "Aries",
+    "yesNo": "yes",
+    "advice": "Lead with wisdom, not force. Structure brings freedom.",
+    "suit": "major"
+  },
+  {
+    "id": 5,
+    "name": "The Hierophant",
+    "number": "V",
+    "arcana": "major",
+    "keywords": [
+      "spiritual wisdom",
+      "tradition",
+      "conformity",
+      "education"
+    ],
+    "upright": "Seek guidance from a teacher or mentor. Honor tradition and established systems. Spiritual growth through learning.",
+    "reversed": "Personal beliefs challenged, rebellion against tradition, new approaches needed.",
+    "element": "Earth",
+    "zodiac": "Taurus",
+    "yesNo": "maybe",
+    "advice": "Learn from those who came before, then forge your own path.",
+    "suit": "major"
+  },
+  {
+    "id": 6,
+    "name": "The Lovers",
+    "number": "VI",
+    "arcana": "major",
+    "keywords": [
+      "love",
+      "harmony",
+      "relationships",
+      "choices"
+    ],
+    "upright": "A significant relationship or choice. Alignment of values and mutual attraction. Choose with your heart.",
+    "reversed": "Disharmony, imbalance, misalignment of values. A difficult choice between head and heart.",
+    "element": "Air",
+    "zodiac": "Gemini",
+    "yesNo": "yes",
+    "advice": "Choose love. In every decision, ask what love would do.",
+    "suit": "major"
+  },
+  {
+    "id": 7,
+    "name": "The Chariot",
+    "number": "VII",
+    "arcana": "major",
+    "keywords": [
+      "willpower",
+      "determination",
+      "victory",
+      "control"
+    ],
+    "upright": "Victory through determination. You can overcome any obstacle with focused willpower. Charge ahead with confidence.",
+    "reversed": "Lack of control, direction, or aggression. You may be trying to force outcomes.",
+    "element": "Water",
+    "zodiac": "Cancer",
+    "yesNo": "yes",
+    "advice": "Stay focused on your goal. Victory requires both strength and strategy.",
+    "suit": "major"
+  },
+  {
+    "id": 8,
+    "name": "Strength",
+    "number": "VIII",
+    "arcana": "major",
+    "keywords": [
+      "courage",
+      "inner strength",
+      "compassion",
+      "patience"
+    ],
+    "upright": "True strength comes from within. Use compassion and patience to overcome challenges. Gentle persistence wins.",
+    "reversed": "Self-doubt, weakness, insecurity. You may be losing confidence or acting aggressively.",
+    "element": "Fire",
+    "zodiac": "Leo",
+    "yesNo": "yes",
+    "advice": "Be gentle with yourself and others. Kindness is the ultimate strength.",
+    "suit": "major"
+  },
+  {
+    "id": 9,
+    "name": "The Hermit",
+    "number": "IX",
+    "arcana": "major",
+    "keywords": [
+      "soul searching",
+      "introspection",
+      "inner guidance",
+      "solitude"
+    ],
+    "upright": "Take time for solitude and reflection. The answers you seek are found within. A period of spiritual growth.",
+    "reversed": "Isolation, loneliness, withdrawal. You may be retreating too much from the world.",
+    "element": "Earth",
+    "zodiac": "Virgo",
+    "yesNo": "maybe",
+    "advice": "Withdraw to recharge, but remember to return to share your light.",
+    "suit": "major"
+  },
+  {
+    "id": 10,
+    "name": "Wheel of Fortune",
+    "number": "X",
+    "arcana": "major",
+    "keywords": [
+      "good luck",
+      "karma",
+      "life cycles",
+      "destiny"
+    ],
+    "upright": "A turning point. Fate is in your favor. Embrace change \u2014 what goes around comes around in the best way.",
+    "reversed": "Bad luck, resistance to change, breaking cycles. External forces may feel beyond your control.",
+    "element": "Fire",
+    "zodiac": "Jupiter",
+    "yesNo": "yes",
+    "advice": "Accept that change is constant. Ride the wheel with grace.",
+    "suit": "major"
+  },
+  {
+    "id": 11,
+    "name": "Justice",
+    "number": "XI",
+    "arcana": "major",
+    "keywords": [
+      "fairness",
+      "truth",
+      "cause and effect",
+      "law"
+    ],
+    "upright": "Fairness and truth prevail. Legal matters resolve in your favor. Take responsibility for your actions.",
+    "reversed": "Unfairness, dishonesty, lack of accountability. The truth may be hidden.",
+    "element": "Air",
+    "zodiac": "Libra",
+    "yesNo": "maybe",
+    "advice": "Act with integrity. The truth always comes to light.",
+    "suit": "major"
+  },
+  {
+    "id": 12,
+    "name": "The Hanged Man",
+    "number": "XII",
+    "arcana": "major",
+    "keywords": [
+      "pause",
+      "surrender",
+      "letting go",
+      "new perspective"
+    ],
+    "upright": "Surrender and see things from a new angle. This pause is necessary. Let go of control to gain true understanding.",
+    "reversed": "Delays, resistance to sacrifice, stalling. You may be stuck in old patterns.",
+    "element": "Water",
+    "zodiac": "Neptune",
+    "yesNo": "maybe",
+    "advice": "Sometimes doing nothing is the most powerful action.",
+    "suit": "major"
+  },
+  {
+    "id": 13,
+    "name": "Death",
+    "number": "XIII",
+    "arcana": "major",
+    "keywords": [
+      "endings",
+      "change",
+      "transformation",
+      "transition"
+    ],
+    "upright": "A major transformation. Something must end for something new to begin. Embrace the change \u2014 rebirth awaits.",
+    "reversed": "Resistance to change, fear of endings, stagnation. You're clinging to what no longer serves you.",
+    "element": "Water",
+    "zodiac": "Scorpio",
+    "yesNo": "no",
+    "advice": "Let go gracefully. Every ending is a new beginning in disguise.",
+    "suit": "major"
+  },
+  {
+    "id": 14,
+    "name": "Temperance",
+    "number": "XIV",
+    "arcana": "major",
+    "keywords": [
+      "balance",
+      "moderation",
+      "patience",
+      "purpose"
+    ],
+    "upright": "Find your middle ground. Patience and moderation bring harmony. Blend opposing forces into something beautiful.",
+    "reversed": "Imbalance, excess, lack of patience. You may be pushing too hard in one direction.",
+    "element": "Fire",
+    "zodiac": "Sagittarius",
+    "yesNo": "yes",
+    "advice": "Balance is not standing still \u2014 it's the art of moving gracefully.",
+    "suit": "major"
+  },
+  {
+    "id": 15,
+    "name": "The Devil",
+    "number": "XV",
+    "arcana": "major",
+    "keywords": [
+      "shadow self",
+      "attachment",
+      "addiction",
+      "restriction"
+    ],
+    "upright": "Examine what holds you captive. Unhealthy attachments or addictions need addressing. You have more power than you think.",
+    "reversed": "Releasing limiting beliefs, overcoming addiction, freedom. Breaking free from chains.",
+    "element": "Earth",
+    "zodiac": "Capricorn",
+    "yesNo": "no",
+    "advice": "Recognize your chains. Awareness is the first step to freedom.",
+    "suit": "major"
+  },
+  {
+    "id": 16,
+    "name": "The Tower",
+    "number": "XVI",
+    "arcana": "major",
+    "keywords": [
+      "sudden change",
+      "upheaval",
+      "revelation",
+      "awakening"
+    ],
+    "upright": "Sudden, dramatic change. Structures built on false foundations crumble. Painful but necessary destruction leads to truth.",
+    "reversed": "Avoiding disaster, fear of change, delaying the inevitable. The tower will fall eventually.",
+    "element": "Fire",
+    "zodiac": "Mars",
+    "yesNo": "no",
+    "advice": "When the tower falls, look for the light in the rubble.",
+    "suit": "major"
+  },
+  {
+    "id": 17,
+    "name": "The Star",
+    "number": "XVII",
+    "arcana": "major",
+    "keywords": [
+      "hope",
+      "faith",
+      "purpose",
+      "renewal"
+    ],
+    "upright": "Hope and healing after the storm. Your faith is renewed. You're exactly where you're meant to be. Wish upon this star.",
+    "reversed": "Lack of faith, despair, disconnection from purpose. Don't lose hope.",
+    "element": "Air",
+    "zodiac": "Aquarius",
+    "yesNo": "yes",
+    "advice": "Keep your eyes on the stars. Hope is always available to you.",
+    "suit": "major"
+  },
+  {
+    "id": 18,
+    "name": "The Moon",
+    "number": "XVIII",
+    "arcana": "major",
+    "keywords": [
+      "illusion",
+      "fear",
+      "anxiety",
+      "subconscious"
+    ],
+    "upright": "Things are not what they seem. Trust your intuition to navigate through uncertainty. Face your fears.",
+    "reversed": "Release of fear, clarity emerging, truth revealed. The fog is lifting.",
+    "element": "Water",
+    "zodiac": "Pisces",
+    "yesNo": "no",
+    "advice": "Walk through the darkness with courage. Dawn is coming.",
+    "suit": "major"
+  },
+  {
+    "id": 19,
+    "name": "The Sun",
+    "number": "XIX",
+    "arcana": "major",
+    "keywords": [
+      "positivity",
+      "fun",
+      "warmth",
+      "success",
+      "vitality"
+    ],
+    "upright": "Joy, success, and abundance! The sun shines on you. Celebrate life and share your warmth with others.",
+    "reversed": "Temporary sadness, lack of clarity, diminished joy. The sun is still there behind the clouds.",
+    "element": "Fire",
+    "zodiac": "Sun",
+    "yesNo": "yes",
+    "advice": "Shine your light. Your joy inspires everyone around you.",
+    "suit": "major"
+  },
+  {
+    "id": 20,
+    "name": "Judgement",
+    "number": "XX",
+    "arcana": "major",
+    "keywords": [
+      "judgement",
+      "rebirth",
+      "inner calling",
+      "absolution"
+    ],
+    "upright": "A spiritual awakening. Answer your higher calling. Reflect on your past to make better future decisions.",
+    "reversed": "Self-doubt, refusal of self-examination, ignoring the call. Don't avoid honest self-reflection.",
+    "element": "Fire",
+    "zodiac": "Pluto",
+    "yesNo": "yes",
+    "advice": "Rise to your calling. You are being asked to become who you truly are.",
+    "suit": "major"
+  },
+  {
+    "id": 21,
+    "name": "The World",
+    "number": "XXI",
+    "arcana": "major",
+    "keywords": [
+      "completion",
+      "achievement",
+      "travel",
+      "wholeness"
+    ],
+    "upright": "Completion and fulfillment! A major cycle ends in triumph. You've achieved what you set out to do. Celebrate!",
+    "reversed": "Incomplete, shortcuts, delays in completion. You're almost there \u2014 don't give up now.",
+    "element": "Earth",
+    "zodiac": "Saturn",
+    "yesNo": "yes",
+    "advice": "Honor your journey. You've earned this moment of wholeness.",
+    "suit": "major"
+  },
+  {
+    "name": "Ace of Wands",
+    "keywords": [
+      "inspiration",
+      "new opportunity",
+      "growth"
+    ],
+    "upright": "A spark of creative inspiration. A new opportunity ignites your passion. Say yes!",
+    "reversed": "Delays, lack of motivation, missed opportunity.",
+    "yesNo": "yes",
+    "advice": "Strike while the iron is hot.",
+    "id": 22,
+    "number": "1",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Two of Wands",
+    "keywords": [
+      "planning",
+      "future vision",
+      "decisions"
+    ],
+    "upright": "You're ready to plan your next big move. The world is yours \u2014 dream big and take action.",
+    "reversed": "Fear of the unknown, lack of planning, playing it safe.",
+    "yesNo": "maybe",
+    "advice": "Dream bigger than your comfort zone allows.",
+    "id": 23,
+    "number": "2",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Three of Wands",
+    "keywords": [
+      "expansion",
+      "foresight",
+      "overseas"
+    ],
+    "upright": "Your plans are taking shape. Look beyond your immediate surroundings for opportunity.",
+    "reversed": "Delays in plans, frustration with pace, limited thinking.",
+    "yesNo": "yes",
+    "advice": "Patience. Your ships are coming in.",
+    "id": 24,
+    "number": "3",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Four of Wands",
+    "keywords": [
+      "celebration",
+      "harmony",
+      "homecoming"
+    ],
+    "upright": "Celebration time! A milestone achieved. Gather your loved ones and enjoy this moment.",
+    "reversed": "Lack of harmony at home, feeling unwelcome, personal celebration delayed.",
+    "yesNo": "yes",
+    "advice": "Celebrate every victory, no matter how small.",
+    "id": 25,
+    "number": "4",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Five of Wands",
+    "keywords": [
+      "conflict",
+      "competition",
+      "tension"
+    ],
+    "upright": "Healthy competition pushes you to be better. Expect some disagreements but they lead to growth.",
+    "reversed": "Avoiding conflict, inner conflict, finding common ground.",
+    "yesNo": "no",
+    "advice": "Channel competitive energy into growth, not destruction.",
+    "id": 26,
+    "number": "5",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Six of Wands",
+    "keywords": [
+      "victory",
+      "success",
+      "recognition"
+    ],
+    "upright": "Public recognition and victory! Your hard work pays off. Enjoy the spotlight you've earned.",
+    "reversed": "Ego, fall from grace, lack of recognition.",
+    "yesNo": "yes",
+    "advice": "Accept praise gracefully, and remember to lift others up.",
+    "id": 27,
+    "number": "6",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Seven of Wands",
+    "keywords": [
+      "challenge",
+      "perseverance",
+      "defense"
+    ],
+    "upright": "Stand your ground. You're being challenged but you have the high ground. Defend your position.",
+    "reversed": "Giving up, overwhelmed, admitting defeat.",
+    "yesNo": "maybe",
+    "advice": "You've earned your place. Don't let anyone push you off the hill.",
+    "id": 28,
+    "number": "7",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Eight of Wands",
+    "keywords": [
+      "speed",
+      "movement",
+      "swift action"
+    ],
+    "upright": "Things are moving fast! Messages, travel, and rapid progress. Hold on and enjoy the ride.",
+    "reversed": "Delays, frustration, slowing down. Patience is needed.",
+    "yesNo": "yes",
+    "advice": "When the wind is at your back, sail!",
+    "id": 29,
+    "number": "8",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Nine of Wands",
+    "keywords": [
+      "resilience",
+      "courage",
+      "persistence"
+    ],
+    "upright": "You're battle-worn but still standing. One more push and you'll reach the finish line. Don't give up now.",
+    "reversed": "Exhaustion, giving up, paranoia. You need rest before the final push.",
+    "yesNo": "maybe",
+    "advice": "You're closer than you think. Rest, then charge.",
+    "id": 30,
+    "number": "9",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Ten of Wands",
+    "keywords": [
+      "burden",
+      "responsibility",
+      "hard work"
+    ],
+    "upright": "You're carrying too much. Delegate or drop what's not essential. Success shouldn't crush you.",
+    "reversed": "Learning to delegate, releasing burden, finding easier ways.",
+    "yesNo": "no",
+    "advice": "Put down what isn't yours to carry.",
+    "id": 31,
+    "number": "10",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Page of Wands",
+    "keywords": [
+      "exploration",
+      "excitement",
+      "discovery"
+    ],
+    "upright": "A new adventure calls! Explore with childlike curiosity and enthusiasm.",
+    "reversed": "Lack of direction, procrastination, creating problems.",
+    "yesNo": "yes",
+    "advice": "Follow your curiosity wherever it leads.",
+    "id": 32,
+    "number": "Page",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Knight of Wands",
+    "keywords": [
+      "energy",
+      "passion",
+      "adventure"
+    ],
+    "upright": "Charge forward with passion and confidence. An exciting journey or project begins.",
+    "reversed": "Hasty decisions, scattered energy, recklessness.",
+    "yesNo": "yes",
+    "advice": "Channel your fire with purpose, not just passion.",
+    "id": 33,
+    "number": "Knight",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Queen of Wands",
+    "keywords": [
+      "courage",
+      "confidence",
+      "independence"
+    ],
+    "upright": "Own your power with grace. You inspire others with your confidence and warmth.",
+    "reversed": "Self-doubt, jealousy, demanding behavior.",
+    "yesNo": "yes",
+    "advice": "Lead with warmth and watch the world follow.",
+    "id": 34,
+    "number": "Queen",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "King of Wands",
+    "keywords": [
+      "leadership",
+      "vision",
+      "entrepreneurship"
+    ],
+    "upright": "A natural leader who turns vision into reality. Take bold action and inspire others.",
+    "reversed": "Impulsive, overbearing, unrealistic expectations.",
+    "yesNo": "yes",
+    "advice": "True leadership is service, not dominance.",
+    "id": 35,
+    "number": "King",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "Fire"
+  },
+  {
+    "name": "Ace of Cups",
+    "keywords": [
+      "new love",
+      "compassion",
+      "creativity"
+    ],
+    "upright": "An overflow of love and emotion. New relationships, deepened connections, or creative inspiration.",
+    "reversed": "Blocked emotions, emptiness, repressed feelings.",
+    "yesNo": "yes",
+    "advice": "Open your heart. Love is trying to reach you.",
+    "id": 36,
+    "number": "1",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Two of Cups",
+    "keywords": [
+      "partnership",
+      "unity",
+      "mutual attraction"
+    ],
+    "upright": "A beautiful connection. Mutual love, respect, and attraction. A significant partnership forms.",
+    "reversed": "Imbalance in relationship, breakup, miscommunication.",
+    "yesNo": "yes",
+    "advice": "Great relationships require equal giving and receiving.",
+    "id": 37,
+    "number": "2",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Three of Cups",
+    "keywords": [
+      "celebration",
+      "friendship",
+      "community"
+    ],
+    "upright": "Celebrate with your tribe! Friendship, community, and joyful gatherings bring happiness.",
+    "reversed": "Gossip, overindulgence, isolation from friends.",
+    "yesNo": "yes",
+    "advice": "Joy is multiplied when shared with others.",
+    "id": 38,
+    "number": "3",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Four of Cups",
+    "keywords": [
+      "contemplation",
+      "apathy",
+      "re-evaluation"
+    ],
+    "upright": "You may be overlooking an opportunity while lost in thought. Look around \u2014 a gift awaits.",
+    "reversed": "Awareness, acceptance, moving forward.",
+    "yesNo": "no",
+    "advice": "Gratitude opens the door to what you've been missing.",
+    "id": 39,
+    "number": "4",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Five of Cups",
+    "keywords": [
+      "loss",
+      "regret",
+      "disappointment"
+    ],
+    "upright": "Grief and disappointment. It's okay to mourn, but don't forget the cups still standing.",
+    "reversed": "Acceptance, moving on, finding peace.",
+    "yesNo": "no",
+    "advice": "Turn around. There is still so much left to cherish.",
+    "id": 40,
+    "number": "5",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Six of Cups",
+    "keywords": [
+      "nostalgia",
+      "childhood",
+      "innocence"
+    ],
+    "upright": "Happy memories and nostalgia. Reconnect with your inner child or someone from your past.",
+    "reversed": "Living in the past, unrealistic memories, moving forward.",
+    "yesNo": "yes",
+    "advice": "Honor the past, but live in the present.",
+    "id": 41,
+    "number": "6",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Seven of Cups",
+    "keywords": [
+      "choices",
+      "fantasy",
+      "illusion"
+    ],
+    "upright": "Many options before you, some real and some illusions. Discern what truly matters before choosing.",
+    "reversed": "Clarity, making a choice, focusing priorities.",
+    "yesNo": "maybe",
+    "advice": "Not every shiny thing is gold. Choose wisely.",
+    "id": 42,
+    "number": "7",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Eight of Cups",
+    "keywords": [
+      "walking away",
+      "disillusionment",
+      "seeking truth"
+    ],
+    "upright": "It's time to walk away from what no longer fulfills you. Seek deeper meaning.",
+    "reversed": "Fear of change, staying in a bad situation, aimless drifting.",
+    "yesNo": "no",
+    "advice": "The bravest thing is walking away from what isn't working.",
+    "id": 43,
+    "number": "8",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Nine of Cups",
+    "keywords": [
+      "wishes fulfilled",
+      "satisfaction",
+      "contentment"
+    ],
+    "upright": "The wish card! Your dreams are coming true. Deep emotional satisfaction and contentment.",
+    "reversed": "Greed, dissatisfaction despite having enough, inner emptiness.",
+    "yesNo": "yes",
+    "advice": "Make a wish. The universe is listening.",
+    "id": 44,
+    "number": "9",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Ten of Cups",
+    "keywords": [
+      "happiness",
+      "family",
+      "harmony"
+    ],
+    "upright": "Ultimate emotional fulfillment. Family harmony, lasting love, and true happiness.",
+    "reversed": "Family conflict, broken home, unrealistic expectations of happiness.",
+    "yesNo": "yes",
+    "advice": "This is what it all looks like when it comes together.",
+    "id": 45,
+    "number": "10",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Page of Cups",
+    "keywords": [
+      "creative opportunity",
+      "intuition",
+      "curiosity"
+    ],
+    "upright": "A message of love or creative inspiration arrives. Stay open to emotional surprises.",
+    "reversed": "Emotional immaturity, creative block, oversensitivity.",
+    "yesNo": "yes",
+    "advice": "Stay open to magic. It often arrives unexpectedly.",
+    "id": 46,
+    "number": "Page",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Knight of Cups",
+    "keywords": [
+      "romance",
+      "charm",
+      "imagination"
+    ],
+    "upright": "A romantic proposal or creative pursuit calls you forward. Follow your heart.",
+    "reversed": "Moodiness, unrealistic expectations, jealousy.",
+    "yesNo": "yes",
+    "advice": "Let your heart lead, but bring your head along.",
+    "id": 47,
+    "number": "Knight",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Queen of Cups",
+    "keywords": [
+      "compassion",
+      "calm",
+      "intuitive"
+    ],
+    "upright": "Deep empathy and emotional intelligence guide you. Trust your feelings and nurture others.",
+    "reversed": "Emotional insecurity, codependency, martyrdom.",
+    "yesNo": "yes",
+    "advice": "Your sensitivity is a superpower, not a weakness.",
+    "id": 48,
+    "number": "Queen",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "King of Cups",
+    "keywords": [
+      "emotional balance",
+      "diplomacy",
+      "compassion"
+    ],
+    "upright": "Master of emotions. You balance heart and mind with wisdom and calm.",
+    "reversed": "Emotional manipulation, moodiness, volatility.",
+    "yesNo": "yes",
+    "advice": "Feel everything, but let wisdom guide your response.",
+    "id": 49,
+    "number": "King",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "Water"
+  },
+  {
+    "name": "Ace of Swords",
+    "keywords": [
+      "clarity",
+      "breakthrough",
+      "new idea"
+    ],
+    "upright": "A mental breakthrough! Clarity cuts through confusion. A powerful new idea or truth emerges.",
+    "reversed": "Confusion, misinformation, chaos of thought.",
+    "yesNo": "yes",
+    "advice": "The truth will set you free. Seek clarity above comfort.",
+    "id": 50,
+    "number": "1",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Two of Swords",
+    "keywords": [
+      "difficult choices",
+      "indecision",
+      "stalemate"
+    ],
+    "upright": "A difficult decision weighs on you. Remove the blindfold and face the truth to move forward.",
+    "reversed": "Information overload, overwhelm, lesser of two evils.",
+    "yesNo": "maybe",
+    "advice": "Avoiding a decision is itself a decision. Choose.",
+    "id": 51,
+    "number": "2",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Three of Swords",
+    "keywords": [
+      "heartbreak",
+      "sorrow",
+      "grief"
+    ],
+    "upright": "Heartbreak and emotional pain. Allow yourself to grieve, but know this pain will pass.",
+    "reversed": "Recovery, forgiveness, moving past grief.",
+    "yesNo": "no",
+    "advice": "Even broken hearts heal. Give yourself time and grace.",
+    "id": 52,
+    "number": "3",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Four of Swords",
+    "keywords": [
+      "rest",
+      "recovery",
+      "contemplation"
+    ],
+    "upright": "Rest and recharge. You've been through a lot. Take time to heal before your next battle.",
+    "reversed": "Restlessness, burnout, refusal to rest.",
+    "yesNo": "maybe",
+    "advice": "Rest is not laziness. It's preparation for what's next.",
+    "id": 53,
+    "number": "4",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Five of Swords",
+    "keywords": [
+      "conflict",
+      "defeat",
+      "win at all costs"
+    ],
+    "upright": "A hollow victory or painful defeat. Ask yourself: is winning worth the cost?",
+    "reversed": "Reconciliation, making amends, moving past conflict.",
+    "yesNo": "no",
+    "advice": "Choose your battles wisely. Not every fight is worth winning.",
+    "id": 54,
+    "number": "5",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Six of Swords",
+    "keywords": [
+      "transition",
+      "moving on",
+      "calmer waters"
+    ],
+    "upright": "Moving away from turbulence toward calmer waters. A necessary transition brings relief.",
+    "reversed": "Resistance to change, unresolved baggage, stuck.",
+    "yesNo": "yes",
+    "advice": "Leave the storm behind. Calmer waters await.",
+    "id": 55,
+    "number": "6",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Seven of Swords",
+    "keywords": [
+      "deception",
+      "strategy",
+      "stealth"
+    ],
+    "upright": "Someone may not be playing fair \u2014 possibly even you. Review your strategy and ethics.",
+    "reversed": "Coming clean, confession, getting caught.",
+    "yesNo": "no",
+    "advice": "Shortcuts built on deception always cost more in the end.",
+    "id": 56,
+    "number": "7",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Eight of Swords",
+    "keywords": [
+      "restriction",
+      "victim mentality",
+      "self-imposed limits"
+    ],
+    "upright": "You feel trapped, but the prison is of your own making. You have more freedom than you realize.",
+    "reversed": "Self-acceptance, new perspective, freedom of thought.",
+    "yesNo": "no",
+    "advice": "Open your eyes. The cage door has always been open.",
+    "id": 57,
+    "number": "8",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Nine of Swords",
+    "keywords": [
+      "anxiety",
+      "worry",
+      "nightmares"
+    ],
+    "upright": "Anxiety and worry keep you up at night. Most of your fears won't come true. Seek support.",
+    "reversed": "Hope, reaching out, overcoming anxiety.",
+    "yesNo": "no",
+    "advice": "Talk to someone. Worry shared is worry halved.",
+    "id": 58,
+    "number": "9",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Ten of Swords",
+    "keywords": [
+      "ending",
+      "rock bottom",
+      "betrayal"
+    ],
+    "upright": "Rock bottom. A painful ending. But look \u2014 the sun is rising. The worst is over.",
+    "reversed": "Recovery, regeneration, resisting ending.",
+    "yesNo": "no",
+    "advice": "When you hit rock bottom, the only way is up.",
+    "id": 59,
+    "number": "10",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Page of Swords",
+    "keywords": [
+      "curiosity",
+      "new ideas",
+      "communication"
+    ],
+    "upright": "A curious, sharp mind seeks truth. New ideas and communication breakthroughs.",
+    "reversed": "Gossip, hurtful words, deception.",
+    "yesNo": "maybe",
+    "advice": "Ask questions, but be kind with the answers you find.",
+    "id": 60,
+    "number": "Page",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Knight of Swords",
+    "keywords": [
+      "action",
+      "ambition",
+      "drive"
+    ],
+    "upright": "Charge forward with intellectual clarity and determination. Swift action brings results.",
+    "reversed": "Impulsive, all talk no action, aggressive.",
+    "yesNo": "yes",
+    "advice": "Think, then act. Speed without direction is just chaos.",
+    "id": 61,
+    "number": "Knight",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Queen of Swords",
+    "keywords": [
+      "clear boundaries",
+      "direct communication",
+      "independence"
+    ],
+    "upright": "Speak your truth with clarity and compassion. Set boundaries without guilt.",
+    "reversed": "Cold, bitter, overly critical.",
+    "yesNo": "maybe",
+    "advice": "Honesty delivered with kindness is the sharpest sword.",
+    "id": 62,
+    "number": "Queen",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "King of Swords",
+    "keywords": [
+      "intellectual power",
+      "authority",
+      "truth"
+    ],
+    "upright": "Make decisions with logic, fairness, and moral authority. Your judgment is sound.",
+    "reversed": "Manipulation, tyranny, abuse of power.",
+    "yesNo": "maybe",
+    "advice": "Power without compassion is tyranny. Lead with both.",
+    "id": 63,
+    "number": "King",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "Air"
+  },
+  {
+    "name": "Ace of Pentacles",
+    "keywords": [
+      "opportunity",
+      "prosperity",
+      "new venture"
+    ],
+    "upright": "A golden opportunity for financial growth or new career path. Plant this seed wisely.",
+    "reversed": "Missed opportunity, poor planning, lack of foresight.",
+    "yesNo": "yes",
+    "advice": "This seed can grow into an empire. Tend it with care.",
+    "id": 64,
+    "number": "1",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Two of Pentacles",
+    "keywords": [
+      "balance",
+      "adaptability",
+      "juggling"
+    ],
+    "upright": "Juggling multiple priorities with skill. Stay flexible and maintain balance.",
+    "reversed": "Overwhelm, disorganization, overcommitted.",
+    "yesNo": "maybe",
+    "advice": "You can juggle anything, but not everything at once.",
+    "id": 65,
+    "number": "2",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Three of Pentacles",
+    "keywords": [
+      "teamwork",
+      "collaboration",
+      "craftsmanship"
+    ],
+    "upright": "Teamwork makes the dream work. Your skills are valued. Collaborate for greater success.",
+    "reversed": "Poor teamwork, disorganization, working alone.",
+    "yesNo": "yes",
+    "advice": "No masterpiece was ever created in isolation.",
+    "id": 66,
+    "number": "3",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Four of Pentacles",
+    "keywords": [
+      "security",
+      "control",
+      "conservation"
+    ],
+    "upright": "Financial stability through careful management. But don't hold on so tight you can't enjoy life.",
+    "reversed": "Generosity, releasing control, spending freely.",
+    "yesNo": "maybe",
+    "advice": "Security is important, but don't let it become a prison.",
+    "id": 67,
+    "number": "4",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Five of Pentacles",
+    "keywords": [
+      "financial loss",
+      "poverty",
+      "hardship"
+    ],
+    "upright": "Financial or spiritual hardship. You're not alone \u2014 look for the help that's available to you.",
+    "reversed": "Recovery, finding help, spiritual growth through hardship.",
+    "yesNo": "no",
+    "advice": "Hard times don't last. Look for the door that's always open.",
+    "id": 68,
+    "number": "5",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Six of Pentacles",
+    "keywords": [
+      "generosity",
+      "charity",
+      "giving and receiving"
+    ],
+    "upright": "A time of giving and receiving. Share your abundance or accept help graciously.",
+    "reversed": "Strings attached, one-sided generosity, debt.",
+    "yesNo": "yes",
+    "advice": "Give what you can, receive what you need.",
+    "id": 69,
+    "number": "6",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Seven of Pentacles",
+    "keywords": [
+      "patience",
+      "long-term view",
+      "investment"
+    ],
+    "upright": "Your investments are growing. Be patient \u2014 the harvest is coming. Evaluate your progress.",
+    "reversed": "Impatience, poor returns, wasted effort.",
+    "yesNo": "maybe",
+    "advice": "The best things take time. Keep watering your garden.",
+    "id": 70,
+    "number": "7",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Eight of Pentacles",
+    "keywords": [
+      "diligence",
+      "skill development",
+      "mastery"
+    ],
+    "upright": "Dedicated practice leads to mastery. Keep honing your craft. Hard work pays off.",
+    "reversed": "Perfectionism, lack of motivation, sloppy work.",
+    "yesNo": "yes",
+    "advice": "Master your craft one day at a time.",
+    "id": 71,
+    "number": "8",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Nine of Pentacles",
+    "keywords": [
+      "abundance",
+      "luxury",
+      "self-sufficiency"
+    ],
+    "upright": "You've built something beautiful through your own effort. Enjoy the fruits of your labor.",
+    "reversed": "Financial setback, over-reliance on others, superficiality.",
+    "yesNo": "yes",
+    "advice": "You earned this abundance. Savor every moment.",
+    "id": 72,
+    "number": "9",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Ten of Pentacles",
+    "keywords": [
+      "wealth",
+      "legacy",
+      "family"
+    ],
+    "upright": "Lasting wealth, family security, and legacy. You've built something that endures beyond you.",
+    "reversed": "Family disputes over money, loss of legacy, financial failure.",
+    "yesNo": "yes",
+    "advice": "True wealth is what you leave behind for others.",
+    "id": 73,
+    "number": "10",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Page of Pentacles",
+    "keywords": [
+      "ambition",
+      "desire to learn",
+      "new financial opportunity"
+    ],
+    "upright": "A promising new venture or learning opportunity. Stay curious and work hard.",
+    "reversed": "Lack of progress, procrastination, missed opportunities.",
+    "yesNo": "yes",
+    "advice": "Every empire started with a single determined step.",
+    "id": 74,
+    "number": "Page",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Knight of Pentacles",
+    "keywords": [
+      "hard work",
+      "routine",
+      "reliability"
+    ],
+    "upright": "Steady, methodical progress. Not glamorous, but incredibly effective. Keep going.",
+    "reversed": "Laziness, boredom, stagnation.",
+    "yesNo": "yes",
+    "advice": "Slow and steady doesn't just finish \u2014 it wins.",
+    "id": 75,
+    "number": "Knight",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "Queen of Pentacles",
+    "keywords": [
+      "nurturing",
+      "practical",
+      "financial security"
+    ],
+    "upright": "Create a warm, abundant home. You balance practicality with nurturing beautifully.",
+    "reversed": "Work-life imbalance, neglecting self, financial insecurity.",
+    "yesNo": "yes",
+    "advice": "Tend your garden \u2014 both the one outside and the one within.",
+    "id": 76,
+    "number": "Queen",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  },
+  {
+    "name": "King of Pentacles",
+    "keywords": [
+      "wealth",
+      "business",
+      "security",
+      "discipline"
+    ],
+    "upright": "Financial mastery and material abundance. Lead with discipline and generosity.",
+    "reversed": "Greed, materialism, poor financial management.",
+    "yesNo": "yes",
+    "advice": "Build an empire, but don't forget why you started.",
+    "id": 77,
+    "number": "King",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "Earth"
+  }
+]

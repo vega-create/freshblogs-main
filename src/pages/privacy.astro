@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteConfig } from '../../site.config';
+
+const title = 'Privacy Policy';
+const description = 'FreshBlogs privacy policy. Learn how we handle your data, cookies, and third-party services.';
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <nav class="text-sm text-gray-400 mb-8">
+      <a href="/" class="hover:text-white">Home</a>
+      <span class="mx-2">/</span>
+      <span class="text-white">Privacy Policy</span>
+    </nav>
+
+    <h1 class="text-3xl font-display font-bold mb-2">Privacy Policy</h1>
+    <p class="text-sm text-gray-400 mb-8">Last updated: February 2026</p>
+
+    <div class="prose prose-invert max-w-none space-y-6 text-gray-300">
+      <h2 class="text-xl font-bold text-white">Who We Are</h2>
+      <p>FreshBlogs ({siteConfig.url}) is a free content and tools website. We are committed to protecting your privacy and being transparent about the data we collect.</p>
+
+      <h2 class="text-xl font-bold text-white">Information We Collect</h2>
+      <p>We do not require account registration. We collect only:</p>
+      <p><strong>Analytics Data:</strong> We use Google Analytics 4 to understand how visitors use our site. This includes pages visited, time on site, browser type, and approximate location. This data is anonymized and aggregated.</p>
+      <p><strong>Local Storage:</strong> Some of our interactive tools save your preferences and results locally in your browser using localStorage. This data never leaves your device and is not transmitted to our servers.</p>
+
+      <h2 class="text-xl font-bold text-white">Third-Party Services</h2>
+      <p><strong>Google AdSense:</strong> We display ads through Google AdSense. Google may use cookies to serve personalized ads based on your browsing history. You can opt out of personalized advertising at <a href="https://www.google.com/settings/ads" class="text-primary hover:underline" target="_blank" rel="noopener">Google Ad Settings</a>.</p>
+      <p><strong>Google Analytics:</strong> We use GA4 for website analytics. You can opt out using the <a href="https://tools.google.com/dlpage/gaoptout" class="text-primary hover:underline" target="_blank" rel="noopener">Google Analytics Opt-out Browser Add-on</a>.</p>
+      <p><strong>Google Fonts:</strong> We load fonts from Google Fonts, which may collect your IP address. See <a href="https://policies.google.com/privacy" class="text-primary hover:underline" target="_blank" rel="noopener">Google's Privacy Policy</a>.</p>
+
+      <h2 class="text-xl font-bold text-white">Cookies</h2>
+      <p>We use cookies primarily through third-party services (Google AdSense and Google Analytics). You can manage cookie preferences through your browser settings.</p>
+
+      <h2 class="text-xl font-bold text-white">Children's Privacy</h2>
+      <p>Our website is not directed at children under 13. We do not knowingly collect personal information from children.</p>
+
+      <h2 class="text-xl font-bold text-white">Your Rights</h2>
+      <p>Under GDPR and CCPA, you have the right to access, correct, or delete your personal data. Since we don't collect personal data beyond analytics, there is typically nothing to delete. For any requests, please contact us.</p>
+
+      <h2 class="text-xl font-bold text-white">Changes to This Policy</h2>
+      <p>We may update this policy from time to time. Changes will be posted on this page with an updated date.</p>
+
+      <h2 class="text-xl font-bold text-white">Contact</h2>
+      <p>If you have questions about this privacy policy, please visit our <a href="/contact/" class="text-primary hover:underline">contact page</a>.</p>
+    </div>
+  </div>
+</BaseLayout>

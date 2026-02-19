@@ -1,0 +1,67 @@
+---
+import { siteConfig } from '../../site.config';
+
+export interface Props {
+  currentSite: string;
+  links?: { site: string; slug: string; text: string }[];
+}
+
+const { currentSite, links = [] } = Astro.props;
+
+// If no explicit links, show related sites automatically
+const relatedMap: Record<string, string[]> = {
+  astrology: ['tarot', 'numerology', 'personality', 'pets'],
+  tarot: ['astrology', 'numerology', 'dreams', 'manifest'],
+  numerology: ['astrology', 'tarot', 'personality'],
+  dreams: ['tarot', 'manifest', 'personality', 'quotes'],
+  personality: ['astrology', 'quotes', 'pets', 'manifest'],
+  manifest: ['quotes', 'dreams', 'personality', 'astrology'],
+  quotes: ['manifest', 'personality', 'dreams'],
+  pets: ['personality', 'astrology', 'garden'],
+  recipes: ['garden', 'diy', 'travel'],
+  ai: ['personality', 'quotes', 'travel'],
+  travel: ['recipes', 'ai', 'quotes'],
+  diy: ['garden', 'recipes', 'ai'],
+  garden: ['diy', 'pets', 'recipes'],
+};
+
+const relatedSlugs = relatedMap[currentSite] || [];
+const relatedSites = siteConfig.sites.filter((s) => relatedSlugs.includes(s.slug));
+---
+
+{(links.length > 0 || relatedSites.length > 0) && (
+  <div class="mt-8 p-4 bg-white/5 rounded-xl border border-white/10">
+    <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-3">
+      Explore More
+    </h3>
+
+    {links.length > 0 && (
+      <ul class="space-y-2 mb-4">
+        {links.map((link) => {
+          const site = siteConfig.sites.find((s) => s.slug === link.site);
+          return (
+            <li>
+              <a
+                href={`/${link.site}/${link.slug}`}
+                class="text-accent hover:text-white transition-colors"
+              >
+                {site?.emoji} {link.text}
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    )}
+
+    <div class="flex flex-wrap gap-2">
+      {relatedSites.map((site) => (
+        <a
+          href={`/${site.slug}/`}
+          class="inline-flex items-center gap-1 px-3 py-1.5 bg-white/5 hover:bg-white/10 rounded-full text-sm transition-colors"
+        >
+          {site.emoji} {site.name}
+        </a>
+      ))}
+    </div>
+  </div>
+)}
