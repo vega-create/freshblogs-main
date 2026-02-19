@@ -1,0 +1,83 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import CrossSiteLinks from '../../../components/CrossSiteLinks.astro';
+import { siteConfig } from '../../../../site.config';
+
+const posts = await getCollection('astrology-blog');
+const sortedPosts = posts.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+// Group by category
+const categories: Record<string, typeof posts> = {};
+sortedPosts.forEach((post) => {
+  const cat = post.data.category || 'general';
+  if (!categories[cat]) categories[cat] = [];
+  categories[cat].push(post);
+});
+
+const categoryLabels: Record<string, string> = {
+  compatibility: '💕 Zodiac Compatibility',
+  knowledge: '📚 Astrology Knowledge',
+  trending: '🔥 Trending Topics',
+  general: '📝 Articles',
+};
+
+const title = 'Astrology Blog — Zodiac Guides, Compatibility & More';
+const description = 'Expert astrology articles covering zodiac compatibility, rising signs, birth charts, and more. Free guides updated weekly.';
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
+    { '@type': 'ListItem', position: 2, name: 'Astrology', item: `${siteConfig.url}/astrology/` },
+    { '@type': 'ListItem', position: 3, name: 'Blog', item: `${siteConfig.url}/astrology/blog/` },
+  ],
+};
+
+const formatDate = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+---
+
+<BaseLayout title={title} description={description} jsonLd={breadcrumbLd}>
+  <div class="max-w-4xl mx-auto px-4 py-12">
+    <!-- Breadcrumb -->
+    <nav class="text-sm text-gray-400 mb-8">
+      <a href="/" class="hover:text-white">Home</a>
+      <span class="mx-2">/</span>
+      <a href="/astrology/" class="hover:text-white">Astrology</a>
+      <span class="mx-2">/</span>
+      <span class="text-white">Blog</span>
+    </nav>
+
+    <h1 class="text-3xl md:text-4xl font-display font-bold mb-3">Astrology Blog</h1>
+    <p class="text-gray-400 mb-10">{sortedPosts.length} expert articles on zodiac signs, compatibility, and cosmic wisdom.</p>
+
+    <!-- Articles by Category -->
+    {Object.entries(categories).map(([cat, catPosts]) => (
+      <section class="mb-12">
+        <h2 class="text-xl font-bold mb-4">{categoryLabels[cat] || cat}</h2>
+        <div class="grid gap-3">
+          {catPosts.map((post) => (
+            <a
+              href={`/astrology/blog/${post.id}/`}
+              class="group flex justify-between items-center gap-4 p-4 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors"
+            >
+              <div>
+                <h3 class="font-semibold text-white group-hover:text-primary transition-colors">
+                  {post.data.title}
+                </h3>
+                <p class="text-sm text-gray-400 mt-1 line-clamp-1">{post.data.description}</p>
+              </div>
+              <time class="text-xs text-gray-500 whitespace-nowrap flex-shrink-0">
+                {formatDate(post.data.publishDate)}
+              </time>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <!-- Cross-site links -->
+    <CrossSiteLinks currentSite="astrology" />
+  </div>
+</BaseLayout>

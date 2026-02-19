@@ -1,0 +1,247 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ShareButtons from '../../../components/ShareButtons.astro';
+import CrossSiteLinks from '../../../components/CrossSiteLinks.astro';
+import { siteConfig } from '../../../../site.config';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('astrology-blog');
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content, headings } = await render(post);
+const { title, description, publishDate, updatedDate, author, tags, faq, image, imageAlt, category } = post.data;
+
+const authorData = siteConfig.authors.find((a) => a.slug.includes(author)) || siteConfig.authors[0];
+const pageUrl = `${siteConfig.url}/astrology/blog/${post.id}/`;
+const publishDateISO = publishDate.toISOString();
+const updatedDateISO = updatedDate ? updatedDate.toISOString() : publishDateISO;
+
+// TOC - only h2 and h3
+const tocItems = headings.filter((h) => h.depth === 2 || h.depth === 3);
+
+// Article Schema
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description: description,
+  image: image ? `${siteConfig.url}${image}` : undefined,
+  datePublished: publishDateISO,
+  dateModified: updatedDateISO,
+  author: {
+    '@type': 'Person',
+    name: authorData.name,
+    url: `${siteConfig.url}/about/${authorData.slug}/`,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: siteConfig.name,
+    url: siteConfig.url,
+  },
+  mainEntityOfPage: pageUrl,
+};
+
+// Breadcrumb Schema
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
+    { '@type': 'ListItem', position: 2, name: 'Astrology', item: `${siteConfig.url}/astrology/` },
+    { '@type': 'ListItem', position: 3, name: 'Blog', item: `${siteConfig.url}/astrology/blog/` },
+    { '@type': 'ListItem', position: 4, name: title, item: pageUrl },
+  ],
+};
+
+// FAQ Schema (using q/a keys)
+const faqLd = faq && faq.length > 0 ? {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((item: {q: string; a: string}) => ({
+    '@type': 'Question',
+    name: item.q,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: item.a,
+    },
+  })),
+} : null;
+
+const jsonLdArray = [articleLd, breadcrumbLd, ...(faqLd ? [faqLd] : [])];
+
+// Get ALL posts for related + internal link suggestions
+const allPosts = await getCollection('astrology-blog');
+
+// Related posts (same category or shared tags)
+const relatedPosts = allPosts
+  .filter((p) => p.id !== post.id)
+  .map((p) => {
+    const sharedTags = p.data.tags.filter((t: string) => tags.includes(t)).length;
+    const sameCategory = p.data.category === category ? 2 : 0;
+    return { ...p, score: sharedTags + sameCategory };
+  })
+  .sort((a, b) => b.score - a.score)
+  .slice(0, 4);
+
+// Internal link suggestions (top 6 other articles)
+const internalLinks = allPosts
+  .filter((p) => p.id !== post.id)
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 6);
+
+const formatDate = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<BaseLayout title={title} description={description} ogType="article" jsonLd={jsonLdArray}>
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <!-- Breadcrumb -->
+    <nav class="text-sm text-gray-400 mb-6">
+      <a href="/" class="hover:text-white">Home</a>
+      <span class="mx-2">/</span>
+      <a href="/astrology/" class="hover:text-white">Astrology</a>
+      <span class="mx-2">/</span>
+      <a href="/astrology/blog/" class="hover:text-white">Blog</a>
+      <span class="mx-2">/</span>
+      <span class="text-white line-clamp-1">{title}</span>
+    </nav>
+
+    <!-- Tags -->
+    {tags.length > 0 && (
+      <div class="flex flex-wrap gap-2 mb-4">
+        {tags.slice(0, 5).map((tag: string) => (
+          <span class="text-xs px-2 py-1 bg-primary/20 text-primary rounded-full">{tag}</span>
+        ))}
+      </div>
+    )}
+
+    <!-- Title -->
+    <h1 class="text-3xl md:text-4xl font-display font-bold mb-4 leading-tight">{title}</h1>
+
+    <!-- Meta -->
+    <div class="flex items-center gap-4 text-sm text-gray-400 mb-8 pb-6 border-b border-white/10">
+      <a href={`/about/${authorData.slug}/`} class="flex items-center gap-2 hover:text-white transition-colors">
+        <div class="w-8 h-8 bg-primary/20 rounded-full flex items-center justify-center text-sm">
+          {authorData.name.charAt(0)}
+        </div>
+        <span>{authorData.name}</span>
+      </a>
+      <time datetime={publishDateISO}>{formatDate(publishDate)}</time>
+      {updatedDate && updatedDate > publishDate && (
+        <span class="text-gray-500">(Updated {formatDate(updatedDate)})</span>
+      )}
+    </div>
+
+    <!-- Table of Contents -->
+    {tocItems.length > 2 && (
+      <nav class="mb-8 p-5 bg-white/5 rounded-xl border border-white/10">
+        <h2 class="text-sm font-bold text-gray-400 uppercase tracking-wider mb-3">📑 Table of Contents</h2>
+        <ul class="space-y-1.5 text-sm">
+          {tocItems.map((h) => (
+            <li class={h.depth === 3 ? 'ml-4' : ''}>
+              <a
+                href={`#${h.slug}`}
+                class="text-gray-300 hover:text-primary transition-colors"
+              >
+                {h.depth === 3 ? '→ ' : ''}{h.text}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    )}
+
+    <!-- Article Content -->
+    <div class="prose prose-invert prose-lg max-w-none
+      prose-headings:font-display prose-headings:text-white prose-headings:scroll-mt-20
+      prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4
+      prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
+      prose-p:text-gray-300 prose-p:leading-relaxed
+      prose-a:text-purple-400 prose-a:hover:text-purple-300
+      prose-strong:text-white
+      prose-li:text-gray-300
+      prose-blockquote:border-primary prose-blockquote:text-gray-400
+      prose-table:text-sm
+      prose-th:text-white prose-th:bg-white/5 prose-th:px-4 prose-th:py-2
+      prose-td:px-4 prose-td:py-2 prose-td:border-white/10
+    ">
+      <Content />
+    </div>
+
+    <!-- Internal Links Box -->
+    <div class="mt-10 p-5 bg-gradient-to-r from-primary/10 to-pink-500/10 rounded-xl border border-primary/20">
+      <h3 class="text-sm font-bold text-gray-400 uppercase tracking-wider mb-3">📖 More Astrology Articles</h3>
+      <div class="grid sm:grid-cols-2 gap-2">
+        {internalLinks.map((link) => (
+          <a
+            href={`/astrology/blog/${link.id}/`}
+            class="text-sm text-purple-400 hover:text-white transition-colors"
+          >
+            → {link.data.title}
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <!-- FAQ Section -->
+    {faq && faq.length > 0 && (
+      <section class="mt-10 p-6 bg-white/5 rounded-xl border border-white/10">
+        <h2 class="text-xl font-display font-bold mb-4" id="faq">❓ Frequently Asked Questions</h2>
+        <div class="space-y-4">
+          {faq.map((item: {q: string; a: string}) => (
+            <details class="group" open>
+              <summary class="cursor-pointer font-semibold text-white hover:text-primary transition-colors list-none flex items-center justify-between gap-2">
+                <span>{item.q}</span>
+                <span class="text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0">▾</span>
+              </summary>
+              <p class="mt-2 text-gray-400">{item.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Share -->
+    <ShareButtons title={title} url={pageUrl} />
+
+    <!-- Author Box -->
+    <div class="mt-10 p-6 bg-white/5 rounded-xl border border-white/10 flex items-start gap-4">
+      <div class="w-14 h-14 bg-primary/20 rounded-full flex items-center justify-center text-xl flex-shrink-0">
+        {authorData.name.charAt(0)}
+      </div>
+      <div>
+        <a href={`/about/${authorData.slug}/`} class="font-bold text-white hover:text-primary transition-colors">
+          {authorData.name}
+        </a>
+        <p class="text-sm text-primary/80">{authorData.role}</p>
+        <p class="text-sm text-gray-400 mt-1 line-clamp-2">{authorData.bio}</p>
+      </div>
+    </div>
+
+    <!-- Related Posts -->
+    {relatedPosts.length > 0 && (
+      <section class="mt-12">
+        <h2 class="text-xl font-display font-bold mb-4">Related Articles</h2>
+        <div class="grid sm:grid-cols-2 gap-3">
+          {relatedPosts.map((rp) => (
+            <a
+              href={`/astrology/blog/${rp.id}/`}
+              class="p-4 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors"
+            >
+              <h3 class="font-semibold text-sm text-white hover:text-primary line-clamp-2">{rp.data.title}</h3>
+              <p class="text-xs text-gray-500 mt-1">{formatDate(rp.data.publishDate)}</p>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Cross-site links -->
+    <CrossSiteLinks currentSite="astrology" />
+  </article>
+</BaseLayout>
