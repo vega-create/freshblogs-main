@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import ThreeCardTool from '../../../../components/tools/ThreeCardTool';
+---
+<ToolLayout title="Three-Card Tarot Spread" description="Past, Present, Future — draw three cards for a quick but insightful reading" emoji="🔮" toolSlug="three-card"
+  faq={[{q:'What does each position mean?',a:'The first card represents your past influences, the second your current situation, and the third what lies ahead.'},{q:'Can I draw multiple times?',a:'Yes, but the first reading often carries the strongest energy. Reflect before drawing again.'}]}
+  relatedTools={[{name:'Daily Card Pull',emoji:'🃏',path:'daily-pull'},{name:'Celtic Cross',emoji:'✝️',path:'celtic-cross'},{name:'Love Tarot',emoji:'❤️',path:'love-tarot'}]}
+>
+  <ThreeCardTool client:load />
+</ToolLayout>

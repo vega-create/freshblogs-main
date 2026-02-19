@@ -1,9 +1,15 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import CrossSiteLinks from '../../components/CrossSiteLinks.astro';
 import { siteConfig } from '../../../site.config';
 
-export function getStaticPaths() {
+// Map site slugs to content collections
+const collectionMap: Record<string, string> = {
+  astrology: 'astrology-blog',
+};
+
+export async function getStaticPaths() {
   return siteConfig.sites.map((site) => ({
     params: { site: site.slug },
     props: { site },
@@ -12,6 +18,19 @@ export function getStaticPaths() {
 
 const { site } = Astro.props;
 const siteAuthor = siteConfig.authors.find((a) => a.sites.includes(site.slug));
+
+// Load articles if collection exists
+const collectionName = collectionMap[site.slug];
+let articles: any[] = [];
+if (collectionName) {
+  try {
+    const allPosts = await getCollection(collectionName as any);
+    articles = allPosts
+      .sort((a: any, b: any) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
+      .slice(0, 6);
+  } catch {}
+}
+const formatDate = (d: Date) => d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
 
 const title = `${site.name} — Free Tools, Quizzes & Expert Guides`;
 const description = site.description + '. Free interactive tools, daily content, and expert articles. No sign-up required.';
@@ -161,10 +180,38 @@ const tools = toolsBySlug[site.slug] || [];
       </section>
     )}
 
-    <!-- Blog placeholder -->
+    <!-- Blog Articles -->
     <section class="mb-12">
-      <h2 class="text-xl font-bold mb-4">📝 Latest Articles</h2>
-      <p class="text-gray-400">New articles coming soon! Check back for expert guides and insights about {site.name.toLowerCase()}.</p>
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-xl font-bold">📝 Latest Articles</h2>
+        {articles.length > 0 && (
+          <a href={`/${site.slug}/blog/`} class="text-sm text-purple-400 hover:text-white transition-colors">
+            View all →
+          </a>
+        )}
+      </div>
+      {articles.length > 0 ? (
+        <div class="grid gap-3">
+          {articles.map((post: any) => (
+            <a
+              href={`/${site.slug}/blog/${post.id}/`}
+              class="group flex justify-between items-center gap-4 p-4 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors"
+            >
+              <div>
+                <h3 class="font-semibold text-white group-hover:text-purple-400 transition-colors text-sm">
+                  {post.data.title}
+                </h3>
+                <p class="text-xs text-gray-500 mt-1 line-clamp-1">{post.data.description}</p>
+              </div>
+              <time class="text-xs text-gray-500 whitespace-nowrap flex-shrink-0">
+                {formatDate(post.data.publishDate)}
+              </time>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="text-gray-400">New articles coming soon! Check back for expert guides and insights about {site.name.toLowerCase()}.</p>
+      )}
     </section>
 
     <!-- Cross-site links -->

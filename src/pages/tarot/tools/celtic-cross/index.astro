@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import CelticCrossTool from '../../../../components/tools/CelticCrossTool';
+---
+<ToolLayout title="Celtic Cross Tarot Spread" description="The classic 10-card spread for deep, comprehensive readings" emoji="✝️" toolSlug="celtic-cross"
+  faq={[{q:'What is the Celtic Cross spread?',a:'It is one of the oldest and most detailed tarot spreads, using 10 cards to examine all aspects of your question.'},{q:'Is the Celtic Cross good for beginners?',a:'It can be complex. We recommend starting with a 3-card spread and working your way up.'}]}
+  relatedTools={[{name:'Three-Card Spread',emoji:'🔮',path:'three-card'},{name:'Daily Card Pull',emoji:'🃏',path:'daily-pull'},{name:'Encyclopedia',emoji:'📖',path:'encyclopedia'}]}
+>
+  <CelticCrossTool client:load />
+</ToolLayout>

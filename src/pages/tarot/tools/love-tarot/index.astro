@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import LoveTarotTool from '../../../../components/tools/LoveTarotTool';
+---
+<ToolLayout title="Love Tarot Reading" description="A 5-card love spread revealing your heart, partner, connection, challenge, and outcome" emoji="❤️" toolSlug="love-tarot"
+  faq={[{q:'What does each position mean?',a:'The 5 positions cover: your emotional state, your partner energy, the connection between you, your main challenge, and the likely outcome.'},{q:'Can I use this if I am single?',a:'Absolutely! The reading can reveal what you need in a partner and what energy is coming into your love life.'}]}
+  relatedTools={[{name:'Yes or No',emoji:'❓',path:'yes-no'},{name:'Three-Card Spread',emoji:'🔮',path:'three-card'},{name:'Daily Card Pull',emoji:'🃏',path:'daily-pull'}]}
+>
+  <LoveTarotTool client:load />
+</ToolLayout>

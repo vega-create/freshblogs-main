@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import CrossSiteLinks from '../../../components/CrossSiteLinks.astro';
+import { siteConfig } from '../../../../site.config';
+
+const title = 'Free Tarot Tools — Card Readings, Spreads & Encyclopedia';
+const description = '6 free interactive tarot tools: daily card pull, three-card spread, Celtic Cross, yes/no tarot, love reading, and card encyclopedia.';
+
+const tools = [
+  { name: 'Daily Card Pull', emoji: '🃏', path: 'daily-pull', desc: 'Your tarot card of the day' },
+  { name: 'Three-Card Spread', emoji: '🔮', path: 'three-card', desc: 'Past, present, future reading' },
+  { name: 'Celtic Cross', emoji: '✝️', path: 'celtic-cross', desc: 'Full 10-card spread reading' },
+  { name: 'Yes or No Tarot', emoji: '❓', path: 'yes-no', desc: 'Quick yes/no answer from the cards' },
+  { name: 'Love Tarot', emoji: '❤️', path: 'love-tarot', desc: '5-card love and relationship reading' },
+  { name: 'Card Encyclopedia', emoji: '📖', path: 'encyclopedia', desc: 'Browse all 22 Major Arcana cards' },
+];
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
+    { '@type': 'ListItem', position: 2, name: 'Tarot', item: `${siteConfig.url}/tarot/` },
+    { '@type': 'ListItem', position: 3, name: 'Tools', item: `${siteConfig.url}/tarot/tools/` },
+  ],
+};
+---
+
+<BaseLayout title={title} description={description} jsonLd={breadcrumbLd}>
+  <div class="max-w-4xl mx-auto px-4 py-12">
+    <nav class="text-sm text-gray-400 mb-8">
+      <a href="/" class="hover:text-white">Home</a>
+      <span class="mx-2">/</span>
+      <a href="/tarot/" class="hover:text-white">Tarot</a>
+      <span class="mx-2">/</span>
+      <span class="text-white">Tools</span>
+    </nav>
+
+    <div class="text-center mb-10">
+      <h1 class="text-3xl md:text-4xl font-display font-bold mb-3">🃏 Free Tarot Tools</h1>
+      <p class="text-gray-400">6 interactive readings — no sign-up, no cost. Just you and the cards.</p>
+    </div>
+
+    <div class="grid sm:grid-cols-2 gap-4">
+      {tools.map((tool) => (
+        <a href={`/tarot/tools/${tool.path}/`}
+          class="group flex items-center gap-4 p-5 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-purple-500/30 rounded-xl transition-all duration-300 hover:-translate-y-0.5">
+          <span class="text-3xl">{tool.emoji}</span>
+          <div>
+            <h2 class="font-bold text-white group-hover:text-purple-400 transition-colors">{tool.name}</h2>
+            <p class="text-sm text-gray-400">{tool.desc}</p>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <CrossSiteLinks currentSite="tarot" />
+  </div>
+</BaseLayout>

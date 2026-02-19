@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DailyPullTool from '../../../../components/tools/DailyPullTool';
+---
+<ToolLayout title="Daily Tarot Card Pull" description="Pull your tarot card of the day for guidance and reflection" emoji="🃏" toolSlug="daily-pull"
+  faq={[{q:'How does the daily card pull work?',a:'Focus on your intention, then pull a card. The card is selected using the current date as a seed, so you get a consistent daily card.'},{q:'What is the difference between upright and reversed?',a:'Upright cards carry the straightforward meaning, while reversed cards suggest blocked energy or an internal aspect of that card.'}]}
+  relatedTools={[{name:'Three-Card Spread',emoji:'🔮',path:'three-card'},{name:'Yes or No',emoji:'❓',path:'yes-no'},{name:'Love Tarot',emoji:'❤️',path:'love-tarot'}]}
+>
+  <DailyPullTool client:load />
+</ToolLayout>

@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import EncyclopediaTool from '../../../../components/tools/EncyclopediaTool';
+---
+<ToolLayout title="Tarot Card Encyclopedia" description="Browse all 22 Major Arcana cards — meanings, elements, planets, and yes/no answers" emoji="📖" toolSlug="encyclopedia"
+  faq={[{q:'How many tarot cards are there?',a:'A standard tarot deck has 78 cards: 22 Major Arcana and 56 Minor Arcana. This encyclopedia covers the 22 Major Arcana.'},{q:'What is the difference between Major and Minor Arcana?',a:'Major Arcana represent major life themes and spiritual lessons, while Minor Arcana deal with day-to-day events and challenges.'}]}
+  relatedTools={[{name:'Daily Card Pull',emoji:'🃏',path:'daily-pull'},{name:'Celtic Cross',emoji:'✝️',path:'celtic-cross'},{name:'Yes or No',emoji:'❓',path:'yes-no'}]}
+>
+  <EncyclopediaTool client:load />
+</ToolLayout>

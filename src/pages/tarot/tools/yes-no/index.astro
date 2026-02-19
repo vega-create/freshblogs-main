@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import YesNoTool from '../../../../components/tools/YesNoTool';
+---
+<ToolLayout title="Yes or No Tarot" description="Ask any yes or no question and let the tarot cards reveal the answer" emoji="❓" toolSlug="yes-no"
+  faq={[{q:'How does yes or no tarot work?',a:'Each card has a traditional yes, no, or maybe association. Your question draws a card that reveals the answer.'},{q:'Is this accurate?',a:'Tarot is a tool for reflection, not prediction. Use the answer as a starting point for your own intuition.'}]}
+  relatedTools={[{name:'Daily Card Pull',emoji:'🃏',path:'daily-pull'},{name:'Love Tarot',emoji:'❤️',path:'love-tarot'},{name:'Three-Card Spread',emoji:'🔮',path:'three-card'}]}
+>
+  <YesNoTool client:load />
+</ToolLayout>
