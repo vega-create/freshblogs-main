@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import AngelNumberTool from '../../../../components/tools/AngelNumberTool';
+---
+<ToolLayout title="Angel Number Meanings" description="Look up the spiritual meaning of angel numbers like 111, 444, 1111 and more" emoji="👼" toolSlug="angel-number"
+  faq={[{"q": "What are angel numbers?", "a": "Repeating number sequences (111, 222, etc.) believed to be messages from the spiritual realm guiding your path."}, {"q": "Why do I keep seeing the same number?", "a": "Many believe it is a sign from the universe trying to communicate guidance specific to your life situation."}]}
+  relatedTools={[{"name": "Life Path", "emoji": "🔢", "path": "life-path"}, {"name": "Name Number", "emoji": "✨", "path": "name-number"}]}
+>
+  <AngelNumberTool client:load />
+</ToolLayout>

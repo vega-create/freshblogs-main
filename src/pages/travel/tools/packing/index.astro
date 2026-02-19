@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import PackingTool from '../../../../components/tools/PackingTool';
+---
+<ToolLayout title="Packing Checklist Generator" description="Get a customized packing list for beach, city, hiking, or business trips" emoji="🧳" toolSlug="packing"
+  faq={[{"q": "Can I customize the checklist?", "a": "Select your trip type to get a tailored list. Check off items as you pack them."}, {"q": "What trip types are available?", "a": "Beach vacation, city break, hiking/camping, and business travel — each with categorized essentials."}]}
+  relatedTools={[]}
+>
+  <PackingTool client:load />
+</ToolLayout>

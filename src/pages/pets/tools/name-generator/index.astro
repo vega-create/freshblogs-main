@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import PetNameTool from '../../../../components/tools/PetNameTool';
+---
+<ToolLayout title="Pet Name Generator" description="Find the perfect name for your dog, cat, bird, or hamster with fun name categories" emoji="🐾" toolSlug="name-generator"
+  faq={[{"q": "How are names generated?", "a": "Names are curated by pet type and vibe category — cute, strong, funny, or classic. Each category has unique handpicked names."}, {"q": "Can I save my favorite names?", "a": "Yes! Click the heart icon to add names to your favorites list."}]}
+  relatedTools={[]}
+>
+  <PetNameTool client:load />
+</ToolLayout>

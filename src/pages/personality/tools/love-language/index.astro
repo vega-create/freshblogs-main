@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import LoveLanguageQuiz from '../../../../components/tools/LoveLanguageQuiz';
+---
+<ToolLayout title="Love Language Quiz" description="Discover your primary love language with this quick 10-question quiz" emoji="❤️" toolSlug="love-language"
+  faq={[{"q": "What are the 5 love languages?", "a": "Words of Affirmation, Physical Touch, Quality Time, Receiving Gifts, and Acts of Service."}, {"q": "Can your love language change?", "a": "Your primary love language tends to stay consistent, but life experiences can shift your preferences over time."}]}
+  relatedTools={[{"name": "MBTI Quiz", "emoji": "\ud83e\udde0", "path": "mbti"}, {"name": "Enneagram Test", "emoji": "\ud83d\udd22", "path": "enneagram"}]}
+>
+  <LoveLanguageQuiz client:load />
+</ToolLayout>

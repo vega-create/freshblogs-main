@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import CookingTimerTool from '../../../../components/tools/CookingTimerTool';
+---
+<ToolLayout title="Cooking Timer" description="Multiple preset timers for eggs, pasta, rice, and custom cooking tasks" emoji="⏱️" toolSlug="timer"
+  faq={[{"q": "Can I run multiple timers?", "a": "Yes! Add as many timers as you need and they all run simultaneously."}, {"q": "Will it alert me when done?", "a": "The timer plays a sound alert when it reaches zero."}]}
+  relatedTools={[{"name": "Unit Converter", "emoji": "\u2696\ufe0f", "path": "converter"}]}
+>
+  <CookingTimerTool client:load />
+</ToolLayout>

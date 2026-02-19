@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import EnneagramQuiz from '../../../../components/tools/EnneagramQuiz';
+---
+<ToolLayout title="Enneagram Personality Test" description="Take a quick 9-question quiz to discover your Enneagram type from 1-9" emoji="🔢" toolSlug="enneagram"
+  faq={[{"q": "What is the Enneagram?", "a": "A personality system that identifies 9 interconnected types, each with distinct motivations, fears, and growth paths."}, {"q": "How is this different from MBTI?", "a": "MBTI focuses on how you think and process information. The Enneagram focuses on your core motivations and fears."}]}
+  relatedTools={[{"name": "MBTI Quiz", "emoji": "\ud83e\udde0", "path": "mbti"}, {"name": "Love Language", "emoji": "\u2764\ufe0f", "path": "love-language"}]}
+>
+  <EnneagramQuiz client:load />
+</ToolLayout>

@@ -44,7 +44,7 @@ const breadcrumbLd = {
   ],
 };
 
-// Tool lists per site (placeholder - will be expanded)
+// Tool lists per site — only tools with actual built pages
 const toolsBySlug: Record<string, {name: string; emoji: string; path: string; desc: string}[]> = {
   astrology: [
     { name: "What's My Sign?", emoji: '🔮', path: 'zodiac-sign', desc: 'Enter your birthday to discover your zodiac sign' },
@@ -66,70 +66,60 @@ const toolsBySlug: Record<string, {name: string; emoji: string; path: string; de
     { name: 'Love Tarot', emoji: '❤️', path: 'love-tarot', desc: '5-card love and relationship reading' },
     { name: 'Card Encyclopedia', emoji: '📖', path: 'encyclopedia', desc: 'Browse all 78 tarot cards' },
   ],
-  personality: [
-    { name: 'MBTI Quiz', emoji: '🧠', path: 'mbti-quiz', desc: 'Discover your personality type' },
-    { name: 'Love Language', emoji: '❤️', path: 'love-language', desc: 'Find your primary love language' },
-    { name: 'Enneagram Test', emoji: '🔢', path: 'enneagram', desc: 'Discover your enneagram type' },
-    { name: 'EQ Test', emoji: '💡', path: 'eq-test', desc: 'Measure your emotional intelligence' },
-    { name: 'Career Match', emoji: '💼', path: 'career-match', desc: 'Find your ideal career path' },
-    { name: 'Color Personality', emoji: '🎨', path: 'color-personality', desc: 'What color matches your personality?' },
-    { name: 'Spirit Animal', emoji: '🦊', path: 'spirit-animal', desc: 'Discover your spirit animal' },
-    { name: 'Stress Type', emoji: '😰', path: 'stress-type', desc: 'How do you handle stress?' },
-    { name: 'Communication Style', emoji: '🗣️', path: 'communication', desc: 'Discover how you communicate' },
-    { name: 'Attachment Style', emoji: '🤝', path: 'attachment', desc: 'What is your attachment style?' },
-  ],
-  pets: [
-    { name: 'Pet Match Quiz', emoji: '🐾', path: 'pet-match', desc: 'Find your perfect pet breed' },
-    { name: 'Owner Profile Matcher', emoji: '👤', path: 'owner-match', desc: 'Detailed lifestyle-based matching' },
-    { name: 'Breed Compatibility', emoji: '💕', path: 'breed-compat', desc: 'Check compatibility with any breed' },
-    { name: 'Birthday Compatibility', emoji: '🎂', path: 'birthday-compat', desc: 'Zodiac pairing with your pet' },
-    { name: 'MBTI × Pet Match', emoji: '🧠', path: 'mbti-pet', desc: 'Best pet for your MBTI type' },
-    { name: 'Pet Personality Test', emoji: '🐕', path: 'pet-personality', desc: "Analyze your pet's personality" },
-  ],
-  dreams: [
-    { name: 'Dream Dictionary', emoji: '📖', path: 'dictionary', desc: 'Search 5,000+ dream symbols' },
-    { name: 'Dream Journal', emoji: '📓', path: 'journal', desc: 'Track and analyze your dreams' },
-    { name: 'Dream Interpreter', emoji: '🔮', path: 'interpreter', desc: 'Describe your dream, get an analysis' },
-  ],
-  quotes: [
-    { name: 'Quote of the Day', emoji: '💬', path: 'daily-quote', desc: 'Fresh inspiration every day' },
-    { name: 'Quote Image Maker', emoji: '🖼️', path: 'image-maker', desc: 'Create shareable quote images' },
-    { name: 'Quote Search', emoji: '🔍', path: 'search', desc: 'Search 10,000+ quotes by topic' },
-  ],
-  manifest: [
-    { name: 'Affirmation Generator', emoji: '✨', path: 'affirmations', desc: 'Personalized daily affirmations' },
-    { name: 'Vision Board Creator', emoji: '🎯', path: 'vision-board', desc: 'Create your digital vision board' },
-    { name: '369 Method Timer', emoji: '⏱️', path: '369-timer', desc: 'Guided 369 manifestation timer' },
-  ],
   numerology: [
     { name: 'Life Path Number', emoji: '🔢', path: 'life-path', desc: 'Calculate your life path number' },
-    { name: 'Name Number', emoji: '📝', path: 'name-number', desc: 'Discover your name number meaning' },
-    { name: 'Compatibility', emoji: '💕', path: 'compatibility', desc: 'Numerology compatibility check' },
+    { name: 'Name Number', emoji: '✨', path: 'name-number', desc: 'Discover your name number meaning' },
+    { name: 'Angel Numbers', emoji: '👼', path: 'angel-number', desc: 'Look up angel number meanings' },
+  ],
+  dreams: [
+    { name: 'Dream Dictionary', emoji: '🌙', path: 'dictionary', desc: 'Look up dream symbol meanings' },
+    { name: 'Dream Journal', emoji: '📓', path: 'journal', desc: 'Record and track your dreams' },
+    { name: 'Dream Interpreter', emoji: '🔮', path: 'interpreter', desc: 'Describe your dream, get analysis' },
+  ],
+  personality: [
+    { name: 'MBTI Personality Quiz', emoji: '🧠', path: 'mbti', desc: 'Discover your Myers-Briggs type' },
+    { name: 'Love Language Quiz', emoji: '❤️', path: 'love-language', desc: 'Find your primary love language' },
+    { name: 'Enneagram Test', emoji: '🔢', path: 'enneagram', desc: 'Discover your Enneagram type (1-9)' },
+  ],
+  manifest: [
+    { name: 'Affirmation Generator', emoji: '💕', path: 'affirmations', desc: 'Positive affirmations by category' },
+    { name: 'Gratitude Journal', emoji: '🙏', path: 'gratitude', desc: 'Daily gratitude practice with streaks' },
+    { name: 'Vision Board', emoji: '🎯', path: 'vision-board', desc: 'Create your digital vision board' },
+  ],
+  quotes: [
+    { name: 'Quote Generator', emoji: '💬', path: 'generator', desc: 'Inspiring quotes by category + daily quote' },
+    { name: 'Quote Image Maker', emoji: '🖼️', path: 'image-maker', desc: 'Create shareable quote images' },
+    { name: 'Quote Search', emoji: '🔍', path: 'search', desc: 'Search quotes by keyword or topic' },
+  ],
+  pets: [
+    { name: 'Pet Match Quiz', emoji: '🐾', path: 'pet-match', desc: 'Find your perfect pet match' },
+    { name: 'Pet Name Generator', emoji: '🏷️', path: 'name-generator', desc: 'Find the perfect name for your pet' },
+    { name: 'Breed Info Guide', emoji: '📋', path: 'breed-guide', desc: 'Browse popular dog and cat breeds' },
   ],
   recipes: [
-    { name: 'Recipe Finder', emoji: '🔍', path: 'finder', desc: 'Find recipes by ingredients' },
-    { name: 'Serving Converter', emoji: '📐', path: 'converter', desc: 'Scale any recipe up or down' },
-    { name: 'Dinner Spinner', emoji: '🎰', path: 'spinner', desc: "Can't decide? Spin the wheel!" },
+    { name: 'Kitchen Unit Converter', emoji: '⚖️', path: 'converter', desc: 'Convert cups, ml, grams, oz & temps' },
+    { name: 'Cooking Timer', emoji: '⏱️', path: 'timer', desc: 'Multiple preset timers for cooking' },
+    { name: 'Dinner Spinner', emoji: '🎰', path: 'spinner', desc: 'Random meal suggestion wheel' },
   ],
   ai: [
-    { name: 'AI Tool Finder', emoji: '🔍', path: 'finder', desc: 'Search 500+ AI tools by category' },
-    { name: 'Prompt Generator', emoji: '✍️', path: 'prompt-gen', desc: 'Generate effective AI prompts' },
-    { name: 'AI vs Human Quiz', emoji: '🤖', path: 'ai-vs-human', desc: 'Can you tell AI from human?' },
+    { name: 'AI Prompt Generator', emoji: '🤖', path: 'prompt-generator', desc: 'Create effective prompts for AI tools' },
+    { name: 'Word & Character Counter', emoji: '📝', path: 'word-counter', desc: 'Count words and check platform limits' },
+    { name: 'AI vs Human Quiz', emoji: '🤖', path: 'ai-vs-human', desc: 'Can you spot AI-written text?' },
   ],
   travel: [
-    { name: 'Trip Cost Calculator', emoji: '💰', path: 'cost-calc', desc: 'Estimate your travel budget' },
-    { name: 'Packing List Generator', emoji: '🧳', path: 'packing-list', desc: 'Smart packing list for any trip' },
-    { name: 'Destination Quiz', emoji: '🌍', path: 'destination-quiz', desc: 'Find your dream destination' },
+    { name: 'Packing Checklist', emoji: '🧳', path: 'packing', desc: 'Customized packing lists by trip type' },
+    { name: 'Trip Budget Calculator', emoji: '💰', path: 'budget', desc: 'Estimate travel costs by destination' },
+    { name: 'Destination Quiz', emoji: '🌍', path: 'destination-quiz', desc: 'Find your perfect destination' },
   ],
   diy: [
-    { name: 'Paint Calculator', emoji: '🎨', path: 'paint-calc', desc: 'How much paint do you need?' },
-    { name: 'Cost Estimator', emoji: '💰', path: 'cost-estimator', desc: 'Estimate your project budget' },
-    { name: 'Measurement Converter', emoji: '📏', path: 'measurement', desc: 'Convert any measurement' },
+    { name: 'Paint Calculator', emoji: '🎨', path: 'paint-calculator', desc: 'Calculate paint needed for any room' },
+    { name: 'Measurement Converter', emoji: '📏', path: 'measurement', desc: 'Convert length, area & volume units' },
+    { name: 'Project Cost Estimator', emoji: '💰', path: 'cost-estimator', desc: 'Estimate home improvement costs' },
   ],
   garden: [
+    { name: 'Plant Finder Quiz', emoji: '🌿', path: 'plant-quiz', desc: 'Find the right plant for your space' },
+    { name: 'Watering Schedule', emoji: '🌱', path: 'watering', desc: 'Personalized plant watering schedule' },
     { name: 'Planting Calendar', emoji: '📅', path: 'planting-calendar', desc: 'When to plant in your zone' },
-    { name: 'Plant Quiz', emoji: '🌿', path: 'plant-quiz', desc: 'Find the right plant for you' },
-    { name: 'Watering Schedule', emoji: '💧', path: 'watering', desc: 'Custom watering reminders' },
   ],
 };
 

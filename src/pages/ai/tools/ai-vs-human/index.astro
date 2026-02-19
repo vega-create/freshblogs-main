@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import AIvsHumanQuiz from '../../../../components/tools/AIvsHumanQuiz';
+---
+<ToolLayout title="AI vs Human Quiz" description="Can you tell if text was written by AI or a human? Test your detection skills" emoji="🤖" toolSlug="ai-vs-human"
+  faq={[{"q": "How many rounds are there?", "a": "8 rounds of increasingly tricky text samples to test your AI detection abilities."}, {"q": "What clues reveal AI writing?", "a": "Look for overly polished metaphors, formal tone, hedge words, and lack of personal specificity."}]}
+  relatedTools={[{"name": "Prompt Generator", "emoji": "\u270d\ufe0f", "path": "prompt-generator"}, {"name": "Word Counter", "emoji": "\ud83d\udcdd", "path": "word-counter"}]}
+>
+  <AIvsHumanQuiz client:load />
+</ToolLayout>

@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import TripBudgetTool from '../../../../components/tools/TripBudgetTool';
+---
+<ToolLayout title="Trip Budget Calculator" description="Estimate your travel budget by destination, duration, and travel style" emoji="💰" toolSlug="budget"
+  faq={[{"q": "How accurate are the estimates?", "a": "Based on average costs for budget, mid-range, and luxury travelers. Actual costs vary by season and specific location."}, {"q": "Does it include flights?", "a": "A rough flight estimate is included. Actual prices vary greatly by route and booking time."}]}
+  relatedTools={[{"name": "Packing Checklist", "emoji": "\ud83e\uddf3", "path": "packing"}]}
+>
+  <TripBudgetTool client:load />
+</ToolLayout>

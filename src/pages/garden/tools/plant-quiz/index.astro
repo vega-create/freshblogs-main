@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import PlantQuiz from '../../../../components/tools/PlantQuiz';
+---
+<ToolLayout title="Plant Finder Quiz" description="Answer 4 simple questions to find the perfect plant for your space" emoji="🌿" toolSlug="plant-quiz"
+  faq={[{"q": "Is this for indoor or outdoor plants?", "a": "Currently focused on indoor houseplants, which are the most popular for home gardeners."}, {"q": "What if I kill every plant?", "a": "We have extra-hardy recommendations like Snake Plants and ZZ Plants that are nearly impossible to kill!"}]}
+  relatedTools={[{"name": "Watering Schedule", "emoji": "\ud83c\udf31", "path": "watering"}]}
+>
+  <PlantQuiz client:load />
+</ToolLayout>

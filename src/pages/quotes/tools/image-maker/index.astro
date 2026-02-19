@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import QuoteImageTool from '../../../../components/tools/QuoteImageTool';
+---
+<ToolLayout title="Quote Image Maker" description="Create beautiful shareable quote images with custom backgrounds and fonts" emoji="🖼️" toolSlug="image-maker"
+  faq={[{"q": "What size are the images?", "a": "Images are generated at 1080x1080 pixels, perfect for Instagram and social media sharing."}, {"q": "Can I download the images?", "a": "Yes! Click the download button to save your quote image as a PNG file."}]}
+  relatedTools={[{"name": "Quote Generator", "emoji": "\ud83d\udcac", "path": "generator"}]}
+>
+  <QuoteImageTool client:load />
+</ToolLayout>

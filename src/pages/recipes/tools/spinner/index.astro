@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DinnerSpinnerTool from '../../../../components/tools/DinnerSpinnerTool';
+---
+<ToolLayout title="Dinner Spinner" description="Cannot decide what to eat? Spin the wheel for a random meal suggestion" emoji="🎰" toolSlug="spinner"
+  faq={[{"q": "How many meals are available?", "a": "Over 24 meal suggestions across 4 categories: Quick, Comfort, Healthy, and Date Night."}, {"q": "Can I filter by dietary needs?", "a": "Currently organized by mood/occasion. Choose Healthy for lighter options."}]}
+  relatedTools={[{"name": "Unit Converter", "emoji": "\u2696\ufe0f", "path": "converter"}, {"name": "Cooking Timer", "emoji": "\u23f1\ufe0f", "path": "timer"}]}
+>
+  <DinnerSpinnerTool client:load />
+</ToolLayout>

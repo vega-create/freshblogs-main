@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DreamJournalTool from '../../../../components/tools/DreamJournalTool';
+---
+<ToolLayout title="Dream Journal" description="Record and track your dreams with mood tags and symbol tracking" emoji="📓" toolSlug="journal"
+  faq={[{"q": "Why keep a dream journal?", "a": "Writing dreams down improves dream recall and can reveal patterns in your subconscious thinking."}, {"q": "When should I write my dreams?", "a": "Immediately upon waking, before checking your phone. Dreams fade quickly from memory."}]}
+  relatedTools={[{"name": "Dream Dictionary", "emoji": "🌙", "path": "dictionary"}]}
+>
+  <DreamJournalTool client:load />
+</ToolLayout>

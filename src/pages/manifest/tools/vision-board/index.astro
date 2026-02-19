@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import VisionBoardTool from '../../../../components/tools/VisionBoardTool';
+---
+<ToolLayout title="Digital Vision Board" description="Create a goal-tracking vision board organized by life categories" emoji="🎯" toolSlug="vision-board"
+  faq={[{"q": "What is a vision board?", "a": "A visual representation of your goals and dreams, organized by category. It helps you stay focused on what matters most."}, {"q": "Does it save my goals?", "a": "Yes! Your vision board is saved in your browser so you can track progress over time."}]}
+  relatedTools={[{"name": "Affirmations", "emoji": "\ud83d\udc95", "path": "affirmations"}, {"name": "Gratitude Journal", "emoji": "\ud83d\ude4f", "path": "gratitude"}]}
+>
+  <VisionBoardTool client:load />
+</ToolLayout>

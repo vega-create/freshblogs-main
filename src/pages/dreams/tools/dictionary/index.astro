@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DreamDictionaryTool from '../../../../components/tools/DreamDictionaryTool';
+---
+<ToolLayout title="Dream Symbol Dictionary" description="Look up the meaning of common dream symbols like falling, flying, teeth, and more" emoji="🌙" toolSlug="dictionary"
+  faq={[{"q": "Are dream symbol meanings universal?", "a": "Some symbols have common interpretations, but personal associations always matter most. Your unique experiences shape meaning."}, {"q": "Why do I keep having the same dream?", "a": "Recurring dreams usually point to unresolved issues or emotions your subconscious is processing."}]}
+  relatedTools={[{"name": "Dream Journal", "emoji": "📓", "path": "journal"}]}
+>
+  <DreamDictionaryTool client:load />
+</ToolLayout>

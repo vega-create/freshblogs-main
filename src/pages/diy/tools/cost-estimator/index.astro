@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import CostEstimatorTool from '../../../../components/tools/CostEstimatorTool';
+---
+<ToolLayout title="Project Cost Estimator" description="Get material and labor cost estimates for common home improvement projects" emoji="💰" toolSlug="cost-estimator"
+  faq={[{"q": "Are these costs accurate?", "a": "Estimates provide a realistic range based on national averages. Local prices may vary significantly."}, {"q": "Should I DIY or hire a pro?", "a": "Toggle between DIY and Pro to see the cost difference. Consider your skill level and the complexity of the project."}]}
+  relatedTools={[{"name": "Paint Calculator", "emoji": "\ud83c\udfa8", "path": "paint-calculator"}, {"name": "Measurement Converter", "emoji": "\ud83d\udccf", "path": "measurement"}]}
+>
+  <CostEstimatorTool client:load />
+</ToolLayout>

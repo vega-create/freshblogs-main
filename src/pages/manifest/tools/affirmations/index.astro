@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import AffirmationTool from '../../../../components/tools/AffirmationTool';
+---
+<ToolLayout title="Daily Affirmation Generator" description="Get personalized positive affirmations for self-love, abundance, career, and more" emoji="💕" toolSlug="affirmations"
+  faq={[{"q": "Do affirmations really work?", "a": "Research shows that positive affirmations can rewire neural pathways over time, improving self-belief and reducing negative thought patterns."}, {"q": "How should I use affirmations?", "a": "Repeat them daily, ideally in the morning. Say them aloud, write them down, or meditate on them."}]}
+  relatedTools={[{"name": "Gratitude Journal", "emoji": "🙏", "path": "gratitude"}]}
+>
+  <AffirmationTool client:load />
+</ToolLayout>

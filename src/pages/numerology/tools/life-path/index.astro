@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import LifePathTool from '../../../../components/tools/LifePathTool';
+---
+<ToolLayout title="Life Path Number Calculator" description="Calculate your life path number from your birthday and discover your destiny" emoji="🔢" toolSlug="life-path"
+  faq={[{"q": "What is a life path number?", "a": "It is the most important number in numerology, derived from your birth date. It reveals your life purpose and personality."}, {"q": "What are master numbers?", "a": "11, 22, and 33 are master numbers with amplified energy and special significance in numerology."}]}
+  relatedTools={[{"name": "Name Number", "emoji": "✨", "path": "name-number"}, {"name": "Angel Numbers", "emoji": "👼", "path": "angel-number"}]}
+>
+  <LifePathTool client:load />
+</ToolLayout>

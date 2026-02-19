@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import PromptGeneratorTool from '../../../../components/tools/PromptGeneratorTool';
+---
+<ToolLayout title="AI Prompt Generator" description="Generate effective prompts for ChatGPT, Claude, and other AI tools" emoji="🤖" toolSlug="prompt-generator"
+  faq={[{"q": "What makes a good AI prompt?", "a": "Be specific, provide context, define the audience and tone, and include examples of what you want."}, {"q": "Which AI tools work with these prompts?", "a": "These prompts work with ChatGPT, Claude, Gemini, and most other large language model chatbots."}]}
+  relatedTools={[]}
+>
+  <PromptGeneratorTool client:load />
+</ToolLayout>

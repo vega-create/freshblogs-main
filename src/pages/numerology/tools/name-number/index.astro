@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import NameNumberTool from '../../../../components/tools/NameNumberTool';
+---
+<ToolLayout title="Name Number Calculator" description="Discover the numerological value of your name using the Pythagorean system" emoji="✨" toolSlug="name-number"
+  faq={[{"q": "How is the name number calculated?", "a": "Each letter is assigned a number 1-9 using the Pythagorean system. The values are summed and reduced to a single digit."}, {"q": "Should I use my full name?", "a": "Use your full birth name for the most accurate result. Nicknames give your social number."}]}
+  relatedTools={[{"name": "Life Path", "emoji": "🔢", "path": "life-path"}, {"name": "Angel Numbers", "emoji": "👼", "path": "angel-number"}]}
+>
+  <NameNumberTool client:load />
+</ToolLayout>

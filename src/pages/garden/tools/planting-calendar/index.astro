@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import PlantingCalendarTool from '../../../../components/tools/PlantingCalendarTool';
+---
+<ToolLayout title="Planting Calendar" description="Find the best time to plant vegetables, herbs, and flowers in your USDA zone" emoji="📅" toolSlug="planting-calendar"
+  faq={[{"q": "How do I find my USDA zone?", "a": "Select the zone that matches your region. Zone maps are available on the USDA website for precise location."}, {"q": "What does Plant Now mean?", "a": "If a plant shows Plant Now, the current month falls within its ideal planting window for your zone."}]}
+  relatedTools={[{"name": "Plant Finder Quiz", "emoji": "\ud83c\udf3f", "path": "plant-quiz"}, {"name": "Watering Schedule", "emoji": "\ud83c\udf31", "path": "watering"}]}
+>
+  <PlantingCalendarTool client:load />
+</ToolLayout>

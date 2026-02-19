@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import UnitConverterTool from '../../../../components/tools/UnitConverterTool';
+---
+<ToolLayout title="Kitchen Unit Converter" description="Convert between cups, ml, grams, oz, tablespoons, and temperatures for cooking" emoji="⚖️" toolSlug="converter"
+  faq={[{"q": "How do I convert cups to grams?", "a": "It depends on the ingredient. This tool converts volume to volume and weight to weight. For ingredient-specific conversions, search online."}, {"q": "What temperature is 350°F in Celsius?", "a": "350°F equals approximately 175°C. Use our converter for exact calculations."}]}
+  relatedTools={[]}
+>
+  <UnitConverterTool client:load />
+</ToolLayout>

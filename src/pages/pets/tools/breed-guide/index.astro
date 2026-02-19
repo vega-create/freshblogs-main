@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import BreedGuideTool from '../../../../components/tools/BreedGuideTool';
+---
+<ToolLayout title="Breed Info Guide" description="Browse popular dog and cat breeds with size, energy, grooming, and personality details" emoji="📋" toolSlug="breed-guide"
+  faq={[{"q": "How many breeds are listed?", "a": "12 of the most popular dog and cat breeds with detailed profiles including personality, care needs, and ideal owner match."}, {"q": "Should I adopt or shop?", "a": "We always encourage checking shelters first! Many purebred and mixed-breed pets need loving homes."}]}
+  relatedTools={[{"name": "Pet Match Quiz", "emoji": "\ud83d\udc3e", "path": "pet-match"}, {"name": "Pet Name Generator", "emoji": "\ud83c\udff7\ufe0f", "path": "name-generator"}]}
+>
+  <BreedGuideTool client:load />
+</ToolLayout>

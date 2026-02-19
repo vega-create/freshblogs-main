@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import WateringScheduleTool from '../../../../components/tools/WateringScheduleTool';
+---
+<ToolLayout title="Plant Watering Schedule" description="Build a personalized watering schedule for your houseplants and garden" emoji="🌱" toolSlug="watering"
+  faq={[{"q": "How often should I water my plants?", "a": "It varies by plant type. Select your plants to get a customized schedule based on each plant's needs."}, {"q": "What are signs of overwatering?", "a": "Yellow leaves, mushy stems, and fungus gnats are common signs. Let soil dry between waterings."}]}
+  relatedTools={[]}
+>
+  <WateringScheduleTool client:load />
+</ToolLayout>

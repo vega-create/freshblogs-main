@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import QuoteGeneratorTool from '../../../../components/tools/QuoteGeneratorTool';
+---
+<ToolLayout title="Quote Generator" description="Discover inspiring quotes by category — motivation, love, wisdom, happiness, and more" emoji="💬" toolSlug="generator"
+  faq={[{"q": "How many quotes are available?", "a": "We have hundreds of curated quotes across 6 categories, with new ones added regularly."}, {"q": "Can I save my favorite quotes?", "a": "Use the copy button to save quotes to your clipboard, or screenshot your favorites."}]}
+  relatedTools={[]}
+>
+  <QuoteGeneratorTool client:load />
+</ToolLayout>

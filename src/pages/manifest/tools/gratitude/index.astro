@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import GratitudeJournalTool from '../../../../components/tools/GratitudeJournalTool';
+---
+<ToolLayout title="Gratitude Journal" description="Build a daily gratitude practice with guided prompts and streak tracking" emoji="🙏" toolSlug="gratitude"
+  faq={[{"q": "Why practice gratitude?", "a": "Studies show gratitude journaling improves mental health, sleep quality, and overall life satisfaction."}, {"q": "How long does it take to see benefits?", "a": "Most people notice positive changes within 2-3 weeks of consistent daily practice."}]}
+  relatedTools={[{"name": "Affirmations", "emoji": "💕", "path": "affirmations"}]}
+>
+  <GratitudeJournalTool client:load />
+</ToolLayout>

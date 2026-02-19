@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DestinationQuiz from '../../../../components/tools/DestinationQuiz';
+---
+<ToolLayout title="Destination Quiz" description="Answer 5 questions to discover your perfect travel destination" emoji="🌍" toolSlug="destination-quiz"
+  faq={[{"q": "How many destinations are possible?", "a": "Over 10 curated destinations spanning every continent and travel style."}, {"q": "Are budget estimates accurate?", "a": "Estimates are based on average daily costs for each travel style. Actual costs vary by season."}]}
+  relatedTools={[{"name": "Packing Checklist", "emoji": "\ud83e\uddf3", "path": "packing"}, {"name": "Trip Budget", "emoji": "\ud83d\udcb0", "path": "budget"}]}
+>
+  <DestinationQuiz client:load />
+</ToolLayout>

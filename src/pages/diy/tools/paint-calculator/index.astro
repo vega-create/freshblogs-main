@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import PaintCalculatorTool from '../../../../components/tools/PaintCalculatorTool';
+---
+<ToolLayout title="Paint Calculator" description="Calculate exactly how much paint you need for any room with cost estimates" emoji="🎨" toolSlug="paint-calculator"
+  faq={[{"q": "How much does a gallon of paint cover?", "a": "One gallon of paint typically covers about 350-400 square feet with one coat."}, {"q": "How many coats do I need?", "a": "Most rooms need 2 coats for even coverage. Dark colors over light may need 3 coats."}]}
+  relatedTools={[]}
+>
+  <PaintCalculatorTool client:load />
+</ToolLayout>

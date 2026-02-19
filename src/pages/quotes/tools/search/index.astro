@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import QuoteSearchTool from '../../../../components/tools/QuoteSearchTool';
+---
+<ToolLayout title="Quote Search" description="Search inspiring quotes by keyword, author, or topic tag" emoji="🔍" toolSlug="search"
+  faq={[{"q": "How many quotes are available?", "a": "Over 25 curated quotes from famous thinkers, leaders, and authors across 8 topic categories."}, {"q": "Can I copy quotes?", "a": "Yes! Click the clipboard icon next to any quote to copy it with attribution."}]}
+  relatedTools={[{"name": "Quote Generator", "emoji": "\ud83d\udcac", "path": "generator"}, {"name": "Quote Image Maker", "emoji": "\ud83d\uddbc\ufe0f", "path": "image-maker"}]}
+>
+  <QuoteSearchTool client:load />
+</ToolLayout>

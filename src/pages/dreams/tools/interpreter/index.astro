@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DreamInterpreterTool from '../../../../components/tools/DreamInterpreterTool';
+---
+<ToolLayout title="Dream Interpreter" description="Describe your dream and get a personalized interpretation with themes and advice" emoji="🔮" toolSlug="interpreter"
+  faq={[{"q": "How does it interpret dreams?", "a": "It analyzes keywords and themes in your description to identify patterns like anxiety, transformation, relationships, and more."}, {"q": "Are dream interpretations accurate?", "a": "Dream interpretation is subjective. Use this as a starting point for self-reflection, not as a definitive analysis."}]}
+  relatedTools={[{"name": "Dream Dictionary", "emoji": "\ud83c\udf19", "path": "dictionary"}, {"name": "Dream Journal", "emoji": "\ud83d\udcd3", "path": "journal"}]}
+>
+  <DreamInterpreterTool client:load />
+</ToolLayout>

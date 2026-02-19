@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import MBTIQuiz from '../../../../components/tools/MBTIQuiz';
+---
+<ToolLayout title="MBTI Personality Quiz" description="Take a quick 12-question quiz to discover your Myers-Briggs personality type" emoji="🧠" toolSlug="mbti"
+  faq={[{"q": "What is MBTI?", "a": "The Myers-Briggs Type Indicator classifies personalities into 16 types based on 4 dimensions: Introversion/Extraversion, Sensing/Intuition, Thinking/Feeling, Judging/Perceiving."}, {"q": "How accurate is this quiz?", "a": "This is a simplified version. For a comprehensive assessment, consider the official MBTI instrument."}]}
+  relatedTools={[]}
+>
+  <MBTIQuiz client:load />
+</ToolLayout>

@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import PetMatchQuiz from '../../../../components/tools/PetMatchQuiz';
+---
+<ToolLayout title="Pet Match Quiz" description="Answer 6 lifestyle questions to find your perfect pet match" emoji="🐾" toolSlug="pet-match"
+  faq={[{"q": "How does the matching work?", "a": "We consider your activity level, living space, available time, family situation, and preferences to recommend the best pet."}, {"q": "Should I adopt or buy?", "a": "We always encourage adoption! Shelters have wonderful pets of all breeds looking for loving homes."}]}
+  relatedTools={[{"name": "Pet Name Generator", "emoji": "\ud83c\udff7\ufe0f", "path": "name-generator"}]}
+>
+  <PetMatchQuiz client:load />
+</ToolLayout>

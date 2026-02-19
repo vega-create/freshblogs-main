@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import MeasurementTool from '../../../../components/tools/MeasurementTool';
+---
+<ToolLayout title="DIY Measurement Converter" description="Convert between inches, feet, meters, and more for home improvement projects" emoji="📏" toolSlug="measurement"
+  faq={[{"q": "What units can I convert?", "a": "Length (inches, feet, yards, cm, meters), area (sq ft, sq m, acres), and volume (cubic ft, gallons, liters)."}, {"q": "Is this accurate for construction?", "a": "Yes, conversions use precise mathematical factors suitable for construction and home improvement."}]}
+  relatedTools={[{"name": "Paint Calculator", "emoji": "\ud83c\udfa8", "path": "paint-calculator"}]}
+>
+  <MeasurementTool client:load />
+</ToolLayout>

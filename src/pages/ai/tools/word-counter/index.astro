@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import WordCounterTool from '../../../../components/tools/WordCounterTool';
+---
+<ToolLayout title="Word & Character Counter" description="Count words, characters, sentences and check platform limits for social media" emoji="📝" toolSlug="word-counter"
+  faq={[{"q": "What platform limits does it check?", "a": "Twitter/X (280 chars), Instagram (2200), LinkedIn (3000), meta descriptions (160), and blog post word counts."}, {"q": "How is reading time calculated?", "a": "Based on an average reading speed of 200 words per minute."}]}
+  relatedTools={[{"name": "AI Prompt Generator", "emoji": "\ud83e\udd16", "path": "prompt-generator"}]}
+>
+  <WordCounterTool client:load />
+</ToolLayout>
