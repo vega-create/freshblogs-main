@@ -1,0 +1,18 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DailyColorTool from '../../../../components/tools/DailyColorTool';
+---
+<ToolLayout title="Today's Lucky Color" description="Discover your personalized lucky color for today based on your zodiac sign" emoji="🎨" toolSlug="daily-color"
+  faq={[
+    {q:'How is my lucky color determined?',a:'Your daily lucky color is based on your zodiac sign\'s ruling planet and element, combined with the current date.'},
+    {q:'Does the lucky color change daily?',a:'Yes! A new color is generated each day for every zodiac sign.'},
+    {q:'How should I use my lucky color?',a:'Wear it, decorate with it, or simply keep it in mind for positive energy throughout your day.'},
+  ]}
+  relatedTools={[
+    {name:'Lucky Number',emoji:'🔢',path:'lucky-number'},
+    {name:"What's My Sign",emoji:'🔮',path:'zodiac-sign'},
+    {name:'Element Quiz',emoji:'🔥',path:'element-quiz'},
+  ]}
+>
+  <DailyColorTool client:load />
+</ToolLayout>

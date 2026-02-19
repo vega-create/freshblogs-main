@@ -1,0 +1,18 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import ElementQuiz from '../../../../components/tools/ElementQuiz';
+---
+<ToolLayout title="What's My Element? Quiz" description="Take this 7-question quiz to discover if you're Fire, Earth, Air, or Water" emoji="🔥" toolSlug="element-quiz"
+  faq={[
+    {q:'What are the 4 zodiac elements?',a:'Fire (Aries, Leo, Sagittarius), Earth (Taurus, Virgo, Capricorn), Air (Gemini, Libra, Aquarius), and Water (Cancer, Scorpio, Pisces).'},
+    {q:'Can I be a mix of elements?',a:'Absolutely! While your sun sign has one element, your full birth chart likely contains placements across multiple elements.'},
+    {q:'What does my element say about me?',a:'Fire = passionate & bold, Earth = practical & grounded, Air = intellectual & social, Water = intuitive & emotional.'},
+  ]}
+  relatedTools={[
+    {name:"What's My Sign",emoji:'🔮',path:'zodiac-sign'},
+    {name:'Birth Chart',emoji:'📊',path:'birth-chart'},
+    {name:'Trivia',emoji:'🎮',path:'trivia'},
+  ]}
+>
+  <ElementQuiz client:load />
+</ToolLayout>

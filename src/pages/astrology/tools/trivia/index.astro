@@ -1,0 +1,18 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import TriviaTool from '../../../../components/tools/TriviaTool';
+---
+<ToolLayout title="Zodiac Trivia Quiz" description="Test your astrology knowledge with 10 random questions — how well do you know the stars?" emoji="🎮" toolSlug="trivia"
+  faq={[
+    {q:'How many questions are in the quiz?',a:'Each round has 10 randomly selected questions from our database. Play again for different questions!'},
+    {q:'What topics does the trivia cover?',a:'Questions cover zodiac signs, ruling planets, elements, qualities, and general astrology knowledge.'},
+    {q:'Can I play multiple times?',a:'Yes! Questions are shuffled each time, so every round is different.'},
+  ]}
+  relatedTools={[
+    {name:'Element Quiz',emoji:'🔥',path:'element-quiz'},
+    {name:"What's My Sign",emoji:'🔮',path:'zodiac-sign'},
+    {name:'Celebrity Match',emoji:'⭐',path:'celebrity-match'},
+  ]}
+>
+  <TriviaTool client:load />
+</ToolLayout>

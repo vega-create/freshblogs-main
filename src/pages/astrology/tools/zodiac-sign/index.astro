@@ -1,0 +1,18 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import ZodiacSignTool from '../../../../components/tools/ZodiacSignTool';
+---
+<ToolLayout title="What's My Zodiac Sign?" description="Enter your birthday to discover your zodiac sign, element, and personality traits" emoji="🔮" toolSlug="zodiac-sign"
+  faq={[
+    {q:'How do I find my zodiac sign?',a:'Enter your birth month and day. Your zodiac sign is determined by the position of the Sun on your birthday.'},
+    {q:'What if I\'m born on a cusp?',a:'If born near the transition between two signs, you may resonate with both. The exact cutoff depends on the year.'},
+    {q:'Are zodiac dates the same every year?',a:'They can shift by a day depending on the year. This tool uses the most common date ranges.'},
+  ]}
+  relatedTools={[
+    {name:'Compatibility',emoji:'💕',path:'compatibility'},
+    {name:'Rising Sign',emoji:'⬆️',path:'rising-sign'},
+    {name:'Element Quiz',emoji:'🔥',path:'element-quiz'},
+  ]}
+>
+  <ZodiacSignTool client:load />
+</ToolLayout>

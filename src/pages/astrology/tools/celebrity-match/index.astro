@@ -1,0 +1,18 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import CelebrityMatchTool from '../../../../components/tools/CelebrityMatchTool';
+---
+<ToolLayout title="Celebrity Zodiac Match" description="Discover which celebrities share your zodiac sign — your daily celebrity twin!" emoji="⭐" toolSlug="celebrity-match"
+  faq={[
+    {q:'Are these celebrities really that zodiac sign?',a:'Yes! All celebrity birthdays and zodiac signs listed are verified and accurate.'},
+    {q:'Why does my celebrity twin change daily?',a:'We rotate through famous people who share your sign so you discover a new match every day.'},
+    {q:'Do celebrities with the same sign have similar personalities?',a:'They often share core traits! But remember, a full birth chart includes moon, rising, and other placements that create individuality.'},
+  ]}
+  relatedTools={[
+    {name:'Compatibility',emoji:'💕',path:'compatibility'},
+    {name:"What's My Sign",emoji:'🔮',path:'zodiac-sign'},
+    {name:'Trivia',emoji:'🎮',path:'trivia'},
+  ]}
+>
+  <CelebrityMatchTool client:load />
+</ToolLayout>

@@ -1,0 +1,18 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import RisingSignTool from '../../../../components/tools/RisingSignTool';
+---
+<ToolLayout title="Rising Sign Calculator" description="Calculate your ascendant sign based on your birthday and birth time" emoji="⬆️" toolSlug="rising-sign"
+  faq={[
+    {q:'What is a rising sign?',a:'Your rising sign (ascendant) is the zodiac sign that was on the eastern horizon at your birth time. It shapes how others perceive you.'},
+    {q:'Do I need my exact birth time?',a:'Yes, the rising sign changes every ~2 hours. Without exact birth time, results are approximate.'},
+    {q:'Is my rising sign more important than my sun sign?',a:'Both matter! Your sun sign is your core identity, while your rising sign is your social mask and first impression.'},
+  ]}
+  relatedTools={[
+    {name:'Moon Sign',emoji:'🌙',path:'moon-sign'},
+    {name:'Birth Chart',emoji:'📊',path:'birth-chart'},
+    {name:"What's My Sign",emoji:'🔮',path:'zodiac-sign'},
+  ]}
+>
+  <RisingSignTool client:load />
+</ToolLayout>

@@ -1,0 +1,18 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import MoonSignTool from '../../../../components/tools/MoonSignTool';
+---
+<ToolLayout title="Moon Sign Calculator" description="Discover your emotional moon sign and understand your inner world" emoji="🌙" toolSlug="moon-sign"
+  faq={[
+    {q:'What does my moon sign mean?',a:'Your moon sign governs your emotions, instincts, and subconscious. It reveals how you process feelings and what makes you feel secure.'},
+    {q:'Is the moon sign different from the sun sign?',a:'Yes. Your sun sign is your outward identity, while your moon sign is your emotional inner self that only close people see.'},
+    {q:'Why do I need my birth year for moon sign?',a:'The Moon moves through all 12 signs every ~28 days, so your birth year is needed to calculate where the Moon was when you were born.'},
+  ]}
+  relatedTools={[
+    {name:'Rising Sign',emoji:'⬆️',path:'rising-sign'},
+    {name:'Birth Chart',emoji:'📊',path:'birth-chart'},
+    {name:'Compatibility',emoji:'💕',path:'compatibility'},
+  ]}
+>
+  <MoonSignTool client:load />
+</ToolLayout>

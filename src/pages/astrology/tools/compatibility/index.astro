@@ -1,0 +1,18 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import CompatibilityTool from '../../../../components/tools/CompatibilityTool';
+---
+<ToolLayout title="Zodiac Compatibility Checker" description="Check love, friendship, and work compatibility between any two zodiac signs" emoji="💕" toolSlug="compatibility"
+  faq={[
+    {q:'How accurate is zodiac compatibility?',a:'Zodiac compatibility is a fun framework for understanding relationship dynamics. Real compatibility depends on many factors beyond sun signs.'},
+    {q:'What makes the best zodiac matches?',a:'Generally, signs of the same element (Fire-Fire, Earth-Earth) or complementary elements (Fire-Air, Earth-Water) tend to have natural chemistry.'},
+    {q:'Can incompatible signs make it work?',a:'Absolutely! Any two signs can build a great relationship with communication, respect, and understanding.'},
+  ]}
+  relatedTools={[
+    {name:"What's My Sign",emoji:'🔮',path:'zodiac-sign'},
+    {name:'Birth Chart',emoji:'📊',path:'birth-chart'},
+    {name:'Celebrity Match',emoji:'⭐',path:'celebrity-match'},
+  ]}
+>
+  <CompatibilityTool client:load />
+</ToolLayout>

@@ -1,0 +1,18 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import LuckyNumberTool from '../../../../components/tools/LuckyNumberTool';
+---
+<ToolLayout title="Today's Lucky Numbers" description="Get your personalized lucky numbers for today based on your zodiac sign" emoji="🔢" toolSlug="lucky-number"
+  faq={[
+    {q:'How are lucky numbers calculated?',a:'Your lucky numbers are generated using your zodiac sign combined with today\'s date, creating a unique set each day.'},
+    {q:'Do the numbers change every day?',a:'Yes, you get fresh lucky numbers daily. Come back tomorrow for a new set!'},
+    {q:'Can I use these for the lottery?',a:'These are for entertainment only. There is no guarantee of winning. Please gamble responsibly.'},
+  ]}
+  relatedTools={[
+    {name:'Lucky Color',emoji:'🎨',path:'daily-color'},
+    {name:"What's My Sign",emoji:'🔮',path:'zodiac-sign'},
+    {name:'Compatibility',emoji:'💕',path:'compatibility'},
+  ]}
+>
+  <LuckyNumberTool client:load />
+</ToolLayout>

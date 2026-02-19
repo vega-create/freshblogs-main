@@ -1,0 +1,18 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import BirthChartTool from '../../../../components/tools/BirthChartTool';
+---
+<ToolLayout title="Birth Chart Generator" description="Generate a simplified birth chart showing your Sun, Moon, Rising, Mercury, Venus, and Mars placements" emoji="📊" toolSlug="birth-chart"
+  faq={[
+    {q:'What is a birth chart?',a:'A birth chart (natal chart) maps the positions of celestial bodies at your exact moment of birth, revealing your personality blueprint.'},
+    {q:'What do the different planets mean?',a:'Sun = identity, Moon = emotions, Rising = appearance, Mercury = communication, Venus = love, Mars = drive and energy.'},
+    {q:'Is this an accurate birth chart?',a:'This is a simplified estimate. Professional birth charts require exact birth time, date, and location for precise planetary positions.'},
+  ]}
+  relatedTools={[
+    {name:'Rising Sign',emoji:'⬆️',path:'rising-sign'},
+    {name:'Moon Sign',emoji:'🌙',path:'moon-sign'},
+    {name:'Element Quiz',emoji:'🔥',path:'element-quiz'},
+  ]}
+>
+  <BirthChartTool client:load />
+</ToolLayout>
