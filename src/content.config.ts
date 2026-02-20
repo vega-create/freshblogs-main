@@ -1,5 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
+import fs from 'node:fs';
 
 const blogSchema = z.object({
   title: z.string(),
@@ -17,11 +18,19 @@ const blogSchema = z.object({
   })).optional(),
 });
 
-const astrologyBlog = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/astrology/blog' }),
-  schema: blogSchema,
+const sites = ['astrology','tarot','numerology','dreams','personality','manifest','quotes','pets','recipes','ai','travel','diy','garden'];
+
+const collections: Record<string, ReturnType<typeof defineCollection>> = {};
+sites.forEach(site => {
+  const base = `./src/content/${site}/blog`;
+  // Ensure directory exists to prevent glob errors
+  if (!fs.existsSync(base)) {
+    fs.mkdirSync(base, { recursive: true });
+  }
+  collections[`${site}-blog`] = defineCollection({
+    loader: glob({ pattern: '**/*.md', base }),
+    schema: blogSchema,
+  });
 });
 
-export const collections = {
-  'astrology-blog': astrologyBlog,
-};
+export { collections };
