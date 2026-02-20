@@ -4,7 +4,7 @@ export const siteConfig = {
   description: 'Your daily dose of astrology, personality quizzes, tarot readings, dream interpretations, and more. Free interactive tools and expert insights.',
   author: 'FreshBlogs Editorial Team',
   adsensePubId: 'ca-pub-3493526929407874',
-  ga4Id: '', // TODO: add GA4 measurement ID
+  ga4Id: 'G-F1XNLPLJGT', // TODO: add GA4 measurement ID
   lang: 'en',
   locale: 'en_US',
   ogImage: '/images/og-default.png',
