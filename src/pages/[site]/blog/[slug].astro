@@ -5,16 +5,21 @@ import ShareButtons from '../../../components/ShareButtons.astro';
 import CrossSiteLinks from '../../../components/CrossSiteLinks.astro';
 import { siteConfig } from '../../../../site.config';
 
-const collectionMap: Record<string, string> = {
+const CM: Record<string, string> = {
   astrology:'astrology-blog',tarot:'tarot-blog',numerology:'numerology-blog',dreams:'dreams-blog',
   personality:'personality-blog',manifest:'manifest-blog',quotes:'quotes-blog',pets:'pets-blog',
   recipes:'recipes-blog',ai:'ai-blog',travel:'travel-blog',diy:'diy-blog',garden:'garden-blog',
 };
 
 export async function getStaticPaths() {
+  const map: Record<string, string> = {
+    astrology:'astrology-blog',tarot:'tarot-blog',numerology:'numerology-blog',dreams:'dreams-blog',
+    personality:'personality-blog',manifest:'manifest-blog',quotes:'quotes-blog',pets:'pets-blog',
+    recipes:'recipes-blog',ai:'ai-blog',travel:'travel-blog',diy:'diy-blog',garden:'garden-blog',
+  };
   const paths: any[] = [];
   for (const site of siteConfig.sites) {
-    const col = collectionMap[site.slug];
+    const col = map[site.slug];
     if (!col) continue;
     try {
       const posts = await getCollection(col as any);
@@ -61,9 +66,8 @@ const faqLd = faq && faq.length > 0 ? {
 } : null;
 const jsonLdArray = [articleLd, breadcrumbLd, ...(faqLd ? [faqLd] : [])];
 
-const colName = collectionMap[site.slug];
 let allPosts: any[] = [];
-try { allPosts = await getCollection(colName as any); } catch {}
+try { allPosts = await getCollection(CM[site.slug] as any); } catch {}
 const relatedPosts = allPosts.filter((p: any) => p.id !== post.id).sort(() => Math.random() - 0.5).slice(0, 4);
 const internalLinks = allPosts.filter((p: any) => p.id !== post.id).sort(() => Math.random() - 0.5).slice(0, 6);
 
