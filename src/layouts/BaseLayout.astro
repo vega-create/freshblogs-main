@@ -126,9 +126,9 @@ if (Astro.url.pathname === '/') {
               {site.emoji} {site.name}
             </a>
           ))}
-          <div class="relative group">
-            <button class="px-2 py-1 rounded hover:bg-white/10 transition-colors">More ▾</button>
-            <div class="absolute right-0 top-full mt-1 bg-gray-900 border border-white/10 rounded-lg shadow-xl hidden group-hover:block min-w-[160px]">
+          <div class="relative">
+            <button id="more-btn" class="px-2 py-1 rounded hover:bg-white/10 transition-colors">More ▾</button>
+            <div id="more-menu" class="absolute right-0 top-full mt-1 bg-gray-900 border border-white/10 rounded-lg shadow-xl hidden min-w-[160px] z-50">
               {siteConfig.sites.slice(7).map((site) => (
                 <a
                   href={`/${site.slug}/`}
@@ -218,6 +218,11 @@ if (Astro.url.pathname === '/') {
       const btn = document.getElementById('mobile-menu-btn');
       const menu = document.getElementById('mobile-menu');
       btn?.addEventListener('click', () => menu?.classList.toggle('hidden'));
+
+      const moreBtn = document.getElementById('more-btn');
+      const moreMenu = document.getElementById('more-menu');
+      moreBtn?.addEventListener('click', (e) => { e.stopPropagation(); moreMenu?.classList.toggle('hidden'); });
+      document.addEventListener('click', () => moreMenu?.classList.add('hidden'));
     </script>
   </body>
 </html>
