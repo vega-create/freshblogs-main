@@ -1,0 +1,4501 @@
+{
+  "meta": {
+    "total_tests": 10,
+    "version": "1.0",
+    "description": "Personality test question banks for freshblogs.cc interactive tools",
+    "tests": [
+      {
+        "id": 1,
+        "slug": "zodiac-personality-type",
+        "title": "What's Your True Zodiac Personality Type?",
+        "category": "astrology"
+      },
+      {
+        "id": 2,
+        "slug": "love-language-style",
+        "title": "What Is Your Cosmic Love Style?",
+        "category": "love"
+      },
+      {
+        "id": 3,
+        "slug": "spirit-animal",
+        "title": "What Is Your Spirit Animal?",
+        "category": "spirituality"
+      },
+      {
+        "id": 4,
+        "slug": "dominant-energy",
+        "title": "What Is Your Dominant Energy Type?",
+        "category": "energy"
+      },
+      {
+        "id": 5,
+        "slug": "ruling-planet",
+        "title": "Which Planet Rules Your Life?",
+        "category": "astrology"
+      },
+      {
+        "id": 6,
+        "slug": "past-life-archetype",
+        "title": "What Past Life Archetype Do You Carry?",
+        "category": "spirituality"
+      },
+      {
+        "id": 7,
+        "slug": "chakra-profile",
+        "title": "Which Chakra Needs Your Attention?",
+        "category": "wellness"
+      },
+      {
+        "id": 8,
+        "slug": "manifestation-style",
+        "title": "What Is Your Manifestation Style?",
+        "category": "wellness"
+      },
+      {
+        "id": 9,
+        "slug": "relationship-attachment-style",
+        "title": "What Is Your Cosmic Attachment Style?",
+        "category": "love"
+      },
+      {
+        "id": 10,
+        "slug": "cosmic-purpose",
+        "title": "What Is Your Cosmic Purpose?",
+        "category": "spirituality"
+      }
+    ]
+  },
+  "tests": [
+    {
+      "id": 1,
+      "slug": "zodiac-personality-type",
+      "title": "What's Your True Zodiac Personality Type?",
+      "description": "Beyond your sun sign — discover which zodiac archetype truly drives your personality. 15 questions reveal your cosmic blueprint.",
+      "category": "astrology",
+      "estimated_minutes": 5,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "When you walk into a party where you know almost no one, you:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Immediately start introducing yourself to everyone",
+              "scores": {
+                "Aries": 3,
+                "Leo": 3,
+                "Sagittarius": 2,
+                "Gemini": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Find a small group and join an interesting conversation",
+              "scores": {
+                "Libra": 3,
+                "Aquarius": 2,
+                "Gemini": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Stick close to the person who brought you",
+              "scores": {
+                "Cancer": 3,
+                "Taurus": 2,
+                "Virgo": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Observe the room first, then selectively engage",
+              "scores": {
+                "Scorpio": 3,
+                "Capricorn": 2,
+                "Pisces": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "Your biggest strength in relationships is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Passion and excitement — you keep things alive",
+              "scores": {
+                "Aries": 3,
+                "Sagittarius": 2,
+                "Leo": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Loyalty and dependability — you're always there",
+              "scores": {
+                "Taurus": 3,
+                "Cancer": 3,
+                "Capricorn": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Communication and adaptability",
+              "scores": {
+                "Gemini": 3,
+                "Libra": 2,
+                "Aquarius": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Depth and emotional intelligence",
+              "scores": {
+                "Scorpio": 3,
+                "Pisces": 3,
+                "Cancer": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "text": "When you face a major life decision, you primarily:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Trust your gut and act decisively",
+              "scores": {
+                "Aries": 3,
+                "Sagittarius": 2,
+                "Leo": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Carefully analyze all information before deciding",
+              "scores": {
+                "Virgo": 3,
+                "Capricorn": 3,
+                "Taurus": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Consult people you trust and weigh perspectives",
+              "scores": {
+                "Libra": 3,
+                "Cancer": 2,
+                "Gemini": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Follow your intuition and sense of deeper meaning",
+              "scores": {
+                "Pisces": 3,
+                "Scorpio": 3,
+                "Aquarius": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "text": "Your ideal weekend looks like:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Adventure, travel, or trying something completely new",
+              "scores": {
+                "Sagittarius": 3,
+                "Aries": 3,
+                "Gemini": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "A cozy, comfortable day at home with loved ones",
+              "scores": {
+                "Cancer": 3,
+                "Taurus": 3,
+                "Pisces": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Social events — dinner parties, concerts, seeing friends",
+              "scores": {
+                "Leo": 3,
+                "Libra": 3,
+                "Gemini": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Productive alone time — projects, research, creating",
+              "scores": {
+                "Capricorn": 3,
+                "Virgo": 3,
+                "Aquarius": 2,
+                "Scorpio": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "text": "What do people most admire about you?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Your confidence and ability to lead",
+              "scores": {
+                "Leo": 3,
+                "Aries": 3,
+                "Capricorn": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Your kindness and emotional support",
+              "scores": {
+                "Cancer": 3,
+                "Pisces": 3,
+                "Libra": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Your intelligence and unique perspective",
+              "scores": {
+                "Aquarius": 3,
+                "Gemini": 3,
+                "Virgo": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Your depth and mysterious intensity",
+              "scores": {
+                "Scorpio": 3,
+                "Capricorn": 2,
+                "Taurus": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q6",
+          "text": "When someone wrongs you, you are most likely to:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Confront them directly and immediately",
+              "scores": {
+                "Aries": 3,
+                "Leo": 2,
+                "Scorpio": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Process it internally for a long time before deciding",
+              "scores": {
+                "Scorpio": 3,
+                "Cancer": 2,
+                "Taurus": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Try to understand their perspective and forgive",
+              "scores": {
+                "Libra": 3,
+                "Pisces": 3,
+                "Cancer": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Quietly distance yourself and move on",
+              "scores": {
+                "Capricorn": 3,
+                "Virgo": 2,
+                "Aquarius": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q7",
+          "text": "Your relationship with money and material things is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "You spend freely on experiences and enjoyment",
+              "scores": {
+                "Sagittarius": 3,
+                "Leo": 2,
+                "Aries": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "You value security and save carefully",
+              "scores": {
+                "Taurus": 3,
+                "Capricorn": 3,
+                "Cancer": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Money matters less than meaning and connection",
+              "scores": {
+                "Pisces": 3,
+                "Aquarius": 2,
+                "Sagittarius": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "You manage it strategically as a tool for power",
+              "scores": {
+                "Scorpio": 3,
+                "Capricorn": 2,
+                "Virgo": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q8",
+          "text": "In group projects, you naturally become:",
+          "options": [
+            {
+              "id": "a",
+              "text": "The leader who sets the vision and direction",
+              "scores": {
+                "Leo": 3,
+                "Aries": 3,
+                "Capricorn": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "The organizer who ensures everything gets done properly",
+              "scores": {
+                "Virgo": 3,
+                "Capricorn": 2,
+                "Taurus": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "The connector who keeps the team's energy positive",
+              "scores": {
+                "Libra": 3,
+                "Cancer": 2,
+                "Gemini": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "The creative mind who brings unexpected solutions",
+              "scores": {
+                "Aquarius": 3,
+                "Pisces": 2,
+                "Scorpio": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q9",
+          "text": "Your inner world is best described as:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Bold visions and ambitious dreams constantly forming",
+              "scores": {
+                "Sagittarius": 3,
+                "Aries": 2,
+                "Leo": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Deep emotional currents and complex feelings",
+              "scores": {
+                "Scorpio": 3,
+                "Cancer": 3,
+                "Pisces": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Practical plans and realistic assessments",
+              "scores": {
+                "Taurus": 3,
+                "Virgo": 3,
+                "Capricorn": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Ideas, connections, and intellectual explorations",
+              "scores": {
+                "Gemini": 3,
+                "Aquarius": 3,
+                "Libra": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q10",
+          "text": "When you're stressed, you tend to:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Become restless, impulsive, or aggressive",
+              "scores": {
+                "Aries": 3,
+                "Leo": 2,
+                "Sagittarius": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Retreat inward and become guarded or withdrawn",
+              "scores": {
+                "Scorpio": 3,
+                "Cancer": 3,
+                "Taurus": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Overthink and analyze everything obsessively",
+              "scores": {
+                "Virgo": 3,
+                "Gemini": 2,
+                "Capricorn": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Escape through fantasy, spirituality, or creativity",
+              "scores": {
+                "Pisces": 3,
+                "Aquarius": 2,
+                "Sagittarius": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q11",
+          "text": "Your approach to change is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Bring it on — you thrive in new situations",
+              "scores": {
+                "Aries": 3,
+                "Sagittarius": 3,
+                "Gemini": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Resist it initially, but adapt when necessary",
+              "scores": {
+                "Taurus": 3,
+                "Cancer": 2,
+                "Capricorn": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Embrace it intellectually even if emotionally unsettled",
+              "scores": {
+                "Aquarius": 3,
+                "Libra": 2,
+                "Gemini": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Transform through change — it's your natural element",
+              "scores": {
+                "Scorpio": 3,
+                "Pisces": 2,
+                "Capricorn": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q12",
+          "text": "Love, for you, is primarily about:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Passion, intensity, and magnetic attraction",
+              "scores": {
+                "Scorpio": 3,
+                "Aries": 2,
+                "Leo": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Security, loyalty, and building a life together",
+              "scores": {
+                "Taurus": 3,
+                "Cancer": 3,
+                "Capricorn": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Partnership, balance, and mutual growth",
+              "scores": {
+                "Libra": 3,
+                "Aquarius": 2,
+                "Gemini": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Spiritual connection and unconditional acceptance",
+              "scores": {
+                "Pisces": 3,
+                "Cancer": 2,
+                "Sagittarius": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q13",
+          "text": "Others would describe your sense of humor as:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Bold, irreverent, and sometimes shocking",
+              "scores": {
+                "Aries": 3,
+                "Sagittarius": 2,
+                "Scorpio": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Dry, subtle, and deeply clever",
+              "scores": {
+                "Capricorn": 3,
+                "Virgo": 2,
+                "Aquarius": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Quick-witted and playfully teasing",
+              "scores": {
+                "Gemini": 3,
+                "Leo": 2,
+                "Libra": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Absurdist, imaginative, and uniquely their own",
+              "scores": {
+                "Pisces": 3,
+                "Aquarius": 3,
+                "Scorpio": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q14",
+          "text": "Your greatest fear is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Being controlled or losing your freedom",
+              "scores": {
+                "Sagittarius": 3,
+                "Aquarius": 3,
+                "Aries": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Losing security, stability, or the people you love",
+              "scores": {
+                "Cancer": 3,
+                "Taurus": 3,
+                "Capricorn": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Being ordinary, ignored, or failing publicly",
+              "scores": {
+                "Leo": 3,
+                "Aries": 2,
+                "Capricorn": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Betrayal, powerlessness, or hidden deception",
+              "scores": {
+                "Scorpio": 3,
+                "Virgo": 2,
+                "Cancer": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q15",
+          "text": "At your core, you are driven by:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Achievement, recognition, and leaving a legacy",
+              "scores": {
+                "Capricorn": 3,
+                "Leo": 3,
+                "Aries": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Connection, belonging, and emotional nourishment",
+              "scores": {
+                "Cancer": 3,
+                "Pisces": 2,
+                "Libra": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Understanding, knowledge, and mental stimulation",
+              "scores": {
+                "Gemini": 3,
+                "Aquarius": 3,
+                "Sagittarius": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Transformation, truth, and the depths of experience",
+              "scores": {
+                "Scorpio": 3,
+                "Pisces": 2,
+                "Sagittarius": 2
+              }
+            }
+          ]
+        }
+      ],
+      "results": {
+        "Aries": {
+          "title": "The Cosmic Pioneer — Aries Archetype",
+          "description": "You lead with fire, instinct, and unmatched courage. The Aries archetype drives you toward new beginnings, bold action, and authentic self-expression. You are at your best when pioneering new territory.",
+          "traits": [
+            "courageous",
+            "direct",
+            "passionate",
+            "independent",
+            "pioneering"
+          ],
+          "growth_tip": "Channel your fire with patience — the greatest victories require sustained effort, not just explosive starts.",
+          "compatible_types": [
+            "Leo",
+            "Sagittarius",
+            "Aquarius"
+          ]
+        },
+        "Taurus": {
+          "title": "The Cosmic Builder — Taurus Archetype",
+          "description": "You build things that last — relationships, resources, and beauty. The Taurus archetype grounds you in sensory richness, loyalty, and the patient accumulation of what truly matters.",
+          "traits": [
+            "loyal",
+            "patient",
+            "sensual",
+            "determined",
+            "reliable"
+          ],
+          "growth_tip": "Your strength is also your challenge — practice embracing necessary change before being forced into it.",
+          "compatible_types": [
+            "Virgo",
+            "Capricorn",
+            "Cancer"
+          ]
+        },
+        "Gemini": {
+          "title": "The Cosmic Communicator — Gemini Archetype",
+          "description": "Your mind moves like quicksilver — collecting, connecting, and communicating ideas with dazzling speed. The Gemini archetype keeps you eternally curious, adaptable, and intellectually alive.",
+          "traits": [
+            "curious",
+            "adaptable",
+            "witty",
+            "communicative",
+            "versatile"
+          ],
+          "growth_tip": "Depth rewards the curious mind — choose your most important pursuits and commit to mastering them.",
+          "compatible_types": [
+            "Libra",
+            "Aquarius",
+            "Aries"
+          ]
+        },
+        "Cancer": {
+          "title": "The Cosmic Nurturer — Cancer Archetype",
+          "description": "Your emotional intelligence and capacity for love are extraordinary gifts. The Cancer archetype makes you the heart of every relationship and the keeper of emotional memory.",
+          "traits": [
+            "nurturing",
+            "empathetic",
+            "intuitive",
+            "loyal",
+            "protective"
+          ],
+          "growth_tip": "Your gifts flourish when you nurture yourself as generously as you nurture others.",
+          "compatible_types": [
+            "Scorpio",
+            "Pisces",
+            "Taurus"
+          ]
+        },
+        "Leo": {
+          "title": "The Cosmic Creator — Leo Archetype",
+          "description": "You were born to shine. The Leo archetype fills you with creative fire, generous heart, and a natural authority that draws others toward your warmth.",
+          "traits": [
+            "creative",
+            "generous",
+            "confident",
+            "loyal",
+            "dramatic"
+          ],
+          "growth_tip": "True leadership serves others first — let your warmth and generosity lead, and your authority will follow naturally.",
+          "compatible_types": [
+            "Aries",
+            "Sagittarius",
+            "Libra"
+          ]
+        },
+        "Virgo": {
+          "title": "The Cosmic Analyst — Virgo Archetype",
+          "description": "You see what others miss and improve what others accept. The Virgo archetype drives you toward mastery, service, and the pursuit of genuine excellence.",
+          "traits": [
+            "analytical",
+            "helpful",
+            "precise",
+            "dedicated",
+            "health-conscious"
+          ],
+          "growth_tip": "Excellence is worthy; perfectionism is exhausting. Practice recognizing when good enough is genuinely excellent.",
+          "compatible_types": [
+            "Taurus",
+            "Capricorn",
+            "Scorpio"
+          ]
+        },
+        "Libra": {
+          "title": "The Cosmic Harmonizer — Libra Archetype",
+          "description": "You carry an innate sense of beauty, fairness, and the art of relationship. The Libra archetype makes you a natural diplomat and champion of justice.",
+          "traits": [
+            "diplomatic",
+            "aesthetic",
+            "fair",
+            "social",
+            "indecisive"
+          ],
+          "growth_tip": "Your greatest power comes from decisive action — practice choosing without needing everyone's approval.",
+          "compatible_types": [
+            "Gemini",
+            "Aquarius",
+            "Leo"
+          ]
+        },
+        "Scorpio": {
+          "title": "The Cosmic Transformer — Scorpio Archetype",
+          "description": "You go where others dare not — into depth, truth, and the transformative power of the shadow. The Scorpio archetype makes you extraordinary at psychological insight and regeneration.",
+          "traits": [
+            "intense",
+            "perceptive",
+            "resourceful",
+            "determined",
+            "transformative"
+          ],
+          "growth_tip": "Release the need to hold everything tightly — your deepest power comes through surrender and trust.",
+          "compatible_types": [
+            "Cancer",
+            "Pisces",
+            "Capricorn"
+          ]
+        },
+        "Sagittarius": {
+          "title": "The Cosmic Adventurer — Sagittarius Archetype",
+          "description": "You are the eternal seeker — of truth, experience, and the meaning at the horizon. The Sagittarius archetype fills you with optimism, philosophical hunger, and irrepressible enthusiasm.",
+          "traits": [
+            "adventurous",
+            "philosophical",
+            "optimistic",
+            "honest",
+            "expansive"
+          ],
+          "growth_tip": "The greatest wisdom integrates depth with breadth — choose some pursuits to follow all the way to mastery.",
+          "compatible_types": [
+            "Aries",
+            "Leo",
+            "Aquarius"
+          ]
+        },
+        "Capricorn": {
+          "title": "The Cosmic Achiever — Capricorn Archetype",
+          "description": "You build with time as your ally. The Capricorn archetype gives you strategic vision, iron discipline, and the rare ability to build lasting structures — in career, relationships, and character.",
+          "traits": [
+            "ambitious",
+            "disciplined",
+            "responsible",
+            "strategic",
+            "resilient"
+          ],
+          "growth_tip": "Achievement without joy is hollow — build rest, play, and emotional nourishment into your path to the top.",
+          "compatible_types": [
+            "Taurus",
+            "Virgo",
+            "Scorpio"
+          ]
+        },
+        "Aquarius": {
+          "title": "The Cosmic Visionary — Aquarius Archetype",
+          "description": "You see the future from the present. The Aquarius archetype gives you humanitarian vision, radical independence, and a mind that operates beyond conventional limits.",
+          "traits": [
+            "innovative",
+            "humanitarian",
+            "independent",
+            "intellectual",
+            "eccentric"
+          ],
+          "growth_tip": "Your visions need human roots — practice vulnerability and emotional connection to bring others fully into your world.",
+          "compatible_types": [
+            "Gemini",
+            "Libra",
+            "Sagittarius"
+          ]
+        },
+        "Pisces": {
+          "title": "The Cosmic Dreamer — Pisces Archetype",
+          "description": "You feel everything and imagine more. The Pisces archetype gives you extraordinary empathy, artistic sensitivity, and access to the spiritual dimensions of experience.",
+          "traits": [
+            "empathetic",
+            "artistic",
+            "intuitive",
+            "compassionate",
+            "dreamy"
+          ],
+          "growth_tip": "Your sensitivity is a superpower that needs boundaries — practice directing your gifts with discernment.",
+          "compatible_types": [
+            "Cancer",
+            "Scorpio",
+            "Capricorn"
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "slug": "love-language-style",
+      "title": "What Is Your Cosmic Love Style?",
+      "description": "How do you love and how do you want to be loved? Discover your astrological love language in 12 questions.",
+      "category": "love",
+      "estimated_minutes": 4,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "The best moment in a relationship is when:",
+          "options": [
+            {
+              "id": "a",
+              "text": "You share a deep, hours-long conversation about life",
+              "scores": {
+                "Intellectual": 3,
+                "Air": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "You're physically close — holding hands, cuddling, touching",
+              "scores": {
+                "Physical": 3,
+                "Earth": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Your partner does something thoughtful without being asked",
+              "scores": {
+                "Acts_of_Service": 3,
+                "Water": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "They tell you exactly how they feel about you",
+              "scores": {
+                "Words": 3,
+                "Fire": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "After a hard day, you most want your partner to:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Hold you without needing to talk",
+              "scores": {
+                "Physical": 3,
+                "Cancer": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Listen and let you process out loud",
+              "scores": {
+                "Intellectual": 2,
+                "Words": 2,
+                "Air": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Take care of practical things to lighten your load",
+              "scores": {
+                "Acts_of_Service": 3,
+                "Earth": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Do something special to make you feel celebrated",
+              "scores": {
+                "Gifts": 3,
+                "Fire": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "text": "You feel most loved when your partner:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Says 'I love you' or gives meaningful compliments often",
+              "scores": {
+                "Words": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Spends dedicated, uninterrupted time with you",
+              "scores": {
+                "Quality_Time": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Touches your arm, takes your hand, or gives hugs spontaneously",
+              "scores": {
+                "Physical": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Remembers details and surprises you with small thoughtful gestures",
+              "scores": {
+                "Gifts": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "text": "In a long-term relationship, what matters most?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Intellectual stimulation — growing together mentally",
+              "scores": {
+                "Intellectual": 3,
+                "Air": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Emotional depth — knowing each other fully",
+              "scores": {
+                "Water": 3,
+                "Quality_Time": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Stability and building a shared life",
+              "scores": {
+                "Earth": 3,
+                "Acts_of_Service": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Passion and continued desire",
+              "scores": {
+                "Fire": 3,
+                "Physical": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "text": "Your biggest pet peeve in relationships:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Partner who doesn't communicate or express feelings",
+              "scores": {
+                "Words": 3,
+                "Air": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Partner who is too clingy or emotionally demanding",
+              "scores": {
+                "Independent": 3,
+                "Fire": 2,
+                "Air": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Partner who doesn't show up — physically or emotionally",
+              "scores": {
+                "Physical": 2,
+                "Quality_Time": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Partner who takes without giving back",
+              "scores": {
+                "Acts_of_Service": 2,
+                "Earth": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q6",
+          "text": "The most romantic date for you would be:",
+          "options": [
+            {
+              "id": "a",
+              "text": "A spontaneous adventure — surprise destination, just go!",
+              "scores": {
+                "Fire": 3,
+                "Independent": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Cooking together at home followed by deep conversation",
+              "scores": {
+                "Earth": 3,
+                "Intellectual": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "A thoughtfully planned evening with meaningful details",
+              "scores": {
+                "Gifts": 2,
+                "Quality_Time": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "A beautiful, sensory experience — fine dining, spa, nature",
+              "scores": {
+                "Physical": 2,
+                "Earth": 2,
+                "Fire": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q7",
+          "text": "When you argue with a partner, you tend to:",
+          "options": [
+            {
+              "id": "a",
+              "text": "State your case clearly and expect resolution quickly",
+              "scores": {
+                "Fire": 3,
+                "Air": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Need time and space to process before talking",
+              "scores": {
+                "Earth": 2,
+                "Water": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Get swept up in emotion and need to feel heard first",
+              "scores": {
+                "Water": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Stay rational, analyze the issue, find compromise",
+              "scores": {
+                "Air": 3,
+                "Intellectual": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q8",
+          "text": "In relationships, you are most naturally:",
+          "options": [
+            {
+              "id": "a",
+              "text": "The one who initiates plans, affection, and intensity",
+              "scores": {
+                "Fire": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "The steady, dependable foundation",
+              "scores": {
+                "Earth": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "The emotionally attuned, deeply caring partner",
+              "scores": {
+                "Water": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "The intellectually stimulating, freedom-respecting partner",
+              "scores": {
+                "Air": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q9",
+          "text": "You show love primarily by:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Doing things — making their life easier",
+              "scores": {
+                "Acts_of_Service": 3,
+                "Earth": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Saying things — expressing feelings verbally",
+              "scores": {
+                "Words": 3,
+                "Air": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Touching — physical presence and affection",
+              "scores": {
+                "Physical": 3,
+                "Fire": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Giving — thoughtful gifts and meaningful surprises",
+              "scores": {
+                "Gifts": 3,
+                "Water": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q10",
+          "text": "Your idea of commitment is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Choosing someone new every day — it's a daily decision",
+              "scores": {
+                "Air": 3,
+                "Fire": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Building something permanent and unshakeable together",
+              "scores": {
+                "Earth": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "A deep soul bond that transcends the ordinary",
+              "scores": {
+                "Water": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Freedom within togetherness — space and connection both",
+              "scores": {
+                "Air": 3,
+                "Independent": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q11",
+          "text": "What makes you feel truly seen by a partner?",
+          "options": [
+            {
+              "id": "a",
+              "text": "They remember what you said months ago and bring it up",
+              "scores": {
+                "Quality_Time": 3,
+                "Words": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "They notice when something is wrong without you saying anything",
+              "scores": {
+                "Water": 3,
+                "Physical": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "They challenge and respect your intelligence",
+              "scores": {
+                "Intellectual": 3,
+                "Air": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "They show up consistently, no matter what",
+              "scores": {
+                "Acts_of_Service": 3,
+                "Earth": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q12",
+          "text": "Love, at its deepest, is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "A transformative force that changes who you are",
+              "scores": {
+                "Water": 3,
+                "Fire": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "A safe harbor — acceptance and belonging",
+              "scores": {
+                "Earth": 3,
+                "Water": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "An adventure shared with your greatest companion",
+              "scores": {
+                "Fire": 3,
+                "Air": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "A meeting of minds as much as hearts",
+              "scores": {
+                "Air": 3,
+                "Intellectual": 2
+              }
+            }
+          ]
+        }
+      ],
+      "results": {
+        "Fire_lover": {
+          "title": "The Passionate Fire Lover",
+          "description": "Your love burns bright and warm. You love with full intensity, spontaneous affection, and the power to make your partner feel like the center of the universe.",
+          "love_language": "Physical Touch + Words of Affirmation",
+          "best_match": "Another fire lover or air sign who fans your flames",
+          "watch_out": "Intensity without patience can overwhelm partners who need steadiness"
+        },
+        "Earth_lover": {
+          "title": "The Devoted Earth Lover",
+          "description": "You love through action, consistency, and the patient building of something real. Your love is a shelter — reliable, sensory-rich, and built to last.",
+          "love_language": "Acts of Service + Physical Touch",
+          "best_match": "Water or earth lovers who value depth over drama",
+          "watch_out": "Make sure your steady love is also verbally expressed"
+        },
+        "Air_lover": {
+          "title": "The Intellectual Air Lover",
+          "description": "Your love is a conversation that never gets boring. You connect through ideas, humor, and the electric meeting of minds. You need a partner who can keep up.",
+          "love_language": "Quality Time + Words of Affirmation",
+          "best_match": "Other air lovers or fire types who inspire your mind",
+          "watch_out": "Love lives in the body and heart too — don't escape into intellect when things get emotionally intense"
+        },
+        "Water_lover": {
+          "title": "The Soulful Water Lover",
+          "description": "Your love is oceanic — deep, feeling, and transformative. You love with every cell and crave the kind of emotional intimacy that changes both people.",
+          "love_language": "Quality Time + Physical Touch",
+          "best_match": "Earth lovers who provide security, or water lovers who match your depth",
+          "watch_out": "Protect your heart without closing it — boundaries and openness can coexist"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "slug": "spirit-animal",
+      "title": "What Is Your Spirit Animal?",
+      "description": "Ancient cultures believed each person is guided by an animal spirit. Discover yours through 12 revealing questions.",
+      "category": "spirituality",
+      "estimated_minutes": 4,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "In a crisis, you are the person who:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Takes charge and protects others immediately",
+              "scores": {
+                "Wolf": 3,
+                "Bear": 2,
+                "Lion": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Observes calmly and finds the strategic path",
+              "scores": {
+                "Owl": 3,
+                "Eagle": 2,
+                "Fox": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Supports and comforts everyone around you",
+              "scores": {
+                "Deer": 3,
+                "Dolphin": 2,
+                "Bear": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Finds a creative, unexpected solution",
+              "scores": {
+                "Fox": 3,
+                "Crow": 2,
+                "Dolphin": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "Your natural habitat would be:",
+          "options": [
+            {
+              "id": "a",
+              "text": "High mountains or wide open skies",
+              "scores": {
+                "Eagle": 3,
+                "Hawk": 3,
+                "Wolf": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Deep forests or ancient wilderness",
+              "scores": {
+                "Bear": 3,
+                "Wolf": 2,
+                "Deer": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "The ocean, rivers, or near water",
+              "scores": {
+                "Dolphin": 3,
+                "Whale": 2,
+                "Salmon": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Wherever people are — cities, villages, community",
+              "scores": {
+                "Fox": 2,
+                "Crow": 2,
+                "Butterfly": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "text": "Others see you as:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Powerful and a natural authority",
+              "scores": {
+                "Lion": 3,
+                "Eagle": 2,
+                "Bear": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Wise and mysteriously insightful",
+              "scores": {
+                "Owl": 3,
+                "Crow": 2,
+                "Snake": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Playful and joyful",
+              "scores": {
+                "Dolphin": 3,
+                "Butterfly": 2,
+                "Fox": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Gentle and deeply kind",
+              "scores": {
+                "Deer": 3,
+                "Butterfly": 2,
+                "Whale": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "text": "Your greatest strength is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Seeing what's coming before anyone else",
+              "scores": {
+                "Owl": 3,
+                "Hawk": 3,
+                "Eagle": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Your loyalty and devotion to your pack",
+              "scores": {
+                "Wolf": 3,
+                "Bear": 2,
+                "Deer": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Your ability to adapt and transform",
+              "scores": {
+                "Snake": 3,
+                "Butterfly": 3,
+                "Crow": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Your joy and ability to connect with others",
+              "scores": {
+                "Dolphin": 3,
+                "Fox": 2,
+                "Butterfly": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "text": "When you need to recharge, you:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Disappear into solitude in nature",
+              "scores": {
+                "Bear": 3,
+                "Wolf": 2,
+                "Owl": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Rise above — long walks, hiking, gaining perspective",
+              "scores": {
+                "Eagle": 3,
+                "Hawk": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Surround yourself with your closest people",
+              "scores": {
+                "Dolphin": 3,
+                "Wolf": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Create or transform something",
+              "scores": {
+                "Butterfly": 3,
+                "Snake": 2,
+                "Crow": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q6",
+          "text": "Your shadow side is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Arrogance or the need to dominate",
+              "scores": {
+                "Lion": 3,
+                "Eagle": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Isolation, retreat, or shutting others out",
+              "scores": {
+                "Bear": 3,
+                "Owl": 2,
+                "Wolf": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Trickery or misdirection when threatened",
+              "scores": {
+                "Fox": 3,
+                "Crow": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Over-sensitivity or getting swept up in others' emotions",
+              "scores": {
+                "Deer": 3,
+                "Dolphin": 2,
+                "Whale": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q7",
+          "text": "Your life philosophy is closest to:",
+          "options": [
+            {
+              "id": "a",
+              "text": "See clearly, act decisively, fly high",
+              "scores": {
+                "Eagle": 3,
+                "Hawk": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Protect what matters, rest deeply, know your strength",
+              "scores": {
+                "Bear": 3,
+                "Wolf": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Play, connect, and find joy in every wave",
+              "scores": {
+                "Dolphin": 3,
+                "Butterfly": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Transform, shed what's old, emerge new",
+              "scores": {
+                "Snake": 3,
+                "Butterfly": 2,
+                "Crow": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q8",
+          "text": "In relationships, you are:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Fiercely protective and intensely loyal",
+              "scores": {
+                "Wolf": 3,
+                "Bear": 2,
+                "Lion": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "A guide and teacher who offers wisdom",
+              "scores": {
+                "Owl": 3,
+                "Eagle": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Playful, joyful, and deeply connecting",
+              "scores": {
+                "Dolphin": 3,
+                "Fox": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Gentle, empathetic, and spiritually attuned",
+              "scores": {
+                "Deer": 3,
+                "Whale": 2,
+                "Butterfly": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q9",
+          "text": "Which word resonates most deeply with you?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Freedom",
+              "scores": {
+                "Eagle": 3,
+                "Wolf": 2,
+                "Horse": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Transformation",
+              "scores": {
+                "Snake": 3,
+                "Butterfly": 3,
+                "Crow": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Wisdom",
+              "scores": {
+                "Owl": 3,
+                "Whale": 2,
+                "Crow": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Joy",
+              "scores": {
+                "Dolphin": 3,
+                "Butterfly": 2,
+                "Fox": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q10",
+          "text": "Your intuition is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Sharp and precise — you see exactly what's true",
+              "scores": {
+                "Hawk": 3,
+                "Owl": 2,
+                "Snake": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Deep and oceanic — you feel into things",
+              "scores": {
+                "Whale": 3,
+                "Dolphin": 2,
+                "Deer": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Quick and clever — pattern recognition at lightning speed",
+              "scores": {
+                "Fox": 3,
+                "Crow": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Ancient and instinctive — primal knowing",
+              "scores": {
+                "Bear": 3,
+                "Wolf": 2,
+                "Lion": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q11",
+          "text": "The element you feel most connected to:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Air — wind, sky, and freedom",
+              "scores": {
+                "Eagle": 3,
+                "Hawk": 2,
+                "Butterfly": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Earth — soil, forest, and roots",
+              "scores": {
+                "Bear": 3,
+                "Deer": 2,
+                "Wolf": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Water — ocean, rivers, and depth",
+              "scores": {
+                "Dolphin": 3,
+                "Whale": 2,
+                "Salmon": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Fire — transformation, light, and power",
+              "scores": {
+                "Lion": 3,
+                "Snake": 2,
+                "Fox": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q12",
+          "text": "Your message to the world is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "See from above — rise above the small and see the grand",
+              "scores": {
+                "Eagle": 3,
+                "Hawk": 2,
+                "Owl": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Go deep — the real treasure is in the depths",
+              "scores": {
+                "Whale": 3,
+                "Bear": 2,
+                "Owl": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Play and connect — life is meant to be joyful",
+              "scores": {
+                "Dolphin": 3,
+                "Fox": 2,
+                "Butterfly": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Transform — shed what's old and become who you truly are",
+              "scores": {
+                "Snake": 3,
+                "Butterfly": 3,
+                "Crow": 2
+              }
+            }
+          ]
+        }
+      ],
+      "results": {
+        "Eagle": {
+          "title": "Eagle — The Visionary",
+          "description": "Your spirit soars. The Eagle sees the big picture from great heights and acts with precision and power. You are a natural leader with exceptional vision and the courage to pursue what others cannot even see.",
+          "gifts": [
+            "Clarity of vision",
+            "Leadership",
+            "Courage",
+            "Strategic thinking"
+          ],
+          "message": "Trust your sight. You see what others cannot — lead with that vision.",
+          "zodiac_affinity": [
+            "Aries",
+            "Scorpio",
+            "Capricorn"
+          ]
+        },
+        "Wolf": {
+          "title": "Wolf — The Pack Leader",
+          "description": "Your spirit is fierce, loyal, and free. The Wolf understands both independence and community — you know when to hunt alone and when the pack is everything.",
+          "gifts": [
+            "Loyalty",
+            "Intuition",
+            "Leadership",
+            "Protection"
+          ],
+          "message": "Your people need you. Lead your pack with heart and instinct.",
+          "zodiac_affinity": [
+            "Scorpio",
+            "Cancer",
+            "Sagittarius"
+          ]
+        },
+        "Bear": {
+          "title": "Bear — The Gentle Warrior",
+          "description": "Your spirit is ancient, grounded, and powerful. The Bear knows the sacred rhythm of activity and deep rest — courage and tenderness in one magnificent being.",
+          "gifts": [
+            "Strength",
+            "Introspection",
+            "Healing",
+            "Protectiveness"
+          ],
+          "message": "Rest is not weakness — it is how you gather the power to protect and create.",
+          "zodiac_affinity": [
+            "Taurus",
+            "Cancer",
+            "Capricorn"
+          ]
+        },
+        "Owl": {
+          "title": "Owl — The Wise Seer",
+          "description": "Your spirit sees in the dark. The Owl perceives what is hidden, speaks truth, and carries the weight of genuine wisdom with grace.",
+          "gifts": [
+            "Wisdom",
+            "Perception",
+            "Truth-telling",
+            "Patience"
+          ],
+          "message": "You see the truth. Speak it with compassion — the world needs your clear sight.",
+          "zodiac_affinity": [
+            "Scorpio",
+            "Capricorn",
+            "Pisces"
+          ]
+        },
+        "Dolphin": {
+          "title": "Dolphin — The Joyful Guide",
+          "description": "Your spirit is pure delight. The Dolphin moves through life with intelligence, play, and the profound ability to guide others through emotional waters with joy.",
+          "gifts": [
+            "Joy",
+            "Intelligence",
+            "Emotional wisdom",
+            "Connection"
+          ],
+          "message": "Joy is not frivolous — it is your medicine and your gift to the world.",
+          "zodiac_affinity": [
+            "Gemini",
+            "Cancer",
+            "Pisces"
+          ]
+        },
+        "Fox": {
+          "title": "Fox — The Clever Trickster",
+          "description": "Your spirit is swift and strategic. The Fox navigates complexity with intelligence, adaptability, and a playful wit that sees solutions others miss.",
+          "gifts": [
+            "Adaptability",
+            "Cleverness",
+            "Humor",
+            "Quick thinking"
+          ],
+          "message": "Your cleverness serves — use it for the good of all, not just your own survival.",
+          "zodiac_affinity": [
+            "Gemini",
+            "Virgo",
+            "Scorpio"
+          ]
+        },
+        "Snake": {
+          "title": "Snake — The Transformer",
+          "description": "Your spirit knows how to shed the old skin. The Snake carries ancient wisdom, primal energy, and the power of perpetual renewal.",
+          "gifts": [
+            "Transformation",
+            "Healing",
+            "Primal wisdom",
+            "Renewal"
+          ],
+          "message": "You are not who you were — embrace the extraordinary power of your own metamorphosis.",
+          "zodiac_affinity": [
+            "Scorpio",
+            "Pisces",
+            "Capricorn"
+          ]
+        },
+        "Butterfly": {
+          "title": "Butterfly — The Beautiful Transformer",
+          "description": "Your spirit embodies metamorphosis. The Butterfly emerges from the chrysalis of every hardship more beautiful, more fully yourself, and more free.",
+          "gifts": [
+            "Transformation",
+            "Joy",
+            "Beauty",
+            "Freedom"
+          ],
+          "message": "Every ending is a chrysalis. Trust the process — what is coming is more beautiful than what was.",
+          "zodiac_affinity": [
+            "Gemini",
+            "Pisces",
+            "Libra"
+          ]
+        },
+        "Deer": {
+          "title": "Deer — The Gentle Healer",
+          "description": "Your spirit is pure grace. The Deer moves gently, sees deeply, and brings healing simply by being present with open heart and soft eyes.",
+          "gifts": [
+            "Gentleness",
+            "Empathy",
+            "Grace",
+            "Healing"
+          ],
+          "message": "Your gentleness is strength — the world is transformed by those who choose kindness.",
+          "zodiac_affinity": [
+            "Cancer",
+            "Pisces",
+            "Libra"
+          ]
+        },
+        "Whale": {
+          "title": "Whale — The Ancient Sage",
+          "description": "Your spirit carries the wisdom of ages. The Whale holds the memory of the deep — vast intelligence, profound empathy, and connection to the collective unconscious.",
+          "gifts": [
+            "Ancient wisdom",
+            "Depth",
+            "Emotional intelligence",
+            "Connection to the whole"
+          ],
+          "message": "You carry wisdom that spans generations — sing your truth into the deep waters of the world.",
+          "zodiac_affinity": [
+            "Scorpio",
+            "Pisces",
+            "Cancer"
+          ]
+        },
+        "Lion": {
+          "title": "Lion — The Sovereign",
+          "description": "Your spirit rules with heart. The Lion's authority comes not from force but from the genuine presence, generous spirit, and commanding warmth of a true sovereign.",
+          "gifts": [
+            "Leadership",
+            "Courage",
+            "Generosity",
+            "Presence"
+          ],
+          "message": "True sovereignty is service — lead from your heart and your pride will follow.",
+          "zodiac_affinity": [
+            "Leo",
+            "Aries",
+            "Capricorn"
+          ]
+        },
+        "Crow": {
+          "title": "Crow — The Mystic Messenger",
+          "description": "Your spirit bridges worlds. The Crow navigates between the seen and unseen, the ordinary and magical — a trickster who reveals hidden truth with dark humor and sharp intelligence.",
+          "gifts": [
+            "Intelligence",
+            "Magic",
+            "Adaptability",
+            "Truth-revealing"
+          ],
+          "message": "You see the cracks where magic seeps through — trust the messages arriving from unexpected places.",
+          "zodiac_affinity": [
+            "Scorpio",
+            "Gemini",
+            "Aquarius"
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "slug": "dominant-energy",
+      "title": "What Is Your Dominant Energy Type?",
+      "description": "Are you Solar, Lunar, or a balance of both? Discover the cosmic energy that drives your personality in 10 questions.",
+      "category": "energy",
+      "estimated_minutes": 3,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "You feel most energized:",
+          "options": [
+            {
+              "id": "a",
+              "text": "In the daytime, with people, making things happen",
+              "scores": {
+                "Solar": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "At night, in reflection, or in intimate settings",
+              "scores": {
+                "Lunar": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "It varies with your cycle — sometimes one, sometimes the other",
+              "scores": {
+                "Balance": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "Your goals are primarily:",
+          "options": [
+            {
+              "id": "a",
+              "text": "External — achievement, recognition, impact on the world",
+              "scores": {
+                "Solar": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Internal — emotional depth, spiritual growth, understanding",
+              "scores": {
+                "Lunar": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Both — you need outer achievement and inner richness",
+              "scores": {
+                "Balance": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "text": "People most often come to you for:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Leadership, advice, and decisive guidance",
+              "scores": {
+                "Solar": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Emotional support, listening, and deep presence",
+              "scores": {
+                "Lunar": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Both equally — you offer wisdom and warmth",
+              "scores": {
+                "Balance": 2,
+                "Solar": 1,
+                "Lunar": 1
+              }
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "text": "Your greatest natural gift is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "The ability to inspire and lead by your presence and vision",
+              "scores": {
+                "Solar": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Empathy so deep you feel others' experiences as your own",
+              "scores": {
+                "Lunar": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Bridging the rational and intuitive in unique ways",
+              "scores": {
+                "Balance": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "text": "When things go wrong, you tend to:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Take decisive action to fix the situation",
+              "scores": {
+                "Solar": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Process deeply, feel fully, then emerge with understanding",
+              "scores": {
+                "Lunar": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Blend action with reflection depending on the situation",
+              "scores": {
+                "Balance": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q6",
+          "text": "Your relationship with the moon is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "You don't pay much attention to it",
+              "scores": {
+                "Solar": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "You feel its phases in your body and emotions distinctly",
+              "scores": {
+                "Lunar": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "You appreciate it but aren't ruled by it",
+              "scores": {
+                "Balance": 2,
+                "Solar": 1
+              }
+            }
+          ]
+        },
+        {
+          "id": "q7",
+          "text": "Your creative process is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Disciplined, structured, and productive",
+              "scores": {
+                "Solar": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Intuitive, flowing, and emotionally driven",
+              "scores": {
+                "Lunar": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Cycles of structured work and intuitive flow",
+              "scores": {
+                "Balance": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q8",
+          "text": "The season you love most:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Summer — long days, warmth, vitality",
+              "scores": {
+                "Solar": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Winter or autumn — depth, introspection, beauty in shadow",
+              "scores": {
+                "Lunar": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Spring or the transitions between seasons",
+              "scores": {
+                "Balance": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q9",
+          "text": "Your power is most visible:",
+          "options": [
+            {
+              "id": "a",
+              "text": "In public — leading, speaking, creating impact",
+              "scores": {
+                "Solar": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "In private — healing, listening, transforming through presence",
+              "scores": {
+                "Lunar": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "In both — you shift between public power and private depth",
+              "scores": {
+                "Balance": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q10",
+          "text": "The spiritual practice that calls to you:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Yoga, martial arts, breathwork — active practices",
+              "scores": {
+                "Solar": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Meditation, dreamwork, journaling — receptive practices",
+              "scores": {
+                "Lunar": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "A blend of both, depending on your cycle",
+              "scores": {
+                "Balance": 3
+              }
+            }
+          ]
+        }
+      ],
+      "results": {
+        "Solar": {
+          "title": "Solar Being — The Light Bringer",
+          "description": "You radiate. Your energy moves outward — inspiring, creating, leading, and bringing warmth to everyone around you. The Sun is your celestial mirror: bright, constant, life-giving.",
+          "core_energy": "Yang, active, outward-moving",
+          "superpower": "The ability to illuminate and energize through your presence",
+          "practice": "Honor your lunar side through journaling, rest, and introspective practices to complement your natural solar fire.",
+          "zodiac_affinity": [
+            "Leo",
+            "Aries",
+            "Sagittarius"
+          ]
+        },
+        "Lunar": {
+          "title": "Lunar Being — The Deep Feeler",
+          "description": "You go where the light doesn't reach. Your power lives in depth, feeling, intuition, and the ability to hold space for the full emotional spectrum of human experience.",
+          "core_energy": "Yin, receptive, inward-moving",
+          "superpower": "The capacity for emotional depth, psychic sensitivity, and transformative empathy",
+          "practice": "Honor your solar side by taking bold outer action and sharing your gifts with the world — the world needs what you know.",
+          "zodiac_affinity": [
+            "Cancer",
+            "Pisces",
+            "Scorpio"
+          ]
+        },
+        "Balance": {
+          "title": "Celestial Balance — The Whole Being",
+          "description": "You dance between sun and moon. You move naturally between outer action and inner receptivity, between leading and listening, between light and depth. This is a rare and powerful gift.",
+          "core_energy": "Integrated, cyclical, whole",
+          "superpower": "The ability to meet people wherever they are — in action or in stillness",
+          "practice": "Honor your natural cycles rather than forcing consistency — your rhythm of action and reflection is your power, not your limitation.",
+          "zodiac_affinity": [
+            "Libra",
+            "Gemini",
+            "Aquarius"
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "slug": "ruling-planet",
+      "title": "Which Planet Rules Your Life?",
+      "description": "In astrology, each planet carries a unique archetype. Which cosmic body most powerfully shapes your destiny? Find out in 12 questions.",
+      "category": "astrology",
+      "estimated_minutes": 4,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What drives you most powerfully?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The need to act, compete, and pioneer",
+              "scores": {
+                "Mars": 3,
+                "Aries_energy": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "The desire for beauty, harmony, and love",
+              "scores": {
+                "Venus": 3,
+                "Libra_energy": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "The hunger for knowledge and meaning",
+              "scores": {
+                "Jupiter": 3,
+                "Mercury": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "The call to transform and claim power",
+              "scores": {
+                "Pluto": 3,
+                "Saturn": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "Your relationship with rules and authority:",
+          "options": [
+            {
+              "id": "a",
+              "text": "You resist authority and forge your own way",
+              "scores": {
+                "Uranus": 3,
+                "Mars": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "You respect structure and build within it",
+              "scores": {
+                "Saturn": 3,
+                "Jupiter": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "You bend rules when necessary for a greater good",
+              "scores": {
+                "Neptune": 2,
+                "Jupiter": 2,
+                "Pluto": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "You understand rules intellectually but follow your logic",
+              "scores": {
+                "Mercury": 3,
+                "Uranus": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "text": "People see you as someone who:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Radiates warmth, beauty, and magnetic appeal",
+              "scores": {
+                "Venus": 3,
+                "Sun": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Has depth, mystery, and hidden power",
+              "scores": {
+                "Pluto": 3,
+                "Saturn": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Is brilliant, quick, and endlessly communicative",
+              "scores": {
+                "Mercury": 3,
+                "Uranus": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Is expansive, philosophical, and inspiring",
+              "scores": {
+                "Jupiter": 3,
+                "Neptune": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "text": "Your greatest challenge in life is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Controlling impulsiveness and finding patience",
+              "scores": {
+                "Mars": 3,
+                "Aries_energy": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Building solid foundations and avoiding fantasy",
+              "scores": {
+                "Neptune": 3,
+                "Pisces_energy": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Managing intensity and releasing the need to control",
+              "scores": {
+                "Pluto": 3,
+                "Scorpio_energy": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Embracing limitation and accepting mortality",
+              "scores": {
+                "Saturn": 3,
+                "Capricorn_energy": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "text": "The area of life that feels most significant:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Career, status, and long-term ambition",
+              "scores": {
+                "Saturn": 3,
+                "Sun": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Love, relationships, and the art of connection",
+              "scores": {
+                "Venus": 3,
+                "Moon": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Travel, philosophy, and expanding your worldview",
+              "scores": {
+                "Jupiter": 3,
+                "Neptune": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Power, transformation, and the mystery of existence",
+              "scores": {
+                "Pluto": 3,
+                "Mars": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q6",
+          "text": "Your mind works by:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Rapid connections — you think faster than you speak",
+              "scores": {
+                "Mercury": 3,
+                "Uranus": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Deep diving — you go to the bottom of every question",
+              "scores": {
+                "Pluto": 3,
+                "Saturn": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Expansive association — one idea leads to a thousand more",
+              "scores": {
+                "Jupiter": 3,
+                "Neptune": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Intuitive knowing — you sense before you think",
+              "scores": {
+                "Moon": 3,
+                "Neptune": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q7",
+          "text": "Your natural creativity expresses through:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Beauty — art, aesthetics, design, and music",
+              "scores": {
+                "Venus": 3,
+                "Neptune": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Ideas — writing, analysis, and intellectual construction",
+              "scores": {
+                "Mercury": 3,
+                "Saturn": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Vision — inspiring others toward a greater future",
+              "scores": {
+                "Jupiter": 3,
+                "Uranus": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Transformation — healing, depth, and revealing the hidden",
+              "scores": {
+                "Pluto": 3,
+                "Moon": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q8",
+          "text": "Your motto might be:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Do it now, ask forgiveness later",
+              "scores": {
+                "Mars": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Build it to last — slow and certain wins",
+              "scores": {
+                "Saturn": 3,
+                "Taurus_energy": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "More, bigger, better — expansion is the point",
+              "scores": {
+                "Jupiter": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Revolutionize everything — the status quo is the enemy",
+              "scores": {
+                "Uranus": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q9",
+          "text": "Your relationship with the past:",
+          "options": [
+            {
+              "id": "a",
+              "text": "The past is the past — you live fully in the present",
+              "scores": {
+                "Mars": 2,
+                "Uranus": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "You carry the past like a teacher — it shapes everything",
+              "scores": {
+                "Saturn": 3,
+                "Moon": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "The past is a mystery to decode for future power",
+              "scores": {
+                "Pluto": 3,
+                "Saturn": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "The past was another dream — the future is all that matters",
+              "scores": {
+                "Jupiter": 2,
+                "Uranus": 2,
+                "Neptune": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q10",
+          "text": "Your ideal life would involve:",
+          "options": [
+            {
+              "id": "a",
+              "text": "A beautiful home, love, abundance, and sensory richness",
+              "scores": {
+                "Venus": 3,
+                "Moon": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Constant adventure, philosophical exploration, and freedom",
+              "scores": {
+                "Jupiter": 3,
+                "Mars": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Mastery, legacy, and having built something enduring",
+              "scores": {
+                "Saturn": 3,
+                "Sun": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Revolutionizing something that has never been done before",
+              "scores": {
+                "Uranus": 3,
+                "Pluto": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q11",
+          "text": "Your spiritual relationship is with:",
+          "options": [
+            {
+              "id": "a",
+              "text": "The cosmos as logic — everything has order and meaning",
+              "scores": {
+                "Saturn": 2,
+                "Mercury": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "The divine as beauty and love — a loving creative force",
+              "scores": {
+                "Venus": 3,
+                "Neptune": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "The sacred as mystery — depth, darkness, and rebirth",
+              "scores": {
+                "Pluto": 3,
+                "Moon": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "The universe as possibility — boundless and ever-expanding",
+              "scores": {
+                "Jupiter": 3,
+                "Uranus": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q12",
+          "text": "The legacy you want to leave:",
+          "options": [
+            {
+              "id": "a",
+              "text": "That you loved beautifully and created lasting beauty",
+              "scores": {
+                "Venus": 3,
+                "Neptune": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "That you built something lasting that outlived you",
+              "scores": {
+                "Saturn": 3,
+                "Capricorn_energy": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "That you transformed the world through your unique vision",
+              "scores": {
+                "Pluto": 2,
+                "Uranus": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "That you expanded what was possible for everyone",
+              "scores": {
+                "Jupiter": 3,
+                "Sun": 2
+              }
+            }
+          ]
+        }
+      ],
+      "results": {
+        "Venus": {
+          "title": "Venus Rules You — The Lover and Creator",
+          "description": "Beauty is your native language. Venus fills your life with an instinct for harmony, love, and aesthetic creation that makes everything you touch more beautiful.",
+          "archetype": "The Lover, The Artist, The Harmonizer",
+          "gift": "The ability to create beauty and connection wherever you go",
+          "challenge": "Avoiding conflict when truth requires it",
+          "mantra": "I create beauty from the inside out.",
+          "zodiac_sign": [
+            "Taurus",
+            "Libra"
+          ]
+        },
+        "Mars": {
+          "title": "Mars Rules You — The Warrior Pioneer",
+          "description": "You act. Mars fills your life with primal drive, competitive fire, and the courage to initiate — you were born to cut through obstacles and forge new paths.",
+          "archetype": "The Warrior, The Pioneer, The Athlete",
+          "gift": "Courage, decisive action, and the ability to start things others only imagine",
+          "challenge": "Patience, and channeling fire without burning what you love",
+          "mantra": "I act from courage, not fear.",
+          "zodiac_sign": [
+            "Aries",
+            "Scorpio"
+          ]
+        },
+        "Jupiter": {
+          "title": "Jupiter Rules You — The Philosopher King",
+          "description": "More. Bigger. Wiser. Jupiter fills your life with expansion, philosophical hunger, generosity, and the belief that the universe is fundamentally abundant.",
+          "archetype": "The Philosopher, The Teacher, The Adventurer",
+          "gift": "Optimism, wisdom, and the ability to inspire others to expand their vision",
+          "challenge": "Knowing when enough is truly enough",
+          "mantra": "I expand toward the highest and best in all things.",
+          "zodiac_sign": [
+            "Sagittarius",
+            "Pisces"
+          ]
+        },
+        "Saturn": {
+          "title": "Saturn Rules You — The Master Builder",
+          "description": "You build what lasts. Saturn fills your life with discipline, strategic vision, and the long-term thinking that constructs true mastery and legacy.",
+          "archetype": "The Master, The Elder, The Builder",
+          "gift": "Discipline, wisdom through experience, and the ability to manifest in physical reality",
+          "challenge": "Learning that joy and rest are also worthy of your commitment",
+          "mantra": "I build with time as my ally.",
+          "zodiac_sign": [
+            "Capricorn",
+            "Aquarius"
+          ]
+        },
+        "Mercury": {
+          "title": "Mercury Rules You — The Messenger Mind",
+          "description": "Your mind is a marvel. Mercury fills your life with rapid connections, communication gifts, and a curiosity that can never be fully satisfied.",
+          "archetype": "The Communicator, The Trickster, The Teacher",
+          "gift": "Adaptability, communication, and the ability to connect disparate ideas",
+          "challenge": "Depth over breadth — commitment over endless exploration",
+          "mantra": "I communicate truth with clarity and elegance.",
+          "zodiac_sign": [
+            "Gemini",
+            "Virgo"
+          ]
+        },
+        "Moon": {
+          "title": "The Moon Rules You — The Emotional Alchemist",
+          "description": "You feel everything. The Moon fills your life with emotional depth, intuitive wisdom, and the capacity to nurture and be nurtured at the deepest level.",
+          "archetype": "The Nurturer, The Intuitive, The Dreamer",
+          "gift": "Emotional intelligence, memory, and the capacity to hold space for the full human experience",
+          "challenge": "Establishing boundaries and not absorbing others' emotions as your own",
+          "mantra": "I honor the tides within me.",
+          "zodiac_sign": [
+            "Cancer"
+          ]
+        },
+        "Pluto": {
+          "title": "Pluto Rules You — The Transformer",
+          "description": "You are drawn to the depths where truth lives. Pluto fills your life with intensity, psychological power, and the relentless drive toward transformation and truth.",
+          "archetype": "The Transformer, The Detective, The Phoenix",
+          "gift": "Psychological insight, the ability to facilitate transformation, and extraordinary regenerative power",
+          "challenge": "Trust, vulnerability, and releasing the need for total control",
+          "mantra": "I transform everything I touch, including myself.",
+          "zodiac_sign": [
+            "Scorpio"
+          ]
+        },
+        "Uranus": {
+          "title": "Uranus Rules You — The Revolutionary",
+          "description": "You are here to change things. Uranus fills your life with radical originality, humanitarian vision, and the irresistible drive to revolutionize anything that has grown stale or unjust.",
+          "archetype": "The Revolutionary, The Genius, The Rebel",
+          "gift": "Innovation, originality, and the ability to see the future from the present",
+          "challenge": "Working within systems long enough to change them",
+          "mantra": "I am the change the future needs.",
+          "zodiac_sign": [
+            "Aquarius"
+          ]
+        },
+        "Neptune": {
+          "title": "Neptune Rules You — The Mystic Dreamer",
+          "description": "You live at the threshold between worlds. Neptune fills your life with imagination, spiritual sensitivity, and the ability to dissolve boundaries in service of transcendent love and vision.",
+          "archetype": "The Mystic, The Artist, The Visionary",
+          "gift": "Imagination, empathy, spiritual sensitivity, and creative vision",
+          "challenge": "Grounding your visions in practical reality",
+          "mantra": "I see through all illusions to the love beneath.",
+          "zodiac_sign": [
+            "Pisces"
+          ]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "slug": "past-life-archetype",
+      "title": "What Past Life Archetype Do You Carry?",
+      "description": "Astrologers believe we carry imprints from past lives. Which ancient archetype shapes who you are today?",
+      "category": "spirituality",
+      "estimated_minutes": 3,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "You have always had an inexplicable affinity for:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Ancient civilizations — Egypt, Greece, Rome",
+              "scores": {
+                "Priest": 2,
+                "Warrior": 2,
+                "Scholar": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Mystical traditions — alchemy, shamanism, magic",
+              "scores": {
+                "Mystic": 3,
+                "Healer": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Royalty and nobility — courts, castles, refinement",
+              "scores": {
+                "Royalty": 3,
+                "Warrior": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Common people — healers, farmers, village life",
+              "scores": {
+                "Healer": 3,
+                "Peasant_Sage": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "You feel drawn to a specific role in groups:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Leader — the one who decides and directs",
+              "scores": {
+                "Royalty": 3,
+                "Warrior": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Healer or counselor — the one who tends to others",
+              "scores": {
+                "Healer": 3,
+                "Priest": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Teacher or sage — the one who holds knowledge",
+              "scores": {
+                "Scholar": 3,
+                "Priest": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Mystic or visionary — the one who sees beyond",
+              "scores": {
+                "Mystic": 3,
+                "Priest": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "text": "A recurring theme in your dreams or imagination:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Battle, conflict, or fierce protection of something sacred",
+              "scores": {
+                "Warrior": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Temples, rituals, and sacred ceremonies",
+              "scores": {
+                "Priest": 3,
+                "Mystic": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Libraries, manuscripts, and ancient texts",
+              "scores": {
+                "Scholar": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Healing spaces — herb gardens, sacred waters, medicine",
+              "scores": {
+                "Healer": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "text": "Your relationship with power:",
+          "options": [
+            {
+              "id": "a",
+              "text": "You seek it actively — power enables your vision",
+              "scores": {
+                "Warrior": 2,
+                "Royalty": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "You hold power reluctantly — preferring wisdom to authority",
+              "scores": {
+                "Scholar": 3,
+                "Healer": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Power comes from the unseen — spiritual authority matters more",
+              "scores": {
+                "Mystic": 3,
+                "Priest": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Power should serve — you use it for others' benefit",
+              "scores": {
+                "Healer": 3,
+                "Priest": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "text": "Your soul feels oldest around:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Ancient sacred sites — Stonehenge, the pyramids, Machu Picchu",
+              "scores": {
+                "Mystic": 3,
+                "Priest": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Old libraries, monasteries, universities",
+              "scores": {
+                "Scholar": 3,
+                "Priest": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Battlefields and places of historical conflict",
+              "scores": {
+                "Warrior": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Healing places — hot springs, forests, sanctuaries",
+              "scores": {
+                "Healer": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q6",
+          "text": "Your karmic lesson seems to be:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Learning that strength serves love, not dominance",
+              "scores": {
+                "Warrior": 3,
+                "Royalty": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Bringing ancient wisdom into practical daily life",
+              "scores": {
+                "Scholar": 3,
+                "Mystic": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Healing your own wounds before healing others",
+              "scores": {
+                "Healer": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Trusting the spiritual dimension over the material",
+              "scores": {
+                "Mystic": 3,
+                "Priest": 2
+              }
+            }
+          ]
+        }
+      ],
+      "results": {
+        "Warrior": {
+          "title": "The Ancient Warrior",
+          "description": "You carry the soul of a warrior — not a destroyer but a protector. In past lives, your courage and strength defended what was sacred.",
+          "past_theme": "Battle, honor, protection, sacrifice",
+          "soul_gift": "Courage that never falters",
+          "soul_wound": "The trauma of conflict and the weight of decisions made in crisis",
+          "current_mission": "Transform warrior energy into the protection of love, truth, and the vulnerable."
+        },
+        "Healer": {
+          "title": "The Ancient Healer",
+          "description": "You carry the soul of a healer — medicine woman, village midwife, temple physician. Healing flows naturally through your hands and presence.",
+          "past_theme": "Medicine, herbs, sacred healing, service",
+          "soul_gift": "The ability to sense and address suffering",
+          "soul_wound": "Burnout from giving without receiving, martyrdom",
+          "current_mission": "Heal yourself first and establish boundaries that let your gift flow sustainably."
+        },
+        "Scholar": {
+          "title": "The Ancient Scholar",
+          "description": "You carry the soul of a scholar — library guardian, monastic scribe, Pythagorean initiate. Knowledge is your native element.",
+          "past_theme": "Learning, preserving wisdom, teaching, philosophy",
+          "soul_gift": "The love of truth and the ability to organize and transmit knowledge",
+          "soul_wound": "Isolation, the ivory tower, knowledge held without application",
+          "current_mission": "Bring your knowledge into the world — wisdom shared is wisdom multiplied."
+        },
+        "Mystic": {
+          "title": "The Ancient Mystic",
+          "description": "You carry the soul of a mystic — oracle, shaman, alchemist, seer. You have walked between worlds and carry that liminal awareness.",
+          "past_theme": "Vision, prophecy, spiritual service, the hidden arts",
+          "soul_gift": "Access to dimensions of reality beyond ordinary awareness",
+          "soul_wound": "Isolation, being misunderstood, persecution for your gifts",
+          "current_mission": "Bring your mystical gifts into grounded, loving service — the world needs mystics who can be with ordinary life."
+        },
+        "Priest": {
+          "title": "The Ancient Priest or Priestess",
+          "description": "You carry the soul of a sacred servant — high priest, temple keeper, oracle. You have served the divine and held sacred space for communities.",
+          "past_theme": "Ceremony, sacred service, bridging human and divine",
+          "soul_gift": "The ability to hold sacred space and facilitate spiritual experience for others",
+          "soul_wound": "Rigid doctrine, loss of faith, carrying others' spiritual weight",
+          "current_mission": "Serve the sacred through authentic living, not through role or institution alone."
+        },
+        "Royalty": {
+          "title": "The Ancient Royalty",
+          "description": "You carry the soul of a sovereign — queen, chieftain, noble leader. Leadership is in your bones; authority comes naturally.",
+          "past_theme": "Leadership, rule, responsibility, legacy, power",
+          "soul_gift": "Natural authority, vision, and the ability to organize and lead",
+          "soul_wound": "Abuse of power, isolation of leadership, the loneliness of the throne",
+          "current_mission": "Lead with genuine service — your authority is earned through love and wisdom, not position."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "slug": "chakra-profile",
+      "title": "Which Chakra Needs Your Attention?",
+      "description": "The 7 chakras are energy centers that shape every aspect of your life. Which one is calling for your love right now?",
+      "category": "wellness",
+      "estimated_minutes": 3,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "The area of life feeling most challenging right now:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Feeling safe, grounded, and financially secure",
+              "scores": {
+                "Root": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Relationships, pleasure, and creative expression",
+              "scores": {
+                "Sacral": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Confidence, will, and following through",
+              "scores": {
+                "Solar_Plexus": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Love, grief, and heart connection",
+              "scores": {
+                "Heart": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "You often feel:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Anxious, ungrounded, or financially worried",
+              "scores": {
+                "Root": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Creatively blocked or emotionally numb",
+              "scores": {
+                "Sacral": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Lacking confidence or unable to follow through",
+              "scores": {
+                "Solar_Plexus": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Unable to say what you really mean",
+              "scores": {
+                "Throat": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "text": "Your most pressing inner work involves:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Trusting that you are safe and supported",
+              "scores": {
+                "Root": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Opening your heart after loss or disappointment",
+              "scores": {
+                "Heart": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Speaking your truth without fear",
+              "scores": {
+                "Throat": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Developing your intuition and inner sight",
+              "scores": {
+                "Third_Eye": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "text": "The physical symptom you experience most:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Lower back pain, knee issues, or fatigue",
+              "scores": {
+                "Root": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Hip or lower abdomen tension, reproductive concerns",
+              "scores": {
+                "Sacral": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Stomach issues, digestive problems, or anxiety",
+              "scores": {
+                "Solar_Plexus": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Throat tightness, voice issues, or neck tension",
+              "scores": {
+                "Throat": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "text": "What do you most need more of?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Stability and the feeling that everything will be okay",
+              "scores": {
+                "Root": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Creative flow, pleasure, and sensory aliveness",
+              "scores": {
+                "Sacral": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Confidence and the power to follow through",
+              "scores": {
+                "Solar_Plexus": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Clarity, vision, and spiritual connection",
+              "scores": {
+                "Third_Eye": 2,
+                "Crown": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q6",
+          "text": "Your relationship with your own voice:",
+          "options": [
+            {
+              "id": "a",
+              "text": "You often hold back what you really want to say",
+              "scores": {
+                "Throat": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "You speak freely but lack depth in your words",
+              "scores": {
+                "Third_Eye": 2,
+                "Heart": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "You struggle with being truly heard",
+              "scores": {
+                "Throat": 2,
+                "Solar_Plexus": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Your voice feels connected to something greater",
+              "scores": {
+                "Crown": 3,
+                "Third_Eye": 2
+              }
+            }
+          ]
+        }
+      ],
+      "results": {
+        "Root": {
+          "title": "Root Chakra (Muladhara) — Your Foundation Calls",
+          "color": "Red",
+          "element": "Earth",
+          "description": "Your Root Chakra is calling for attention. This energy center governs safety, security, physical needs, and your sense of belonging in the world. When it's imbalanced, life feels unstable or threatening.",
+          "healing_practices": [
+            "Walking barefoot in nature",
+            "Grounding meditations",
+            "Red foods — beets, tomatoes, pomegranate",
+            "Yoga poses: Mountain Pose, Warrior I, Child's Pose"
+          ],
+          "affirmation": "I am safe. I am grounded. I have everything I need.",
+          "zodiac_connection": [
+            "Taurus",
+            "Capricorn"
+          ]
+        },
+        "Sacral": {
+          "title": "Sacral Chakra (Svadhisthana) — Your Creativity Calls",
+          "color": "Orange",
+          "element": "Water",
+          "description": "Your Sacral Chakra is asking to be freed. This center governs creativity, pleasure, emotion, sensuality, and the joy of being embodied. It is the wellspring of all creative life.",
+          "healing_practices": [
+            "Dance and movement",
+            "Creative expression — art, writing, music",
+            "Orange foods — mangoes, oranges, sweet potatoes",
+            "Hip-opening yoga poses"
+          ],
+          "affirmation": "I feel. I create. I embrace the sweetness of life.",
+          "zodiac_connection": [
+            "Scorpio",
+            "Cancer",
+            "Pisces"
+          ]
+        },
+        "Solar_Plexus": {
+          "title": "Solar Plexus Chakra (Manipura) — Your Power Calls",
+          "color": "Yellow",
+          "element": "Fire",
+          "description": "Your Solar Plexus Chakra is activating. This center governs personal power, will, confidence, and your ability to take action in alignment with your deepest truth.",
+          "healing_practices": [
+            "Core-strengthening exercises",
+            "Setting boundaries",
+            "Yellow foods — banana, ginger, turmeric",
+            "Breath of fire pranayama"
+          ],
+          "affirmation": "I am powerful. I act with clarity and confidence.",
+          "zodiac_connection": [
+            "Leo",
+            "Aries",
+            "Sagittarius"
+          ]
+        },
+        "Heart": {
+          "title": "Heart Chakra (Anahata) — Your Love Calls",
+          "color": "Green",
+          "element": "Air",
+          "description": "Your Heart Chakra is expanding or healing. This center governs love, compassion, grief, forgiveness, and the ability to give and receive fully.",
+          "healing_practices": [
+            "Heart-opening yoga poses",
+            "Loving-kindness meditation",
+            "Green foods — leafy greens, avocado, green vegetables",
+            "Journaling about love and loss"
+          ],
+          "affirmation": "I am loved. I give love freely and receive it gratefully.",
+          "zodiac_connection": [
+            "Libra",
+            "Cancer",
+            "Pisces"
+          ]
+        },
+        "Throat": {
+          "title": "Throat Chakra (Vishuddha) — Your Voice Calls",
+          "color": "Blue",
+          "element": "Sound",
+          "description": "Your Throat Chakra is asking you to speak. This center governs authentic expression, truth-telling, and the sacred power of your voice.",
+          "healing_practices": [
+            "Singing, chanting, or humming",
+            "Writing what you need to say",
+            "Blue foods — blueberries",
+            "Neck and shoulder stretches"
+          ],
+          "affirmation": "I speak my truth with clarity and love.",
+          "zodiac_connection": [
+            "Gemini",
+            "Aquarius"
+          ]
+        },
+        "Third_Eye": {
+          "title": "Third Eye Chakra (Ajna) — Your Vision Calls",
+          "color": "Indigo",
+          "element": "Light",
+          "description": "Your Third Eye Chakra is opening. This center governs intuition, inner vision, wisdom, and the ability to see beyond surface appearances.",
+          "healing_practices": [
+            "Meditation and visualization",
+            "Dream journaling",
+            "Indigo foods — blueberries, blackberries",
+            "Time in darkness or with eyes closed"
+          ],
+          "affirmation": "I see clearly. I trust my inner knowing.",
+          "zodiac_connection": [
+            "Scorpio",
+            "Pisces",
+            "Aquarius"
+          ]
+        },
+        "Crown": {
+          "title": "Crown Chakra (Sahasrara) — Your Spirit Calls",
+          "color": "Violet/White",
+          "element": "Consciousness",
+          "description": "Your Crown Chakra is calling you higher. This center governs spiritual connection, enlightenment, and your relationship with something greater than yourself.",
+          "healing_practices": [
+            "Meditation and silence",
+            "Time in nature under the open sky",
+            "Fasting or simplifying the diet",
+            "Prayer or devotional practice"
+          ],
+          "affirmation": "I am connected to all that is. I am one with the divine.",
+          "zodiac_connection": [
+            "Pisces",
+            "Aquarius",
+            "Sagittarius"
+          ]
+        }
+      }
+    },
+    {
+      "id": 8,
+      "slug": "manifestation-style",
+      "title": "What Is Your Manifestation Style?",
+      "description": "Everyone manifests differently. Discover whether you manifest through fire, earth, air, or water energy — and how to work with your natural style.",
+      "category": "wellness",
+      "estimated_minutes": 3,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "When you want something, you:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Act immediately — momentum creates manifestation",
+              "scores": {
+                "Fire_Manifestor": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Plan carefully and work systematically toward it",
+              "scores": {
+                "Earth_Manifestor": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Visualize, affirm, and use mental power",
+              "scores": {
+                "Air_Manifestor": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Feel it completely as if already real",
+              "scores": {
+                "Water_Manifestor": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "Your biggest manifestation block is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Impatience — wanting results before they are ready",
+              "scores": {
+                "Fire_Manifestor": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Rigidity — following plans too strictly to allow flow",
+              "scores": {
+                "Earth_Manifestor": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Overthinking instead of feeling your desires into form",
+              "scores": {
+                "Air_Manifestor": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Doubt or emotional interference blocking your signal",
+              "scores": {
+                "Water_Manifestor": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "text": "Manifestation works best for you when:",
+          "options": [
+            {
+              "id": "a",
+              "text": "You commit fully and let enthusiasm carry you",
+              "scores": {
+                "Fire_Manifestor": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "You show up consistently and do the practical work",
+              "scores": {
+                "Earth_Manifestor": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Your intentions are crystal clear and frequently stated",
+              "scores": {
+                "Air_Manifestor": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "You get emotionally aligned with the feeling of having it",
+              "scores": {
+                "Water_Manifestor": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "text": "Your natural affinity is with:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Vision boards, affirmations, and spoken word",
+              "scores": {
+                "Air_Manifestor": 3,
+                "Fire_Manifestor": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Journaling, scripting, and written intentions",
+              "scores": {
+                "Earth_Manifestor": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Feeling meditations and emotional visualization",
+              "scores": {
+                "Water_Manifestor": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Taking bold action inspired by a clear vision",
+              "scores": {
+                "Fire_Manifestor": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "text": "You believe manifestation happens through:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Bold action aligned with inspired vision",
+              "scores": {
+                "Fire_Manifestor": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Disciplined, consistent effort over time",
+              "scores": {
+                "Earth_Manifestor": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "The clarity and frequency of your thoughts and words",
+              "scores": {
+                "Air_Manifestor": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Emotional alignment and feeling it first",
+              "scores": {
+                "Water_Manifestor": 3
+              }
+            }
+          ]
+        }
+      ],
+      "results": {
+        "Fire_Manifestor": {
+          "title": "Fire Manifestor — The Bold Creator",
+          "description": "You manifest through inspired action and bold commitment. Your fire creates momentum — the universe responds to your enthusiasm and decisive moves.",
+          "key_practice": "Take one bold, decisive action toward your desire each day — fire needs to burn to stay alive.",
+          "power_phrase": "I act boldly and the universe meets my action.",
+          "best_tools": [
+            "Action plans",
+            "Accountability partners",
+            "Movement and physical exercise"
+          ],
+          "shadow_work": "Practice surrender — not everything needs to be forced into existence.",
+          "zodiac_affinity": [
+            "Aries",
+            "Leo",
+            "Sagittarius"
+          ]
+        },
+        "Earth_Manifestor": {
+          "title": "Earth Manifestor — The Patient Builder",
+          "description": "You manifest through consistent, practical effort and the patient construction of solid foundations. What you build is real, lasting, and tangible.",
+          "key_practice": "Create a concrete plan with clear milestones and show up for it every single day.",
+          "power_phrase": "I build consistently and my desires take solid form.",
+          "best_tools": [
+            "Written goals and plans",
+            "Habit tracking",
+            "Physical rituals and altars"
+          ],
+          "shadow_work": "Open to receiving what arrives unexpectedly — manifestation also comes through flow, not only effort.",
+          "zodiac_affinity": [
+            "Taurus",
+            "Virgo",
+            "Capricorn"
+          ]
+        },
+        "Air_Manifestor": {
+          "title": "Air Manifestor — The Visionary Thinker",
+          "description": "You manifest through the power of thought, clarity of intention, and the magnetic force of clearly articulated desire. Words and ideas are your spells.",
+          "key_practice": "Write, speak, and visualize your intentions with extraordinary clarity — get specific with the universe.",
+          "power_phrase": "My thoughts are spells. I think and speak into being.",
+          "best_tools": [
+            "Journaling and scripting",
+            "Affirmations",
+            "Vision boards and creative visualization"
+          ],
+          "shadow_work": "Take your ideas into embodied action — manifestation completes itself in the physical world.",
+          "zodiac_affinity": [
+            "Gemini",
+            "Libra",
+            "Aquarius"
+          ]
+        },
+        "Water_Manifestor": {
+          "title": "Water Manifestor — The Emotional Alchemist",
+          "description": "You manifest through emotional alignment and the felt sense of already having what you desire. Your feelings are your most powerful creative force.",
+          "key_practice": "Spend time each day fully inhabiting the emotional state of having your desire — feel it in your body.",
+          "power_phrase": "What I feel deeply, I draw powerfully into my life.",
+          "best_tools": [
+            "Feeling meditations",
+            "Gratitude practice",
+            "Moon rituals and emotional clearing"
+          ],
+          "shadow_work": "Clear limiting emotions rather than amplifying them — emotional mastery is the key to your power.",
+          "zodiac_affinity": [
+            "Cancer",
+            "Scorpio",
+            "Pisces"
+          ]
+        }
+      }
+    },
+    {
+      "id": 9,
+      "slug": "relationship-attachment-style",
+      "title": "What Is Your Cosmic Attachment Style?",
+      "description": "Attachment styles shape every relationship. Discover yours through the lens of astrology in these 10 revealing questions.",
+      "category": "love",
+      "estimated_minutes": 3,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "When someone you care about doesn't respond quickly, you:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Notice it but aren't particularly worried",
+              "scores": {
+                "Secure": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Immediately wonder if they're pulling away",
+              "scores": {
+                "Anxious": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Appreciate the space and use it for yourself",
+              "scores": {
+                "Avoidant": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Feel both concerned and pull back simultaneously",
+              "scores": {
+                "Disorganized": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "In romantic relationships, your greatest fear is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "I don't have a dominant fear — I trust love will work out",
+              "scores": {
+                "Secure": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Being abandoned or replaced",
+              "scores": {
+                "Anxious": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Losing my independence or being consumed",
+              "scores": {
+                "Avoidant": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Both connection and separation feel threatening",
+              "scores": {
+                "Disorganized": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "text": "When a relationship starts getting serious, you:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Feel excited and ready to deepen the connection",
+              "scores": {
+                "Secure": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Become either clingy or overly giving to secure them",
+              "scores": {
+                "Anxious": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Start finding reasons to maintain more distance",
+              "scores": {
+                "Avoidant": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Push them away even as you desperately want closeness",
+              "scores": {
+                "Disorganized": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "text": "Your inner narrative about love is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Love is safe and I am worthy of being loved well",
+              "scores": {
+                "Secure": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "I love deeply but worry I'm never quite enough",
+              "scores": {
+                "Anxious": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Love is wonderful but I function better with significant space",
+              "scores": {
+                "Avoidant": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "I want closeness but it terrifies me on some level",
+              "scores": {
+                "Disorganized": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "text": "After conflict with a partner, you typically:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Talk it through calmly and repair the connection",
+              "scores": {
+                "Secure": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Seek reassurance urgently and fear the relationship is ending",
+              "scores": {
+                "Anxious": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Need significant space before you can return to connection",
+              "scores": {
+                "Avoidant": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Oscillate between wanting closeness and wanting distance",
+              "scores": {
+                "Disorganized": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q6",
+          "text": "Your childhood relationship with your primary caregiver was:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Consistently loving and emotionally available",
+              "scores": {
+                "Secure": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Inconsistent — sometimes warm, sometimes distant",
+              "scores": {
+                "Anxious": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Often emotionally unavailable or dismissive of feelings",
+              "scores": {
+                "Avoidant": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Frightening, unpredictable, or traumatic at times",
+              "scores": {
+                "Disorganized": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "q7",
+          "text": "In relationships, you tend to:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Give and receive love with relatively equal ease",
+              "scores": {
+                "Secure": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Give more than you receive, trying to earn love",
+              "scores": {
+                "Anxious": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Give love with space and independence intact",
+              "scores": {
+                "Avoidant": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Feel torn between merging and disappearing",
+              "scores": {
+                "Disorganized": 3
+              }
+            }
+          ]
+        }
+      ],
+      "results": {
+        "Secure": {
+          "title": "Secure Attachment — The Loving Anchor",
+          "description": "You love from a place of security and trust. Secure attachment means you believe in love's reliability and your own worthiness — a gift that makes you a healing presence in relationships.",
+          "zodiac_archetype": "Taurus or Libra energy — grounded in love's constancy",
+          "strengths": [
+            "Emotional availability",
+            "Conflict resolution",
+            "Genuine vulnerability",
+            "Trusting without control"
+          ],
+          "growth_edge": "Continue modeling secure love for others — and stay aware that secure doesn't mean complacent.",
+          "healing_practice": "Maintain secure attachment through regular check-ins with your partner and your own emotional state."
+        },
+        "Anxious": {
+          "title": "Anxious Attachment — The Deep Feeler Seeking Safety",
+          "description": "You love with extraordinary depth and intensity, but your nervous system has learned to watch for signs of abandonment. Your love is real — your task is learning that love is safe.",
+          "zodiac_archetype": "Cancer or Scorpio energy — deep love searching for security",
+          "strengths": [
+            "Deep empathy",
+            "Passionate love",
+            "Emotional attunement",
+            "Dedication"
+          ],
+          "growth_edge": "Develop your own secure inner relationship so that love becomes abundant, not scarce.",
+          "healing_practice": "Inner child work, self-soothing practices, and learning to self-regulate before seeking reassurance."
+        },
+        "Avoidant": {
+          "title": "Avoidant Attachment — The Sovereign Seeker",
+          "description": "You value love and need connection, but your nervous system has learned that closeness comes at a cost. Your task is discovering that intimacy and freedom can coexist.",
+          "zodiac_archetype": "Aquarius or Capricorn energy — independence protecting a tender heart",
+          "strengths": [
+            "Self-sufficiency",
+            "Emotional regulation",
+            "Respecting others' independence",
+            "Depth beneath surface"
+          ],
+          "growth_edge": "Practice letting people in — vulnerability is not weakness but the gateway to genuine love.",
+          "healing_practice": "Gradually increasing tolerance for emotional closeness and vulnerability in safe relationships."
+        },
+        "Disorganized": {
+          "title": "Disorganized Attachment — The Brave Paradox",
+          "description": "You carry the most complex attachment pattern — you desperately want love and simultaneously fear it. This often develops from early experiences where love and fear were mixed. You are brave beyond measure to keep showing up for love.",
+          "zodiac_archetype": "Scorpio or Pisces energy — profound depth navigating early wounds",
+          "strengths": [
+            "Extraordinary empathy",
+            "Deep understanding of pain",
+            "Resilience",
+            "Seeking healing"
+          ],
+          "growth_edge": "Healing is possible and available — trauma-informed therapy can transform disorganized patterns.",
+          "healing_practice": "Trauma-informed therapy (EMDR, somatic work), safe and boundaried relationships, and profound self-compassion."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "slug": "cosmic-purpose",
+      "title": "What Is Your Cosmic Purpose?",
+      "description": "Every person arrives with a unique mission. These 12 questions reveal the cosmic purpose encoded in your soul's design.",
+      "category": "spirituality",
+      "estimated_minutes": 4,
+      "questions": [
+        {
+          "id": "q1",
+          "text": "When you are most alive, you are:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Creating — making something that didn't exist before",
+              "scores": {
+                "Creator": 3,
+                "Visionary": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Connecting — in meaningful relationship with others",
+              "scores": {
+                "Healer": 2,
+                "Teacher": 2,
+                "Guide": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Understanding — pursuing depth of knowledge or truth",
+              "scores": {
+                "Sage": 3,
+                "Teacher": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Transforming — facilitating change in yourself or others",
+              "scores": {
+                "Transformer": 3,
+                "Healer": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "If money were not a consideration, you would spend your life:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Making art, music, or beautiful things",
+              "scores": {
+                "Creator": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Healing people — physically, emotionally, or spiritually",
+              "scores": {
+                "Healer": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Teaching, writing, or sharing wisdom",
+              "scores": {
+                "Teacher": 3,
+                "Sage": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Pioneering something that changes the world",
+              "scores": {
+                "Visionary": 3,
+                "Transformer": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q3",
+          "text": "People often tell you that you helped them by:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Making them see or feel something new through your work",
+              "scores": {
+                "Creator": 3,
+                "Visionary": 2
+              }
+            },
+            {
+              "id": "b",
+              "text": "Listening in a way that made them feel truly understood",
+              "scores": {
+                "Healer": 3,
+                "Guide": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "Teaching them something that changed how they see the world",
+              "scores": {
+                "Teacher": 3,
+                "Sage": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "Inspiring them or showing what's possible",
+              "scores": {
+                "Visionary": 3,
+                "Transformer": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q4",
+          "text": "The social contribution you feel called to make:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Bringing beauty and meaning through creative work",
+              "scores": {
+                "Creator": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Reducing suffering and increasing wellbeing",
+              "scores": {
+                "Healer": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Expanding knowledge and elevating human understanding",
+              "scores": {
+                "Sage": 3,
+                "Teacher": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Building systems, communities, or movements for change",
+              "scores": {
+                "Visionary": 3,
+                "Transformer": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q5",
+          "text": "Your deepest spiritual knowing is:",
+          "options": [
+            {
+              "id": "a",
+              "text": "Beauty is a form of the divine and creating it is sacred",
+              "scores": {
+                "Creator": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Love and healing are the most important forces in existence",
+              "scores": {
+                "Healer": 3
+              }
+            },
+            {
+              "id": "c",
+              "text": "Truth and wisdom are what make a life worth living",
+              "scores": {
+                "Sage": 3
+              }
+            },
+            {
+              "id": "d",
+              "text": "Evolution and transformation are the purpose of existence",
+              "scores": {
+                "Transformer": 3,
+                "Visionary": 2
+              }
+            }
+          ]
+        },
+        {
+          "id": "q6",
+          "text": "You feel most purposeful when:",
+          "options": [
+            {
+              "id": "a",
+              "text": "A creative project comes together exactly as you envisioned",
+              "scores": {
+                "Creator": 3
+              }
+            },
+            {
+              "id": "b",
+              "text": "Someone heals or grows through your presence",
+              "scores": {
+                "Healer": 3,
+                "Guide": 2
+              }
+            },
+            {
+              "id": "c",
+              "text": "You illuminate a truth that shifts someone's understanding",
+              "scores": {
+                "Teacher": 3,
+                "Sage": 2
+              }
+            },
+            {
+              "id": "d",
+              "text": "You can see the arc of a better future and move toward it",
+              "scores": {
+                "Visionary": 3,
+                "Transformer": 2
+              }
+            }
+          ]
+        }
+      ],
+      "results": {
+        "Creator": {
+          "title": "The Creator — Beauty as Your Cosmic Purpose",
+          "description": "You are here to make. Beauty, meaning, and the translation of inner vision into outer form — this is your sacred mission. Your creative work is not a luxury; it is your spiritual path.",
+          "soul_mission": "To bring beauty, meaning, and creative vision into the world in your unique way",
+          "soul_gift": "The ability to see what could be and bring it into existence",
+          "soul_challenge": "Believing your creative work has value — it does, profoundly",
+          "calling": "Make your art. Share your work. The world is impoverished without what only you can create.",
+          "zodiac_affinity": [
+            "Leo",
+            "Libra",
+            "Pisces"
+          ]
+        },
+        "Healer": {
+          "title": "The Healer — Love as Your Cosmic Purpose",
+          "description": "You are here to heal. Whether through medicine, therapy, teaching, presence, or simple kindness — you reduce suffering and increase love wherever you go.",
+          "soul_mission": "To facilitate healing — physical, emotional, and spiritual — in yourself and others",
+          "soul_gift": "Empathy so deep it becomes medicine",
+          "soul_challenge": "Healing your own wounds so you have genuine presence to offer, not just martyrdom",
+          "calling": "Heal yourself with the same love you offer others. Your own wholeness is your greatest gift.",
+          "zodiac_affinity": [
+            "Virgo",
+            "Cancer",
+            "Pisces"
+          ]
+        },
+        "Teacher": {
+          "title": "The Teacher — Wisdom as Your Cosmic Purpose",
+          "description": "You are here to illuminate. Teaching is your sacred art — whether in classrooms, conversations, books, or the way you live your life publicly.",
+          "soul_mission": "To transmit knowledge, wisdom, and understanding in ways that genuinely change people",
+          "soul_gift": "The ability to make complex truths accessible and transformative",
+          "soul_challenge": "Continuing to be a student — the best teachers never stop learning",
+          "calling": "Share what you know. Your wisdom is not meant to be hoarded — it is meant to be given.",
+          "zodiac_affinity": [
+            "Sagittarius",
+            "Gemini",
+            "Aquarius"
+          ]
+        },
+        "Sage": {
+          "title": "The Sage — Truth as Your Cosmic Purpose",
+          "description": "You are here to know and to transmit knowing. The Sage pursues wisdom not for status but because truth is the most real thing — and sharing it is the most sacred act.",
+          "soul_mission": "To pursue, embody, and transmit genuine wisdom",
+          "soul_gift": "The love of truth and the ability to discern what is real from what is not",
+          "soul_challenge": "Bringing ancient wisdom into ordinary daily application",
+          "calling": "Live your truth completely — a sage who embodies their wisdom teaches more than any lecture.",
+          "zodiac_affinity": [
+            "Capricorn",
+            "Scorpio",
+            "Virgo"
+          ]
+        },
+        "Visionary": {
+          "title": "The Visionary — Evolution as Your Cosmic Purpose",
+          "description": "You are here to see what could be and bring it into being. Visionaries see the future from the present — and are brave enough to devote their lives to building it.",
+          "soul_mission": "To envision and catalyze a better future",
+          "soul_gift": "Seeing what others cannot yet see and believing in it fiercely enough to build it",
+          "soul_challenge": "Grounding your vision in practical steps and gathering the community to co-create it",
+          "calling": "Your vision is not a fantasy — it is your blueprint. Begin building it now.",
+          "zodiac_affinity": [
+            "Aquarius",
+            "Aries",
+            "Sagittarius"
+          ]
+        },
+        "Transformer": {
+          "title": "The Transformer — Metamorphosis as Your Cosmic Purpose",
+          "description": "You are here to facilitate deep change. The Transformer walks willingly into the fire of transformation and emerges as a guide for others navigating their own crucibles.",
+          "soul_mission": "To facilitate profound transformation — in yourself, in others, and in the systems that shape human life",
+          "soul_gift": "The ability to go into depth others avoid and emerge with gold",
+          "soul_challenge": "Learning that not every situation requires transformation — some things are simply to be enjoyed",
+          "calling": "Trust the transformations you have lived. They are your credentials. Use them in service of others.",
+          "zodiac_affinity": [
+            "Scorpio",
+            "Pisces",
+            "Capricorn"
+          ]
+        },
+        "Guide": {
+          "title": "The Guide — Companionship as Your Cosmic Purpose",
+          "description": "You are here to walk with others. The Guide does not always have the answers but has the extraordinary gift of genuine presence, direction, and companionship for those who are lost.",
+          "soul_mission": "To accompany others on their most important journeys",
+          "soul_gift": "The ability to be genuinely present with others in their most vulnerable and important moments",
+          "soul_challenge": "Trusting that your presence — not your answers — is your greatest gift",
+          "calling": "You don't need to have all the answers. Show up fully and walk alongside people in the dark.",
+          "zodiac_affinity": [
+            "Cancer",
+            "Libra",
+            "Pisces"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DynamicQuizTool from '../../../../components/tools/DynamicQuizTool';
+---
+<ToolLayout title="Manifestation Style Quiz" description="Discover your unique manifestation style and how to attract your goals" emoji="✨" toolSlug="manifestation-style"
+  faq={[{"q": "How many questions are in the Manifestation Style quiz?", "a": "This quiz contains carefully crafted questions designed to accurately assess your manifestation style type."}, {"q": "Are the results accurate?", "a": "This quiz is designed for fun and self-reflection. Use results as a starting point for personal growth, not as a clinical assessment."}]}
+  relatedTools={[{"name": "Dominant Energy Type", "emoji": "\u26a1", "path": "dominant-energy"}, {"name": "Chakra Profile", "emoji": "\ud83e\uddd8", "path": "chakra-profile"}]}
+>
+  <DynamicQuizTool client:load testSlug="manifestation-style" />
+</ToolLayout>

@@ -1,0 +1,5829 @@
+{
+  "meta": {
+    "total": 200,
+    "species": [
+      "amphibian",
+      "bird",
+      "cat",
+      "chinchilla",
+      "dog",
+      "ferret",
+      "fish",
+      "gerbil",
+      "guinea pig",
+      "hamster",
+      "hedgehog",
+      "horse",
+      "marsupial",
+      "mouse",
+      "rabbit",
+      "rat",
+      "reptile",
+      "turtle"
+    ],
+    "version": "1.0",
+    "description": "Pet breed database with zodiac compatibility for freshblogs.cc/pets"
+  },
+  "breeds": [
+    {
+      "id": 1,
+      "name": "Labrador Retriever",
+      "species": "dog",
+      "origin": "USA",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 4,
+      "lifespan_years": "10-12",
+      "weight_lbs": "55-80",
+      "temperament": [
+        "friendly",
+        "outgoing",
+        "active",
+        "gentle",
+        "intelligent"
+      ],
+      "description": "America's most popular dog breed for good reason. Labs are endlessly enthusiastic, loving, and adaptable companions who thrive in active families.",
+      "care_notes": "Needs vigorous daily exercise and mental stimulation. Prone to weight gain; monitor diet closely. Loves water and retrieving games.",
+      "zodiac_match": [
+        "Cancer",
+        "Sagittarius",
+        "Leo"
+      ],
+      "personality_match": "adventure-lover, family-oriented, ENFJ"
+    },
+    {
+      "id": 2,
+      "name": "Golden Retriever",
+      "species": "dog",
+      "origin": "Scotland",
+      "size": "large",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 4,
+      "lifespan_years": "10-12",
+      "weight_lbs": "55-75",
+      "temperament": [
+        "trustworthy",
+        "kind",
+        "confident",
+        "friendly",
+        "reliable"
+      ],
+      "description": "The ultimate family dog. Golden Retrievers combine intelligence with an almost supernatural patience and gentleness that makes them beloved worldwide.",
+      "care_notes": "Daily exercise essential. Regular brushing 2-3x per week. Prone to hip dysplasia; maintain healthy weight.",
+      "zodiac_match": [
+        "Cancer",
+        "Libra",
+        "Pisces"
+      ],
+      "personality_match": "nurturing, empathetic, ENFJ"
+    },
+    {
+      "id": 3,
+      "name": "French Bulldog",
+      "species": "dog",
+      "origin": "France",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "10-12",
+      "weight_lbs": "16-28",
+      "temperament": [
+        "adaptable",
+        "playful",
+        "alert",
+        "easygoing",
+        "affectionate"
+      ],
+      "description": "The Frenchie is city living perfected. Compact, charming, and hilariously expressive, they thrive in apartments and adore their humans.",
+      "care_notes": "Cannot tolerate heat or strenuous exercise. Clean facial wrinkles weekly. Brachycephalic — avoid extreme temperatures.",
+      "zodiac_match": [
+        "Taurus",
+        "Libra",
+        "Cancer"
+      ],
+      "personality_match": "homebody, social, ISFP"
+    },
+    {
+      "id": 4,
+      "name": "German Shepherd",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "large",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "9-13",
+      "weight_lbs": "50-90",
+      "temperament": [
+        "loyal",
+        "courageous",
+        "confident",
+        "intelligent",
+        "obedient"
+      ],
+      "description": "The gold standard of working dogs. German Shepherds combine exceptional intelligence with unwavering loyalty and a natural protective instinct.",
+      "care_notes": "Needs 2+ hours of daily exercise and mental challenges. Sheds heavily twice a year. Benefits from early socialization.",
+      "zodiac_match": [
+        "Aries",
+        "Capricorn",
+        "Scorpio"
+      ],
+      "personality_match": "loyal, analytical, ISTJ"
+    },
+    {
+      "id": 5,
+      "name": "Bulldog",
+      "species": "dog",
+      "origin": "England",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "8-10",
+      "weight_lbs": "40-50",
+      "temperament": [
+        "calm",
+        "courageous",
+        "friendly",
+        "dignified",
+        "willful"
+      ],
+      "description": "Don't let the grumpy face fool you — Bulldogs are among the sweetest, most docile breeds. They're perfectly happy with minimal exercise and maximum cuddles.",
+      "care_notes": "Cannot tolerate heat. Clean wrinkles and tail pocket regularly. Prone to respiratory issues; avoid overexertion.",
+      "zodiac_match": [
+        "Taurus",
+        "Capricorn",
+        "Cancer"
+      ],
+      "personality_match": "laid-back, loyal, ISFJ"
+    },
+    {
+      "id": 6,
+      "name": "Poodle (Standard)",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "large",
+      "energy": "high",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "40-70",
+      "temperament": [
+        "intelligent",
+        "active",
+        "alert",
+        "faithful",
+        "instinctual"
+      ],
+      "description": "Don't let the haircut fool you — Standard Poodles are among the most intelligent, athletic, and versatile dogs in existence.",
+      "care_notes": "Daily exercise required. Professional grooming every 6-8 weeks. Excels at dog sports, therapy work, and learning new tricks.",
+      "zodiac_match": [
+        "Gemini",
+        "Aquarius",
+        "Virgo"
+      ],
+      "personality_match": "intellectual, creative, ENTP"
+    },
+    {
+      "id": 7,
+      "name": "Beagle",
+      "species": "dog",
+      "origin": "England",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 3,
+      "lifespan_years": "10-15",
+      "weight_lbs": "20-30",
+      "temperament": [
+        "curious",
+        "merry",
+        "friendly",
+        "gentle",
+        "determined"
+      ],
+      "description": "Beagles follow their nose everywhere — which means they need a secure yard and leash at all times. Their happiness is utterly contagious.",
+      "care_notes": "Needs secure fencing — they follow their nose! High prey drive. Regular ear cleaning to prevent infections.",
+      "zodiac_match": [
+        "Sagittarius",
+        "Gemini",
+        "Aries"
+      ],
+      "personality_match": "curious, friendly, ESFP"
+    },
+    {
+      "id": 8,
+      "name": "Rottweiler",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 2,
+      "lifespan_years": "9-10",
+      "weight_lbs": "80-135",
+      "temperament": [
+        "loyal",
+        "loving",
+        "confident",
+        "calm",
+        "courageous"
+      ],
+      "description": "Beneath the intimidating exterior is a devoted family dog with a silly streak. Rottweilers are deeply loyal and surprisingly gentle with their families.",
+      "care_notes": "Early socialization and training critical. Needs daily exercise. Not recommended for first-time owners. Thrives with a job to do.",
+      "zodiac_match": [
+        "Scorpio",
+        "Capricorn",
+        "Taurus"
+      ],
+      "personality_match": "protective, determined, ISTJ"
+    },
+    {
+      "id": 9,
+      "name": "Yorkshire Terrier",
+      "species": "dog",
+      "origin": "England",
+      "size": "small",
+      "energy": "high",
+      "grooming": "high",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "11-15",
+      "weight_lbs": "7",
+      "temperament": [
+        "feisty",
+        "brave",
+        "bossy",
+        "affectionate",
+        "tomboyish"
+      ],
+      "description": "What Yorkies lack in size they more than make up for in personality. These tiny dogs have enormous courage and an outsized sense of their own importance.",
+      "care_notes": "Daily hair brushing if kept long. Prone to dental issues; regular brushing essential. Can be snappy with small children.",
+      "zodiac_match": [
+        "Leo",
+        "Aries",
+        "Scorpio"
+      ],
+      "personality_match": "bold, independent, ENTJ"
+    },
+    {
+      "id": 10,
+      "name": "Dachshund",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "12-16",
+      "weight_lbs": "8-32",
+      "temperament": [
+        "clever",
+        "stubborn",
+        "playful",
+        "devoted",
+        "lively"
+      ],
+      "description": "Built like a sausage and stubborn as a mule, Dachshunds are nonetheless deeply devoted to their families and surprisingly brave hunters.",
+      "care_notes": "Protect from jumping to prevent back injuries (IVDD). Two coat varieties need different grooming. Can be stubborn in training.",
+      "zodiac_match": [
+        "Scorpio",
+        "Taurus",
+        "Cancer"
+      ],
+      "personality_match": "stubborn, devoted, ISTP"
+    },
+    {
+      "id": 11,
+      "name": "Siberian Husky",
+      "species": "dog",
+      "origin": "Russia",
+      "size": "large",
+      "energy": "very_high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 2,
+      "lifespan_years": "12-14",
+      "weight_lbs": "35-60",
+      "temperament": [
+        "outgoing",
+        "mischievous",
+        "loyal",
+        "dignified",
+        "gentle"
+      ],
+      "description": "Part sled dog, part escape artist, part comedian. Huskies are breathtaking, athletic, and require owners who truly understand high-energy independent breeds.",
+      "care_notes": "Needs vigorous daily exercise — hours, not minutes. Escape artists; needs very secure fencing. Heavy shedding twice yearly.",
+      "zodiac_match": [
+        "Aquarius",
+        "Sagittarius",
+        "Aries"
+      ],
+      "personality_match": "free-spirited, adventurous, ENFP"
+    },
+    {
+      "id": 12,
+      "name": "Doberman Pinscher",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "10-12",
+      "weight_lbs": "60-100",
+      "temperament": [
+        "fearless",
+        "loyal",
+        "alert",
+        "obedient",
+        "energetic"
+      ],
+      "description": "Elegant, powerful, and intensely loyal. Dobermans are among the finest personal protection dogs and devoted family companions for experienced owners.",
+      "care_notes": "Needs daily mental and physical exercise. Early socialization essential. Sensitive to cold temperatures. Thrives with a job.",
+      "zodiac_match": [
+        "Aries",
+        "Capricorn",
+        "Scorpio"
+      ],
+      "personality_match": "driven, loyal, INTJ"
+    },
+    {
+      "id": 13,
+      "name": "Australian Shepherd",
+      "species": "dog",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "very_high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "12-15",
+      "weight_lbs": "40-65",
+      "temperament": [
+        "intelligent",
+        "work-oriented",
+        "energetic",
+        "good-natured",
+        "active"
+      ],
+      "description": "Aussies are working dogs through and through — brilliant, tireless, and happiest when given a job. They are not ideal for couch potato households.",
+      "care_notes": "Needs 2+ hours of vigorous daily exercise. Mental stimulation as important as physical. Excels at dog sports and herding.",
+      "zodiac_match": [
+        "Aries",
+        "Virgo",
+        "Sagittarius"
+      ],
+      "personality_match": "ambitious, intelligent, ENTJ"
+    },
+    {
+      "id": 14,
+      "name": "Boxer",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "10-12",
+      "weight_lbs": "50-80",
+      "temperament": [
+        "fun-loving",
+        "bright",
+        "active",
+        "loyal",
+        "patient"
+      ],
+      "description": "Boxers are perpetual puppies — playful, exuberant, and devoted family clowns who adore children and maintain their puppy energy well into adulthood.",
+      "care_notes": "Needs daily exercise. Brachycephalic — avoid heat. Early training recommended due to size and exuberance.",
+      "zodiac_match": [
+        "Leo",
+        "Sagittarius",
+        "Aries"
+      ],
+      "personality_match": "playful, loyal, ESFP"
+    },
+    {
+      "id": 15,
+      "name": "Cavalier King Charles Spaniel",
+      "species": "dog",
+      "origin": "England",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 5,
+      "lifespan_years": "12-15",
+      "weight_lbs": "12-18",
+      "temperament": [
+        "gentle",
+        "graceful",
+        "affectionate",
+        "sporting",
+        "fearless"
+      ],
+      "description": "The perfect lap dog that also loves adventure. Cavaliers adapt to any lifestyle and are among the sweetest, most adaptable companion dogs.",
+      "care_notes": "Regular ear and eye cleaning. Can develop heart conditions — regular vet checks essential. Moderate exercise needs.",
+      "zodiac_match": [
+        "Libra",
+        "Cancer",
+        "Pisces"
+      ],
+      "personality_match": "gentle, adaptable, ISFJ"
+    },
+    {
+      "id": 16,
+      "name": "Miniature Schnauzer",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "small",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "11-20",
+      "temperament": [
+        "alert",
+        "spirited",
+        "obedient",
+        "intelligent",
+        "friendly"
+      ],
+      "description": "Miniature Schnauzers are big dogs in small packages — alert, spirited, and fearlessly opinionated. They make excellent watchdogs and devoted companions.",
+      "care_notes": "Regular grooming every 5-8 weeks. Prone to pancreatitis; monitor diet. Energetic — needs daily exercise.",
+      "zodiac_match": [
+        "Virgo",
+        "Capricorn",
+        "Aquarius"
+      ],
+      "personality_match": "alert, determined, ESTJ"
+    },
+    {
+      "id": 17,
+      "name": "Shih Tzu",
+      "species": "dog",
+      "origin": "China",
+      "size": "small",
+      "energy": "low",
+      "grooming": "high",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "10-18",
+      "weight_lbs": "9-16",
+      "temperament": [
+        "affectionate",
+        "playful",
+        "outgoing",
+        "charming",
+        "gentle"
+      ],
+      "description": "Shih Tzus were bred to be the companions of emperors, and they've never forgotten it. These charming, adaptable dogs thrive in any home that gives them love.",
+      "care_notes": "Daily brushing if coat kept long. Regular ear cleaning and teeth brushing. Low exercise needs — ideal for apartment life.",
+      "zodiac_match": [
+        "Taurus",
+        "Libra",
+        "Cancer"
+      ],
+      "personality_match": "affectionate, charming, ESFJ"
+    },
+    {
+      "id": 18,
+      "name": "Great Dane",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "giant",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "7-10",
+      "weight_lbs": "110-175",
+      "temperament": [
+        "patient",
+        "dependable",
+        "gentle",
+        "friendly",
+        "reserved"
+      ],
+      "description": "The gentle giant. Despite their imposing size, Great Danes are among the most patient, docile dogs — they just happen to take up the entire couch.",
+      "care_notes": "Joint health critical — avoid overexertion in puppies. Bloat risk — divide meals. Shorter lifespan than smaller breeds.",
+      "zodiac_match": [
+        "Pisces",
+        "Taurus",
+        "Cancer"
+      ],
+      "personality_match": "gentle, patient, INFJ"
+    },
+    {
+      "id": 19,
+      "name": "Pomeranian",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "small",
+      "energy": "high",
+      "grooming": "high",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "12-16",
+      "weight_lbs": "3-7",
+      "temperament": [
+        "bold",
+        "inquisitive",
+        "lively",
+        "friendly",
+        "extroverted"
+      ],
+      "description": "Pomeranians are tiny furballs with the personality of a much larger dog — bold, curious, and completely convinced of their own magnificence.",
+      "care_notes": "Daily brushing. Can be yappy — early training helps. Despite energy, exercise needs are manageable for their size.",
+      "zodiac_match": [
+        "Leo",
+        "Aries",
+        "Gemini"
+      ],
+      "personality_match": "bold, social, ENTP"
+    },
+    {
+      "id": 20,
+      "name": "Border Collie",
+      "species": "dog",
+      "origin": "Scotland",
+      "size": "medium",
+      "energy": "very_high",
+      "grooming": "medium",
+      "good_with_kids": 3,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "12-15",
+      "weight_lbs": "27-45",
+      "temperament": [
+        "intelligent",
+        "energetic",
+        "responsive",
+        "tenacious",
+        "athletic"
+      ],
+      "description": "Widely considered the most intelligent dog breed. Border Collies are working dogs who need a serious job or they will invent one — usually involving herding children.",
+      "care_notes": "Needs 2+ hours of vigorous mental and physical exercise daily. Not suitable for casual owners. Thrives in dog sports.",
+      "zodiac_match": [
+        "Virgo",
+        "Aquarius",
+        "Capricorn"
+      ],
+      "personality_match": "intellectual, driven, INTJ"
+    },
+    {
+      "id": 21,
+      "name": "Maltese",
+      "species": "dog",
+      "origin": "Malta",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "under 7",
+      "temperament": [
+        "gentle",
+        "playful",
+        "fearless",
+        "affectionate",
+        "responsive"
+      ],
+      "description": "Ancient, elegant, and surprisingly feisty. Maltese have been prized companions for millennia and their timeless beauty and devotion endure.",
+      "care_notes": "Daily coat brushing. Prone to dental issues — regular brushing essential. Tear stain management needed.",
+      "zodiac_match": [
+        "Libra",
+        "Taurus",
+        "Pisces"
+      ],
+      "personality_match": "gentle, loyal, ISFP"
+    },
+    {
+      "id": 22,
+      "name": "Weimaraner",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "large",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 2,
+      "lifespan_years": "11-13",
+      "weight_lbs": "55-88",
+      "temperament": [
+        "friendly",
+        "fearless",
+        "alert",
+        "obedient",
+        "energetic"
+      ],
+      "description": "Weimaraners are called the Grey Ghost for their sleek, silvery coat and their tendency to shadow their owners everywhere. They need active households.",
+      "care_notes": "Needs 2+ hours of daily exercise. Prone to separation anxiety. Not suitable for apartment life. Strong hunting instinct.",
+      "zodiac_match": [
+        "Aries",
+        "Sagittarius",
+        "Aquarius"
+      ],
+      "personality_match": "energetic, loyal, ESTP"
+    },
+    {
+      "id": 23,
+      "name": "Pug",
+      "species": "dog",
+      "origin": "China",
+      "size": "small",
+      "energy": "low",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "13-15",
+      "weight_lbs": "14-18",
+      "temperament": [
+        "charming",
+        "mischievous",
+        "loving",
+        "clever",
+        "quiet"
+      ],
+      "description": "Pugs are little philosophers — content to observe life from the comfort of a soft cushion. Their expressive faces and comedy timing are legendary.",
+      "care_notes": "Clean facial wrinkles regularly. Brachycephalic — avoid heat and overexertion. Prone to obesity; monitor diet.",
+      "zodiac_match": [
+        "Cancer",
+        "Taurus",
+        "Libra"
+      ],
+      "personality_match": "laid-back, funny, ISFP"
+    },
+    {
+      "id": 24,
+      "name": "Cocker Spaniel",
+      "species": "dog",
+      "origin": "England",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "10-14",
+      "weight_lbs": "20-30",
+      "temperament": [
+        "gentle",
+        "smart",
+        "happy",
+        "loyal",
+        "trusting"
+      ],
+      "description": "Merry, gentle, and endlessly sweet. Cocker Spaniels are the eternal optimists of the dog world, greeting each day with their signature happy ears bouncing.",
+      "care_notes": "Regular ear cleaning to prevent infections. Grooming every 6-8 weeks. Moderate daily exercise. Can be sensitive.",
+      "zodiac_match": [
+        "Libra",
+        "Cancer",
+        "Pisces"
+      ],
+      "personality_match": "gentle, empathetic, ENFJ"
+    },
+    {
+      "id": 25,
+      "name": "Bernese Mountain Dog",
+      "species": "dog",
+      "origin": "Switzerland",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 4,
+      "lifespan_years": "7-10",
+      "weight_lbs": "70-115",
+      "temperament": [
+        "good-natured",
+        "calm",
+        "strong",
+        "affectionate",
+        "intelligent"
+      ],
+      "description": "Gentle giants from the Swiss Alps. Berners are tricolor beauties with warm, patient temperaments and deep devotion to their families.",
+      "care_notes": "Prone to joint issues and cancer. Regular brushing. Shorter lifespan — make every year count. Moderate exercise needs.",
+      "zodiac_match": [
+        "Taurus",
+        "Cancer",
+        "Capricorn"
+      ],
+      "personality_match": "gentle, steady, INFJ"
+    },
+    {
+      "id": 26,
+      "name": "Poodle (Miniature)",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "small",
+      "energy": "high",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "13-15",
+      "weight_lbs": "10-15",
+      "temperament": [
+        "intelligent",
+        "responsive",
+        "playful",
+        "lively",
+        "faithful"
+      ],
+      "description": "All the intelligence and elegance of the Standard Poodle in a more apartment-friendly size. Miniature Poodles are versatile, loving, and clever.",
+      "care_notes": "Professional grooming every 6-8 weeks. Daily exercise needed. Excels at agility and obedience. Highly trainable.",
+      "zodiac_match": [
+        "Gemini",
+        "Virgo",
+        "Aquarius"
+      ],
+      "personality_match": "clever, adaptable, ENTP"
+    },
+    {
+      "id": 27,
+      "name": "Shetland Sheepdog",
+      "species": "dog",
+      "origin": "Scotland",
+      "size": "small",
+      "energy": "high",
+      "grooming": "high",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "12-14",
+      "weight_lbs": "15-25",
+      "temperament": [
+        "playful",
+        "energetic",
+        "intelligent",
+        "gentle",
+        "strong"
+      ],
+      "description": "Shelties are miniature working dogs with big hearts. They're vocal, intelligent, and deeply devoted — perfect for active families who love a beautiful fluffy companion.",
+      "care_notes": "Daily brushing. Sensitive to harsh treatment. Barking can be managed with training. Excels at agility.",
+      "zodiac_match": [
+        "Virgo",
+        "Cancer",
+        "Libra"
+      ],
+      "personality_match": "sensitive, intelligent, INFP"
+    },
+    {
+      "id": 28,
+      "name": "Chihuahua",
+      "species": "dog",
+      "origin": "Mexico",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 2,
+      "good_with_dogs": 2,
+      "good_with_cats": 4,
+      "lifespan_years": "14-16",
+      "weight_lbs": "under 6",
+      "temperament": [
+        "alert",
+        "terrier-like",
+        "loyal",
+        "charming",
+        "saucy"
+      ],
+      "description": "The world's smallest breed with the world's largest attitude. Chihuahuas are fierce little personalities who bond intensely with their chosen human.",
+      "care_notes": "Can be fragile — supervise with children and larger dogs. Dental issues common. Can become overly possessive; socialize early.",
+      "zodiac_match": [
+        "Scorpio",
+        "Aries",
+        "Leo"
+      ],
+      "personality_match": "fierce, loyal, ESTP"
+    },
+    {
+      "id": 29,
+      "name": "Pembroke Welsh Corgi",
+      "species": "dog",
+      "origin": "Wales",
+      "size": "small",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "12-13",
+      "weight_lbs": "27-30",
+      "temperament": [
+        "bold",
+        "tenacious",
+        "friendly",
+        "outgoing",
+        "playful"
+      ],
+      "description": "Royal dogs with a herding heritage and surprisingly athletic bodies hidden under adorable fluffiness. Corgis are intelligent, loyal, and endlessly entertaining.",
+      "care_notes": "Daily exercise — more than their size suggests. Prone to weight gain. Regular brushing. Can be vocal.",
+      "zodiac_match": [
+        "Gemini",
+        "Leo",
+        "Virgo"
+      ],
+      "personality_match": "playful, smart, ENTP"
+    },
+    {
+      "id": 30,
+      "name": "Bloodhound",
+      "species": "dog",
+      "origin": "Belgium",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "10-12",
+      "weight_lbs": "80-110",
+      "temperament": [
+        "friendly",
+        "curious",
+        "inquisitive",
+        "stubborn",
+        "gentle"
+      ],
+      "description": "The world's finest nose on the world's most good-natured dog. Bloodhounds are gentle giants who follow their noses with a tenacity that requires secure leashing.",
+      "care_notes": "Needs daily exercise but not intense. Long ears need regular cleaning. Drooling is significant. Follows scents relentlessly.",
+      "zodiac_match": [
+        "Scorpio",
+        "Taurus",
+        "Cancer"
+      ],
+      "personality_match": "determined, gentle, INFP"
+    },
+    {
+      "id": 31,
+      "name": "Irish Setter",
+      "species": "dog",
+      "origin": "Ireland",
+      "size": "large",
+      "energy": "very_high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "12-15",
+      "weight_lbs": "60-70",
+      "temperament": [
+        "rollicking",
+        "friendly",
+        "exuberant",
+        "independent",
+        "sweet"
+      ],
+      "description": "Gorgeous mahogany dogs with the energy of a rocket and the sweetness of a saint. Irish Setters are perpetually enthusiastic and take longer than most to mature.",
+      "care_notes": "Needs vigorous daily exercise — hours of running. Regular brushing. Long maturation period. Wonderful with an active family.",
+      "zodiac_match": [
+        "Aries",
+        "Leo",
+        "Sagittarius"
+      ],
+      "personality_match": "enthusiastic, free-spirited, ENFP"
+    },
+    {
+      "id": 32,
+      "name": "Akita",
+      "species": "dog",
+      "origin": "Japan",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "10-13",
+      "weight_lbs": "70-130",
+      "temperament": [
+        "courageous",
+        "dignified",
+        "profoundly loyal",
+        "willful",
+        "alert"
+      ],
+      "description": "Sacred in Japan, the Akita is a powerful, dignified breed of profound loyalty. They bond intensely with family and are not recommended for first-time owners.",
+      "care_notes": "Early socialization critical. Not dog-park friendly. Needs experienced owner. Deeply loyal but independent.",
+      "zodiac_match": [
+        "Capricorn",
+        "Scorpio",
+        "Taurus"
+      ],
+      "personality_match": "loyal, independent, INTJ"
+    },
+    {
+      "id": 33,
+      "name": "Boston Terrier",
+      "species": "dog",
+      "origin": "USA",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "11-13",
+      "weight_lbs": "12-25",
+      "temperament": [
+        "friendly",
+        "lively",
+        "intelligent",
+        "adaptable",
+        "gentle"
+      ],
+      "description": "The American Gentleman — tuxedo coat, impeccable manners, and genuine urban adaptability. Boston Terriers are wonderful city dogs who love everyone.",
+      "care_notes": "Brachycephalic — avoid heat. Clean facial wrinkles. Moderate exercise needs. Very adaptable.",
+      "zodiac_match": [
+        "Gemini",
+        "Libra",
+        "Aquarius"
+      ],
+      "personality_match": "friendly, adaptable, ESFP"
+    },
+    {
+      "id": 34,
+      "name": "Havanese",
+      "species": "dog",
+      "origin": "Cuba",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 5,
+      "lifespan_years": "14-16",
+      "weight_lbs": "7-13",
+      "temperament": [
+        "intelligent",
+        "outgoing",
+        "funny",
+        "gentle",
+        "responsive"
+      ],
+      "description": "Cuba's national dog and one of the happiest little companions you'll find. Havanese are adaptable, non-shedding, and deeply social.",
+      "care_notes": "Daily brushing or professional grooming. Non-shedding — great for allergy sufferers. Needs companionship — dislikes being alone.",
+      "zodiac_match": [
+        "Libra",
+        "Cancer",
+        "Gemini"
+      ],
+      "personality_match": "social, joyful, ESFJ"
+    },
+    {
+      "id": 35,
+      "name": "Saint Bernard",
+      "species": "dog",
+      "origin": "Switzerland",
+      "size": "giant",
+      "energy": "low",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "8-10",
+      "weight_lbs": "120-180",
+      "temperament": [
+        "patient",
+        "gentle",
+        "friendly",
+        "watchful",
+        "lively"
+      ],
+      "description": "The iconic rescue dog of the Alps. Saint Bernards are enormous, patient, and remarkably gentle — especially with children — despite their imposing size.",
+      "care_notes": "Prone to bloat and hip dysplasia. Regular brushing. Significant drooling. Moderate exercise — not a running companion.",
+      "zodiac_match": [
+        "Taurus",
+        "Cancer",
+        "Capricorn"
+      ],
+      "personality_match": "patient, gentle, ISFJ"
+    },
+    {
+      "id": 36,
+      "name": "Vizsla",
+      "species": "dog",
+      "origin": "Hungary",
+      "size": "medium",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-14",
+      "weight_lbs": "44-60",
+      "temperament": [
+        "affectionate",
+        "energetic",
+        "gentle",
+        "loyal",
+        "quiet"
+      ],
+      "description": "The Velcro dog — Vizslas attach themselves to their owners with a devotion that is both touching and occasionally suffocating. Athletic, gentle, and brilliant.",
+      "care_notes": "Needs 2+ hours of vigorous exercise daily. Prone to separation anxiety. Excels at running, hunting, and dog sports.",
+      "zodiac_match": [
+        "Cancer",
+        "Aries",
+        "Sagittarius"
+      ],
+      "personality_match": "devoted, energetic, ENFJ"
+    },
+    {
+      "id": 37,
+      "name": "Bichon Frisé",
+      "species": "dog",
+      "origin": "Belgium",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 5,
+      "lifespan_years": "14-15",
+      "weight_lbs": "12-18",
+      "temperament": [
+        "cheerful",
+        "gentle",
+        "playful",
+        "feisty",
+        "affectionate"
+      ],
+      "description": "A cloud of white fluffiness with a perpetually sunny disposition. Bichons are hypoallergenic, non-shedding, and relentlessly cheerful companions.",
+      "care_notes": "Professional grooming every 4-6 weeks. Non-shedding — good for allergy sufferers. Needs daily exercise and companionship.",
+      "zodiac_match": [
+        "Libra",
+        "Gemini",
+        "Cancer"
+      ],
+      "personality_match": "cheerful, social, ESFJ"
+    },
+    {
+      "id": 38,
+      "name": "Dalmatian",
+      "species": "dog",
+      "origin": "Croatia",
+      "size": "large",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "11-13",
+      "weight_lbs": "45-70",
+      "temperament": [
+        "outgoing",
+        "playful",
+        "sensitive",
+        "energetic",
+        "dignified"
+      ],
+      "description": "The iconic spotted dog needs serious exercise and an experienced owner. Dalmatians are athletic, intelligent, and can be challenging for novices.",
+      "care_notes": "Needs extensive daily exercise. Some are deaf — test puppies. Originally carriage dogs; need a 'job'. Can be intense.",
+      "zodiac_match": [
+        "Aries",
+        "Sagittarius",
+        "Leo"
+      ],
+      "personality_match": "energetic, independent, ESTP"
+    },
+    {
+      "id": 39,
+      "name": "Newfoundland",
+      "species": "dog",
+      "origin": "Canada",
+      "size": "giant",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 4,
+      "lifespan_years": "9-10",
+      "weight_lbs": "100-150",
+      "temperament": [
+        "sweet",
+        "patient",
+        "devoted",
+        "gentle",
+        "trainable"
+      ],
+      "description": "Gentle giants bred for water rescue. Newfoundlands are among the sweetest, most patient dogs in existence — natural nannies for children.",
+      "care_notes": "Regular brushing and grooming. Significant drooling and shedding. Prone to bloat. Needs moderate exercise and access to water.",
+      "zodiac_match": [
+        "Pisces",
+        "Cancer",
+        "Taurus"
+      ],
+      "personality_match": "gentle, devoted, INFJ"
+    },
+    {
+      "id": 40,
+      "name": "Jack Russell Terrier",
+      "species": "dog",
+      "origin": "England",
+      "size": "small",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 2,
+      "lifespan_years": "13-16",
+      "weight_lbs": "13-17",
+      "temperament": [
+        "vocal",
+        "athletic",
+        "feisty",
+        "fearless",
+        "lively"
+      ],
+      "description": "Maximum dog in minimum package. Jack Russells are tireless, fearless hunters who need experienced owners who can match their extraordinary energy.",
+      "care_notes": "Needs extensive daily exercise — hours, not a short walk. High prey drive. Can be dog-aggressive. Not for novice owners.",
+      "zodiac_match": [
+        "Aries",
+        "Gemini",
+        "Sagittarius"
+      ],
+      "personality_match": "fearless, independent, ESTP"
+    },
+    {
+      "id": 41,
+      "name": "Whippet",
+      "species": "dog",
+      "origin": "England",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "25-40",
+      "temperament": [
+        "gentle",
+        "playful",
+        "amiable",
+        "quiet",
+        "calm"
+      ],
+      "description": "Greyhounds in apartment-friendly sizes. Whippets sprint at 35mph but are surprisingly calm indoors — the perfect combination of athlete and lap dog.",
+      "care_notes": "Needs daily runs or free running in a secure area. Very sensitive to cold. Minimal grooming. Excellent apartment dogs.",
+      "zodiac_match": [
+        "Libra",
+        "Cancer",
+        "Pisces"
+      ],
+      "personality_match": "gentle, sensitive, INFP"
+    },
+    {
+      "id": 42,
+      "name": "Boxer-Labrador Mix",
+      "species": "dog",
+      "origin": "USA",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 4,
+      "lifespan_years": "10-13",
+      "weight_lbs": "55-80",
+      "temperament": [
+        "playful",
+        "loyal",
+        "energetic",
+        "friendly",
+        "protective"
+      ],
+      "description": "The best of both breeds — the Labrador's friendliness with the Boxer's playfulness. Boxadors are wonderful family dogs.",
+      "care_notes": "Daily vigorous exercise. Moderate grooming. Benefits from early training due to size and energy.",
+      "zodiac_match": [
+        "Leo",
+        "Cancer",
+        "Sagittarius"
+      ],
+      "personality_match": "playful, loving, ESFJ"
+    },
+    {
+      "id": 43,
+      "name": "Shiba Inu",
+      "species": "dog",
+      "origin": "Japan",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 3,
+      "lifespan_years": "13-16",
+      "weight_lbs": "17-23",
+      "temperament": [
+        "alert",
+        "confident",
+        "bold",
+        "faithful",
+        "clean"
+      ],
+      "description": "Japan's most popular native breed — the Shiba is fox-like in appearance and cat-like in independence. Spirited, loyal, and famously dramatic.",
+      "care_notes": "Early socialization essential. High prey drive. Escape artists. The Shiba scream is real. Needs patient, experienced owner.",
+      "zodiac_match": [
+        "Scorpio",
+        "Aquarius",
+        "Aries"
+      ],
+      "personality_match": "independent, bold, ISTP"
+    },
+    {
+      "id": 44,
+      "name": "Greyhound",
+      "species": "dog",
+      "origin": "Ancient",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "10-13",
+      "weight_lbs": "60-70",
+      "temperament": [
+        "gentle",
+        "noble",
+        "independent",
+        "affectionate",
+        "even-tempered"
+      ],
+      "description": "Despite being the world's fastest dog, Greyhounds are remarkably calm couch potatoes at home. They are gentle, elegant, and surprisingly low-maintenance.",
+      "care_notes": "Daily sprint in a secure area needed. Sensitive to cold. Very low grooming needs. Makes an excellent apartment dog.",
+      "zodiac_match": [
+        "Capricorn",
+        "Pisces",
+        "Aquarius"
+      ],
+      "personality_match": "calm, gentle, INFJ"
+    },
+    {
+      "id": 45,
+      "name": "Basenji",
+      "species": "dog",
+      "origin": "Central Africa",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "13-14",
+      "weight_lbs": "22-24",
+      "temperament": [
+        "curious",
+        "alert",
+        "energetic",
+        "playful",
+        "poised"
+      ],
+      "description": "The barkless dog from Central Africa. Basenjis are cat-like in independence and cleanliness, making unique yodeling sounds instead of traditional barks.",
+      "care_notes": "High prey drive — must be leashed. Extremely difficult to recall. Independent thinkers. Not for inexperienced owners.",
+      "zodiac_match": [
+        "Aquarius",
+        "Gemini",
+        "Scorpio"
+      ],
+      "personality_match": "independent, curious, INTP"
+    },
+    {
+      "id": 46,
+      "name": "Norwegian Elkhound",
+      "species": "dog",
+      "origin": "Norway",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "12-15",
+      "weight_lbs": "48-55",
+      "temperament": [
+        "bold",
+        "energetic",
+        "friendly",
+        "independent",
+        "loyal"
+      ],
+      "description": "Ancient hunting dogs from Scandinavia. Norwegian Elkhounds are hardy, independent, and deeply loyal — a beautiful silver companion with a bold spirit.",
+      "care_notes": "Needs vigorous daily exercise. Heavy shedder. Independent streak makes early training important.",
+      "zodiac_match": [
+        "Aries",
+        "Capricorn",
+        "Aquarius"
+      ],
+      "personality_match": "bold, loyal, ESTJ"
+    },
+    {
+      "id": 47,
+      "name": "Leonberger",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "giant",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "8-9",
+      "weight_lbs": "120-170",
+      "temperament": [
+        "friendly",
+        "gentle",
+        "obedient",
+        "lion-like",
+        "steady"
+      ],
+      "description": "Resembling a lion, the Leonberger is a gentle giant with magnificent presence. Bred as a companion to royalty, they remain noble, patient family dogs.",
+      "care_notes": "Regular grooming. Prone to joint issues and heart conditions. Shorter lifespan. Needs moderate daily exercise.",
+      "zodiac_match": [
+        "Leo",
+        "Taurus",
+        "Cancer"
+      ],
+      "personality_match": "noble, gentle, INFJ"
+    },
+    {
+      "id": 48,
+      "name": "Keeshond",
+      "species": "dog",
+      "origin": "Netherlands",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "35-45",
+      "temperament": [
+        "outgoing",
+        "friendly",
+        "lively",
+        "alert",
+        "playful"
+      ],
+      "description": "Dutch barge dogs with spectacular double coats and spectacled faces. Keeshonds are sociable, alert companions who thrive in family environments.",
+      "care_notes": "Regular brushing — heavy seasonal shedding. Alert watchdogs without being aggressive. Excellent family dog.",
+      "zodiac_match": [
+        "Gemini",
+        "Libra",
+        "Cancer"
+      ],
+      "personality_match": "social, lively, ESFJ"
+    },
+    {
+      "id": 49,
+      "name": "Chesapeake Bay Retriever",
+      "species": "dog",
+      "origin": "USA",
+      "size": "large",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "10-13",
+      "weight_lbs": "55-80",
+      "temperament": [
+        "bright",
+        "sensitive",
+        "dominant",
+        "courageous",
+        "happy"
+      ],
+      "description": "America's water retriever. Chesapeakes are tough, determined working dogs with a more independent personality than other retrievers.",
+      "care_notes": "Needs vigorous daily exercise, especially swimming. More independent than Labradors. Needs experienced owner.",
+      "zodiac_match": [
+        "Scorpio",
+        "Aries",
+        "Capricorn"
+      ],
+      "personality_match": "determined, independent, ISTJ"
+    },
+    {
+      "id": 50,
+      "name": "Affenpinscher",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "7-10",
+      "temperament": [
+        "confident",
+        "famously funny",
+        "fearless",
+        "adventurous",
+        "stubborn"
+      ],
+      "description": "The Monkey Terrier. Affenpinschers have ridiculous faces and matching personalities — hilariously stubborn, mischievous, and entertaining.",
+      "care_notes": "Moderate exercise needs. Consistent training required due to stubbornness. Good watchdog despite small size.",
+      "zodiac_match": [
+        "Scorpio",
+        "Gemini",
+        "Aries"
+      ],
+      "personality_match": "funny, fearless, ENTP"
+    },
+    {
+      "id": 51,
+      "name": "Plott Hound",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "large",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 2,
+      "lifespan_years": "12-14",
+      "weight_lbs": "40-60",
+      "temperament": [
+        "bold",
+        "tenacious",
+        "alert",
+        "loyal",
+        "eager"
+      ],
+      "description": "North Carolina's state dog. Plott Hounds are tenacious hunting dogs with incredible endurance and loyalty to their family pack.",
+      "care_notes": "Needs extensive daily exercise. High prey drive. Vocalization can be intense. Best for active outdoor families.",
+      "zodiac_match": [
+        "Aries",
+        "Sagittarius",
+        "Capricorn"
+      ],
+      "personality_match": "tenacious, loyal, ESTP"
+    },
+    {
+      "id": 52,
+      "name": "Basenji-Greyhound Mix",
+      "species": "dog",
+      "origin": "Mixed",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "30-50",
+      "temperament": [
+        "independent",
+        "athletic",
+        "gentle",
+        "curious",
+        "quiet"
+      ],
+      "description": "An athletic mix combining Greyhound's grace with Basenji's independence. Unique, low-maintenance companions for experienced owners.",
+      "care_notes": "High prey drive. Needs daily running. Relatively independent. Minimal grooming.",
+      "zodiac_match": [
+        "Aquarius",
+        "Capricorn",
+        "Gemini"
+      ],
+      "personality_match": "independent, athletic, ISTP"
+    },
+    {
+      "id": 53,
+      "name": "Papillon",
+      "species": "dog",
+      "origin": "France",
+      "size": "small",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "14-16",
+      "weight_lbs": "5-10",
+      "temperament": [
+        "friendly",
+        "alert",
+        "happy",
+        "playful",
+        "curious"
+      ],
+      "description": "Named for their butterfly-shaped ears. Papillons are tiny athletes with vast intelligence — among the smartest small breeds, excelling at agility.",
+      "care_notes": "Daily brushing. High energy for size — needs daily exercise. Excels at agility and obedience competition.",
+      "zodiac_match": [
+        "Gemini",
+        "Aquarius",
+        "Aries"
+      ],
+      "personality_match": "curious, intelligent, ENTP"
+    },
+    {
+      "id": 54,
+      "name": "Saluki",
+      "species": "dog",
+      "origin": "Middle East",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "12-14",
+      "weight_lbs": "40-65",
+      "temperament": [
+        "gentle",
+        "aloof",
+        "independent",
+        "devoted",
+        "dignified"
+      ],
+      "description": "One of the oldest breeds in existence. Salukis are elegant, aristocratic sighthounds who are deeply devoted to their families but aloof with strangers.",
+      "care_notes": "Needs secure running space — incredibly fast. Independent and sometimes stubborn. Sensitive to harsh training.",
+      "zodiac_match": [
+        "Aquarius",
+        "Capricorn",
+        "Pisces"
+      ],
+      "personality_match": "independent, refined, INTJ"
+    },
+    {
+      "id": 55,
+      "name": "Airedale Terrier",
+      "species": "dog",
+      "origin": "England",
+      "size": "large",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "11-14",
+      "weight_lbs": "50-70",
+      "temperament": [
+        "outgoing",
+        "friendly",
+        "clever",
+        "courageous",
+        "alert"
+      ],
+      "description": "The King of Terriers. Airedales are the largest terrier breed — versatile working dogs with intelligence, courage, and a classic terrier stubbornness.",
+      "care_notes": "Regular grooming. Stubborn — needs patient, consistent training. High energy needs. Strong prey drive.",
+      "zodiac_match": [
+        "Aries",
+        "Leo",
+        "Aquarius"
+      ],
+      "personality_match": "courageous, independent, ENTP"
+    },
+    {
+      "id": 56,
+      "name": "Keeshond (Standard)",
+      "species": "dog",
+      "origin": "Netherlands",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "35-45",
+      "temperament": [
+        "friendly",
+        "lively",
+        "outgoing",
+        "agile",
+        "obedient"
+      ],
+      "description": "Dutch canal dogs known for their spectacular ring tail and 'spectacles' facial markings. Keeshonds are devoted, lively family companions.",
+      "care_notes": "Heavy shedding seasons require extra brushing. Alert watchdogs. Excellent family dog. Needs daily walks.",
+      "zodiac_match": [
+        "Gemini",
+        "Libra",
+        "Cancer"
+      ],
+      "personality_match": "social, alert, ESFJ"
+    },
+    {
+      "id": 57,
+      "name": "Cane Corso",
+      "species": "dog",
+      "origin": "Italy",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "9-12",
+      "weight_lbs": "88-110",
+      "temperament": [
+        "stable",
+        "calm",
+        "trainable",
+        "reserved",
+        "loyal"
+      ],
+      "description": "Ancient Italian mastiff with majestic presence. Cane Corsos are deeply devoted to family but require experienced ownership and early socialization.",
+      "care_notes": "Early socialization and professional training critical. Not for first-time owners. Needs moderate daily exercise.",
+      "zodiac_match": [
+        "Scorpio",
+        "Capricorn",
+        "Taurus"
+      ],
+      "personality_match": "loyal, protective, ISTJ"
+    },
+    {
+      "id": 58,
+      "name": "Samoyed",
+      "species": "dog",
+      "origin": "Russia",
+      "size": "large",
+      "energy": "high",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-14",
+      "weight_lbs": "35-65",
+      "temperament": [
+        "friendly",
+        "gentle",
+        "adaptable",
+        "alert",
+        "playful"
+      ],
+      "description": "The smiling sled dog. Samoyeds are breathtakingly beautiful white dogs with permanently smiling faces and genuinely sunny temperaments.",
+      "care_notes": "Brushing 3-4x weekly to manage shedding. Needs vigorous daily exercise. Originally bred for cold — tolerates it well.",
+      "zodiac_match": [
+        "Aquarius",
+        "Gemini",
+        "Cancer"
+      ],
+      "personality_match": "friendly, spirited, ENFP"
+    },
+    {
+      "id": 59,
+      "name": "Bull Terrier",
+      "species": "dog",
+      "origin": "England",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "12-13",
+      "weight_lbs": "50-70",
+      "temperament": [
+        "playful",
+        "mischievous",
+        "active",
+        "determined",
+        "sweet"
+      ],
+      "description": "The egg-headed clown of the dog world. Bull Terriers are intensely playful, comically determined, and devoted to their families.",
+      "care_notes": "High energy — needs vigorous exercise. Not always reliable with other dogs or small animals. Needs patient, firm training.",
+      "zodiac_match": [
+        "Aries",
+        "Scorpio",
+        "Leo"
+      ],
+      "personality_match": "playful, bold, ESTP"
+    },
+    {
+      "id": 60,
+      "name": "Alaskan Malamute",
+      "species": "dog",
+      "origin": "Alaska",
+      "size": "large",
+      "energy": "high",
+      "grooming": "high",
+      "good_with_kids": 4,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "10-14",
+      "weight_lbs": "75-85",
+      "temperament": [
+        "affectionate",
+        "loyal",
+        "playful",
+        "dignified",
+        "independent"
+      ],
+      "description": "Working sled dogs at heart. Malamutes are powerful, independent, and playful — but they require experienced owners who understand pack dynamics.",
+      "care_notes": "Needs vigorous daily exercise. Strong prey drive. Dog aggression possible. Heavy shedder. Not for first-time owners.",
+      "zodiac_match": [
+        "Capricorn",
+        "Aries",
+        "Aquarius"
+      ],
+      "personality_match": "independent, powerful, ISTP"
+    },
+    {
+      "id": 61,
+      "name": "Soft Coated Wheaten Terrier",
+      "species": "dog",
+      "origin": "Ireland",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "12-14",
+      "weight_lbs": "30-45",
+      "temperament": [
+        "friendly",
+        "happy",
+        "deeply devoted",
+        "spirited",
+        "confident"
+      ],
+      "description": "The terrier with a soft, silky wheaten coat and an irresistibly joyful personality. Wheatens are devoted, energetic companions who love to play.",
+      "care_notes": "Regular professional grooming. High energy — needs daily vigorous exercise. Strong prey drive. Generally good with children.",
+      "zodiac_match": [
+        "Cancer",
+        "Gemini",
+        "Sagittarius"
+      ],
+      "personality_match": "joyful, loyal, ESFP"
+    },
+    {
+      "id": 62,
+      "name": "Portuguese Water Dog",
+      "species": "dog",
+      "origin": "Portugal",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "11-13",
+      "weight_lbs": "35-60",
+      "temperament": [
+        "adventurous",
+        "athletic",
+        "fun-loving",
+        "obedient",
+        "spirited"
+      ],
+      "description": "Non-shedding water dogs who became famous as the Obama family's choice. PWDs are athletic, intelligent, and wonderful family companions.",
+      "care_notes": "Professional grooming every 6-8 weeks. Needs vigorous daily exercise including swimming. Highly trainable.",
+      "zodiac_match": [
+        "Cancer",
+        "Pisces",
+        "Aquarius"
+      ],
+      "personality_match": "athletic, intelligent, ENFJ"
+    },
+    {
+      "id": 63,
+      "name": "Canaan Dog",
+      "species": "dog",
+      "origin": "Israel",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "12-15",
+      "weight_lbs": "35-55",
+      "temperament": [
+        "alert",
+        "vigilant",
+        "loyal",
+        "trainable",
+        "devoted"
+      ],
+      "description": "Ancient herding and guard dogs from the Middle East. Canaan Dogs are naturally wary but deeply loyal to their families.",
+      "care_notes": "Early socialization critical. Independent thinkers. Alert watchdogs. Moderate exercise needs.",
+      "zodiac_match": [
+        "Capricorn",
+        "Scorpio",
+        "Aquarius"
+      ],
+      "personality_match": "independent, loyal, ISTJ"
+    },
+    {
+      "id": 64,
+      "name": "Tibetan Mastiff",
+      "species": "dog",
+      "origin": "Tibet",
+      "size": "giant",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "10-12",
+      "weight_lbs": "90-150",
+      "temperament": [
+        "stubborn",
+        "strong-willed",
+        "loyal",
+        "protective",
+        "intelligent"
+      ],
+      "description": "Ancient guardian of Tibetan monasteries. Tibetan Mastiffs are powerful, independent, and deeply devoted to their family territory.",
+      "care_notes": "Not for first-time owners. Strong will requires experienced handler. Heavy shedding seasons. Nocturnal tendencies.",
+      "zodiac_match": [
+        "Capricorn",
+        "Taurus",
+        "Scorpio"
+      ],
+      "personality_match": "protective, independent, INTJ"
+    },
+    {
+      "id": 65,
+      "name": "Lagotto Romagnolo",
+      "species": "dog",
+      "origin": "Italy",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-17",
+      "weight_lbs": "24-35",
+      "temperament": [
+        "loyal",
+        "loving",
+        "trainable",
+        "keen",
+        "active"
+      ],
+      "description": "The truffle dog of Italy. Lagottos are ancient water dogs repurposed as truffle hunters — intelligent, affectionate, and surprisingly hypoallergenic.",
+      "care_notes": "Professional grooming needed. Loves to dig — redirect to sandpits. Needs mental stimulation and daily exercise.",
+      "zodiac_match": [
+        "Virgo",
+        "Taurus",
+        "Cancer"
+      ],
+      "personality_match": "dedicated, affectionate, INFJ"
+    },
+    {
+      "id": 66,
+      "name": "Puli",
+      "species": "dog",
+      "origin": "Hungary",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "high",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "10-15",
+      "weight_lbs": "25-35",
+      "temperament": [
+        "faithful",
+        "obedient",
+        "energetic",
+        "loyal",
+        "intelligent"
+      ],
+      "description": "The dreadlocked herding dog. Pulik have distinctive corded coats and lightning-fast agility — they're versatile, loyal herding dogs.",
+      "care_notes": "Coat care is labor-intensive — cords must be separated regularly. High energy herding dog needs vigorous daily exercise.",
+      "zodiac_match": [
+        "Aries",
+        "Virgo",
+        "Capricorn"
+      ],
+      "personality_match": "intelligent, loyal, ESTJ"
+    },
+    {
+      "id": 67,
+      "name": "Norwegian Lundehund",
+      "species": "dog",
+      "origin": "Norway",
+      "size": "small",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "13-20",
+      "temperament": [
+        "alert",
+        "energetic",
+        "protective",
+        "loyal",
+        "curious"
+      ],
+      "description": "Six-toed puffin hunters from Norway's remote islands. Lundehunds are unique, acrobatic, and one of the rarest breeds in the world.",
+      "care_notes": "Prone to intestinal protein-losing conditions. Special diet often needed. Rare breed — find specialist breeder.",
+      "zodiac_match": [
+        "Aquarius",
+        "Aries",
+        "Gemini"
+      ],
+      "personality_match": "curious, acrobatic, ENFP"
+    },
+    {
+      "id": 68,
+      "name": "Miniature Pinscher",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 3,
+      "lifespan_years": "12-16",
+      "weight_lbs": "8-10",
+      "temperament": [
+        "energetic",
+        "spirited",
+        "fearless",
+        "assertive",
+        "clever"
+      ],
+      "description": "The King of Toys — Min Pins are bold, fearless dogs who have no concept of their size. They are the terriers of the toy group.",
+      "care_notes": "High energy despite small size. Needs daily exercise and mental stimulation. Early socialization essential.",
+      "zodiac_match": [
+        "Aries",
+        "Leo",
+        "Scorpio"
+      ],
+      "personality_match": "fearless, energetic, ESTP"
+    },
+    {
+      "id": 69,
+      "name": "Field Spaniel",
+      "species": "dog",
+      "origin": "England",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-13",
+      "weight_lbs": "35-50",
+      "temperament": [
+        "adaptable",
+        "independent",
+        "docile",
+        "active",
+        "sensitive"
+      ],
+      "description": "Between the Cocker and Springer in size, the Field Spaniel is a gentle, sensitive, and versatile hunting companion.",
+      "care_notes": "Regular grooming. Sensitive to harsh training. Moderate daily exercise. Less well-known than related spaniels.",
+      "zodiac_match": [
+        "Cancer",
+        "Libra",
+        "Pisces"
+      ],
+      "personality_match": "gentle, adaptable, INFP"
+    },
+    {
+      "id": 70,
+      "name": "Flat-Coated Retriever",
+      "species": "dog",
+      "origin": "England",
+      "size": "large",
+      "energy": "very_high",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 4,
+      "lifespan_years": "10",
+      "weight_lbs": "55-70",
+      "temperament": [
+        "optimistic",
+        "cheerful",
+        "good-humored",
+        "outgoing",
+        "devoted"
+      ],
+      "description": "Peter Pan in dog form. Flat-Coats maintain puppy enthusiasm well into adulthood — eternally optimistic, forever joyful.",
+      "care_notes": "Needs vigorous daily exercise. Shorter lifespan — genetic predisposition to cancer. Exuberant and requires patient training.",
+      "zodiac_match": [
+        "Sagittarius",
+        "Leo",
+        "Cancer"
+      ],
+      "personality_match": "joyful, enthusiastic, ENFP"
+    },
+    {
+      "id": 71,
+      "name": "Dogo Argentino",
+      "species": "dog",
+      "origin": "Argentina",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 1,
+      "lifespan_years": "9-15",
+      "weight_lbs": "80-100",
+      "temperament": [
+        "loyal",
+        "cheerful",
+        "humble",
+        "friendly-with-family",
+        "powerful"
+      ],
+      "description": "Powerful Argentine hunting dogs developed for big game. Dogos are deeply loyal to family but require experienced ownership and early socialization.",
+      "care_notes": "Early socialization and training essential. Not suitable for multi-pet homes due to prey drive. Needs experienced owner.",
+      "zodiac_match": [
+        "Aries",
+        "Capricorn",
+        "Scorpio"
+      ],
+      "personality_match": "loyal, powerful, ISTJ"
+    },
+    {
+      "id": 72,
+      "name": "Otterhound",
+      "species": "dog",
+      "origin": "England",
+      "size": "large",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "10-13",
+      "weight_lbs": "80-115",
+      "temperament": [
+        "boisterous",
+        "affectionate",
+        "even-tempered",
+        "amiable",
+        "rowdy"
+      ],
+      "description": "One of the rarest breeds in the world. Otterhounds are exuberant, shaggy, and wonderfully friendly — great family dogs for active households.",
+      "care_notes": "Needs vigorous daily exercise including swimming. Shaggy coat needs regular brushing. Rare breed — difficult to find.",
+      "zodiac_match": [
+        "Cancer",
+        "Sagittarius",
+        "Aries"
+      ],
+      "personality_match": "boisterous, friendly, ESFP"
+    },
+    {
+      "id": 73,
+      "name": "Sussex Spaniel",
+      "species": "dog",
+      "origin": "England",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "13-15",
+      "weight_lbs": "35-45",
+      "temperament": [
+        "cheerful",
+        "sociable",
+        "friendly",
+        "calm",
+        "even-tempered"
+      ],
+      "description": "Among the most laid-back spaniels. Sussex Spaniels combine a calm temperament with genuine cheerfulness and moderate exercise needs.",
+      "care_notes": "Regular grooming. Moderate exercise needs. Rare breed. Excellent for less active families who still want a sporty dog.",
+      "zodiac_match": [
+        "Taurus",
+        "Cancer",
+        "Libra"
+      ],
+      "personality_match": "calm, friendly, ISFJ"
+    },
+    {
+      "id": 74,
+      "name": "Standard Schnauzer",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "13-16",
+      "weight_lbs": "35-45",
+      "temperament": [
+        "spirited",
+        "alert",
+        "reliable",
+        "intelligent",
+        "vivacious"
+      ],
+      "description": "The original Schnauzer — working farm dogs with intelligence, reliability, and a square-jawed dignity. The foundation for both the Miniature and Giant varieties.",
+      "care_notes": "Regular grooming every 6-8 weeks. High energy — needs daily vigorous exercise. Strong-willed but trainable.",
+      "zodiac_match": [
+        "Capricorn",
+        "Virgo",
+        "Aries"
+      ],
+      "personality_match": "reliable, spirited, ESTJ"
+    },
+    {
+      "id": 75,
+      "name": "Boykin Spaniel",
+      "species": "dog",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "14-16",
+      "weight_lbs": "25-40",
+      "temperament": [
+        "friendly",
+        "eager",
+        "lovable",
+        "energetic",
+        "trainable"
+      ],
+      "description": "South Carolina's state dog. Boykins are versatile, eager-to-please hunting companions who also make wonderful family dogs.",
+      "care_notes": "Regular grooming. High energy — needs vigorous daily exercise. Excels as both hunting dog and family companion.",
+      "zodiac_match": [
+        "Cancer",
+        "Sagittarius",
+        "Aries"
+      ],
+      "personality_match": "eager, friendly, ESFJ"
+    },
+    {
+      "id": 76,
+      "name": "Black and Tan Coonhound",
+      "species": "dog",
+      "origin": "USA",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "10-12",
+      "weight_lbs": "65-110",
+      "temperament": [
+        "friendly",
+        "calm",
+        "tenacious",
+        "loud",
+        "easygoing"
+      ],
+      "description": "All-American hunting dogs with incredible noses and melodious voices. Coonhounds are gentle, friendly giants who love to vocalize.",
+      "care_notes": "Needs secure fencing — will follow nose anywhere. Vocal — may not suit apartments. Needs daily exercise.",
+      "zodiac_match": [
+        "Taurus",
+        "Cancer",
+        "Sagittarius"
+      ],
+      "personality_match": "easygoing, determined, ISFP"
+    },
+    {
+      "id": 77,
+      "name": "Giant Schnauzer",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "giant",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "12-15",
+      "weight_lbs": "55-85",
+      "temperament": [
+        "loyal",
+        "dominant",
+        "powerful",
+        "alert",
+        "intelligent"
+      ],
+      "description": "The Giant Schnauzer is a serious working dog — powerful, dominant, and deeply loyal. They require experienced owners who can provide structure and leadership.",
+      "care_notes": "Experienced owner required. Needs vigorous daily exercise and mental stimulation. Professional grooming every 6-8 weeks.",
+      "zodiac_match": [
+        "Capricorn",
+        "Aries",
+        "Scorpio"
+      ],
+      "personality_match": "powerful, loyal, INTJ"
+    },
+    {
+      "id": 78,
+      "name": "Rhodesian Ridgeback",
+      "species": "dog",
+      "origin": "Zimbabwe",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 2,
+      "lifespan_years": "10",
+      "weight_lbs": "70-85",
+      "temperament": [
+        "dignified",
+        "strong-willed",
+        "loyal",
+        "sensitive",
+        "reserved"
+      ],
+      "description": "Bred to hunt lions. Ridgebacks are powerful, independent, and deeply loyal — with a distinctive ridge of reversed hair along their spine.",
+      "care_notes": "Early socialization critical. Independent — not ideal for first-time owners. Needs vigorous daily exercise.",
+      "zodiac_match": [
+        "Aries",
+        "Leo",
+        "Capricorn"
+      ],
+      "personality_match": "powerful, independent, INTJ"
+    },
+    {
+      "id": 79,
+      "name": "English Springer Spaniel",
+      "species": "dog",
+      "origin": "England",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 4,
+      "lifespan_years": "12-14",
+      "weight_lbs": "40-50",
+      "temperament": [
+        "friendly",
+        "playful",
+        "obedient",
+        "eager-to-please",
+        "active"
+      ],
+      "description": "The merry springer — boundless enthusiasm, genuine affection, and impressive sporting ability. Springers are among the finest family-friendly gun dogs.",
+      "care_notes": "Regular grooming and ear cleaning. High energy — needs vigorous daily exercise. Excellent with children.",
+      "zodiac_match": [
+        "Cancer",
+        "Sagittarius",
+        "Aries"
+      ],
+      "personality_match": "enthusiastic, loyal, ESFJ"
+    },
+    {
+      "id": 80,
+      "name": "Miniature Bull Terrier",
+      "species": "dog",
+      "origin": "England",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "11-14",
+      "weight_lbs": "24-33",
+      "temperament": [
+        "mischievous",
+        "playful",
+        "determined",
+        "comical",
+        "sweet"
+      ],
+      "description": "All the Bull Terrier personality in a smaller, equally hilarious package. Mini Bull Terriers are endlessly entertaining and deeply devoted.",
+      "care_notes": "Needs daily vigorous exercise. Strong-willed. Not always good with other dogs. Needs patient, consistent training.",
+      "zodiac_match": [
+        "Aries",
+        "Leo",
+        "Scorpio"
+      ],
+      "personality_match": "playful, bold, ESTP"
+    },
+    {
+      "id": 81,
+      "name": "Xoloitzcuintli",
+      "species": "dog",
+      "origin": "Mexico",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "13-18",
+      "weight_lbs": "10-55",
+      "temperament": [
+        "calm",
+        "cheerful",
+        "alert",
+        "companionable",
+        "attentive"
+      ],
+      "description": "One of the world's oldest and rarest breeds. The Mexican Hairless Dog was sacred to the Aztecs and remains a unique, devoted companion.",
+      "care_notes": "Sunscreen needed if in sun. Skin care required. Moderate exercise. Rare — find reputable breeder.",
+      "zodiac_match": [
+        "Scorpio",
+        "Aquarius",
+        "Cancer"
+      ],
+      "personality_match": "ancient, devoted, INFJ"
+    },
+    {
+      "id": 82,
+      "name": "Briard",
+      "species": "dog",
+      "origin": "France",
+      "size": "large",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "12",
+      "weight_lbs": "55-100",
+      "temperament": [
+        "faithful",
+        "intelligent",
+        "obedient",
+        "confident",
+        "protective"
+      ],
+      "description": "Heart wrapped in fur — the Briard is a large French herding breed of remarkable intelligence and fierce devotion to its family.",
+      "care_notes": "Regular grooming. Needs vigorous daily exercise. Can be reserved with strangers. Early socialization important.",
+      "zodiac_match": [
+        "Cancer",
+        "Capricorn",
+        "Scorpio"
+      ],
+      "personality_match": "devoted, intelligent, INFJ"
+    },
+    {
+      "id": 83,
+      "name": "Norwegian Buhund",
+      "species": "dog",
+      "origin": "Norway",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "26-40",
+      "temperament": [
+        "confident",
+        "perceptive",
+        "lively",
+        "self-confident",
+        "affectionate"
+      ],
+      "description": "Viking-era herding dogs who sailed with Norsemen. Norwegian Buhunds are alert, lively, and form deep bonds with their families.",
+      "care_notes": "Regular brushing. High energy — needs daily vigorous exercise. Alert watchdog. Excellent herding instincts.",
+      "zodiac_match": [
+        "Aries",
+        "Aquarius",
+        "Cancer"
+      ],
+      "personality_match": "lively, independent, ENFP"
+    },
+    {
+      "id": 84,
+      "name": "Ibizan Hound",
+      "species": "dog",
+      "origin": "Spain",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "11-14",
+      "weight_lbs": "45-50",
+      "temperament": [
+        "independent",
+        "active",
+        "even-tempered",
+        "athletic",
+        "playful"
+      ],
+      "description": "Ancient dogs from the Balearic Islands — lean, elegant, and athletic sighthounds who are playful at home and magnificent runners.",
+      "care_notes": "Needs secure fencing — exceptional jumpers. Needs daily running. Sensitive to cold. Independent thinkers.",
+      "zodiac_match": [
+        "Aquarius",
+        "Aries",
+        "Sagittarius"
+      ],
+      "personality_match": "athletic, independent, ISTP"
+    },
+    {
+      "id": 85,
+      "name": "American Eskimo Dog",
+      "species": "dog",
+      "origin": "Germany",
+      "size": "small",
+      "energy": "high",
+      "grooming": "high",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "13-15",
+      "weight_lbs": "6-35",
+      "temperament": [
+        "intelligent",
+        "alert",
+        "friendly",
+        "reserved",
+        "protective"
+      ],
+      "description": "Beautiful white cloud dogs with sharp intelligence and an eagerness to please. American Eskimos excel at tricks and agility.",
+      "care_notes": "Regular brushing for thick double coat. High energy — needs daily exercise. Can be vocal. Excellent trick dogs.",
+      "zodiac_match": [
+        "Gemini",
+        "Virgo",
+        "Aquarius"
+      ],
+      "personality_match": "intelligent, playful, ENTP"
+    },
+    {
+      "id": 86,
+      "name": "Belgian Malinois",
+      "species": "dog",
+      "origin": "Belgium",
+      "size": "large",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "14-16",
+      "weight_lbs": "40-80",
+      "temperament": [
+        "confident",
+        "intelligent",
+        "versatile",
+        "loyal",
+        "watchful"
+      ],
+      "description": "The world's premier working dog. Belgian Malinois are used by military and police worldwide — extraordinary intelligence with boundless work drive.",
+      "care_notes": "Not suitable for novice owners. Needs hours of daily mental and physical exercise. Needs a job. Extremely high drive.",
+      "zodiac_match": [
+        "Aries",
+        "Capricorn",
+        "Scorpio"
+      ],
+      "personality_match": "driven, intelligent, INTJ"
+    },
+    {
+      "id": 87,
+      "name": "Irish Wolfhound",
+      "species": "dog",
+      "origin": "Ireland",
+      "size": "giant",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "6-10",
+      "weight_lbs": "105-120",
+      "temperament": [
+        "patient",
+        "thoughtful",
+        "calm",
+        "dignified",
+        "loyal"
+      ],
+      "description": "The tallest dog breed. Irish Wolfhounds are gentle, patient giants with genuine kindness and a quiet dignity that belies their ancient hunting heritage.",
+      "care_notes": "Shorter lifespan typical of giant breeds. Moderate exercise needs. Joint supplements recommended. Gentle indoor companion.",
+      "zodiac_match": [
+        "Pisces",
+        "Cancer",
+        "Capricorn"
+      ],
+      "personality_match": "gentle, noble, INFJ"
+    },
+    {
+      "id": 88,
+      "name": "Treeing Walker Coonhound",
+      "species": "dog",
+      "origin": "USA",
+      "size": "large",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "12-13",
+      "weight_lbs": "50-70",
+      "temperament": [
+        "confident",
+        "clever",
+        "courageous",
+        "lovable",
+        "driven"
+      ],
+      "description": "Bred to tree raccoons with relentless drive. Treeing Walkers are energetic, vocal hounds who need active outdoor families.",
+      "care_notes": "Needs extensive daily exercise. Vocal — not ideal for apartments. Strong prey drive. Secure fencing essential.",
+      "zodiac_match": [
+        "Sagittarius",
+        "Aries",
+        "Cancer"
+      ],
+      "personality_match": "driven, energetic, ESTP"
+    },
+    {
+      "id": 89,
+      "name": "Tibetan Spaniel",
+      "species": "dog",
+      "origin": "Tibet",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "9-15",
+      "temperament": [
+        "assertive",
+        "independent",
+        "playful",
+        "clever",
+        "cat-like"
+      ],
+      "description": "Ancient Buddhist monastery dogs. Tibetan Spaniels are independent, intelligent, and somewhat cat-like in their selective affection.",
+      "care_notes": "Regular grooming. Independent but devoted to family. Good watchdog. Moderate exercise needs.",
+      "zodiac_match": [
+        "Aquarius",
+        "Scorpio",
+        "Cancer"
+      ],
+      "personality_match": "independent, wise, INTP"
+    },
+    {
+      "id": 90,
+      "name": "Plott Hound (American)",
+      "species": "dog",
+      "origin": "USA",
+      "size": "large",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 2,
+      "lifespan_years": "12-14",
+      "weight_lbs": "40-60",
+      "temperament": [
+        "bold",
+        "tenacious",
+        "alert",
+        "loyal",
+        "hardworking"
+      ],
+      "description": "North Carolina's state dog. Plott Hounds are determined, energetic hunting dogs with deep loyalty to their pack.",
+      "care_notes": "Needs extensive daily exercise. Vocal baying. High prey drive. Best for active outdoor enthusiasts.",
+      "zodiac_match": [
+        "Aries",
+        "Sagittarius",
+        "Capricorn"
+      ],
+      "personality_match": "determined, loyal, ESTJ"
+    },
+    {
+      "id": 91,
+      "name": "Schipperke",
+      "species": "dog",
+      "origin": "Belgium",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "13-15",
+      "weight_lbs": "10-16",
+      "temperament": [
+        "curious",
+        "agile",
+        "energetic",
+        "independent",
+        "loyal"
+      ],
+      "description": "The little black fox. Schipperkes are curious, mischievous boat dogs with boundless energy and an entertaining personality.",
+      "care_notes": "Regular brushing. High energy — needs daily exercise. Independent and sometimes stubborn. Alert watchdog.",
+      "zodiac_match": [
+        "Aries",
+        "Gemini",
+        "Scorpio"
+      ],
+      "personality_match": "curious, mischievous, ENTP"
+    },
+    {
+      "id": 92,
+      "name": "Persian",
+      "species": "cat",
+      "origin": "Iran",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "high",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 3,
+      "lifespan_years": "15-20",
+      "weight_lbs": "7-12",
+      "temperament": [
+        "gentle",
+        "calm",
+        "affectionate",
+        "quiet",
+        "sweet"
+      ],
+      "description": "The royalty of the cat world. Persians are placid, elegant, and deeply devoted to their humans — preferring a quiet indoor life of luxury.",
+      "care_notes": "Daily grooming essential — mats form easily. Clean facial wrinkles. Prone to respiratory and kidney issues.",
+      "zodiac_match": [
+        "Taurus",
+        "Libra",
+        "Cancer"
+      ],
+      "personality_match": "gentle, patient, ISFJ"
+    },
+    {
+      "id": 93,
+      "name": "Maine Coon",
+      "species": "cat",
+      "origin": "USA",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "13-14",
+      "weight_lbs": "9-18",
+      "temperament": [
+        "friendly",
+        "playful",
+        "gentle",
+        "dog-like",
+        "intelligent"
+      ],
+      "description": "The gentle giant of cat breeds. Maine Coons are huge, tufted, dog-like cats who enjoy water, fetch, and following their humans everywhere.",
+      "care_notes": "Twice-weekly brushing. Prone to heart disease (HCM) — screen regularly. Loves water and interactive play.",
+      "zodiac_match": [
+        "Cancer",
+        "Sagittarius",
+        "Aquarius"
+      ],
+      "personality_match": "playful, gentle, ENFJ"
+    },
+    {
+      "id": 94,
+      "name": "Siamese",
+      "species": "cat",
+      "origin": "Thailand",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "11-15",
+      "weight_lbs": "8-14",
+      "temperament": [
+        "vocal",
+        "social",
+        "intelligent",
+        "demanding",
+        "affectionate"
+      ],
+      "description": "The extroverts of the cat world. Siamese are strikingly beautiful, extraordinarily vocal, and require significant social engagement.",
+      "care_notes": "Regular interaction essential — can develop separation anxiety. Vocal — neighbors should be warned. Highly intelligent.",
+      "zodiac_match": [
+        "Gemini",
+        "Leo",
+        "Aries"
+      ],
+      "personality_match": "social, expressive, ENFJ"
+    },
+    {
+      "id": 95,
+      "name": "Ragdoll",
+      "species": "cat",
+      "origin": "USA",
+      "size": "large",
+      "energy": "low",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-20",
+      "weight_lbs": "10-20",
+      "temperament": [
+        "gentle",
+        "calm",
+        "affectionate",
+        "easygoing",
+        "dog-like"
+      ],
+      "description": "Named for their tendency to go limp when held. Ragdolls are incredibly gentle, calm, and ideal for families seeking a supremely relaxed companion.",
+      "care_notes": "Semi-long coat needs twice-weekly brushing. Prone to HCM — cardiac screening important. Very trusting — keep indoors.",
+      "zodiac_match": [
+        "Cancer",
+        "Pisces",
+        "Taurus"
+      ],
+      "personality_match": "gentle, loving, ISFJ"
+    },
+    {
+      "id": 96,
+      "name": "Bengal",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "12-16",
+      "weight_lbs": "8-15",
+      "temperament": [
+        "energetic",
+        "playful",
+        "curious",
+        "athletic",
+        "wild-looking"
+      ],
+      "description": "Part domestic cat, part small wild leopard. Bengals are athletic, mischievous, and need serious environmental enrichment to stay out of trouble.",
+      "care_notes": "Needs extensive playtime and vertical space. Can open cabinets and doors. High prey drive. Not for low-energy households.",
+      "zodiac_match": [
+        "Aries",
+        "Sagittarius",
+        "Gemini"
+      ],
+      "personality_match": "adventurous, energetic, ESTP"
+    },
+    {
+      "id": 97,
+      "name": "Abyssinian",
+      "species": "cat",
+      "origin": "Ethiopia",
+      "size": "small",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "9-15",
+      "weight_lbs": "6-10",
+      "temperament": [
+        "active",
+        "athletic",
+        "energetic",
+        "playful",
+        "curious"
+      ],
+      "description": "One of the oldest known cat breeds. Abyssinians are slender, athletic, and endlessly curious — they need constant entertainment.",
+      "care_notes": "Needs significant environmental enrichment and playtime. Very active — not a lap cat. Interactive toys essential.",
+      "zodiac_match": [
+        "Aries",
+        "Gemini",
+        "Aquarius"
+      ],
+      "personality_match": "active, curious, ENFP"
+    },
+    {
+      "id": 98,
+      "name": "Scottish Fold",
+      "species": "cat",
+      "origin": "Scotland",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "11-15",
+      "weight_lbs": "6-13",
+      "temperament": [
+        "sweet",
+        "calm",
+        "adaptable",
+        "quiet",
+        "gentle"
+      ],
+      "description": "Those folded ears are adorable, but ethical breeding is important. Scottish Folds are calm, sweet cats who adapt beautifully to family life.",
+      "care_notes": "Folded ears from genetic mutation — only breed from straight-eared cats to avoid joint issues. Regular ear cleaning needed.",
+      "zodiac_match": [
+        "Cancer",
+        "Taurus",
+        "Libra"
+      ],
+      "personality_match": "sweet, calm, ISFP"
+    },
+    {
+      "id": 99,
+      "name": "Sphynx",
+      "species": "cat",
+      "origin": "Canada",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "8-14",
+      "weight_lbs": "6-14",
+      "temperament": [
+        "extroverted",
+        "energetic",
+        "loyal",
+        "mischievous",
+        "warm"
+      ],
+      "description": "The hairless wonder. Sphynx cats are incredibly warm to the touch, intensely social, and completely without the dignity most cats maintain.",
+      "care_notes": "Weekly skin bathing to remove oil buildup. Prone to cold. Needs regular ear cleaning. Heart conditions possible.",
+      "zodiac_match": [
+        "Leo",
+        "Aquarius",
+        "Gemini"
+      ],
+      "personality_match": "extroverted, warm, ESFP"
+    },
+    {
+      "id": 100,
+      "name": "British Shorthair",
+      "species": "cat",
+      "origin": "England",
+      "size": "large",
+      "energy": "low",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "12-20",
+      "weight_lbs": "7-17",
+      "temperament": [
+        "calm",
+        "easy-going",
+        "affectionate",
+        "loyal",
+        "patient"
+      ],
+      "description": "The teddy bear cat. British Shorthairs are round, plush, and wonderfully self-contained — loving but not demanding, playful but never frenetic.",
+      "care_notes": "Prone to obesity — monitor diet. Blood group B is common — check before breeding. Easy care coat.",
+      "zodiac_match": [
+        "Taurus",
+        "Capricorn",
+        "Cancer"
+      ],
+      "personality_match": "steady, loyal, ISFJ"
+    },
+    {
+      "id": 101,
+      "name": "Russian Blue",
+      "species": "cat",
+      "origin": "Russia",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 5,
+      "lifespan_years": "15-20",
+      "weight_lbs": "7-12",
+      "temperament": [
+        "gentle",
+        "shy",
+        "intelligent",
+        "affectionate-with-family",
+        "quiet"
+      ],
+      "description": "Silver-blue cats with emerald eyes and a shy, gentle nature. Russian Blues are loyal to their family but cautious with strangers.",
+      "care_notes": "Prone to obesity — monitor diet. Shy initially — allow time to warm up. Very clean and quiet cats.",
+      "zodiac_match": [
+        "Virgo",
+        "Capricorn",
+        "Cancer"
+      ],
+      "personality_match": "gentle, reserved, INFJ"
+    },
+    {
+      "id": 102,
+      "name": "Norwegian Forest Cat",
+      "species": "cat",
+      "origin": "Norway",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "14-16",
+      "weight_lbs": "9-16",
+      "temperament": [
+        "friendly",
+        "calm",
+        "intelligent",
+        "independent",
+        "playful"
+      ],
+      "description": "Nordic forest hunters with magnificent waterproof coats. Wegies are sturdy, independent, and genuinely beautiful cats who enjoy outdoor exploration.",
+      "care_notes": "Twice-weekly brushing. Needs vertical climbing space. Semi-independent — enjoys outdoor access if possible.",
+      "zodiac_match": [
+        "Capricorn",
+        "Taurus",
+        "Aquarius"
+      ],
+      "personality_match": "independent, patient, INFP"
+    },
+    {
+      "id": 103,
+      "name": "Birman",
+      "species": "cat",
+      "origin": "Burma",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 5,
+      "lifespan_years": "14-15",
+      "weight_lbs": "10-12",
+      "temperament": [
+        "affectionate",
+        "gentle",
+        "sociable",
+        "quiet",
+        "devoted"
+      ],
+      "description": "Sacred cats of Burma. Birmans are strikingly beautiful with their colorpoint patterns and pure white gloves — gentle and deeply devoted.",
+      "care_notes": "Regular brushing for silky coat. Sociable — does well with other pets. Gentle and non-demanding.",
+      "zodiac_match": [
+        "Pisces",
+        "Cancer",
+        "Libra"
+      ],
+      "personality_match": "gentle, devoted, INFJ"
+    },
+    {
+      "id": 104,
+      "name": "Tonkinese",
+      "species": "cat",
+      "origin": "Canada",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-18",
+      "weight_lbs": "6-12",
+      "temperament": [
+        "playful",
+        "sociable",
+        "intelligent",
+        "vocal",
+        "active"
+      ],
+      "description": "A Siamese-Burmese cross that captures the best of both breeds — playful, social, and affectionate without Siamese extremes.",
+      "care_notes": "Needs regular interaction and play. Can be vocal but less extreme than Siamese. Prone to dental issues.",
+      "zodiac_match": [
+        "Gemini",
+        "Cancer",
+        "Leo"
+      ],
+      "personality_match": "playful, social, ESFP"
+    },
+    {
+      "id": 105,
+      "name": "Turkish Angora",
+      "species": "cat",
+      "origin": "Turkey",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "12-18",
+      "weight_lbs": "5-10",
+      "temperament": [
+        "intelligent",
+        "athletic",
+        "playful",
+        "social",
+        "devoted"
+      ],
+      "description": "One of the oldest natural breeds. Turkish Angoras are graceful, intelligent, and often mischievously entertaining — they choose one person as their special person.",
+      "care_notes": "Minimal grooming despite long coat. Bonds deeply with one person. Active and athletic — needs playtime.",
+      "zodiac_match": [
+        "Aquarius",
+        "Gemini",
+        "Aries"
+      ],
+      "personality_match": "intelligent, playful, ENTP"
+    },
+    {
+      "id": 106,
+      "name": "Burmese",
+      "species": "cat",
+      "origin": "Burma",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "18-25",
+      "weight_lbs": "6-10",
+      "temperament": [
+        "social",
+        "affectionate",
+        "playful",
+        "vocal",
+        "dog-like"
+      ],
+      "description": "People-oriented to an extreme degree. Burmese are the social butterflies of the cat world — loving, vocal, and genuinely sad when left alone.",
+      "care_notes": "Needs significant social time — gets lonely easily. Very long-lived. Vocal but not as extreme as Siamese.",
+      "zodiac_match": [
+        "Leo",
+        "Cancer",
+        "Gemini"
+      ],
+      "personality_match": "social, loving, ESFJ"
+    },
+    {
+      "id": 107,
+      "name": "Himalayan",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "high",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 3,
+      "lifespan_years": "15-20",
+      "weight_lbs": "7-12",
+      "temperament": [
+        "calm",
+        "gentle",
+        "affectionate",
+        "quiet",
+        "tolerant"
+      ],
+      "description": "Persian-Siamese cross with colorpoint markings. Himalayans are calm, gentle, and beautiful indoor companions.",
+      "care_notes": "Daily grooming essential. Clean facial wrinkles. Prone to kidney disease. Quiet, calm indoor cats.",
+      "zodiac_match": [
+        "Taurus",
+        "Pisces",
+        "Libra"
+      ],
+      "personality_match": "gentle, quiet, ISFP"
+    },
+    {
+      "id": 108,
+      "name": "Devon Rex",
+      "species": "cat",
+      "origin": "England",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "9-15",
+      "weight_lbs": "5-10",
+      "temperament": [
+        "playful",
+        "mischievous",
+        "loyal",
+        "extroverted",
+        "elfin"
+      ],
+      "description": "Pixie-faced, huge-eared, and endlessly mischievous. Devon Rex cats are people-oriented, athletic, and warm — living hot water bottles who follow you everywhere.",
+      "care_notes": "Weekly ear cleaning. Minimal shedding. Needs warmth. Very social — suffers without companionship.",
+      "zodiac_match": [
+        "Gemini",
+        "Aquarius",
+        "Leo"
+      ],
+      "personality_match": "mischievous, social, ENTP"
+    },
+    {
+      "id": 109,
+      "name": "Cornish Rex",
+      "species": "cat",
+      "origin": "England",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-20",
+      "weight_lbs": "5-10",
+      "temperament": [
+        "active",
+        "playful",
+        "people-oriented",
+        "warm",
+        "curious"
+      ],
+      "description": "Soft-coated cats with waves in their fur and extraordinary athleticism. Cornish Rex are perpetually kitten-like in their energy.",
+      "care_notes": "Minimal shedding. Needs warmth. Very social and active. Excels at fetch and agility.",
+      "zodiac_match": [
+        "Aries",
+        "Gemini",
+        "Leo"
+      ],
+      "personality_match": "active, playful, ENFP"
+    },
+    {
+      "id": 110,
+      "name": "Exotic Shorthair",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "10-12",
+      "temperament": [
+        "calm",
+        "gentle",
+        "playful",
+        "affectionate",
+        "easygoing"
+      ],
+      "description": "The lazy man's Persian — all the beauty and temperament with less grooming. Exotics are placid, charming, and wonderfully easy cats.",
+      "care_notes": "Weekly brushing. Clean facial wrinkles regularly. Prone to same conditions as Persians.",
+      "zodiac_match": [
+        "Taurus",
+        "Cancer",
+        "Libra"
+      ],
+      "personality_match": "gentle, easygoing, ISFP"
+    },
+    {
+      "id": 111,
+      "name": "American Shorthair",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-20",
+      "weight_lbs": "8-15",
+      "temperament": [
+        "playful",
+        "adaptable",
+        "friendly",
+        "independent",
+        "gentle"
+      ],
+      "description": "The all-American cat — adaptable, healthy, and excellent hunters. American Shorthairs are wonderful family cats with moderate needs.",
+      "care_notes": "Easy care coat. Healthy, long-lived breed. Moderate exercise and play needs. Good with children and dogs.",
+      "zodiac_match": [
+        "Gemini",
+        "Cancer",
+        "Virgo"
+      ],
+      "personality_match": "adaptable, friendly, ESFJ"
+    },
+    {
+      "id": 112,
+      "name": "Savannah",
+      "species": "cat",
+      "origin": "USA",
+      "size": "large",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 2,
+      "lifespan_years": "12-20",
+      "weight_lbs": "12-20",
+      "temperament": [
+        "energetic",
+        "loyal",
+        "wild-looking",
+        "curious",
+        "tall"
+      ],
+      "description": "Part serval, part domestic cat. Savannahs are the largest domestic cat breed — athletic, curious, and absolutely stunning.",
+      "care_notes": "Needs extensive space and enrichment. Leash-trainable. Early generation cats require special permits. Very high energy.",
+      "zodiac_match": [
+        "Aries",
+        "Sagittarius",
+        "Leo"
+      ],
+      "personality_match": "wild, energetic, ESTP"
+    },
+    {
+      "id": 113,
+      "name": "Chartreux",
+      "species": "cat",
+      "origin": "France",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "7-16",
+      "temperament": [
+        "quiet",
+        "observant",
+        "loving",
+        "gentle",
+        "intelligent"
+      ],
+      "description": "Ancient French cats with blue coats and copper eyes. Chartreux are quiet, observant, and deeply devoted without being demanding.",
+      "care_notes": "Minimal grooming. Very quiet — rarely vocalizes. Devoted companion. Healthy robust breed.",
+      "zodiac_match": [
+        "Capricorn",
+        "Taurus",
+        "Cancer"
+      ],
+      "personality_match": "quiet, devoted, ISTJ"
+    },
+    {
+      "id": 114,
+      "name": "Balinese",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "18-22",
+      "weight_lbs": "5-10",
+      "temperament": [
+        "social",
+        "vocal",
+        "intelligent",
+        "affectionate",
+        "graceful"
+      ],
+      "description": "Siamese with long silky coats and a slightly softer personality. Balinese are social, intelligent, and deeply bonded to their families.",
+      "care_notes": "Needs regular brushing for semi-long coat. Vocal but less extreme than Siamese. Needs social engagement.",
+      "zodiac_match": [
+        "Gemini",
+        "Cancer",
+        "Leo"
+      ],
+      "personality_match": "social, graceful, ENFJ"
+    },
+    {
+      "id": 115,
+      "name": "Bombay",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-20",
+      "weight_lbs": "6-11",
+      "temperament": [
+        "friendly",
+        "affectionate",
+        "social",
+        "outgoing",
+        "attention-seeking"
+      ],
+      "description": "Created to resemble a miniature black panther. Bombay cats are social, affectionate, and surprisingly dog-like in their people-orientation.",
+      "care_notes": "Easy care coat. Prone to craniofacial defects — check breeder carefully. Very social — benefits from feline company.",
+      "zodiac_match": [
+        "Scorpio",
+        "Leo",
+        "Cancer"
+      ],
+      "personality_match": "social, striking, ESFJ"
+    },
+    {
+      "id": 116,
+      "name": "Japanese Bobtail",
+      "species": "cat",
+      "origin": "Japan",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-18",
+      "weight_lbs": "5-10",
+      "temperament": [
+        "active",
+        "intelligent",
+        "vocal",
+        "friendly",
+        "playful"
+      ],
+      "description": "Good luck cats with distinctive pom-pom tails. Japanese Bobtails are the model for the famous Maneki-neko lucky cat figurines.",
+      "care_notes": "Easy care coat. Active and vocal. Bonds strongly with family. Excellent with children.",
+      "zodiac_match": [
+        "Cancer",
+        "Gemini",
+        "Leo"
+      ],
+      "personality_match": "playful, lucky, ENFP"
+    },
+    {
+      "id": 117,
+      "name": "Turkish Van",
+      "species": "cat",
+      "origin": "Turkey",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "12-17",
+      "weight_lbs": "9-13",
+      "temperament": [
+        "active",
+        "playful",
+        "intelligent",
+        "dog-like",
+        "water-loving"
+      ],
+      "description": "The swimming cat. Turkish Vans love water, fetch, and high places — active, intelligent cats who are far more dog-like than most breeds.",
+      "care_notes": "Minimal grooming despite semi-long coat. Loves water. Needs vertical space and active play. Independent.",
+      "zodiac_match": [
+        "Aquarius",
+        "Aries",
+        "Sagittarius"
+      ],
+      "personality_match": "independent, active, ENTP"
+    },
+    {
+      "id": 118,
+      "name": "Somali",
+      "species": "cat",
+      "origin": "Somalia",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "11-16",
+      "weight_lbs": "6-10",
+      "temperament": [
+        "playful",
+        "curious",
+        "active",
+        "busy",
+        "intelligent"
+      ],
+      "description": "Long-haired Abyssinians. Somalis are strikingly beautiful, endlessly curious, and need significant environmental enrichment.",
+      "care_notes": "Twice-weekly brushing for longer coat. Very active — needs playtime and vertical space.",
+      "zodiac_match": [
+        "Aries",
+        "Gemini",
+        "Sagittarius"
+      ],
+      "personality_match": "curious, active, ENFP"
+    },
+    {
+      "id": 119,
+      "name": "Selkirk Rex",
+      "species": "cat",
+      "origin": "USA",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-20",
+      "weight_lbs": "9-16",
+      "temperament": [
+        "tolerant",
+        "calm",
+        "playful",
+        "sociable",
+        "loving"
+      ],
+      "description": "The cat in sheep's clothing — Selkirk Rex have glorious curly coats and patient, tolerant personalities perfect for families.",
+      "care_notes": "Brushing 2-3x weekly — avoid over-grooming to preserve curls. Very tolerant. Good with children.",
+      "zodiac_match": [
+        "Taurus",
+        "Cancer",
+        "Libra"
+      ],
+      "personality_match": "tolerant, gentle, ISFJ"
+    },
+    {
+      "id": 120,
+      "name": "Ocicat",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "12-14",
+      "weight_lbs": "6-15",
+      "temperament": [
+        "social",
+        "active",
+        "confident",
+        "talkative",
+        "dog-like"
+      ],
+      "description": "Wild-looking but completely domestic. Ocicats resemble wild cats but are entirely domestic — social, active, and surprisingly trainable.",
+      "care_notes": "Easy care coat. Highly trainable — can learn leash walking. Needs active play. Very social.",
+      "zodiac_match": [
+        "Leo",
+        "Aries",
+        "Gemini"
+      ],
+      "personality_match": "wild-looking, social, ENTP"
+    },
+    {
+      "id": 121,
+      "name": "American Curl",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-20",
+      "weight_lbs": "5-10",
+      "temperament": [
+        "gentle",
+        "sociable",
+        "interactive",
+        "adaptable",
+        "playful"
+      ],
+      "description": "Named for their uniquely curled-back ears. American Curls are gentle, interactive cats who remain kitten-like well into adulthood.",
+      "care_notes": "Regular ear cleaning due to unique shape. Gentle but playful. Adapts well to most households.",
+      "zodiac_match": [
+        "Cancer",
+        "Libra",
+        "Gemini"
+      ],
+      "personality_match": "gentle, playful, ESFP"
+    },
+    {
+      "id": 122,
+      "name": "LaPerm",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "10-15",
+      "weight_lbs": "6-12",
+      "temperament": [
+        "affectionate",
+        "outgoing",
+        "active",
+        "curious",
+        "gentle"
+      ],
+      "description": "Naturally curly-coated cats that developed spontaneously on an Oregon farm. LaPerms are affectionate, active, and people-oriented companions.",
+      "care_notes": "Regular brushing despite curly coat. Easy grooming overall. Affectionate and social.",
+      "zodiac_match": [
+        "Cancer",
+        "Gemini",
+        "Libra"
+      ],
+      "personality_match": "affectionate, curious, ESFJ"
+    },
+    {
+      "id": 123,
+      "name": "Pixiebob",
+      "species": "cat",
+      "origin": "USA",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "13-15",
+      "weight_lbs": "8-17",
+      "temperament": [
+        "dog-like",
+        "loyal",
+        "active",
+        "sweet",
+        "intelligent"
+      ],
+      "description": "Resembling a bobcat with their spotted coats and bobbed tails. Pixiebobs are devoted, dog-like cats who are wonderful family companions.",
+      "care_notes": "Easy care coat. Very dog-like — can be leash trained. Loyal and loving. Adapts well.",
+      "zodiac_match": [
+        "Cancer",
+        "Taurus",
+        "Leo"
+      ],
+      "personality_match": "loyal, dog-like, INFJ"
+    },
+    {
+      "id": 124,
+      "name": "Ragamuffin",
+      "species": "cat",
+      "origin": "USA",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 5,
+      "lifespan_years": "12-16",
+      "weight_lbs": "10-20",
+      "temperament": [
+        "sweet",
+        "gentle",
+        "calm",
+        "affectionate",
+        "patient"
+      ],
+      "description": "Ragdoll cousins with more color variety. Ragamuffins are sweet, gentle giants who are remarkably patient with children and other pets.",
+      "care_notes": "Weekly brushing. Prone to HCM. Very patient and gentle — excellent family cats.",
+      "zodiac_match": [
+        "Pisces",
+        "Cancer",
+        "Taurus"
+      ],
+      "personality_match": "sweet, patient, ISFJ"
+    },
+    {
+      "id": 125,
+      "name": "Manx",
+      "species": "cat",
+      "origin": "Isle of Man",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "14-16",
+      "weight_lbs": "8-12",
+      "temperament": [
+        "playful",
+        "gentle",
+        "loyal",
+        "dog-like",
+        "hunting"
+      ],
+      "description": "Tailless island cats with a dog-like personality. Manx cats are loyal, playful, and surprisingly adept hunters.",
+      "care_notes": "Regular veterinary checks for Manx syndrome (spinal issues). Active and playful. Dog-like loyalty.",
+      "zodiac_match": [
+        "Cancer",
+        "Taurus",
+        "Capricorn"
+      ],
+      "personality_match": "loyal, playful, ESFP"
+    },
+    {
+      "id": 126,
+      "name": "Singapura",
+      "species": "cat",
+      "origin": "Singapore",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "11-15",
+      "weight_lbs": "4-8",
+      "temperament": [
+        "lively",
+        "sociable",
+        "playful",
+        "curious",
+        "mischievous"
+      ],
+      "description": "The world's smallest cat breed. Singapuras are ticked tabby cats with enormous eyes and outsized personalities — mischievous and endlessly entertaining.",
+      "care_notes": "Easy care coat. Very active despite small size. Social — needs regular interaction.",
+      "zodiac_match": [
+        "Gemini",
+        "Aries",
+        "Cancer"
+      ],
+      "personality_match": "mischievous, social, ENTP"
+    },
+    {
+      "id": 127,
+      "name": "Burmilla",
+      "species": "cat",
+      "origin": "England",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "10-15",
+      "weight_lbs": "8-11",
+      "temperament": [
+        "gentle",
+        "social",
+        "playful",
+        "curious",
+        "independent"
+      ],
+      "description": "Accidental Burmese-Chinchilla cross that became a breed in its own right. Burmillas are beautiful, gentle, and adaptable.",
+      "care_notes": "Weekly brushing. Gentle and sociable. Less demanding than Burmese parent. Good family cats.",
+      "zodiac_match": [
+        "Libra",
+        "Cancer",
+        "Taurus"
+      ],
+      "personality_match": "gentle, balanced, ISFP"
+    },
+    {
+      "id": 128,
+      "name": "Chausie",
+      "species": "cat",
+      "origin": "USA",
+      "size": "large",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 2,
+      "lifespan_years": "12-14",
+      "weight_lbs": "15-25",
+      "temperament": [
+        "active",
+        "athletic",
+        "social",
+        "intelligent",
+        "wild-looking"
+      ],
+      "description": "Jungle cat hybrid. Chausies are athletic, social, and need extensive space and enrichment — stunning cats for experienced owners.",
+      "care_notes": "Needs extensive space and enrichment. Very active. Not suitable for apartments. Experienced owner preferred.",
+      "zodiac_match": [
+        "Aries",
+        "Sagittarius",
+        "Leo"
+      ],
+      "personality_match": "athletic, wild, ESTP"
+    },
+    {
+      "id": 129,
+      "name": "Korat",
+      "species": "cat",
+      "origin": "Thailand",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 3,
+      "lifespan_years": "15-20",
+      "weight_lbs": "6-10",
+      "temperament": [
+        "gentle",
+        "quiet",
+        "loving",
+        "good-memory",
+        "sensitive"
+      ],
+      "description": "Ancient Thai cats considered good luck. Korats are gentle, quiet, and form intense bonds with their people.",
+      "care_notes": "Easy care coat. Very sensitive to loud noises and changes. Quiet but deeply loving.",
+      "zodiac_match": [
+        "Pisces",
+        "Cancer",
+        "Virgo"
+      ],
+      "personality_match": "sensitive, devoted, INFJ"
+    },
+    {
+      "id": 130,
+      "name": "Minuet (Napoleon)",
+      "species": "cat",
+      "origin": "USA",
+      "size": "small",
+      "energy": "low",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-16",
+      "weight_lbs": "5-9",
+      "temperament": [
+        "affectionate",
+        "gentle",
+        "sweet",
+        "adaptable",
+        "curious"
+      ],
+      "description": "Munchkin-Persian cross with short legs and round faces. Minuets are sweet, gentle, and wonderfully adaptable little companions.",
+      "care_notes": "Regular grooming for longer coat variety. Short legs — avoid jumping from high surfaces.",
+      "zodiac_match": [
+        "Taurus",
+        "Cancer",
+        "Libra"
+      ],
+      "personality_match": "sweet, gentle, ISFP"
+    },
+    {
+      "id": 131,
+      "name": "Thai (Traditional Siamese)",
+      "species": "cat",
+      "origin": "Thailand",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-20",
+      "weight_lbs": "8-15",
+      "temperament": [
+        "affectionate",
+        "gentle",
+        "vocal",
+        "intelligent",
+        "social"
+      ],
+      "description": "The original Siamese before extreme breeding changed the look. Traditional Thais have rounder faces and a gentler, less extreme personality.",
+      "care_notes": "Easier temperament than modern Siamese. Still vocal. Social and loving.",
+      "zodiac_match": [
+        "Cancer",
+        "Gemini",
+        "Libra"
+      ],
+      "personality_match": "gentle, social, ENFJ"
+    },
+    {
+      "id": 132,
+      "name": "Havana Brown",
+      "species": "cat",
+      "origin": "England",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "8-10",
+      "temperament": [
+        "intelligent",
+        "playful",
+        "curious",
+        "devoted",
+        "social"
+      ],
+      "description": "Rich brown cats with vivid green eyes and a playful, social personality. Havana Browns are intelligent, loving, and genuinely engaging.",
+      "care_notes": "Easy care coat. Very social — needs regular interaction. Intelligent and playful.",
+      "zodiac_match": [
+        "Leo",
+        "Scorpio",
+        "Gemini"
+      ],
+      "personality_match": "intellectual, social, ENTP"
+    },
+    {
+      "id": 133,
+      "name": "Lykoi",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "12-15",
+      "weight_lbs": "4-7",
+      "temperament": [
+        "active",
+        "loyal",
+        "friendly",
+        "dog-like",
+        "playful"
+      ],
+      "description": "The werewolf cat. Lykois have a patchy coat that gives them a wild, Halloween-cat appearance, but are gentle, loyal companions.",
+      "care_notes": "No grooming needed for patchy coat. Prone to cold — needs warm environment. Loyal and dog-like.",
+      "zodiac_match": [
+        "Scorpio",
+        "Aquarius",
+        "Aries"
+      ],
+      "personality_match": "unique, loyal, INFP"
+    },
+    {
+      "id": 134,
+      "name": "Munchkin",
+      "species": "cat",
+      "origin": "USA",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "4-9",
+      "temperament": [
+        "sociable",
+        "playful",
+        "outgoing",
+        "energetic",
+        "active"
+      ],
+      "description": "Short-legged cats who navigate the world with impressive competence. Munchkins are active, sociable, and surprisingly athletic.",
+      "care_notes": "Regular health monitoring for mobility issues. Active and playful. Controversy around breed ethics.",
+      "zodiac_match": [
+        "Cancer",
+        "Gemini",
+        "Leo"
+      ],
+      "personality_match": "playful, social, ESFP"
+    },
+    {
+      "id": 135,
+      "name": "Serengeti",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "10-15",
+      "weight_lbs": "8-15",
+      "temperament": [
+        "active",
+        "social",
+        "vocal",
+        "athletic",
+        "dog-like"
+      ],
+      "description": "Developed to resemble a serval. Serengetis are athletic, social, and long-legged — striking cats for active households.",
+      "care_notes": "Easy care coat. Very active — needs space and enrichment. Social and vocal.",
+      "zodiac_match": [
+        "Aries",
+        "Sagittarius",
+        "Leo"
+      ],
+      "personality_match": "athletic, social, ENFP"
+    },
+    {
+      "id": 136,
+      "name": "Nebelung",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "15-18",
+      "weight_lbs": "7-15",
+      "temperament": [
+        "gentle",
+        "quiet",
+        "loving",
+        "shy-with-strangers",
+        "devoted"
+      ],
+      "description": "Long-haired Russian Blues with the same quiet devotion and gentle nature. Nebelungs bond deeply but warm to strangers slowly.",
+      "care_notes": "Twice-weekly brushing. Shy initially — allow adjustment time. Devoted once bonded.",
+      "zodiac_match": [
+        "Virgo",
+        "Cancer",
+        "Capricorn"
+      ],
+      "personality_match": "gentle, loyal, INFJ"
+    },
+    {
+      "id": 137,
+      "name": "American Bobtail",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "13-18",
+      "weight_lbs": "7-16",
+      "temperament": [
+        "playful",
+        "intelligent",
+        "adaptable",
+        "active",
+        "sociable"
+      ],
+      "description": "Wild-looking bobtails with interactive personalities. American Bobtails are adaptable, intelligent, and surprisingly dog-like.",
+      "care_notes": "Easy care in shorthair variety. Adapts to most lifestyles. Intelligent and playful. Good traveler.",
+      "zodiac_match": [
+        "Cancer",
+        "Sagittarius",
+        "Gemini"
+      ],
+      "personality_match": "adaptable, playful, ESFP"
+    },
+    {
+      "id": 138,
+      "name": "Peterbald",
+      "species": "cat",
+      "origin": "Russia",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "7-14",
+      "temperament": [
+        "affectionate",
+        "curious",
+        "energetic",
+        "social",
+        "dependent"
+      ],
+      "description": "Russian hairless cats with an Oriental body type. Peterbalds are intensely social and loving — they need near-constant companionship.",
+      "care_notes": "Skin care needed. Cannot tolerate cold. Very social — suffers alone. Needs feline companion ideally.",
+      "zodiac_match": [
+        "Leo",
+        "Cancer",
+        "Gemini"
+      ],
+      "personality_match": "social, loving, ESFJ"
+    },
+    {
+      "id": 139,
+      "name": "Cymric",
+      "species": "cat",
+      "origin": "Isle of Man",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "14-16",
+      "weight_lbs": "8-12",
+      "temperament": [
+        "playful",
+        "gentle",
+        "loyal",
+        "dog-like",
+        "smart"
+      ],
+      "description": "Long-haired Manx cats with the same dog-like personality and playful nature. Cymrics are loyal, gentle companions.",
+      "care_notes": "Twice-weekly brushing. Spinal checks needed. Dog-like loyalty. Good family cats.",
+      "zodiac_match": [
+        "Cancer",
+        "Taurus",
+        "Capricorn"
+      ],
+      "personality_match": "loyal, gentle, ESFJ"
+    },
+    {
+      "id": 140,
+      "name": "Khao Manee",
+      "species": "cat",
+      "origin": "Thailand",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "12-16",
+      "weight_lbs": "7-11",
+      "temperament": [
+        "curious",
+        "active",
+        "friendly",
+        "affectionate",
+        "vocal"
+      ],
+      "description": "Ancient Thai royal cats with pure white coats and jewel-colored eyes. Khao Manees are curious, affectionate, and somewhat rare.",
+      "care_notes": "Deaf whites possible — check hearing. Active and social. Easy care coat.",
+      "zodiac_match": [
+        "Leo",
+        "Cancer",
+        "Aquarius"
+      ],
+      "personality_match": "royal, curious, ENFP"
+    },
+    {
+      "id": 141,
+      "name": "Suphalak",
+      "species": "cat",
+      "origin": "Thailand",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "8-12",
+      "temperament": [
+        "gentle",
+        "active",
+        "intelligent",
+        "social",
+        "ancient"
+      ],
+      "description": "One of the ancient Thai breeds from the Cat Book Poems. Suphalaks are gentle, sociable cats with rich copper coats.",
+      "care_notes": "Easy care coat. Gentle and sociable. Rare outside Thailand.",
+      "zodiac_match": [
+        "Leo",
+        "Cancer",
+        "Libra"
+      ],
+      "personality_match": "ancient, gentle, ISFJ"
+    },
+    {
+      "id": 142,
+      "name": "Aegean",
+      "species": "cat",
+      "origin": "Greece",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "9-12",
+      "weight_lbs": "7-10",
+      "temperament": [
+        "intelligent",
+        "affectionate",
+        "social",
+        "curious",
+        "active"
+      ],
+      "description": "Natural Greek island cats. Aegeans are naturally healthy, intelligent, and social — the result of centuries of natural development.",
+      "care_notes": "Easy care coat. Natural breed — very healthy. Active and social.",
+      "zodiac_match": [
+        "Aquarius",
+        "Gemini",
+        "Cancer"
+      ],
+      "personality_match": "natural, active, ENFP"
+    },
+    {
+      "id": 143,
+      "name": "Donskoy",
+      "species": "cat",
+      "origin": "Russia",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "6-15",
+      "temperament": [
+        "affectionate",
+        "loyal",
+        "social",
+        "active",
+        "dog-like"
+      ],
+      "description": "Russian hairless cats with a slightly different genetic makeup from the Sphynx. Donskoys are warm, social, and intensely loyal.",
+      "care_notes": "Weekly skin bathing. Cannot tolerate cold. Very social. Dog-like devotion.",
+      "zodiac_match": [
+        "Leo",
+        "Cancer",
+        "Aquarius"
+      ],
+      "personality_match": "warm, social, ESFJ"
+    },
+    {
+      "id": 144,
+      "name": "Highlander",
+      "species": "cat",
+      "origin": "USA",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "10-15",
+      "weight_lbs": "10-20",
+      "temperament": [
+        "playful",
+        "social",
+        "confident",
+        "gentle",
+        "dog-like"
+      ],
+      "description": "Large cats with curled ears and optional bobbed tails. Highlanders are confident, playful, and wonderful family cats.",
+      "care_notes": "Regular ear cleaning. Very dog-like. Playful and social. Adapts well to families.",
+      "zodiac_match": [
+        "Leo",
+        "Cancer",
+        "Sagittarius"
+      ],
+      "personality_match": "confident, playful, ENFJ"
+    },
+    {
+      "id": 145,
+      "name": "Ojos Azules",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "10-15",
+      "weight_lbs": "5-9",
+      "temperament": [
+        "gentle",
+        "curious",
+        "social",
+        "quiet",
+        "devoted"
+      ],
+      "description": "Remarkable for their deep blue eyes that appear in non-colorpoint cats. Ojos Azules are gentle, quiet, and devoted.",
+      "care_notes": "Easy care coat. Blue eyes from unique genetics. Rare. Gentle and devoted.",
+      "zodiac_match": [
+        "Pisces",
+        "Cancer",
+        "Aquarius"
+      ],
+      "personality_match": "gentle, rare, INFP"
+    },
+    {
+      "id": 146,
+      "name": "Holland Lop",
+      "species": "rabbit",
+      "origin": "Netherlands",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "8-12",
+      "weight_lbs": "2-4",
+      "temperament": [
+        "gentle",
+        "calm",
+        "affectionate",
+        "curious",
+        "social"
+      ],
+      "description": "One of the most popular rabbit breeds. Holland Lops are floppy-eared charmers with gentle, affectionate personalities perfect for families.",
+      "care_notes": "Needs daily exercise outside enclosure. Hay should be 80% of diet. Spaying/neutering recommended.",
+      "zodiac_match": [
+        "Cancer",
+        "Taurus",
+        "Libra"
+      ],
+      "personality_match": "gentle, social, ISFJ"
+    },
+    {
+      "id": 147,
+      "name": "Mini Rex",
+      "species": "rabbit",
+      "origin": "USA",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "7-10",
+      "weight_lbs": "3-4.5",
+      "temperament": [
+        "curious",
+        "docile",
+        "playful",
+        "gentle",
+        "intelligent"
+      ],
+      "description": "Velvet-coated rabbits with distinctively dense plush fur. Mini Rex are curious, gentle, and wonderful for children.",
+      "care_notes": "Plush coat needs weekly brushing. Daily exercise outside cage. Hay as primary diet.",
+      "zodiac_match": [
+        "Cancer",
+        "Gemini",
+        "Taurus"
+      ],
+      "personality_match": "gentle, curious, ISFP"
+    },
+    {
+      "id": 148,
+      "name": "Lionhead",
+      "species": "rabbit",
+      "origin": "Belgium",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "7-10",
+      "weight_lbs": "2.5-3.5",
+      "temperament": [
+        "playful",
+        "social",
+        "energetic",
+        "gentle",
+        "curious"
+      ],
+      "description": "Named for their distinctive mane of wool. Lionheads are playful, social, and strikingly beautiful rabbits.",
+      "care_notes": "Mane requires regular brushing to prevent matting. Energetic — needs daily exercise.",
+      "zodiac_match": [
+        "Leo",
+        "Cancer",
+        "Gemini"
+      ],
+      "personality_match": "playful, social, ESFP"
+    },
+    {
+      "id": 149,
+      "name": "American Guinea Pig",
+      "species": "guinea pig",
+      "origin": "South America",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "4-7",
+      "weight_lbs": "1.5-2.5",
+      "temperament": [
+        "social",
+        "vocal",
+        "gentle",
+        "curious",
+        "friendly"
+      ],
+      "description": "The classic smooth-coated guinea pig. Americans are gentle, sociable, and vocal — perfect first small pets.",
+      "care_notes": "Social animals — keep in pairs minimum. Daily fresh vegetables. Vitamin C essential in diet.",
+      "zodiac_match": [
+        "Cancer",
+        "Taurus",
+        "Libra"
+      ],
+      "personality_match": "social, gentle, ESFJ"
+    },
+    {
+      "id": 150,
+      "name": "Abyssinian Guinea Pig",
+      "species": "guinea pig",
+      "origin": "South America",
+      "size": "small",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "4-7",
+      "weight_lbs": "1.5-2.5",
+      "temperament": [
+        "energetic",
+        "curious",
+        "playful",
+        "mischievous",
+        "social"
+      ],
+      "description": "Rosette-coated guinea pigs with more personality than you'd expect. Abyssinians are active, curious, and entertaining.",
+      "care_notes": "Rosette coat needs regular brushing. Very active — needs space to explore.",
+      "zodiac_match": [
+        "Aries",
+        "Gemini",
+        "Sagittarius"
+      ],
+      "personality_match": "active, curious, ENFP"
+    },
+    {
+      "id": 151,
+      "name": "Peruvian Guinea Pig",
+      "species": "guinea pig",
+      "origin": "Peru",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "5-8",
+      "weight_lbs": "2-3",
+      "temperament": [
+        "gentle",
+        "affectionate",
+        "calm",
+        "curious",
+        "social"
+      ],
+      "description": "Long-haired guinea pigs with floor-length coats. Peruvians are gentle but require significant grooming commitment.",
+      "care_notes": "Daily brushing essential to prevent matting. Regular trimming needed. Gentle handling required.",
+      "zodiac_match": [
+        "Taurus",
+        "Libra",
+        "Pisces"
+      ],
+      "personality_match": "gentle, flowing, ISFJ"
+    },
+    {
+      "id": 152,
+      "name": "Budgerigar",
+      "species": "bird",
+      "origin": "Australia",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "5-10",
+      "weight_lbs": "1-1.4oz",
+      "temperament": [
+        "playful",
+        "social",
+        "vocal",
+        "intelligent",
+        "curious"
+      ],
+      "description": "The world's most popular pet bird. Budgies are small but enormously entertaining — they can learn to talk, whistle tunes, and do tricks.",
+      "care_notes": "Needs daily out-of-cage time. Social — pairs are happier. Fresh food daily. Avian vet recommended.",
+      "zodiac_match": [
+        "Gemini",
+        "Aquarius",
+        "Leo"
+      ],
+      "personality_match": "playful, vocal, ESFP"
+    },
+    {
+      "id": 153,
+      "name": "Cockatiel",
+      "species": "bird",
+      "origin": "Australia",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-25",
+      "weight_lbs": "3oz",
+      "temperament": [
+        "gentle",
+        "affectionate",
+        "social",
+        "whistling",
+        "curious"
+      ],
+      "description": "Cockatiels are the perfect gateway bird — affectionate, trainable, and talented whistlers who bond deeply with their families.",
+      "care_notes": "Needs daily out-of-cage flight time. Social — do well in pairs. Fresh food daily. Can develop hormonal issues.",
+      "zodiac_match": [
+        "Cancer",
+        "Libra",
+        "Taurus"
+      ],
+      "personality_match": "gentle, musical, ISFJ"
+    },
+    {
+      "id": 154,
+      "name": "Conure",
+      "species": "bird",
+      "origin": "South America",
+      "size": "small",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "15-30",
+      "weight_lbs": "2-4oz",
+      "temperament": [
+        "playful",
+        "loud",
+        "affectionate",
+        "mischievous",
+        "social"
+      ],
+      "description": "Miniature parrots with maximum attitude. Conures are loud, playful, and intensely bonded to their people — not for noise-sensitive households.",
+      "care_notes": "Needs significant daily interaction. Very loud — apartment neighbors may object. Needs toys and enrichment.",
+      "zodiac_match": [
+        "Aries",
+        "Leo",
+        "Sagittarius"
+      ],
+      "personality_match": "bold, playful, ENFP"
+    },
+    {
+      "id": 155,
+      "name": "Lovebird",
+      "species": "bird",
+      "origin": "Africa",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "10-15",
+      "weight_lbs": "1-2oz",
+      "temperament": [
+        "affectionate",
+        "active",
+        "curious",
+        "feisty",
+        "bonded"
+      ],
+      "description": "Lovebirds live up to their name when bonded with a mate. They are active, colorful, and can be aggressive with other birds.",
+      "care_notes": "Bond most strongly when kept in pairs. Can be aggressive with other birds. Needs enrichment and space.",
+      "zodiac_match": [
+        "Scorpio",
+        "Leo",
+        "Taurus"
+      ],
+      "personality_match": "devoted, feisty, ISFJ"
+    },
+    {
+      "id": 156,
+      "name": "Canary",
+      "species": "bird",
+      "origin": "Canary Islands",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 3,
+      "lifespan_years": "10-15",
+      "weight_lbs": "0.5oz",
+      "temperament": [
+        "musical",
+        "independent",
+        "gentle",
+        "calm",
+        "solitary"
+      ],
+      "description": "Bred for their song over centuries. Canaries are beautiful, musical birds that prefer to be admired rather than handled.",
+      "care_notes": "Males sing most beautifully. Generally prefer not to be handled. Beautiful song fills a room.",
+      "zodiac_match": [
+        "Taurus",
+        "Libra",
+        "Pisces"
+      ],
+      "personality_match": "musical, independent, INFP"
+    },
+    {
+      "id": 157,
+      "name": "Betta Fish",
+      "species": "fish",
+      "origin": "Southeast Asia",
+      "size": "small",
+      "energy": "low",
+      "grooming": "low",
+      "good_with_kids": 2,
+      "good_with_dogs": 1,
+      "good_with_cats": 2,
+      "lifespan_years": "2-5",
+      "weight_lbs": "N/A",
+      "temperament": [
+        "territorial",
+        "curious",
+        "beautiful",
+        "bold",
+        "interactive"
+      ],
+      "description": "Living jewels for desktop aquariums. Bettas are intelligent fish that recognize their owners and interact with the environment.",
+      "care_notes": "Cannot be housed with other male bettas. Needs heated water (76-82°F). Needs enrichment — they are smart.",
+      "zodiac_match": [
+        "Scorpio",
+        "Leo",
+        "Aries"
+      ],
+      "personality_match": "bold, territorial, ISTP"
+    },
+    {
+      "id": 158,
+      "name": "Goldfish",
+      "species": "fish",
+      "origin": "China",
+      "size": "small",
+      "energy": "low",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "10-15",
+      "weight_lbs": "N/A",
+      "temperament": [
+        "peaceful",
+        "social",
+        "curious",
+        "calm",
+        "hardy"
+      ],
+      "description": "Ancient fish with surprising longevity when properly cared for. Goldfish are peaceful, social, and endlessly calming.",
+      "care_notes": "Needs proper filtration — they produce a lot of waste. Cold water fish — no heater needed. Can live 10-15 years.",
+      "zodiac_match": [
+        "Pisces",
+        "Taurus",
+        "Cancer"
+      ],
+      "personality_match": "peaceful, calming, ISFP"
+    },
+    {
+      "id": 159,
+      "name": "Hamster (Syrian)",
+      "species": "hamster",
+      "origin": "Syria",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 1,
+      "good_with_cats": 2,
+      "lifespan_years": "2-3",
+      "weight_lbs": "4-8oz",
+      "temperament": [
+        "curious",
+        "solitary",
+        "active",
+        "nocturnal",
+        "independent"
+      ],
+      "description": "The quintessential first pet. Syrian hamsters are solitary by nature, coming alive at dusk for their nightly adventures.",
+      "care_notes": "Must be kept alone — will fight other hamsters. Needs large wheel. Active at night.",
+      "zodiac_match": [
+        "Aquarius",
+        "Scorpio",
+        "Capricorn"
+      ],
+      "personality_match": "independent, nocturnal, ISTP"
+    },
+    {
+      "id": 160,
+      "name": "Gerbil",
+      "species": "gerbil",
+      "origin": "Mongolia",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 2,
+      "lifespan_years": "3-4",
+      "weight_lbs": "2-4oz",
+      "temperament": [
+        "curious",
+        "social",
+        "active",
+        "playful",
+        "hardy"
+      ],
+      "description": "Diurnal burrowing rodents that make wonderful first pets. Gerbils are active, social, and absolutely fascinating to watch.",
+      "care_notes": "Social animals — keep in same-sex pairs. Needs bedding for burrowing. Active during the day.",
+      "zodiac_match": [
+        "Aries",
+        "Gemini",
+        "Sagittarius"
+      ],
+      "personality_match": "active, curious, ENFP"
+    },
+    {
+      "id": 161,
+      "name": "Rat (Fancy)",
+      "species": "rat",
+      "origin": "Worldwide",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "2-3",
+      "weight_lbs": "0.5-1.5lbs",
+      "temperament": [
+        "intelligent",
+        "social",
+        "playful",
+        "affectionate",
+        "trainable"
+      ],
+      "description": "The most intelligent small pet. Fancy rats are highly trainable, deeply social, and bond strongly with their owners.",
+      "care_notes": "Social animals — keep in pairs minimum. Need extensive daily out-of-cage time. Can learn tricks.",
+      "zodiac_match": [
+        "Gemini",
+        "Virgo",
+        "Scorpio"
+      ],
+      "personality_match": "intelligent, social, ENTP"
+    },
+    {
+      "id": 162,
+      "name": "Chinchilla",
+      "species": "chinchilla",
+      "origin": "South America",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 3,
+      "lifespan_years": "10-20",
+      "weight_lbs": "1-1.5lbs",
+      "temperament": [
+        "curious",
+        "active",
+        "gentle",
+        "nocturnal",
+        "shy"
+      ],
+      "description": "Incredibly soft fur and the personality to match. Chinchillas are gentle, curious, and long-lived small pets.",
+      "care_notes": "Cannot get wet — dust baths only. Nocturnal — active in evenings. Very long-lived for size. Cannot tolerate heat.",
+      "zodiac_match": [
+        "Capricorn",
+        "Aquarius",
+        "Cancer"
+      ],
+      "personality_match": "gentle, curious, INFP"
+    },
+    {
+      "id": 163,
+      "name": "Ferret",
+      "species": "ferret",
+      "origin": "Europe",
+      "size": "small",
+      "energy": "very_high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 2,
+      "lifespan_years": "5-10",
+      "weight_lbs": "1.5-4lbs",
+      "temperament": [
+        "mischievous",
+        "playful",
+        "curious",
+        "social",
+        "fearless"
+      ],
+      "description": "Cartoon characters brought to life. Ferrets are relentlessly playful, impossibly mischievous, and endlessly entertaining.",
+      "care_notes": "Must be ferret-proofed — they get into everything. Need 4+ hours out of cage daily. Social — pairs are happier.",
+      "zodiac_match": [
+        "Gemini",
+        "Aries",
+        "Sagittarius"
+      ],
+      "personality_match": "mischievous, playful, ENFP"
+    },
+    {
+      "id": 164,
+      "name": "Hedgehog",
+      "species": "hedgehog",
+      "origin": "Africa",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 3,
+      "lifespan_years": "4-7",
+      "weight_lbs": "0.5-1.25lbs",
+      "temperament": [
+        "curious",
+        "solitary",
+        "independent",
+        "nocturnal",
+        "gentle"
+      ],
+      "description": "Prickly outside, sweetly curious within. African pygmy hedgehogs are solitary, nocturnal, and charming for patient owners.",
+      "care_notes": "Solitary — keep alone. Nocturnal. Handle daily to maintain tameness. Cannot tolerate cold.",
+      "zodiac_match": [
+        "Scorpio",
+        "Capricorn",
+        "Aquarius"
+      ],
+      "personality_match": "independent, curious, ISTP"
+    },
+    {
+      "id": 165,
+      "name": "Sugar Glider",
+      "species": "marsupial",
+      "origin": "Australia",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "12-15",
+      "weight_lbs": "3-5oz",
+      "temperament": [
+        "social",
+        "bonding",
+        "gliding",
+        "nocturnal",
+        "vocal"
+      ],
+      "description": "Tiny marsupials that glide between trees. Sugar gliders bond intensely with their owners and need to be carried throughout the day.",
+      "care_notes": "Require extensive socialization — carry in bonding pouch. Social — need companions. Special diet required.",
+      "zodiac_match": [
+        "Cancer",
+        "Aquarius",
+        "Pisces"
+      ],
+      "personality_match": "bonding, social, INFJ"
+    },
+    {
+      "id": 166,
+      "name": "Dalmador",
+      "species": "dog",
+      "origin": "USA",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 4,
+      "lifespan_years": "10-13",
+      "weight_lbs": "55-80",
+      "temperament": [
+        "friendly",
+        "active",
+        "loyal",
+        "playful",
+        "gentle"
+      ],
+      "description": "Dalmatian-Labrador mix combining the Lab's friendliness with the Dalmatian's distinctive energy.",
+      "care_notes": "Daily vigorous exercise. Moderate grooming. Early training recommended.",
+      "zodiac_match": [
+        "Aries",
+        "Leo",
+        "Cancer"
+      ],
+      "personality_match": "friendly, energetic, ESFP"
+    },
+    {
+      "id": 167,
+      "name": "Goldendoodle",
+      "species": "dog",
+      "origin": "USA",
+      "size": "large",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 4,
+      "lifespan_years": "10-15",
+      "weight_lbs": "50-90",
+      "temperament": [
+        "intelligent",
+        "friendly",
+        "loyal",
+        "playful",
+        "gentle"
+      ],
+      "description": "One of the most popular hybrid breeds — Golden Retriever meets Poodle for intelligence, low shedding, and an irresistible personality.",
+      "care_notes": "Professional grooming every 6-8 weeks. High energy — needs daily vigorous exercise. Excellent therapy dogs.",
+      "zodiac_match": [
+        "Cancer",
+        "Libra",
+        "Pisces"
+      ],
+      "personality_match": "gentle, intelligent, ENFJ"
+    },
+    {
+      "id": 168,
+      "name": "Labradoodle",
+      "species": "dog",
+      "origin": "Australia",
+      "size": "large",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 4,
+      "lifespan_years": "12-14",
+      "weight_lbs": "50-65",
+      "temperament": [
+        "friendly",
+        "energetic",
+        "gentle",
+        "intelligent",
+        "playful"
+      ],
+      "description": "The original Doodle. Labradoodles were developed as hypoallergenic guide dogs and became one of the most beloved family dogs.",
+      "care_notes": "Regular grooming. High energy needs. Excellent service and therapy dog candidates.",
+      "zodiac_match": [
+        "Cancer",
+        "Sagittarius",
+        "Aquarius"
+      ],
+      "personality_match": "joyful, intelligent, ENFP"
+    },
+    {
+      "id": 169,
+      "name": "Cavapoo",
+      "species": "dog",
+      "origin": "USA",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "9-25",
+      "temperament": [
+        "gentle",
+        "sociable",
+        "playful",
+        "affectionate",
+        "calm"
+      ],
+      "description": "Cavalier-Poodle cross that combines the best of both: the Cavalier's gentle heart with the Poodle's intelligence and low shedding.",
+      "care_notes": "Regular grooming. Prone to Cavalier heart issues — screen parents. Moderate exercise needs.",
+      "zodiac_match": [
+        "Cancer",
+        "Libra",
+        "Taurus"
+      ],
+      "personality_match": "gentle, sweet, ISFJ"
+    },
+    {
+      "id": 170,
+      "name": "Cockapoo",
+      "species": "dog",
+      "origin": "USA",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "14-18",
+      "weight_lbs": "6-25",
+      "temperament": [
+        "intelligent",
+        "outgoing",
+        "affectionate",
+        "playful",
+        "gentle"
+      ],
+      "description": "One of the oldest hybrid breeds — playful, intelligent, and low-shedding. Cockapoos are wonderful all-around family companions.",
+      "care_notes": "Regular grooming every 6-8 weeks. Moderate daily exercise. Very sociable.",
+      "zodiac_match": [
+        "Libra",
+        "Cancer",
+        "Gemini"
+      ],
+      "personality_match": "playful, loving, ESFJ"
+    },
+    {
+      "id": 171,
+      "name": "Bernedoodle",
+      "species": "dog",
+      "origin": "Canada",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 5,
+      "lifespan_years": "12-18",
+      "weight_lbs": "70-90",
+      "temperament": [
+        "gentle",
+        "intelligent",
+        "goofy",
+        "loyal",
+        "calm"
+      ],
+      "description": "Bernese Mountain Dog meets Poodle. Bernedoodles have the tri-color beauty of the Berner with the intelligence and lower shedding of the Poodle.",
+      "care_notes": "Professional grooming. Prone to inherited conditions. Moderate daily exercise. Wonderful family companions.",
+      "zodiac_match": [
+        "Cancer",
+        "Taurus",
+        "Capricorn"
+      ],
+      "personality_match": "gentle, loyal, INFJ"
+    },
+    {
+      "id": 172,
+      "name": "Sheepadoodle",
+      "species": "dog",
+      "origin": "USA",
+      "size": "large",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "60-80",
+      "temperament": [
+        "intelligent",
+        "playful",
+        "gentle",
+        "loyal",
+        "fluffy"
+      ],
+      "description": "Old English Sheepdog meets Poodle. Sheepadoodles are large, fluffy, and remarkably gentle herding-intelligence hybrids.",
+      "care_notes": "Professional grooming every 6-8 weeks. Needs vigorous daily exercise. Very smart — needs mental stimulation.",
+      "zodiac_match": [
+        "Cancer",
+        "Aquarius",
+        "Gemini"
+      ],
+      "personality_match": "intelligent, playful, ENFJ"
+    },
+    {
+      "id": 173,
+      "name": "Pomsky",
+      "species": "dog",
+      "origin": "USA",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "13-15",
+      "weight_lbs": "20-30",
+      "temperament": [
+        "playful",
+        "curious",
+        "vocal",
+        "active",
+        "stubborn"
+      ],
+      "description": "Pomeranian-Husky cross. Pomskies are strikingly beautiful with Husky looks in a smaller package — energetic and opinionated.",
+      "care_notes": "Needs significant daily exercise for size. Can be stubborn. Vocal tendencies. Regular brushing.",
+      "zodiac_match": [
+        "Gemini",
+        "Aquarius",
+        "Aries"
+      ],
+      "personality_match": "playful, independent, ENTP"
+    },
+    {
+      "id": 174,
+      "name": "Aussiedoodle",
+      "species": "dog",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "very_high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "10-13",
+      "weight_lbs": "25-70",
+      "temperament": [
+        "intelligent",
+        "energetic",
+        "playful",
+        "loyal",
+        "active"
+      ],
+      "description": "Australian Shepherd meets Poodle. Aussiedoodles are brilliantly intelligent, athletic, and need serious mental and physical engagement.",
+      "care_notes": "Needs 2+ hours daily exercise. Professional grooming. Excels at dog sports. Very high intelligence.",
+      "zodiac_match": [
+        "Aries",
+        "Virgo",
+        "Aquarius"
+      ],
+      "personality_match": "brilliant, energetic, ENTP"
+    },
+    {
+      "id": 175,
+      "name": "Schnoodle",
+      "species": "dog",
+      "origin": "USA",
+      "size": "small",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "13-17",
+      "weight_lbs": "10-20",
+      "temperament": [
+        "intelligent",
+        "friendly",
+        "active",
+        "loyal",
+        "playful"
+      ],
+      "description": "Schnauzer-Poodle cross. Schnoodles are alert, intelligent, and low-shedding — wonderful companions for active families.",
+      "care_notes": "Regular professional grooming. Daily exercise and mental stimulation needed. Very trainable.",
+      "zodiac_match": [
+        "Virgo",
+        "Gemini",
+        "Aquarius"
+      ],
+      "personality_match": "sharp, loyal, ESTJ"
+    },
+    {
+      "id": 176,
+      "name": "Whoodle",
+      "species": "dog",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "medium",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "30-45",
+      "temperament": [
+        "energetic",
+        "intelligent",
+        "playful",
+        "friendly",
+        "gentle"
+      ],
+      "description": "Wheaten Terrier-Poodle cross. Whoodles combine the Wheaten's joyful personality with Poodle intelligence and low shedding.",
+      "care_notes": "Regular grooming. High energy — needs vigorous daily exercise. Very affectionate.",
+      "zodiac_match": [
+        "Cancer",
+        "Sagittarius",
+        "Gemini"
+      ],
+      "personality_match": "joyful, intelligent, ESFP"
+    },
+    {
+      "id": 177,
+      "name": "Sokoke",
+      "species": "cat",
+      "origin": "Kenya",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "9-15",
+      "weight_lbs": "5-10",
+      "temperament": [
+        "active",
+        "intelligent",
+        "gentle",
+        "communicative",
+        "independent"
+      ],
+      "description": "One of the rarest domestic breeds, originating from Kenya's Arabuko-Sokoke forest. Sokokes are athletic, communicative, and deeply bonded.",
+      "care_notes": "Easy care coat. Active and needs enrichment. Very rare breed.",
+      "zodiac_match": [
+        "Aquarius",
+        "Aries",
+        "Gemini"
+      ],
+      "personality_match": "rare, intelligent, ENFP"
+    },
+    {
+      "id": 178,
+      "name": "European Shorthair",
+      "species": "cat",
+      "origin": "Europe",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "15-20",
+      "weight_lbs": "8-15",
+      "temperament": [
+        "hardy",
+        "adaptable",
+        "friendly",
+        "independent",
+        "hunting"
+      ],
+      "description": "The quintessential European domestic cat — naturally selected over centuries for health, intelligence, and adaptability.",
+      "care_notes": "Very hardy breed. Easy care coat. Natural hunters. Long-lived.",
+      "zodiac_match": [
+        "Taurus",
+        "Virgo",
+        "Capricorn"
+      ],
+      "personality_match": "adaptable, hardy, ISTP"
+    },
+    {
+      "id": 179,
+      "name": "York Chocolate",
+      "species": "cat",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "13-15",
+      "weight_lbs": "10-16",
+      "temperament": [
+        "playful",
+        "curious",
+        "friendly",
+        "sociable",
+        "devoted"
+      ],
+      "description": "Beautiful chocolate and lavender-coated cats from New York. York Chocolates are playful, curious, and devoted family companions.",
+      "care_notes": "Regular brushing for longer coat. Playful and social. Rare breed.",
+      "zodiac_match": [
+        "Scorpio",
+        "Cancer",
+        "Libra"
+      ],
+      "personality_match": "curious, devoted, ESFP"
+    },
+    {
+      "id": 180,
+      "name": "Tiffanie",
+      "species": "cat",
+      "origin": "Australia",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 4,
+      "lifespan_years": "14-17",
+      "weight_lbs": "8-12",
+      "temperament": [
+        "gentle",
+        "affectionate",
+        "playful",
+        "sociable",
+        "quiet"
+      ],
+      "description": "Australian Burmilla-Chinchilla cross. Tiffanies are gentle, beautiful cats with silky coats and balanced personalities.",
+      "care_notes": "Regular brushing for silky coat. Gentle and balanced. Rare outside Australia.",
+      "zodiac_match": [
+        "Libra",
+        "Cancer",
+        "Taurus"
+      ],
+      "personality_match": "gentle, balanced, ISFJ"
+    },
+    {
+      "id": 181,
+      "name": "Aphrodite",
+      "species": "cat",
+      "origin": "Cyprus",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "medium",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "12-15",
+      "weight_lbs": "8-14",
+      "temperament": [
+        "gentle",
+        "intelligent",
+        "devoted",
+        "playful",
+        "adaptable"
+      ],
+      "description": "One of Cyprus's two natural breed cats. Aphrodites are large, intelligent, and devoted companions with a natural island hardiness.",
+      "care_notes": "Regular brushing for longer coat. Very healthy natural breed. Devoted companions.",
+      "zodiac_match": [
+        "Libra",
+        "Cancer",
+        "Aquarius"
+      ],
+      "personality_match": "devoted, intelligent, INFJ"
+    },
+    {
+      "id": 182,
+      "name": "Lionhead Rabbit",
+      "species": "rabbit",
+      "origin": "Belgium",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "7-10",
+      "weight_lbs": "2.5-3.5",
+      "temperament": [
+        "sociable",
+        "playful",
+        "gentle",
+        "curious",
+        "affectionate"
+      ],
+      "description": "Show-stopping mane and a personality to match. Lionheads are sociable, playful, and stunning rabbits.",
+      "care_notes": "Regular mane brushing. Energetic — needs daily exercise. Social — benefits from a companion.",
+      "zodiac_match": [
+        "Leo",
+        "Cancer",
+        "Gemini"
+      ],
+      "personality_match": "playful, sociable, ESFP"
+    },
+    {
+      "id": 183,
+      "name": "Rex Rabbit",
+      "species": "rabbit",
+      "origin": "France",
+      "size": "large",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "5-6",
+      "weight_lbs": "7-11",
+      "temperament": [
+        "calm",
+        "gentle",
+        "curious",
+        "playful",
+        "intelligent"
+      ],
+      "description": "Velvet-coated rabbits with plush, distinctive fur. Rex Rabbits are calm, intelligent, and gentle — wonderful family pets.",
+      "care_notes": "Weekly brushing. Calm temperament. Daily exercise needed.",
+      "zodiac_match": [
+        "Taurus",
+        "Cancer",
+        "Virgo"
+      ],
+      "personality_match": "calm, gentle, ISFJ"
+    },
+    {
+      "id": 184,
+      "name": "African Grey Parrot",
+      "species": "bird",
+      "origin": "Central Africa",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 4,
+      "good_with_cats": 3,
+      "lifespan_years": "40-60",
+      "weight_lbs": "14-18oz",
+      "temperament": [
+        "intelligent",
+        "sensitive",
+        "loyal",
+        "vocal",
+        "demanding"
+      ],
+      "description": "The most intelligent parrot species. African Greys have the cognitive ability of a 5-year-old and the emotional needs to match.",
+      "care_notes": "Requires extensive daily interaction and mental stimulation. Very long-lived. Needs specialist avian vet.",
+      "zodiac_match": [
+        "Virgo",
+        "Capricorn",
+        "Scorpio"
+      ],
+      "personality_match": "intellectual, sensitive, INTJ"
+    },
+    {
+      "id": 185,
+      "name": "Eclectus Parrot",
+      "species": "bird",
+      "origin": "Australia",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "30-40",
+      "weight_lbs": "13-19oz",
+      "temperament": [
+        "calm",
+        "sociable",
+        "gentle",
+        "intelligent",
+        "talking"
+      ],
+      "description": "Strikingly dimorphic parrots — males and females look completely different. Eclectus are calm, gentle, and excellent talkers.",
+      "care_notes": "Dietary needs differ from other parrots — needs fresh foods. Males and females differ in personality.",
+      "zodiac_match": [
+        "Libra",
+        "Cancer",
+        "Pisces"
+      ],
+      "personality_match": "gentle, calm, INFJ"
+    },
+    {
+      "id": 186,
+      "name": "Fancy Mouse",
+      "species": "mouse",
+      "origin": "Worldwide",
+      "size": "small",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "1.5-2",
+      "weight_lbs": "0.5-1oz",
+      "temperament": [
+        "curious",
+        "social",
+        "active",
+        "playful",
+        "timid"
+      ],
+      "description": "Tiny but endlessly entertaining. Fancy mice are inquisitive, social, and active — perfect observation pets.",
+      "care_notes": "Social — keep in groups. Needs enrichment. Short lifespan. Males smell more than females.",
+      "zodiac_match": [
+        "Gemini",
+        "Aries",
+        "Aquarius"
+      ],
+      "personality_match": "curious, active, ENTP"
+    },
+    {
+      "id": 187,
+      "name": "Macaw (Blue and Gold)",
+      "species": "bird",
+      "origin": "South America",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 3,
+      "lifespan_years": "30-50",
+      "weight_lbs": "2-3lbs",
+      "temperament": [
+        "intelligent",
+        "social",
+        "loud",
+        "affectionate",
+        "playful"
+      ],
+      "description": "Majestic parrots with stunning plumage and enormous personalities. Blue and Gold Macaws bond intensely with their owners.",
+      "care_notes": "Needs huge cage and daily out-of-cage flight. Extremely loud. Very long-lived commitment — plan for 50+ years.",
+      "zodiac_match": [
+        "Leo",
+        "Aries",
+        "Aquarius"
+      ],
+      "personality_match": "bold, social, ENFJ"
+    },
+    {
+      "id": 188,
+      "name": "Cockatoo (Umbrella)",
+      "species": "bird",
+      "origin": "Indonesia",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "40-60",
+      "weight_lbs": "16-26oz",
+      "temperament": [
+        "affectionate",
+        "loud",
+        "demanding",
+        "cuddly",
+        "intelligent"
+      ],
+      "description": "The neediest parrot. Umbrella Cockatoos are extraordinarily affectionate and social — but their emotional needs rival a toddler's.",
+      "care_notes": "Needs hours of daily interaction. Extremely loud. Can become destructive if neglected. Not for first-time bird owners.",
+      "zodiac_match": [
+        "Cancer",
+        "Leo",
+        "Pisces"
+      ],
+      "personality_match": "devoted, demanding, ESFJ"
+    },
+    {
+      "id": 189,
+      "name": "Axolotl",
+      "species": "amphibian",
+      "origin": "Mexico",
+      "size": "small",
+      "energy": "low",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 2,
+      "good_with_cats": 2,
+      "lifespan_years": "10-15",
+      "weight_lbs": "0.3-0.7lbs",
+      "temperament": [
+        "docile",
+        "curious",
+        "aquatic",
+        "unique",
+        "calm"
+      ],
+      "description": "The smiling salamander that never metamorphoses. Axolotls are fascinating, docile aquatic pets with alien beauty.",
+      "care_notes": "Needs cold water (60-68°F). Special diet. Cannot be housed with most fish. Increasingly rare in the wild.",
+      "zodiac_match": [
+        "Aquarius",
+        "Pisces",
+        "Scorpio"
+      ],
+      "personality_match": "unique, calm, INFP"
+    },
+    {
+      "id": 190,
+      "name": "Bearded Dragon",
+      "species": "reptile",
+      "origin": "Australia",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "10-15",
+      "weight_lbs": "0.6-1.1lbs",
+      "temperament": [
+        "gentle",
+        "social",
+        "curious",
+        "calm",
+        "interactive"
+      ],
+      "description": "The most popular pet lizard for good reason. Bearded Dragons are gentle, curious, and genuinely interactive reptiles.",
+      "care_notes": "Needs UVB lighting and proper heating gradient. Varied diet of insects and vegetables. Regular handling maintains tameness.",
+      "zodiac_match": [
+        "Aries",
+        "Leo",
+        "Virgo"
+      ],
+      "personality_match": "gentle, curious, ISFP"
+    },
+    {
+      "id": 191,
+      "name": "Crested Gecko",
+      "species": "reptile",
+      "origin": "New Caledonia",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "15-20",
+      "weight_lbs": "1-2oz",
+      "temperament": [
+        "docile",
+        "curious",
+        "arboreal",
+        "quiet",
+        "gentle"
+      ],
+      "description": "Rediscovered in 1994 after being thought extinct. Crested Geckos are hardy, docile, and wonderful beginner reptiles.",
+      "care_notes": "Temperature-sensitive — cannot tolerate heat above 80°F. Evening and nocturnal activity. Arboreal — needs vertical space.",
+      "zodiac_match": [
+        "Taurus",
+        "Cancer",
+        "Aquarius"
+      ],
+      "personality_match": "gentle, quiet, INFP"
+    },
+    {
+      "id": 192,
+      "name": "Red-Eared Slider",
+      "species": "turtle",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "20-30",
+      "weight_lbs": "1-2lbs",
+      "temperament": [
+        "observant",
+        "cautious",
+        "independent",
+        "curious",
+        "aquatic"
+      ],
+      "description": "America's most popular pet turtle. Red-Eared Sliders are long-lived, fascinating aquatic animals requiring proper setup.",
+      "care_notes": "Needs large aquatic setup with basking area. UVB lighting essential. Water filtration critical. Long-lived commitment.",
+      "zodiac_match": [
+        "Taurus",
+        "Capricorn",
+        "Scorpio"
+      ],
+      "personality_match": "independent, patient, ISTP"
+    },
+    {
+      "id": 193,
+      "name": "Ball Python",
+      "species": "reptile",
+      "origin": "West Africa",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "low",
+      "good_with_kids": 4,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "20-30",
+      "weight_lbs": "2-5lbs",
+      "temperament": [
+        "docile",
+        "curious",
+        "gentle",
+        "calm",
+        "solitary"
+      ],
+      "description": "The most popular pet snake. Ball Pythons are docile, manageable, and beautiful — ideal for first-time snake owners.",
+      "care_notes": "Needs proper heating (88-92°F warm side). Feeding once weekly to biweekly. Hides are essential for security.",
+      "zodiac_match": [
+        "Scorpio",
+        "Taurus",
+        "Capricorn"
+      ],
+      "personality_match": "calm, gentle, ISTP"
+    },
+    {
+      "id": 194,
+      "name": "Clownfish",
+      "species": "fish",
+      "origin": "Pacific Ocean",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "3-10",
+      "weight_lbs": "N/A",
+      "temperament": [
+        "territorial",
+        "symbiotic",
+        "colorful",
+        "active",
+        "curious"
+      ],
+      "description": "Made famous by Finding Nemo. Clownfish are colorful, active, and fascinating symbiotic fish for marine aquariums.",
+      "care_notes": "Saltwater aquarium required. Can be kept with anemones. Territorial — limited numbers per tank.",
+      "zodiac_match": [
+        "Pisces",
+        "Cancer",
+        "Leo"
+      ],
+      "personality_match": "colorful, territorial, ISFP"
+    },
+    {
+      "id": 195,
+      "name": "Discus",
+      "species": "fish",
+      "origin": "Amazon",
+      "size": "medium",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "10-15",
+      "weight_lbs": "N/A",
+      "temperament": [
+        "majestic",
+        "sensitive",
+        "social",
+        "colorful",
+        "demanding"
+      ],
+      "description": "The king of freshwater aquarium fish. Discus are stunningly beautiful but require pristine water conditions and specialist care.",
+      "care_notes": "Very sensitive to water parameters. Warm water required (82-88°F). Social — keep in groups of 6+. Expert level care.",
+      "zodiac_match": [
+        "Pisces",
+        "Libra",
+        "Virgo"
+      ],
+      "personality_match": "majestic, sensitive, INFJ"
+    },
+    {
+      "id": 196,
+      "name": "Leopard Gecko",
+      "species": "reptile",
+      "origin": "Pakistan",
+      "size": "small",
+      "energy": "medium",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "15-20",
+      "weight_lbs": "1.5-2.5oz",
+      "temperament": [
+        "docile",
+        "curious",
+        "gentle",
+        "calm",
+        "terrestrial"
+      ],
+      "description": "The perfect beginner reptile. Leopard Geckos are easy to handle, long-lived, and come in hundreds of beautiful color morphs.",
+      "care_notes": "Ground-dwelling — needs horizontal space. Needs warm side (88-92°F). No UVB required. Mealworm and cricket diet.",
+      "zodiac_match": [
+        "Virgo",
+        "Taurus",
+        "Capricorn"
+      ],
+      "personality_match": "gentle, easy, ISFJ"
+    },
+    {
+      "id": 197,
+      "name": "Corn Snake",
+      "species": "reptile",
+      "origin": "USA",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "15-20",
+      "weight_lbs": "0.5-1lb",
+      "temperament": [
+        "docile",
+        "curious",
+        "active",
+        "gentle",
+        "explorer"
+      ],
+      "description": "The best beginner snake. Corn Snakes are hardy, manageable, beautiful, and remarkably docile with regular handling.",
+      "care_notes": "Needs secure enclosure — escape artists. Temperature gradient needed. Weekly feeding. Many beautiful color morphs available.",
+      "zodiac_match": [
+        "Virgo",
+        "Gemini",
+        "Aries"
+      ],
+      "personality_match": "curious, gentle, ISTP"
+    },
+    {
+      "id": 198,
+      "name": "Miniature Horse",
+      "species": "horse",
+      "origin": "Worldwide",
+      "size": "small",
+      "energy": "high",
+      "grooming": "high",
+      "good_with_kids": 5,
+      "good_with_dogs": 5,
+      "good_with_cats": 5,
+      "lifespan_years": "25-35",
+      "weight_lbs": "150-250lbs",
+      "temperament": [
+        "gentle",
+        "social",
+        "trainable",
+        "curious",
+        "affectionate"
+      ],
+      "description": "Full-sized horse personality in a tiny package. Mini horses are social, intelligent, and can even be kept as house pets.",
+      "care_notes": "Needs adequate outdoor space. Social — need companions. Special dietary needs. Regular farrier and vet care.",
+      "zodiac_match": [
+        "Taurus",
+        "Cancer",
+        "Sagittarius"
+      ],
+      "personality_match": "gentle, social, ISFJ"
+    },
+    {
+      "id": 199,
+      "name": "Koi Fish",
+      "species": "fish",
+      "origin": "Japan",
+      "size": "large",
+      "energy": "low",
+      "grooming": "low",
+      "good_with_kids": 3,
+      "good_with_dogs": 4,
+      "good_with_cats": 4,
+      "lifespan_years": "20-35",
+      "weight_lbs": "N/A",
+      "temperament": [
+        "peaceful",
+        "social",
+        "majestic",
+        "long-lived",
+        "recognizing"
+      ],
+      "description": "Living jewels of the garden pond. Koi are ancient Japanese fish that recognize their owners and can live for decades.",
+      "care_notes": "Needs large outdoor pond with filtration. Social — keep in groups. Can be hand-fed. Winter care needed in cold climates.",
+      "zodiac_match": [
+        "Pisces",
+        "Taurus",
+        "Cancer"
+      ],
+      "personality_match": "peaceful, majestic, INFP"
+    },
+    {
+      "id": 200,
+      "name": "Blue-Tongued Skink",
+      "species": "reptile",
+      "origin": "Australia",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "low",
+      "good_with_kids": 5,
+      "good_with_dogs": 3,
+      "good_with_cats": 3,
+      "lifespan_years": "15-20",
+      "weight_lbs": "1-2lbs",
+      "temperament": [
+        "docile",
+        "curious",
+        "slow",
+        "gentle",
+        "intelligent"
+      ],
+      "description": "Blue tongues flash as a defense mechanism, but Blue-Tongued Skinks are among the most docile, interactive lizards available.",
+      "care_notes": "Ground-dwelling lizard needs horizontal space. UVB lighting beneficial. Omnivorous — varied diet. Very handleable.",
+      "zodiac_match": [
+        "Virgo",
+        "Taurus",
+        "Scorpio"
+      ],
+      "personality_match": "gentle, curious, ISFJ"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DynamicQuizTool from '../../../../components/tools/DynamicQuizTool';
+---
+<ToolLayout title="Zodiac Personality Type Quiz" description="Discover your true zodiac personality archetype with our 15-question quiz" emoji="♈" toolSlug="zodiac-personality-type"
+  faq={[{"q": "How many questions are in the Zodiac Personality Type quiz?", "a": "This quiz contains carefully crafted questions designed to accurately assess your zodiac personality type type."}, {"q": "Are the results accurate?", "a": "This quiz is designed for fun and self-reflection. Use results as a starting point for personal growth, not as a clinical assessment."}]}
+  relatedTools={[{"name": "Ruling Planet", "emoji": "\ud83e\ude90", "path": "ruling-planet"}]}
+>
+  <DynamicQuizTool client:load testSlug="zodiac-personality-type" />
+</ToolLayout>

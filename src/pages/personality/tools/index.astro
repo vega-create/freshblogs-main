@@ -2,14 +2,18 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CrossSiteLinks from '../../../components/CrossSiteLinks.astro';
 import { siteConfig } from '../../../../site.config';
-
-const title = 'Free Personality Tools';
-const description = 'MBTI quiz, love language test, and Enneagram assessment';
+const title = 'Free Personality Quizzes';
+const description = 'MBTI, love language, spirit animal, enneagram, and cosmic personality quizzes';
 const tools = [
-  { name: 'MBTI Personality Quiz', emoji: '🧠', path: 'mbti', desc: 'Discover your Myers-Briggs type' },
-  { name: 'Love Language Quiz', emoji: '❤️', path: 'love-language', desc: 'Find your primary love language' },
-  { name: 'Enneagram Test', emoji: '🔢', path: 'enneagram', desc: 'Discover your Enneagram type (1-9)' },
-];
+    { name: 'MBTI Personality Quiz', emoji: '🧠', path: 'mbti', desc: 'Discover your Myers-Briggs type' },
+    { name: 'Love Language Quiz', emoji: '❤️', path: 'love-language', desc: 'Find your primary love language' },
+    { name: 'Enneagram Test', emoji: '🔢', path: 'enneagram', desc: 'Discover your Enneagram type' },
+    { name: 'Cosmic Love Style', emoji: '💘', path: 'love-language-style', desc: 'Your cosmic love style' },
+    { name: 'Spirit Animal Quiz', emoji: '🦅', path: 'spirit-animal', desc: 'Find your spirit animal' },
+    { name: 'Attachment Style', emoji: '🔗', path: 'relationship-attachment-style', desc: 'Your relationship attachment style' },
+    { name: 'Past Life Archetype', emoji: '🔮', path: 'past-life-archetype', desc: 'Your soul history' },
+    { name: 'Cosmic Purpose', emoji: '🌟', path: 'cosmic-purpose', desc: 'Your life mission' }
+  ];
 const breadcrumbLd = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
   { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
   { '@type': 'ListItem', position: 2, name: 'Personality', item: `${siteConfig.url}/personality/` },

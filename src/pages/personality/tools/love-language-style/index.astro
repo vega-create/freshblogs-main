@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DynamicQuizTool from '../../../../components/tools/DynamicQuizTool';
+---
+<ToolLayout title="Cosmic Love Style Quiz" description="Discover your cosmic love style with this 12-question relationship quiz" emoji="💘" toolSlug="love-language-style"
+  faq={[{"q": "How many questions are in the Cosmic Love Style quiz?", "a": "This quiz contains carefully crafted questions designed to accurately assess your cosmic love style type."}, {"q": "Are the results accurate?", "a": "This quiz is designed for fun and self-reflection. Use results as a starting point for personal growth, not as a clinical assessment."}]}
+  relatedTools={[{"name": "Spirit Animal", "emoji": "\ud83e\udd85", "path": "spirit-animal"}, {"name": "Attachment Style", "emoji": "\ud83d\udd17", "path": "relationship-attachment-style"}]}
+>
+  <DynamicQuizTool client:load testSlug="love-language-style" />
+</ToolLayout>

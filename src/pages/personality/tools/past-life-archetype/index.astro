@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DynamicQuizTool from '../../../../components/tools/DynamicQuizTool';
+---
+<ToolLayout title="Past Life Archetype Quiz" description="What past life archetype do you carry? Discover your soul history" emoji="🔮" toolSlug="past-life-archetype"
+  faq={[{"q": "How many questions are in the Past Life Archetype quiz?", "a": "This quiz contains carefully crafted questions designed to accurately assess your past life archetype type."}, {"q": "Are the results accurate?", "a": "This quiz is designed for fun and self-reflection. Use results as a starting point for personal growth, not as a clinical assessment."}]}
+  relatedTools={[{"name": "Cosmic Love Style", "emoji": "\ud83d\udc98", "path": "love-language-style"}, {"name": "Spirit Animal", "emoji": "\ud83e\udd85", "path": "spirit-animal"}]}
+>
+  <DynamicQuizTool client:load testSlug="past-life-archetype" />
+</ToolLayout>

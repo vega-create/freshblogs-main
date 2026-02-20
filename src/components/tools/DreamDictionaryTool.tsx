@@ -1,66 +1,76 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
-const symbols: Record<string,{meaning:string;emotion:string;action:string}> = {
-  'falling':{meaning:'Loss of control or insecurity in waking life. Fear of failure.',emotion:'Anxiety, vulnerability',action:'Identify what feels unstable and take small steps to regain control.'},
-  'flying':{meaning:'Freedom, ambition, rising above problems. Desire for independence.',emotion:'Exhilaration, liberation',action:'Pursue that goal you\'ve been hesitating about. You\'re ready.'},
-  'teeth':{meaning:'Anxiety about appearance, communication issues, or loss of power.',emotion:'Embarrassment, powerlessness',action:'Speak up about something you\'ve been holding back.'},
-  'water':{meaning:'Emotions and the subconscious. Calm water = peace; rough water = turmoil.',emotion:'Varies with water state',action:'Check in with your emotional state. Are you suppressing feelings?'},
-  'snake':{meaning:'Transformation, hidden fears, healing, or betrayal.',emotion:'Fear, fascination',action:'Face a fear you\'ve been avoiding. Transformation awaits.'},
-  'death':{meaning:'Endings and new beginnings. Rarely literal — usually symbolic change.',emotion:'Fear, acceptance',action:'Let go of something that has run its course.'},
-  'baby':{meaning:'New beginnings, innocence, vulnerability, or a new project.',emotion:'Tenderness, anxiety',action:'Nurture a new idea or relationship that needs your attention.'},
-  'house':{meaning:'Your psyche and self. Different rooms = different aspects of yourself.',emotion:'Security or unease',action:'Explore the parts of yourself you\'ve been neglecting.'},
-  'chase':{meaning:'Avoidance. Something in waking life you\'re running from.',emotion:'Panic, urgency',action:'Stop running. Face the issue or person you\'ve been avoiding.'},
-  'car':{meaning:'Life direction and control. Driving = in control; passenger = passive.',emotion:'Empowerment or helplessness',action:'Take the wheel on a decision you\'ve been putting off.'},
-  'dog':{meaning:'Loyalty, friendship, protection. Or instincts and desires.',emotion:'Comfort, companionship',action:'Reach out to a loyal friend or trust your instincts.'},
-  'cat':{meaning:'Independence, femininity, intuition, mystery.',emotion:'Curiosity, independence',action:'Trust your intuition more. Embrace your independent side.'},
-  'spider':{meaning:'Creativity, patience, feeling trapped, or manipulation.',emotion:'Fear, awe',action:'Weave your plans carefully. Patience will pay off.'},
-  'exam':{meaning:'Self-evaluation, fear of judgment, feeling unprepared.',emotion:'Stress, inadequacy',action:'You\'re more prepared than you think. Trust your knowledge.'},
-  'money':{meaning:'Self-worth, power, security, or concerns about resources.',emotion:'Anxiety or excitement',action:'Reflect on your relationship with self-worth, not just finances.'},
-  'fire':{meaning:'Passion, anger, transformation, or destruction.',emotion:'Intensity',action:'Channel your passion constructively. What lights you up?'},
-  'ocean':{meaning:'The vastness of your unconscious mind. Deep emotions.',emotion:'Awe, overwhelm',action:'Explore your deeper feelings through journaling or therapy.'},
-  'bird':{meaning:'Freedom, perspective, spiritual messages, ambitions.',emotion:'Hope, aspiration',action:'Gain a higher perspective on your current situation.'},
-  'mirror':{meaning:'Self-reflection, identity, how you see yourself.',emotion:'Curiosity, discomfort',action:'Honestly assess how you present yourself vs. who you truly are.'},
-  'wedding':{meaning:'Commitment, transition, union of opposites within yourself.',emotion:'Joy or anxiety',action:'Commit fully to something important. No more half-measures.'},
-};
+interface Symbol { id: number; symbol: string; category: string; meaning: string; emotion: string; action: string; zodiac: string[] }
 
-const popular = ['falling','flying','teeth','water','snake','death','chase','baby','house','car'];
+const categoryEmojis: Record<string,string> = {animals:'🐾',actions:'🏃',colors:'🎨',nature:'🌿',objects:'📦',people:'👥',places:'🏠',symbols:'✨',transitions:'🔄'};
 
 export default function DreamDictionaryTool() {
-  const [search,setSearch]=useState('');
-  const [result,setResult]=useState<{key:string;data:{meaning:string;emotion:string;action:string}}|null>(null);
+  const [allSymbols,setAllSymbols]=useState<Symbol[]>([]);
+  const [loading,setLoading]=useState(true);
+  const [query,setQuery]=useState('');
+  const [cat,setCat]=useState('');
+  const [results,setResults]=useState<Symbol[]>([]);
+  const [searched,setSearched]=useState(false);
+  const [page,setPage]=useState(0);
+  const PER=15;
 
-  const lookup = (term?:string) => {
-    const q = (term||search).toLowerCase().trim();
-    if(!q) return;
-    const match = Object.entries(symbols).find(([k])=>k.includes(q)||q.includes(k));
-    if(match) setResult({key:match[0],data:match[1]});
-    else setResult({key:q,data:{meaning:'This symbol is personal to you. Consider what '+q+' represents in your waking life — memories, feelings, or associations.',emotion:'Reflect on what you felt during the dream',action:'Journal about this symbol and what it connects to in your life.'}});
+  useEffect(()=>{
+    fetch('/data/dream-symbols.json')
+      .then(r=>r.json())
+      .then(d=>{setAllSymbols(d.symbols||[]);setLoading(false);})
+      .catch(()=>setLoading(false));
+  },[]);
+
+  const search = (q?:string,c?:string) => {
+    const sq=(q??query).toLowerCase().trim();
+    const sc=c??cat;
+    let f=allSymbols;
+    if(sq) f=f.filter(s=>s.symbol.toLowerCase().includes(sq)||s.meaning.toLowerCase().includes(sq));
+    if(sc) f=f.filter(s=>s.category===sc);
+    setResults(f);setSearched(true);setPage(0);
   };
+
+  const paged=results.slice(0,(page+1)*PER);
+  const hasMore=paged.length<results.length;
+  const emotionEmoji:Record<string,string>={reassured:'😊',curious:'🤔',anxious:'😰',hopeful:'🌟',empowered:'💪',reflective:'🪞',peaceful:'☮️',alert:'⚠️',inspired:'✨',nostalgic:'🥹',determined:'🎯',vulnerable:'💔',liberated:'🕊️',conflicted:'😣',grateful:'🙏'};
+
+  if(loading) return <div className="text-center py-8 text-gray-400">Loading 5,000+ dream symbols...</div>;
 
   return (
     <div className="space-y-6">
+      <p className="text-center text-sm text-gray-500">{allSymbols.length.toLocaleString()} symbols available</p>
       <div className="flex gap-2">
-        <input type="text" value={search} onChange={e=>{setSearch(e.target.value);setResult(null);}}
-          placeholder="e.g. falling, snake, water..."
+        <input type="text" value={query} onChange={e=>{setQuery(e.target.value);setSearched(false);}}
+          placeholder="Search: snake, water, flying, house..."
           className="flex-1 bg-white/10 border border-white/20 rounded-lg px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-purple-500"
-          onKeyDown={e=>e.key==='Enter'&&lookup()} />
-        <button onClick={()=>lookup()} disabled={!search.trim()} className="px-6 py-3 bg-purple-600 hover:bg-purple-500 disabled:bg-gray-700 rounded-lg font-semibold transition-colors">🔍</button>
+          onKeyDown={e=>e.key==='Enter'&&search()} />
+        <button onClick={()=>search()} className="px-6 py-3 bg-purple-600 hover:bg-purple-500 rounded-lg font-semibold transition-colors">🔍</button>
       </div>
-
       <div className="flex flex-wrap gap-2">
-        {popular.map(p=>(
-          <button key={p} onClick={()=>{setSearch(p);lookup(p);}} className="px-3 py-1.5 bg-white/5 hover:bg-white/10 rounded-full text-sm text-gray-400 hover:text-white transition-colors capitalize">{p}</button>
+        {Object.entries(categoryEmojis).map(([c,e])=>(
+          <button key={c} onClick={()=>{const next=cat===c?'':c;setCat(next);search(undefined,next);}}
+            className={`px-3 py-1.5 rounded-full text-xs capitalize ${cat===c?'bg-indigo-600 text-white':'bg-white/5 text-gray-400 hover:bg-white/10'}`}>{e} {c}</button>
         ))}
       </div>
-
-      {result && (
-        <div className="p-6 bg-gradient-to-br from-indigo-500/20 to-violet-500/20 rounded-xl border border-indigo-500/30">
-          <h2 className="text-2xl font-bold text-white text-center capitalize mb-4">🌙 {result.key}</h2>
-          <div className="grid gap-3">
-            <div className="p-3 bg-white/5 rounded-lg"><p className="text-xs text-indigo-400 uppercase font-bold">💭 Meaning</p><p className="text-gray-200 text-sm mt-1">{result.data.meaning}</p></div>
-            <div className="p-3 bg-white/5 rounded-lg"><p className="text-xs text-pink-400 uppercase font-bold">🎭 Emotional Theme</p><p className="text-gray-200 text-sm mt-1">{result.data.emotion}</p></div>
-            <div className="p-3 bg-white/5 rounded-lg"><p className="text-xs text-green-400 uppercase font-bold">🎯 What To Do</p><p className="text-gray-200 text-sm mt-1">{result.data.action}</p></div>
-          </div>
+      {searched && (
+        <div className="space-y-3">
+          <p className="text-sm text-gray-500">{results.length.toLocaleString()} symbol{results.length!==1?'s':''} found</p>
+          {paged.map(s=>(
+            <div key={s.id} className="p-4 bg-white/5 rounded-xl border border-white/10">
+              <div className="flex justify-between items-start">
+                <h3 className="font-bold text-white">{categoryEmojis[s.category]||'🌙'} {s.symbol}</h3>
+                <span className="text-xs text-gray-600 capitalize">{s.category}</span>
+              </div>
+              <p className="text-gray-300 text-sm mt-2">{s.meaning}</p>
+              <div className="flex flex-wrap gap-2 mt-3">
+                <span className="text-xs px-2 py-1 bg-indigo-500/10 text-indigo-400 rounded-full">{emotionEmoji[s.emotion]||'💭'} {s.emotion}</span>
+                <span className="text-xs px-2 py-1 bg-green-500/10 text-green-400 rounded-full">🎯 {s.action}</span>
+              </div>
+              {s.zodiac?.length>0 && <p className="text-[10px] text-gray-600 mt-2">Related signs: {s.zodiac.join(', ')}</p>}
+            </div>
+          ))}
+          {hasMore && <button onClick={()=>setPage(p=>p+1)} className="w-full py-3 bg-white/5 hover:bg-white/10 rounded-lg text-sm text-gray-400">Show more ({results.length-paged.length} remaining)</button>}
+          {results.length===0 && <p className="text-center text-gray-500 py-4">No symbols found. Try a different search.</p>}
         </div>
       )}
     </div>

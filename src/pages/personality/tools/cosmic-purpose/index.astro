@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DynamicQuizTool from '../../../../components/tools/DynamicQuizTool';
+---
+<ToolLayout title="Cosmic Purpose Quiz" description="Uncover your cosmic purpose and life mission with this personality quiz" emoji="🌟" toolSlug="cosmic-purpose"
+  faq={[{"q": "How many questions are in the Cosmic Purpose quiz?", "a": "This quiz contains carefully crafted questions designed to accurately assess your cosmic purpose type."}, {"q": "Are the results accurate?", "a": "This quiz is designed for fun and self-reflection. Use results as a starting point for personal growth, not as a clinical assessment."}]}
+  relatedTools={[{"name": "Cosmic Love Style", "emoji": "\ud83d\udc98", "path": "love-language-style"}, {"name": "Spirit Animal", "emoji": "\ud83e\udd85", "path": "spirit-animal"}]}
+>
+  <DynamicQuizTool client:load testSlug="cosmic-purpose" />
+</ToolLayout>

@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DynamicQuizTool from '../../../../components/tools/DynamicQuizTool';
+---
+<ToolLayout title="Chakra Profile Quiz" description="Which chakra needs your attention most? Take this energy assessment" emoji="🧘" toolSlug="chakra-profile"
+  faq={[{"q": "How many questions are in the Chakra Profile quiz?", "a": "This quiz contains carefully crafted questions designed to accurately assess your chakra profile type."}, {"q": "Are the results accurate?", "a": "This quiz is designed for fun and self-reflection. Use results as a starting point for personal growth, not as a clinical assessment."}]}
+  relatedTools={[{"name": "Dominant Energy Type", "emoji": "\u26a1", "path": "dominant-energy"}, {"name": "Manifestation Style", "emoji": "\u2728", "path": "manifestation-style"}]}
+>
+  <DynamicQuizTool client:load testSlug="chakra-profile" />
+</ToolLayout>

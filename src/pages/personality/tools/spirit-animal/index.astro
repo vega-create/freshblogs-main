@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DynamicQuizTool from '../../../../components/tools/DynamicQuizTool';
+---
+<ToolLayout title="Spirit Animal Quiz" description="Find your spirit animal guide with this 12-question personality quiz" emoji="🦅" toolSlug="spirit-animal"
+  faq={[{"q": "How many questions are in the Spirit Animal quiz?", "a": "This quiz contains carefully crafted questions designed to accurately assess your spirit animal type."}, {"q": "Are the results accurate?", "a": "This quiz is designed for fun and self-reflection. Use results as a starting point for personal growth, not as a clinical assessment."}]}
+  relatedTools={[{"name": "Cosmic Love Style", "emoji": "\ud83d\udc98", "path": "love-language-style"}, {"name": "Attachment Style", "emoji": "\ud83d\udd17", "path": "relationship-attachment-style"}]}
+>
+  <DynamicQuizTool client:load testSlug="spirit-animal" />
+</ToolLayout>

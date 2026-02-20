@@ -2,64 +2,40 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CrossSiteLinks from '../../../components/CrossSiteLinks.astro';
 import { siteConfig } from '../../../../site.config';
-
-const title = 'Free Astrology Tools — Zodiac Calculators, Quizzes & More';
-const description = '10 free interactive astrology tools: zodiac sign finder, compatibility checker, rising sign calculator, element quiz, trivia, and more. No sign-up required.';
-
+const title = 'Free Astrology Tools';
+const description = 'Zodiac compatibility, birth charts, daily horoscopes, and personality quizzes';
 const tools = [
-  { name: "What's My Sign?", emoji: '🔮', path: 'zodiac-sign', desc: 'Enter your birthday to discover your zodiac sign' },
-  { name: 'Zodiac Compatibility', emoji: '💕', path: 'compatibility', desc: 'Check love, friendship & work compatibility' },
-  { name: 'Rising Sign Calculator', emoji: '⬆️', path: 'rising-sign', desc: 'Calculate your ascendant sign' },
-  { name: "Today's Lucky Color", emoji: '🎨', path: 'daily-color', desc: 'Your personalized lucky color for today' },
-  { name: 'Moon Sign Calculator', emoji: '🌙', path: 'moon-sign', desc: 'Discover your emotional moon sign' },
-  { name: 'Birth Chart Generator', emoji: '📊', path: 'birth-chart', desc: 'Simple birth chart visualization' },
-  { name: "What's My Element?", emoji: '🔥', path: 'element-quiz', desc: 'Are you Fire, Earth, Air, or Water?' },
-  { name: 'Lucky Numbers', emoji: '🔢', path: 'lucky-number', desc: "Today's lucky numbers for your sign" },
-  { name: 'Celebrity Match', emoji: '⭐', path: 'celebrity-match', desc: 'Which celebrity shares your sign?' },
-  { name: 'Zodiac Trivia', emoji: '🎮', path: 'trivia', desc: 'Test your astrology knowledge' },
-];
-
-const breadcrumbLd = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
-    { '@type': 'ListItem', position: 2, name: 'Astrology', item: `${siteConfig.url}/astrology/` },
-    { '@type': 'ListItem', position: 3, name: 'Tools', item: `${siteConfig.url}/astrology/tools/` },
-  ],
-};
+    { name: 'What's My Sign?', emoji: '🔮', path: 'zodiac-sign', desc: 'Enter your birthday to discover your sign' },
+    { name: 'Zodiac Compatibility', emoji: '💕', path: 'compatibility', desc: 'Check love & friendship compatibility' },
+    { name: 'Rising Sign Calculator', emoji: '⬆️', path: 'rising-sign', desc: 'Calculate your ascendant sign' },
+    { name: 'Moon Sign Calculator', emoji: '🌙', path: 'moon-sign', desc: 'Discover your emotional moon sign' },
+    { name: 'Birth Chart', emoji: '📊', path: 'birth-chart', desc: 'Simple birth chart visualization' },
+    { name: 'Today's Lucky Color', emoji: '🎨', path: 'daily-color', desc: 'Your personalized lucky color' },
+    { name: 'Element Quiz', emoji: '🔥', path: 'element-quiz', desc: 'Fire, Earth, Air, or Water?' },
+    { name: 'Lucky Number', emoji: '🔢', path: 'lucky-number', desc: 'Today's lucky numbers' },
+    { name: 'Celebrity Match', emoji: '⭐', path: 'celebrity-match', desc: 'Celebrity who shares your sign' },
+    { name: 'Zodiac Trivia', emoji: '🎮', path: 'trivia', desc: 'Test your astrology knowledge' },
+    { name: 'Zodiac Personality Type', emoji: '♈', path: 'zodiac-personality-type', desc: 'Your true zodiac archetype' },
+    { name: 'Ruling Planet Quiz', emoji: '🪐', path: 'ruling-planet', desc: 'Which planet rules your life?' }
+  ];
+const breadcrumbLd = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+  { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
+  { '@type': 'ListItem', position: 2, name: 'Astrology', item: `${siteConfig.url}/astrology/` },
+  { '@type': 'ListItem', position: 3, name: 'Tools', item: `${siteConfig.url}/astrology/tools/` },
+]};
 ---
-
 <BaseLayout title={title} description={description} jsonLd={breadcrumbLd}>
   <div class="max-w-4xl mx-auto px-4 py-12">
-    <nav class="text-sm text-gray-400 mb-8">
-      <a href="/" class="hover:text-white">Home</a>
-      <span class="mx-2">/</span>
-      <a href="/astrology/" class="hover:text-white">Astrology</a>
-      <span class="mx-2">/</span>
-      <span class="text-white">Tools</span>
-    </nav>
-
-    <div class="text-center mb-10">
-      <h1 class="text-3xl md:text-4xl font-display font-bold mb-3">🔮 Free Astrology Tools</h1>
-      <p class="text-gray-400">10 interactive tools — no sign-up, no cost, no API. Just you and the stars.</p>
-    </div>
-
+    <nav class="text-sm text-gray-400 mb-8"><a href="/" class="hover:text-white">Home</a><span class="mx-2">/</span><a href="/astrology/" class="hover:text-white">Astrology</a><span class="mx-2">/</span><span class="text-white">Tools</span></nav>
+    <div class="text-center mb-10"><h1 class="text-3xl md:text-4xl font-display font-bold mb-3">🛠️ {title}</h1><p class="text-gray-400">{description}</p></div>
     <div class="grid sm:grid-cols-2 gap-4">
       {tools.map((tool) => (
-        <a
-          href={`/astrology/tools/${tool.path}/`}
-          class="group flex items-center gap-4 p-5 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-purple-500/30 rounded-xl transition-all duration-300 hover:-translate-y-0.5"
-        >
+        <a href={`/astrology/tools/${tool.path}/`} class="group flex items-center gap-4 p-5 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-purple-500/30 rounded-xl transition-all duration-300 hover:-translate-y-0.5">
           <span class="text-3xl">{tool.emoji}</span>
-          <div>
-            <h2 class="font-bold text-white group-hover:text-purple-400 transition-colors">{tool.name}</h2>
-            <p class="text-sm text-gray-400">{tool.desc}</p>
-          </div>
+          <div><h2 class="font-bold text-white group-hover:text-purple-400 transition-colors">{tool.name}</h2><p class="text-sm text-gray-400">{tool.desc}</p></div>
         </a>
       ))}
     </div>
-
     <CrossSiteLinks currentSite="astrology" />
   </div>
 </BaseLayout>

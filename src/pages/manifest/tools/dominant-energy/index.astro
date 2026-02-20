@@ -1,0 +1,10 @@
+---
+import ToolLayout from '../../../../layouts/ToolLayout.astro';
+import DynamicQuizTool from '../../../../components/tools/DynamicQuizTool';
+---
+<ToolLayout title="Dominant Energy Type Quiz" description="Are you Solar, Lunar, or Balanced? Discover your dominant energy" emoji="⚡" toolSlug="dominant-energy"
+  faq={[{"q": "How many questions are in the Dominant Energy Type quiz?", "a": "This quiz contains carefully crafted questions designed to accurately assess your dominant energy type type."}, {"q": "Are the results accurate?", "a": "This quiz is designed for fun and self-reflection. Use results as a starting point for personal growth, not as a clinical assessment."}]}
+  relatedTools={[{"name": "Chakra Profile", "emoji": "\ud83e\uddd8", "path": "chakra-profile"}, {"name": "Manifestation Style", "emoji": "\u2728", "path": "manifestation-style"}]}
+>
+  <DynamicQuizTool client:load testSlug="dominant-energy" />
+</ToolLayout>
