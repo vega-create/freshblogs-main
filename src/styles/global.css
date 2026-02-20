@@ -17,3 +17,8 @@
     @apply text-purple-400 hover:text-purple-300 underline;
   }
 }
+
+/* Hide details marker for More dropdown */
+summary::-webkit-details-marker { display: none; }
+summary::marker { display: none; }
+
