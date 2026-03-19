@@ -17,9 +17,15 @@ faq:
     a: "Tomatoes, peppers, lettuce, herbs, radishes, beans, and strawberries are all excellent container vegetables. Choose compact or dwarf varieties bred for small spaces. Cherry tomatoes outperform large beefsteak types in containers. Most herbs thrive in pots and stay within reach of your kitchen, making them the easiest and most practical container crops."
 ---
 
-Container gardening removes the biggest barriers to growing food and flowers: you do not need a yard, garden beds, or even direct ground access. A sunny balcony, patio, rooftop, stoop, or windowsill is enough to grow a meaningful collection of vegetables, herbs, and ornamental plants. Millions of urban and apartment dwellers grow productive gardens entirely in containers, and the techniques apply equally well to homeowners who want flexibility, mobility, or better soil control.
+Container gardening removes the biggest barriers to growing food and flowers: you do not need a yard, garden beds, or even direct ground access. A sunny balcony, patio, rooftop, stoop, or windowsill is enough to grow a meaningful collection of vegetables, herbs, and ornamental plants.
+
+> ✨ **Quick Summary:** No yard? No problem. Container gardening lets you grow vegetables, herbs, and flowers on balconies, patios, and windowsills. This guide covers choosing the right pots, soil, watering techniques, and the best plants for small-space growing.
+
+Millions of urban and apartment dwellers grow productive gardens entirely in containers, and the techniques apply equally well to homeowners who want flexibility, mobility, or better soil control.
 
 This guide covers every aspect of container gardening from choosing the right pot to harvesting your crops, with specific guidance for small-space situations where every square foot matters.
+
+---
 
 ## Choosing Containers: Material Comparison
 
@@ -43,6 +49,10 @@ The container material affects drainage, weight, temperature, cost, and aestheti
 
 **Color matters in hot climates.** Dark containers absorb heat and can cook roots on sunny patios. In hot regions, choose light-colored pots or wrap dark containers with reflective material. In cool climates, dark pots provide beneficial warmth.
 
+> ⚠️ **Important:** Never use garden soil in containers. It compacts, blocks drainage, and suffocates roots. Always use commercial potting mix, which is engineered to stay loose and well-aerated in the confined space of a pot.
+
+---
+
 ## Container Size Guide
 
 Matching the right container size to each plant is essential for healthy growth. Too small and roots become cramped. Too large and excess soil stays wet, promoting rot.
@@ -60,6 +70,8 @@ Matching the right container size to each plant is essential for healthy growth.
 | Strawberries | 8-12 inches (3-5 gallon) | 8 inches | Great in hanging baskets |
 | Dwarf fruit trees | 18-24 inches (15-25 gallon) | 18+ inches | Citrus, fig, blueberry |
 
+---
+
 ## Potting Mix: The Foundation of Container Gardening
 
 **Never use garden soil in containers.** This is the most important rule of container gardening. Garden soil compacts in the confined volume of a pot, squeezing out air spaces that roots need to breathe. It also drains poorly in containers, creating waterlogged conditions that promote root rot. Additionally, garden soil may carry weed seeds, disease organisms, and insect eggs.
@@ -74,6 +86,8 @@ Matching the right container size to each plant is essential for healthy growth.
 For vegetable containers, look for potting mix labeled for vegetables or edibles. Some mixes include a starter fertilizer charge that feeds plants for the first few weeks.
 
 **Refresh potting mix annually.** Potting mix breaks down over one to two seasons, losing its structure and aeration. Replace or significantly amend the mix in each container at the start of every growing season. Old potting mix can be composted or mixed into garden beds.
+
+---
 
 ## What to Grow in Containers
 
@@ -99,11 +113,19 @@ A single large container (12-14 inches) can hold a combination of basil, parsley
 
 ### Flowers
 
-Annuals like petunias, marigolds, geraniums, and impatiens are classic container flowers. Mix trailing varieties with upright types for a full, dynamic display. Use the thriller-filler-spiller framework: one tall focal point plant, several medium plants to fill in, and trailing plants to cascade over the edge.
+Annuals like petunias, marigolds, geraniums, and impatiens are classic container flowers. Mix trailing varieties with upright types for a full, dynamic display. Use the thriller-filler-spiller framework:
+
+- **Thriller:** one tall focal point plant
+- **Filler:** several medium plants to fill in
+- **Spiller:** trailing plants to cascade over the edge
 
 ### Fruit
 
 Strawberries are outstanding container plants, especially in hanging baskets where the fruit dangles over the edge for easy picking. Dwarf citrus trees, blueberry bushes, and fig trees all perform well in large containers (15-25 gallons) and can be moved indoors in cold climates.
+
+> 💡 **Pro Tip:** Herbs are the single best starting point for container gardening. They grow fast, require small pots, tolerate beginner mistakes, and provide an immediate payoff every time you cook.
+
+---
 
 ## Watering Container Gardens
 
@@ -119,6 +141,8 @@ Containers dry out significantly faster than in-ground gardens. The limited soil
 
 **Drip irrigation** can be set up for container gardens with a timer, small tubing, and individual drip emitters for each pot. This is the ultimate solution for large container collections or for gardeners who travel frequently.
 
+---
+
 ## Fertilizing Schedule
 
 Container plants need more frequent fertilizing than in-ground plants because nutrients wash out with each watering.
@@ -129,19 +153,26 @@ Container plants need more frequent fertilizing than in-ground plants because nu
 
 **Reduce in fall and winter.** Plants growing in containers during cooler months need less fertilizer as growth slows. Reduce to monthly applications or stop entirely for dormant plants.
 
-**Watch for signs of deficiency.** Yellow lower leaves often indicate nitrogen deficiency. Purple-tinted leaves suggest phosphorus deficiency. Brown leaf edges may signal potassium deficiency. Adjust your fertilizer accordingly.
+**Watch for signs of deficiency:**
+
+- **Yellow lower leaves** often indicate nitrogen deficiency
+- **Purple-tinted leaves** suggest phosphorus deficiency
+- **Brown leaf edges** may signal potassium deficiency
+
+Adjust your fertilizer accordingly.
+
+---
 
 ## Vertical Gardening for Maximum Space
 
 When horizontal space is limited, grow up. Vertical gardening techniques dramatically increase your growing capacity in small areas.
 
-**Trellises and cages** support climbing crops like tomatoes, cucumbers, beans, and peas in containers. A 5-gallon pot with a small trellis produces as many cucumbers as a sprawling ground plant using a fraction of the floor space.
+- **Trellises and cages** support climbing crops like tomatoes, cucumbers, beans, and peas in containers. A 5-gallon pot with a small trellis produces as many cucumbers as a sprawling ground plant using a fraction of the floor space.
+- **Stacked planters** use tiered designs that stack multiple planting levels vertically. Strawberries, herbs, and flowers are well-suited to stacked planting systems.
+- **Wall-mounted planters** attach directly to walls, fences, and railings. They are ideal for herbs, lettuce, and small flowers. Pocket planters made from felt or fabric hold multiple plants on a vertical surface.
+- **Hanging baskets** use overhead space that would otherwise be empty. Trailing tomatoes, strawberries, herbs, and flowering plants all perform well in hanging containers.
 
-**Stacked planters** use tiered designs that stack multiple planting levels vertically. Strawberries, herbs, and flowers are well-suited to stacked planting systems.
-
-**Wall-mounted planters** attach directly to walls, fences, and railings. They are ideal for herbs, lettuce, and small flowers. Pocket planters made from felt or fabric hold multiple plants on a vertical surface.
-
-**Hanging baskets** use overhead space that would otherwise be empty. Trailing tomatoes, strawberries, herbs, and flowering plants all perform well in hanging containers.
+---
 
 ## Balcony Weight Limits and Sun Mapping
 
@@ -154,6 +185,8 @@ Before loading your balcony with containers, consider structural limitations and
 **Wind exposure affects watering.** Upper-floor balconies and rooftops are windier, which dries soil and stresses plants faster. Use heavier pots, group containers together to create a windbreak, and expect to water more frequently.
 
 Container gardening adapts to virtually any living situation. Whether you have a sprawling patio or a single sunny windowsill, there are productive plants that fit your space. Start with a few containers of herbs and one or two vegetables, learn how your specific conditions affect your plants, and expand as your confidence grows.
+
+---
 
 ## References
 

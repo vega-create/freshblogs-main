@@ -19,13 +19,17 @@ faq:
 
 An air fryer is one of the most practical kitchen appliances you can own. It crisps food using rapidly circulating hot air, producing results similar to deep frying with a fraction of the oil. If you just unboxed yours or have been staring at it on the counter unsure where to start, these 15 recipes will get you cooking with confidence.
 
+> ✨ **Quick Summary:** 15 beginner-friendly air fryer recipes with exact temperatures and cook times, from crispy french fries to juicy steak — plus troubleshooting tips for common mistakes.
+
+---
+
 ## Air Fryer Basics Before You Start
 
 Before jumping into recipes, understanding a few fundamentals will set you up for consistently good results.
 
 **Preheat for three to five minutes.** Just like an oven, an air fryer performs better when it starts hot. Run it at your target temperature for a few minutes before adding food.
 
-**Do not overcrowd the basket.** This is the single most common mistake beginners make. Food needs space around it for hot air to circulate. A crowded basket produces steamed, soggy food instead of crispy food. Cook in batches if necessary.
+> ⚠️ **Important:** Do not overcrowd the basket. This is the single most common mistake beginners make. Food needs space around it for hot air to circulate. A crowded basket produces steamed, soggy food instead of crispy food. Cook in batches if necessary.
 
 **Use oil spray strategically.** Air fryers need far less oil than deep frying, but a light spray makes a real difference in browning and crispiness. Use a pump-style oil sprayer filled with avocado or olive oil rather than aerosol cans, which can damage nonstick coatings.
 
@@ -284,19 +288,19 @@ Before jumping into recipes, understanding a few fundamentals will set you up fo
 
 ---
 
+---
+
 ## Troubleshooting Common Air Fryer Problems
 
-**Food is cooked outside but raw inside.** The temperature is too high. Lower it by 25 degrees and increase the cook time. This often happens with thick chicken pieces.
-
-**Smoke coming from the air fryer.** Excess grease has collected in the drip tray and is burning. Stop the machine, let it cool, and empty the tray. For fatty foods like bacon, add a small amount of water to the drip tray to prevent smoking.
-
-**Breading falls off.** The food was not dry enough before breading, or the breading was not pressed firmly. Try spraying the breaded item with oil to help the coating set quickly in the hot air.
-
-**Uneven cooking.** The basket was overcrowded. Air fryers work by moving hot air around the food. When items are stacked or touching, the air cannot reach every surface. Cook in smaller batches for better results.
-
-**Food sticks to the basket.** Spray the basket with oil before adding food. For delicate items like fish, a piece of perforated parchment paper between the food and the basket prevents sticking without blocking airflow.
+- **Food is cooked outside but raw inside.** The temperature is too high. Lower it by 25 degrees and increase the cook time. This often happens with thick chicken pieces.
+- **Smoke coming from the air fryer.** Excess grease has collected in the drip tray and is burning. Stop the machine, let it cool, and empty the tray. For fatty foods like bacon, add a small amount of water to the drip tray to prevent smoking.
+- **Breading falls off.** The food was not dry enough before breading, or the breading was not pressed firmly. Try spraying the breaded item with oil to help the coating set quickly in the hot air.
+- **Uneven cooking.** The basket was overcrowded. Cook in smaller batches for better results.
+- **Food sticks to the basket.** Spray the basket with oil before adding food. For delicate items like fish, use perforated parchment paper between the food and the basket.
 
 Your air fryer is a versatile tool that can handle everything from snacks to full meals. Start with these 15 recipes, master the basics of temperature and timing, and you will find yourself reaching for it every night of the week.
+
+---
 
 ## References
 

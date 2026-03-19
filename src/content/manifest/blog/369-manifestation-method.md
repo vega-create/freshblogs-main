@@ -17,21 +17,36 @@ faq:
     a: "The 369 method spreads writing across three sessions per day for 21 or more days, totaling 18 written affirmations per day. The 55x5 method is more intensive but shorter — you write one affirmation 55 times in a single session, repeated for five consecutive days. The 369 method builds consistency over time while the 55x5 method creates a burst of concentrated focus. Some people respond better to sustained practice, others to intensive short bursts."
 ---
 
-The 369 manifestation method has become one of the most popular manifestation techniques in recent years, blending numerological fascination with practical repetition-based psychology. At its core, it is a structured writing practice that uses specific repetition patterns to reinforce your intentions. Whether you view it through a spiritual lens or a psychological one, the method provides a clear, actionable framework that thousands of people credit with meaningful shifts in their lives.
+The 369 manifestation method has become one of the most popular manifestation techniques in recent years, blending numerological fascination with practical repetition-based psychology.
+
+At its core, it is a structured writing practice that uses specific repetition patterns to reinforce your intentions. Whether you view it through a spiritual lens or a psychological one, the method provides a clear, actionable framework that thousands of people credit with meaningful shifts in their lives.
+
+> ✨ **Quick Summary:** Write your affirmation **3 times** in the morning, **6 times** in the afternoon, and **9 times** at night — for 21 to 45 days. That's it. Keep reading for the full method, examples, and troubleshooting.
+
+---
 
 ## The Origin: Tesla, Numerology, and TikTok
 
-The 369 method draws its numerical foundation from Nikola Tesla, the legendary inventor and engineer who was famously obsessed with the numbers 3, 6, and 9. Tesla reportedly believed these three numbers held the key to understanding the universe. He engaged in elaborate personal rituals involving these numbers — circling buildings three times before entering, choosing hotel rooms with numbers divisible by three, and calculating whether his actions aligned with the 3-6-9 pattern.
+The 369 method draws its numerical foundation from **Nikola Tesla**, the legendary inventor and engineer who was famously obsessed with the numbers 3, 6, and 9.
 
-Tesla is widely quoted as having said that understanding the magnificence of three, six, and nine would give you a key to the universe. While the historical accuracy of this specific quote is debated, Tesla's fixation on these numbers is well documented.
+Tesla reportedly believed these three numbers held the key to understanding the universe. He engaged in elaborate personal rituals involving these numbers — circling buildings three times before entering, choosing hotel rooms with numbers divisible by three, and calculating whether his actions aligned with the 3-6-9 pattern.
 
-The connection between Tesla's numerological interests and manifestation practice was popularized on TikTok by Karin Yee in 2020. Yee combined Tesla's number obsession with manifestation principles to create a structured writing method that resonated with millions of viewers. The technique went viral, generating hundreds of millions of views and spawning countless testimonials and variations.
+> 💡 **Did you know?** Tesla is widely quoted as saying that understanding the magnificence of 3, 6, and 9 would give you "a key to the universe." While the exact attribution is debated, his fixation on these numbers is well documented.
 
-What makes the method effective is not mystical numerology but rather the psychological principles embedded in the practice: focused intention, repetitive reinforcement, emotional engagement, and consistent daily commitment. The numbers provide a memorable structure that makes the practice easy to follow and maintain.
+The connection between Tesla's numerological interests and manifestation practice was popularized on **TikTok by Karin Yee in 2020**. Yee combined Tesla's number obsession with manifestation principles to create a structured writing method that resonated with millions of viewers.
+
+What makes the method effective is not mystical numerology but the **psychological principles** embedded in the practice:
+
+- **Focused intention** — directing your mental energy toward one goal
+- **Repetitive reinforcement** — strengthening neural pathways through repetition
+- **Emotional engagement** — connecting your feelings to your goals
+- **Consistent daily commitment** — building a habit that shapes your mindset
+
+---
 
 ## The Exact Step-by-Step Method
 
-The 369 method is simple in concept: write your manifestation affirmation three times in the morning, six times in the afternoon, and nine times at night. Here is how to do it correctly.
+The 369 method is simple in concept: write your manifestation affirmation **three times in the morning, six times in the afternoon, and nine times at night.** Here is how to do it correctly.
 
 ### Step 1: Craft Your Affirmation
 

@@ -19,6 +19,10 @@ faq:
 
 There are nights when the fridge is nearly empty and the grocery store feels impossibly far away. Those are the nights when a well-stocked pantry saves dinner. Every recipe in this guide uses ingredients that are shelf-stable, inexpensive, and likely sitting in your kitchen right now. No fresh herbs, no specialty items, no trips to the store.
 
+> ✨ **Quick Summary:** 12 budget-friendly recipes made entirely from pantry staples — pasta, rice, canned beans, eggs, and basic spices — plus a 4-week plan to build a complete pantry from scratch.
+
+---
+
 ## The Essential Pantry Staples Checklist
 
 Before diving into recipes, here are 20 items every kitchen should have. With these on hand, you can always make a real meal.
@@ -72,6 +76,10 @@ Buy store brands for staples. The canned black beans from the store brand and th
 
 ---
 
+> 💡 **Pro Tip:** Build your pantry gradually — add 1-2 extra staples each grocery trip instead of buying everything at once. Within a month you will be fully stocked without a large upfront cost.
+
+---
+
 ## Pasta Dishes
 
 ### 1. Pantry Spaghetti Marinara
@@ -116,6 +124,8 @@ Buy store brands for staples. The canned black beans from the store brand and th
 3. Drain two cans of tuna and add to the sauce, breaking it into flakes. Toss with the cooked pasta and season with salt and pepper.
 
 **Swap:** No canned tomatoes? Toss the tuna with pasta, olive oil, a splash of vinegar, and whatever spices you have for a cold pasta salad instead.
+
+---
 
 ---
 
@@ -166,6 +176,8 @@ Buy store brands for staples. The canned black beans from the store brand and th
 
 ---
 
+---
+
 ## Bean Dishes
 
 ### 7. Black Bean Tacos
@@ -210,6 +222,8 @@ Buy store brands for staples. The canned black beans from the store brand and th
 3. Toss the chickpeas with the dressing. Add any extras you have: diced onion, diced bell pepper, chopped parsley, or crumbled feta. Serve as a side dish or scoop into pita bread.
 
 **Swap:** No vinegar? Lemon juice is the best substitute. No cumin? Use Italian seasoning for a Mediterranean variation.
+
+---
 
 ---
 
@@ -260,6 +274,8 @@ Buy store brands for staples. The canned black beans from the store brand and th
 
 ---
 
+---
+
 ## Making Pantry Cooking a Habit
 
 Pantry cooking is not a fallback for emergencies. It is a genuine cooking skill that saves money every single week. Many of the world's most beloved dishes were born from pantry constraints. Italian pasta e fagioli, Spanish tortilla, Egyptian koshari, and Japanese tamago gohan are all pantry staple meals that have stood the test of centuries.
@@ -269,6 +285,8 @@ Restock intentionally. When you finish a can of beans, add it to your shopping l
 Rotate your stock. Move older items to the front when you buy replacements. This prevents cans and bags from expiring forgotten in the back of the shelf.
 
 Try one new pantry recipe each week. The twelve meals in this guide are a starting point, but once you internalize the pantry cooking mindset, you will start improvising your own variations with whatever you have on hand.
+
+---
 
 ## References
 

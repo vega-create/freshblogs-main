@@ -19,6 +19,8 @@ faq:
 
 Gratitude journaling is one of the simplest mental health practices you can adopt, and it is also one of the most extensively studied. Unlike many wellness trends that rely on anecdotal evidence, gratitude journaling has decades of rigorous research behind it, demonstrating measurable effects on mood, sleep quality, relationship satisfaction, and even physical health.
 
+> ✨ **Quick Summary:** How to start a gratitude journal backed by positive psychology research, with 30 specific prompts, a 7-day sample journal, and tips for building a lasting daily habit.
+
 This guide covers the science that makes it work, a straightforward method for starting, thirty specific prompts organized by life category, a sample seven-day journal to model the practice, and the most common mistakes that derail beginners.
 
 ## Why Gratitude Journaling Works: The Science
@@ -38,6 +40,9 @@ Humans are remarkably good at adapting to improvements in their circumstances. A
 ### Savoring Amplification
 
 Writing about a positive experience extends and deepens the emotional benefit you derive from it. The act of translating a feeling into words forces you to process it more thoroughly, which amplifies the positive emotion associated with the memory.
+
+
+---
 
 ## How to Start: A Step-by-Step Method
 
@@ -70,6 +75,12 @@ After each item, write one sentence explaining why this particular thing matters
 ### Step 5: Protect the Habit for 21 Days
 
 Commit to a minimum of three weeks before evaluating whether the practice is working. The first few days may feel awkward or forced. This is normal. The benefits accumulate over time, and most people notice a genuine shift somewhere around the two-week mark.
+
+
+> 💡 **Pro Tip:** Specificity is everything. "I am grateful for my health" loses impact fast. "I am grateful my knee did not hurt during my run this morning" engages genuine emotion.
+
+
+---
 
 ## 30 Gratitude Journal Prompts by Category
 
@@ -120,6 +131,9 @@ When you sit down and draw a blank, these prompts can help you find something sp
 29. What is one routine in your day that you actually look forward to?
 30. Think about the weather today. What was one thing about it that you could appreciate?
 
+
+---
+
 ## Sample 7-Day Gratitude Journal
 
 Here is what a week of gratitude journaling might look like in practice. Notice the specificity and the inclusion of why each item matters.
@@ -166,6 +180,9 @@ Here is what a week of gratitude journaling might look like in practice. Notice 
 2. I am grateful for the meal I cooked tonight — it actually turned out well. Cooking is a skill I have been building slowly, and tonight felt like progress.
 3. I am grateful for this journaling practice itself. After seven days, I notice I am scanning my day for good things to write about, and that shift in attention is already changing how my days feel.
 
+
+---
+
 ## Paper vs. Digital Journaling: Pros and Cons
 
 | Factor | Paper Journal | Digital Journal |
@@ -181,6 +198,12 @@ Here is what a week of gratitude journaling might look like in practice. Notice 
 
 Most research on journaling benefits was conducted using pen and paper, so if the two formats feel equally convenient, paper has a slight edge in supporting deeper emotional processing. However, the format you will actually use every day is always the better choice.
 
+
+> 📌 **Key Point:** Missing a day is not a failure. Missing a day and deciding the habit is broken is the actual problem. Just continue the next day without trying to make up for it.
+
+
+---
+
 ## Common Mistakes That Derail the Practice
 
 ### Being Too Generic
@@ -189,11 +212,15 @@ Writing "I am grateful for my health" every day becomes meaningless quickly. You
 
 ### Treating It as an Obligation
 
-If gratitude journaling starts to feel like another item on your to-do list that you dread, something needs to change. Reduce the number of items from three to one. Change the time of day. Switch from writing to voice recording. The practice should feel like a pause, not a burden.
+If gratitude journaling starts to feel like another item on your to-do list that you dread, something needs to change. Reduce the number of items from three to one.
+
+Change the time of day. Switch from writing to voice recording. The practice should feel like a pause, not a burden.
 
 ### Skipping Days and Then Quitting
 
-Missing a day is not a failure. Missing a day and deciding the habit is broken is the actual problem. If you skip a day, simply write the next day. Do not write extra items to make up for it. Do not berate yourself. Just continue. The research on habit formation shows that occasional misses do not significantly affect long-term habit strength as long as you resume promptly.
+Missing a day is not a failure. Missing a day and deciding the habit is broken is the actual problem. If you skip a day, simply write the next day.
+
+Do not write extra items to make up for it. Do not berate yourself. Just continue. The research on habit formation shows that occasional misses do not significantly affect long-term habit strength as long as you resume promptly.
 
 ### Comparing Your Gratitude to Others
 
@@ -201,7 +228,12 @@ Social media has created a gratitude performance culture where people share pict
 
 ### Ignoring Difficult Emotions
 
-Gratitude journaling is not about pretending everything is fine. You can be grateful for a supportive friend while also grieving a loss. You can appreciate your job while also feeling frustrated by a specific situation. Gratitude and struggle coexist. Trying to use the journal to suppress negative feelings will backfire and eventually make you abandon the practice entirely.
+Gratitude journaling is not about pretending everything is fine. You can be grateful for a supportive friend while also grieving a loss.
+
+You can appreciate your job while also feeling frustrated by a specific situation. Gratitude and struggle coexist. Trying to use the journal to suppress negative feelings will backfire and eventually make you abandon the practice entirely.
+
+
+---
 
 ## Building a Long-Term Gratitude Practice
 
@@ -216,6 +248,9 @@ Expand the practice to meals. Before eating, take three seconds to silently ackn
 Use challenging moments as prompts. When something goes wrong, ask yourself what you might eventually be grateful for about this situation. You do not need to force positivity in the moment, but planting the question can shift how you process the experience over time.
 
 Gratitude journaling works because it is simple, brief, and backed by serious research. It does not require you to become a different person or adopt an unrealistically positive worldview. It only asks you to spend a few minutes each day noticing what is already good. Over weeks and months, that small shift in attention produces changes that are anything but small.
+
+
+---
 
 ## References
 

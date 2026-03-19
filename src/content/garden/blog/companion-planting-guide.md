@@ -19,6 +19,8 @@ faq:
 
 Companion planting is one of the oldest and most effective techniques in organic gardening. By strategically placing certain plants near each other, you can naturally deter pests, improve pollination, maximize space, and even enhance the flavor of your harvest. This approach works with nature rather than against it, reducing the need for chemical pesticides and fertilizers.
 
+> ✨ **Quick Summary:** Companion planting pairs specific plants together for mutual benefit — pest control, pollination, nitrogen fixation, and space efficiency. This guide covers the science behind it, the best pairings, the worst combinations to avoid, and a practical raised bed layout.
+
 The practice has roots in Indigenous agricultural traditions that date back thousands of years and has been validated by modern agricultural research. Understanding why certain combinations work helps you apply the principles creatively in your own garden rather than simply memorizing a list of pairings.
 
 ## The Science Behind Companion Planting
@@ -45,6 +47,8 @@ Some companion relationships are purely physical. Tall plants provide shade for 
 
 Certain plants attract pests away from your valuable crops. Nasturtiums draw aphids away from vegetables. Radishes lure flea beetles away from brassicas. By sacrificing a trap crop, you protect your primary harvest without pesticides.
 
+---
+
 ## The Three Sisters: A Classic Companion System
 
 The Three Sisters method is the most famous companion planting system in history, developed by Indigenous peoples of the Americas centuries before European contact. It combines corn, beans, and squash in a mutually supportive trio.
@@ -55,6 +59,8 @@ The Three Sisters method is the most famous companion planting system in history
 
 **Squash** grows large leaves that shade the ground, suppressing weeds and retaining soil moisture for all three crops. The prickly squash vines also deter raccoons and other animals from raiding the corn.
 
+> 💡 **Pro Tip:** The Three Sisters method is a perfect example of how companion planting creates a self-sustaining system. Each plant solves a problem for the others — structure, nutrition, and ground cover — without any synthetic inputs.
+
 ### How to Plant the Three Sisters
 
 1. Build soil mounds about 4 feet apart and 12 inches high.
@@ -62,6 +68,8 @@ The Three Sisters method is the most famous companion planting system in history
 3. Plant 4 bean seeds around the base of the corn stalks.
 4. Plant 2-3 squash seeds between the mounds.
 5. As plants grow, gently guide bean vines onto corn stalks if they do not find them naturally.
+
+---
 
 ## Best Companion Pairings
 
@@ -97,6 +105,8 @@ Garlic planted around the base of rose bushes helps deter aphids, which are the 
 
 French marigolds (Tagetes patula) are the universal companion plant. Their roots release a compound called alpha-terthienyl that suppresses root-knot nematodes in the soil. Their bright flowers attract pollinators, and their strong scent confuses and deters many above-ground pests. Plant marigolds as a border around any vegetable bed.
 
+---
+
 ## Comprehensive Companion Planting Compatibility Table
 
 | Vegetable | Good Companions | Bad Companions |
@@ -118,6 +128,8 @@ French marigolds (Tagetes patula) are the universal companion plant. Their roots
 | Spinach | Strawberries, peas, beans, brassicas | None significant |
 | Radishes | Lettuce, peas, beans, cucumbers, spinach | Hyssop |
 
+---
+
 ## Bad Pairings to Avoid
 
 ### Tomatoes + Fennel
@@ -136,23 +148,23 @@ Despite both being members of the same plant family (Apiaceae), mature dill can 
 
 Broccoli, cabbage, and other brassicas are heavy feeders that compete aggressively with strawberries for nutrients. They also attract similar pests, which concentrates pest pressure rather than dispersing it.
 
+---
+
 ## Herbs as Natural Pest Deterrents
 
 Herbs deserve a special section because their concentrated aromatic oils make them exceptionally effective companion plants throughout the garden.
 
-**Basil** deters aphids, whiteflies, mosquitoes, and flies. Plant near tomatoes, peppers, and entryways.
+- **Basil** deters aphids, whiteflies, mosquitoes, and flies. Plant near tomatoes, peppers, and entryways.
+- **Rosemary** repels cabbage moths, carrot flies, and bean beetles. Plant near brassicas and carrots.
+- **Sage** deters cabbage moths, carrot flies, and flea beetles. Plant near brassicas and carrots.
+- **Thyme** repels cabbage worms, corn earworms, and whiteflies. Plant along garden borders.
+- **Chives** deter aphids and Japanese beetles. Plant near roses, tomatoes, and carrots.
+- **Mint** deters aphids, ants, and flea beetles. Always plant mint in containers because it spreads aggressively and will overtake garden beds.
+- **Lavender** attracts pollinators while repelling fleas, moths, and mosquitoes. Plant along garden borders and near seating areas.
 
-**Rosemary** repels cabbage moths, carrot flies, and bean beetles. Plant near brassicas and carrots.
+> 📌 **Key Point:** Always plant mint in containers, never directly in garden beds. Mint spreads aggressively via underground runners and will overtake your entire garden if given the chance.
 
-**Sage** deters cabbage moths, carrot flies, and flea beetles. Plant near brassicas and carrots.
-
-**Thyme** repels cabbage worms, corn earworms, and whiteflies. Plant along garden borders.
-
-**Chives** deter aphids and Japanese beetles. Plant near roses, tomatoes, and carrots.
-
-**Mint** deters aphids, ants, and flea beetles. Always plant mint in containers because it spreads aggressively and will overtake garden beds.
-
-**Lavender** attracts pollinators while repelling fleas, moths, and mosquitoes. Plant along garden borders and near seating areas.
+---
 
 ## Sample Garden Layout (4x8 Raised Bed)
 
@@ -166,11 +178,15 @@ Here is a practical companion planting layout for a single 4x8 foot raised bed:
 
 This layout places tall plants on the north side so they do not shade shorter crops. The marigold border attracts pollinators and deters pests. The carrot-onion interplanting provides mutual pest protection. The basil-tomato pairing maximizes the central growing area.
 
+---
+
 ## Putting It Into Practice
 
 Start simple. Choose two or three companion pairs that include crops you already plan to grow and integrate them into your existing garden plan. As you observe the results over a season or two, you will develop an intuitive sense for which combinations work best in your specific growing conditions.
 
 Keep a garden journal noting what you planted where, what pests appeared or were absent, and which crops thrived or struggled. This record becomes invaluable for refining your companion planting strategy year after year.
+
+---
 
 ## References
 

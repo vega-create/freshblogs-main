@@ -19,6 +19,8 @@ faq:
 
 The gap between a disappointing AI output and a genuinely useful one is rarely about the model. It is almost always about the prompt. Prompt engineering is the skill of writing instructions that get AI tools to produce the results you actually need, and it takes minutes to learn the fundamentals.
 
+> ✨ **Quick Summary:** Learn the 5 core elements of effective prompts -- Role, Context, Task, Format, and Constraints -- with before/after examples and a reusable framework you can apply immediately.
+
 This guide covers the five core elements every effective prompt needs, shows you exactly how each element transforms output quality with before-and-after examples, and gives you a reusable framework for writing prompts on any topic.
 
 ## What Prompt Engineering Actually Is
@@ -30,6 +32,9 @@ Both instructions technically ask for the same thing. The second one produces us
 Every major AI model, from GPT-4o to Claude to Gemini, processes your prompt as its only source of understanding about what you want. The model has no access to your thoughts, priorities, or quality standards unless you state them. Prompt engineering is how you state them clearly.
 
 This matters because a well-written prompt saves you from the most common AI workflow problem: generating output, reading it, realizing it missed the point, rewriting the prompt, generating again, and repeating three more times. A strong prompt gets you 80-90% of the way there on the first attempt.
+
+
+---
 
 ## The 5 Core Elements of an Effective Prompt
 
@@ -119,11 +124,19 @@ Write a blog post about remote work.
 
 **After (with constraints):**
 ```
-Write a blog post about remote work productivity. Under 600 words. Focus only on async communication practices. Do not mention video calls or coworking spaces. Tone: practical, no motivational fluff. Target reader: engineering team lead.
+Write a blog post about remote work productivity. Under 600 words. Focus only on async communication practices.
+
+Do not mention video calls or coworking spaces. Tone: practical, no motivational fluff. Target reader: engineering team lead.
 ```
 *Output: A tight, focused post that stays on-topic and matches the word count. Ready to publish with minimal editing.*
 
 Constraints prevent the model from going broad when you need it to go deep. They are the most underused element in beginner prompts.
+
+---
+
+
+> 💡 **Pro Tip:** Spending 30 seconds adding context to your prompt saves 5 minutes of back-and-forth revisions. Context is the most underused element in beginner prompts.
+
 
 ---
 
@@ -140,6 +153,9 @@ These five patterns cause the majority of underwhelming AI outputs:
 | **Assuming the AI knows your context** | Generic, irrelevant results | State your industry, audience, and situation explicitly |
 
 The single most impactful fix for most beginners is adding specificity. Every adjective, number, and named detail you include pushes the output closer to what you actually need.
+
+---
+
 
 ---
 
@@ -165,6 +181,9 @@ This combined prompt will consistently produce focused, actionable output becaus
 
 ---
 
+
+---
+
 ## Temperature and Token Settings: A Brief Primer
 
 Two settings affect how AI models generate output, and understanding them helps you troubleshoot unexpected results.
@@ -184,19 +203,29 @@ Most users will never need to adjust these settings directly, since specifying o
 
 ---
 
+
+> ⚠️ **Important:** If your AI output keeps missing the mark, the fix is almost always more specificity. Every adjective, number, and named detail pushes the output closer to what you need.
+
+
+---
+
 ## The 5-Step Framework for Writing Any Prompt
 
 Use this sequence every time you write a prompt from scratch. It takes about 60 seconds once you have practiced it a few times.
 
 ### Step 1: Define the Output
 
-Start from the end. What do you want to have when ChatGPT finishes responding? A table? An email draft? A list of ideas? A code snippet? Name the specific deliverable before writing anything else.
+Start from the end. What do you want to have when ChatGPT finishes responding? A table?
+
+An email draft? A list of ideas? A code snippet? Name the specific deliverable before writing anything else.
 
 *Example: "I need a comparison table of 4 project management tools."*
 
 ### Step 2: Assign a Role
 
-Decide whose perspective produces the best version of that output. A product manager? A technical writer? A marketing strategist? Add it to the prompt opening.
+Decide whose perspective produces the best version of that output. A product manager?
+
+A technical writer? A marketing strategist? Add it to the prompt opening.
 
 *Example: "You are a project management consultant who advises startup CTOs."*
 
@@ -221,10 +250,15 @@ Add what to include, what to exclude, and any quality requirements. This is wher
 **The assembled prompt:**
 
 ```
-You are a project management consultant who advises startup CTOs. A team of 15 fully remote engineers is currently using spreadsheets and needs a project management tool under $20/user/month. Create a comparison table with columns: Tool Name, Price per User, Key Feature for Remote Teams, Limitation, Your Rating (1-5). Only include tools with free tiers. Do not include Jira. Below the table, write a recommendation under 50 words.
+You are a project management consultant who advises startup CTOs. A team of 15 fully remote engineers is currently using spreadsheets and needs a project management tool under $20/user/month. Create a comparison table with columns: Tool Name, Price per User, Key Feature for Remote Teams, Limitation, Your Rating (1-5).
+
+Only include tools with free tiers. Do not include Jira. Below the table, write a recommendation under 50 words.
 ```
 
 This prompt will produce a directly usable comparison on the first try. No back and forth, no vague results, no "that's not what I meant."
+
+---
+
 
 ---
 
@@ -235,6 +269,9 @@ You now have a working framework for writing prompts that produce useful output 
 Compare the output against what you would have gotten with your usual approach. The difference is where prompt engineering earns its value.
 
 The core principle stays the same regardless of which AI model you use or how the technology evolves: the more precisely you describe what you want, the closer the output matches your intent. Everything in this guide is a structured way of achieving that precision.
+
+
+---
 
 ## References
 

@@ -17,7 +17,13 @@ faq:
     a: "Glass containers with snap-lock lids are the gold standard because they are microwave safe, do not stain, and last for years. BPA-free plastic containers are lighter and more affordable. Look for containers with compartments if you want to keep proteins, grains, and vegetables separated."
 ---
 
-Meal prep is the practice of planning, cooking, and portioning your meals ahead of time so that healthy food is ready to grab throughout the week. It saves time on busy weeknights, reduces impulse takeout orders, cuts grocery spending, and helps you eat more consistently. This guide covers everything a beginner needs to start meal prepping with confidence.
+Meal prep is the practice of planning, cooking, and portioning your meals ahead of time so that healthy food is ready to grab throughout the week. It saves time on busy weeknights, reduces impulse takeout orders, cuts grocery spending, and helps you eat more consistently.
+
+> ✨ **Quick Summary:** A step-by-step beginner's guide to meal prep covering menu planning, batch cooking strategy, food storage guidelines, a full weekly plan, and reheating tips — all in one Sunday session.
+
+This guide covers everything a beginner needs to start meal prepping with confidence.
+
+---
 
 ## Step 1: Choose Your Prep Day
 
@@ -26,6 +32,8 @@ Most people prep on Sunday, which gives you meals ready for Monday through Thurs
 If a full week feels overwhelming, start with prepping just lunches for the workweek. That is five meals, and you can expand from there once the habit sticks.
 
 **Morning prep vs. afternoon prep.** Some people prefer to prep right after a morning grocery trip when ingredients are freshest. Others like an afternoon session after the weekend rush settles. Try both and see what fits your schedule.
+
+---
 
 ## Step 2: Plan Your Menu Using the Formula
 
@@ -44,6 +52,10 @@ This formula keeps meals nutritionally balanced and prevents boredom because you
 **Sauce and seasoning options:** Teriyaki sauce, pesto, salsa, lemon herb vinaigrette, curry sauce, tahini dressing, soy-ginger glaze, buffalo sauce.
 
 The key is to cook two to three proteins, two grains, and three to four vegetables, then assemble different combinations throughout the week. Monday might be chicken with rice and broccoli in teriyaki. Tuesday could be the same chicken with quinoa and roasted peppers in pesto. Same base ingredients, different meals.
+
+> 💡 **Pro Tip:** Cook 2-3 proteins, 2 grains, and 3-4 vegetables, then assemble different combinations throughout the week. Same base ingredients, different meals every day.
+
+---
 
 ## Step 3: Build Your Shopping List
 
@@ -82,6 +94,8 @@ Once your menu is set, write your shopping list organized by grocery store secti
 
 Buy in bulk where it makes sense. A large bag of rice, a family pack of chicken, and a bulk container of oats cost less per serving than individual portions.
 
+---
+
 ## Step 4: Batch Cooking Strategy
 
 The order you cook matters. Here is the most efficient sequence that keeps you moving without downtime.
@@ -111,6 +125,8 @@ While everything cools slightly, prepare sauces, hard-boil eggs, or portion out 
 ### Phase 5: Assemble and Store (35-60 minutes)
 
 Once everything has cooled to room temperature (important for food safety), portion meals into containers. Do not pack food while it is still steaming, as trapped moisture promotes bacterial growth.
+
+---
 
 ## Step 5: Proper Food Storage
 
@@ -203,6 +219,8 @@ Here is a complete week of meals built from one Sunday prep session. This plan u
 
 ---
 
+---
+
 ## Reheating Tips for Best Results
 
 How you reheat food matters almost as much as how you cook it. The wrong method turns a perfectly prepped meal into a rubbery disappointment.
@@ -215,6 +233,10 @@ How you reheat food matters almost as much as how you cook it. The wrong method 
 
 **Do not reheat food more than once.** Each reheating cycle brings food through the temperature danger zone (40°F to 140°F) where bacteria multiply rapidly. Heat only the portion you plan to eat.
 
+> ⚠️ **Important:** Do not reheat food more than once. Each reheating cycle brings food through the temperature danger zone (40-140 degrees F) where bacteria multiply rapidly.
+
+---
+
 ## Food Safety Essentials
 
 **The two-hour rule.** Never leave cooked food at room temperature for more than two hours. In hot weather above 90°F, that window drops to one hour. Cool food quickly by spreading it in a thin layer on a sheet pan before transferring to containers.
@@ -225,11 +247,15 @@ How you reheat food matters almost as much as how you cook it. The wrong method 
 
 **When in doubt, throw it out.** If food smells off, has changed color, or feels slimy, discard it. Food poisoning is never worth the cost of a meal.
 
+---
+
 ## Getting Started This Weekend
 
 Meal prep is a skill that improves with practice. Your first session might feel slow and chaotic, and that is perfectly normal. By the third or fourth week, you will have a rhythm that makes the whole process feel almost automatic.
 
 Start simple. Pick one protein, one grain, and two vegetables. Prep enough for five lunches. Once that feels easy, add breakfasts. Then add dinners. Before long, you will have a system that saves you hours every week and puts better food on your table every day.
+
+---
 
 ## References
 

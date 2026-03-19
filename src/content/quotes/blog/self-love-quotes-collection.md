@@ -17,9 +17,13 @@ faq:
     a: "You cannot pour from an empty cup. When you practice self-love, you bring a more whole and secure version of yourself to your relationships. You are less likely to seek validation from others, less likely to tolerate mistreatment, and more capable of genuine generosity because your giving comes from abundance rather than need."
 ---
 
-In a culture that often equates self-sacrifice with virtue and self-criticism with motivation, choosing to love yourself can feel almost rebellious. But self-love is not selfish. It is the foundation on which every other healthy relationship in your life is built. When you treat yourself with the same kindness and respect you extend to others, everything else — your relationships, your work, your mental health — benefits.
+In a culture that often equates self-sacrifice with virtue and self-criticism with motivation, choosing to love yourself can feel almost rebellious. But self-love is not selfish. It is the foundation on which every other healthy relationship in your life is built.
 
-This collection of 50 self-love quotes is organized into five themes that address different aspects of the journey toward a healthier relationship with yourself. Whether you are just beginning to practice self-compassion or you need a reminder on a difficult day, these words from poets, psychologists, leaders, and thinkers can help reorient your inner compass.
+> ✨ **Quick Summary:** 50 self-love quotes organized by acceptance, boundaries, inner strength, healing, and celebration — plus practical self-compassion exercises backed by psychology research.
+
+When you treat yourself with the same kindness and respect you extend to others, everything else — your relationships, your work, your mental health — benefits. Whether you are just beginning to practice self-compassion or you need a reminder on a difficult day, these words from poets, psychologists, leaders, and thinkers can help reorient your inner compass.
+
+---
 
 ## Accepting Yourself
 
@@ -45,6 +49,8 @@ Brene Brown, a research professor who has spent decades studying vulnerability a
 
 10. "No amount of self-improvement can make up for any lack of self-acceptance." — Robert Holden
 
+---
+
 ## Setting Boundaries
 
 11. "Daring to set boundaries is about having the courage to love ourselves even when we risk disappointing others." — Brene Brown
@@ -67,6 +73,10 @@ Brene Brown, a research professor who has spent decades studying vulnerability a
 
 20. "You don't owe anyone an explanation for taking care of yourself." — Unknown
 
+> 💡 **Pro Tip:** Every time you say no to something that drains you and yes to something that nourishes you, you practice self-love in its most concrete form.
+
+---
+
 ## Inner Strength
 
 21. "She remembered who she was and the game changed." — Lalah Delia
@@ -88,6 +98,8 @@ Brene Brown, a research professor who has spent decades studying vulnerability a
 29. "Nothing can dim the light that shines from within." — Maya Angelou
 
 30. "Talk to yourself like someone you love." — Brene Brown
+
+---
 
 ## Healing
 
@@ -113,6 +125,8 @@ Audre Lorde, a poet and civil rights activist, wrote these words to underscore t
 
 40. "Recovery is not about becoming a new person. It's about becoming the person you were meant to be." — Unknown
 
+---
+
 ## Celebrating You
 
 41. "I celebrate myself, and sing myself." — Walt Whitman
@@ -136,6 +150,8 @@ Kristin Neff, a pioneer in self-compassion research, has demonstrated through nu
 49. "You can't pour from an empty cup. Take care of yourself first." — Unknown
 
 50. "The real difficulty is to overcome how you think about yourself." — Maya Angelou
+
+---
 
 ## Practicing Self-Love Beyond Quotes
 
@@ -162,6 +178,8 @@ Self-love is not only mental. Taking care of your body — through sleep, nutrit
 Every time you say no to something that drains you and yes to something that nourishes you, you practice self-love in its most concrete form. Boundaries are not walls — they are the architecture of a life that respects your energy, your time, and your emotional health.
 
 Self-love is not a destination you arrive at one day and never leave. It is a daily practice, a series of small choices that accumulate into a fundamentally different relationship with yourself. Start where you are. Start with one quote, one kind word, one boundary. The rest will follow.
+
+---
 
 ## References
 

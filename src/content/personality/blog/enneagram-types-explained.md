@@ -17,7 +17,13 @@ faq:
     a: "The most reliable way is through honest self-reflection about your core motivations and fears rather than surface behaviors. Online tests like the RHETI from the Enneagram Institute can be a starting point, but reading detailed type descriptions and noticing which one makes you slightly uncomfortable in its accuracy is often more revealing."
 ---
 
-The Enneagram is one of the most powerful tools for understanding human personality, motivation, and behavior. Unlike systems that sort people by surface-level preferences, the Enneagram peers beneath the exterior to examine the core fears and desires that shape how we move through the world. With nine distinct types arranged in an interconnected circle, this ancient-yet-evolving framework offers remarkable depth for personal growth, relationship building, and self-awareness. This guide provides a thorough exploration of all nine types, the three centers of intelligence, and the concept of wings.
+The Enneagram is one of the most powerful tools for understanding human personality, motivation, and behavior. Unlike systems that sort people by surface-level preferences, the Enneagram peers beneath the exterior to examine the core fears and desires that shape how we move through the world.
+
+> ✨ **Quick Summary:** The Enneagram maps nine personality types based on core motivations and fears, offering a roadmap for personal growth that goes far deeper than surface-level traits.
+
+With nine distinct types arranged in an interconnected circle, this ancient-yet-evolving framework offers remarkable depth for personal growth, relationship building, and self-awareness. This guide provides a thorough exploration of all nine types, the three centers of intelligence, and the concept of wings.
+
+---
 
 ## The Three Centers of Intelligence
 
@@ -34,6 +40,8 @@ Also called the Feeling Center, this triad processes the world through emotions 
 ### The Head Center (Types 5, 6, and 7)
 
 Also called the Thinking Center, this triad processes the world through analysis and mental frameworks. The core emotion is fear. Fives manage fear by retreating into knowledge and observation, Sixes manage it by seeking security through loyalty and vigilance, and Sevens manage it by staying busy and pursuing positive experiences to outrun anxiety.
+
+---
 
 ## The Nine Types in Detail
 
@@ -145,6 +153,8 @@ Also called the Thinking Center, this triad processes the world through analysis
 
 **Stress direction (toward Type 6):** Under stress, Nines may become anxious, reactive, and suspicious. Their usual calm dissolves into worry and defensive behavior.
 
+---
+
 ## Comparison Table: All Nine Types
 
 | Type | Name | Core Motivation | Basic Fear | Center |
@@ -158,6 +168,8 @@ Also called the Thinking Center, this triad processes the world through analysis
 | 7 | Enthusiast | Being happy and free | Being deprived or in pain | Head |
 | 8 | Challenger | Being strong and in control | Being harmed or controlled | Body |
 | 9 | Peacemaker | Maintaining inner peace | Loss and fragmentation | Body |
+
+---
 
 ## Understanding Wings
 
@@ -183,21 +195,31 @@ Here is how wings create subtypes:
 
 **Type 9:** 9w8 (The Referee) is more assertive, stubborn, and grounded. 9w1 (The Dreamer) is more idealistic, principled, and orderly.
 
+> 💡 **Pro Tip:** If you are unsure of your core type, exploring your wing can help. The subtype descriptions often resonate more specifically than the core type alone, making it easier to confirm your number.
+
+---
+
 ## How Types Connect Through Lines
 
 One of the Enneagram's most distinctive features is the interconnected lines between types, which illustrate paths of growth and stress. Unlike static personality systems, the Enneagram acknowledges that people move fluidly between different patterns depending on their psychological health.
 
 When you are thriving and growing, you take on the positive qualities of your growth type. When you are stressed and struggling, you take on the less healthy qualities of your stress type. Understanding these movements helps you recognize early warning signs of decline and intentionally cultivate growth.
 
+---
+
 ## Practical Applications
 
 The Enneagram is used in therapy, coaching, corporate team building, and spiritual direction. Its emphasis on underlying motivations rather than surface behaviors makes it particularly useful for deepening self-awareness and resolving interpersonal conflicts.
 
-In relationships, knowing your partner's type helps you understand why they react the way they do. A Type 6 who constantly asks questions is not being distrustful — they are seeking reassurance. A Type 5 who withdraws after social events is not being cold — they are replenishing depleted energy.
+> 📌 **Key Point:** The Enneagram does not just describe what you do — it explains *why* you do it, making it one of the most actionable personality frameworks for real change.
 
-In the workplace, the Enneagram helps teams leverage diverse strengths. A team might benefit from a Type 8's decisiveness, a Type 5's analytical depth, a Type 2's interpersonal warmth, and a Type 1's attention to quality.
+**In relationships,** knowing your partner's type helps you understand why they react the way they do. A Type 6 who constantly asks questions is not being distrustful — they are seeking reassurance. A Type 5 who withdraws after social events is not being cold — they are replenishing depleted energy.
 
-For personal growth, the Enneagram provides a remarkably specific roadmap. By understanding your core fear and motivation, you can identify the patterns that hold you back and consciously work toward the healthier expression of your type.
+**In the workplace,** the Enneagram helps teams leverage diverse strengths. A team might benefit from a Type 8's decisiveness, a Type 5's analytical depth, a Type 2's interpersonal warmth, and a Type 1's attention to quality.
+
+**For personal growth,** the Enneagram provides a remarkably specific roadmap. By understanding your core fear and motivation, you can identify the patterns that hold you back and consciously work toward the healthier expression of your type.
+
+---
 
 ## References
 

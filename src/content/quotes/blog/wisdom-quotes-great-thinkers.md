@@ -17,7 +17,13 @@ faq:
     a: "Start by choosing one quote that resonates and sitting with it for a week. Ask yourself how its message applies to a specific situation you are facing. Philosophical wisdom is not meant to be admired from a distance — it is meant to be tested against the reality of your daily experience. Journaling about a quote's relevance to your life is one of the most effective methods."
 ---
 
-Throughout human history, certain individuals have possessed an extraordinary ability to distill the complexity of life into clear, enduring truths. Their words have traveled across centuries and continents, surviving because they speak to something fundamental about what it means to be human. This collection brings together 60 wisdom quotes from history's greatest thinkers, organized by era and tradition, with brief historical context to help these words resonate even more deeply.
+Throughout human history, certain individuals have possessed an extraordinary ability to distill the complexity of life into clear, enduring truths. Their words have traveled across centuries and continents, surviving because they speak to something fundamental about what it means to be human.
+
+> ✨ **Quick Summary:** 60 timeless wisdom quotes organized by era — from ancient philosophers like Socrates and Confucius to modern visionaries like Einstein and Angelou — with historical context for deeper appreciation.
+
+This collection brings together quotes from history's greatest thinkers, organized by era and tradition, with brief historical context to help these words resonate even more deeply.
+
+---
 
 ## Ancient Philosophy
 
@@ -53,6 +59,8 @@ Lao Tzu, the legendary founder of Taoism, emphasized the power of simplicity, pa
 
 12. "The flame that burns twice as bright burns half as long." — Lao Tzu
 
+---
+
 ## Renaissance and Enlightenment
 
 The Renaissance and Enlightenment periods brought a renewed emphasis on reason, individual potential, and the pursuit of knowledge. These thinkers helped shape the modern world.
@@ -86,6 +94,8 @@ Kant's call to intellectual courage became a defining motto of the Enlightenment
 23. "We do not see things as they are, we see them as we are." — Anais Nin
 
 24. "In the middle of difficulty lies opportunity." — Albert Einstein
+
+---
 
 ## Modern Thinkers
 
@@ -121,6 +131,8 @@ Mandela spent 27 years in prison before emerging to lead South Africa through it
 
 36. "Be the change you wish to see in the world." — Mahatma Gandhi
 
+---
+
 ## Writers and Poets
 
 Writers and poets distill human experience through language, finding truths that philosophy and science often approach from different angles.
@@ -152,6 +164,8 @@ Rumi, the thirteenth-century Persian poet and Sufi mystic, is among the most wid
 47. "We read to know we are not alone." — C.S. Lewis
 
 48. "There is no greater agony than bearing an untold story inside you." — Maya Angelou
+
+---
 
 ## Contemporary Wisdom
 
@@ -189,13 +203,17 @@ Jobs quoted this phrase from the final issue of the Whole Earth Catalog during h
 
 This proverb captures the essence of practical wisdom — the past cannot be changed, but the present is always available for action.
 
+---
+
 ## The Enduring Power of Wisdom
+
+> 📌 **Key Point:** The greatest honor you can pay to a wise person's words is to test them against your own experience. Pick one quote that challenges you, sit with it for a week, and see what it reveals about your own life.
 
 What separates wisdom from mere information is depth. Information tells you how things work. Wisdom tells you how to live. The thinkers represented in this collection span more than two thousand years of human history, yet their insights share a common thread: the recognition that a well-lived life requires self-knowledge, courage, compassion, and the willingness to keep learning.
 
-These quotes are not meant to be consumed passively. The greatest honor you can pay to a wise person's words is to test them against your own experience. Pick one quote that challenges you, sit with it for a week, and see what it reveals about your own life. That is the beginning of wisdom — not the memorization of someone else's insight, but the cultivation of your own.
-
 Philosophy is not a subject confined to classrooms and ancient texts. It is a living practice, available to anyone willing to pause, reflect, and ask the questions that matter most. The thinkers in this collection did exactly that, and their words endure because they got something fundamentally right about what it means to be human.
+
+---
 
 ## References
 

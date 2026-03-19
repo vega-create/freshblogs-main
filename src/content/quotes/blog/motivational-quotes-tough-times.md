@@ -19,7 +19,11 @@ faq:
 
 There are moments in life when everything feels heavy — when the path forward is unclear, the setbacks keep piling up, and your reserves of strength feel dangerously low. During those times, the right words at the right moment can pierce through the fog and remind you of something essential: you have survived every difficult day so far, and you have what it takes to survive this one too.
 
-This collection of 75 motivational quotes is organized into five themes that address the core challenges of tough times. Each quote is attributed to its speaker, and the collection draws from leaders, philosophers, artists, and activists who understood adversity from personal experience.
+> ✨ **Quick Summary:** 75 motivational quotes organized by perseverance, courage, hope, self-belief, and starting over — from leaders and thinkers who understood adversity from personal experience.
+
+This collection is organized into five themes that address the core challenges of tough times. Each quote is attributed to its speaker, and the collection draws from leaders, philosophers, artists, and activists.
+
+---
 
 ## Why Quotes Help During Difficult Times
 
@@ -28,6 +32,10 @@ Before diving into the quotes themselves, it is worth understanding why words ca
 When you read a quote that resonates, your brain processes it as both emotional validation and a new perspective. The validation tells you that someone else has faced similar darkness and found their way through. The new perspective offers a potential path you might not have considered.
 
 Of course, quotes alone do not solve problems. But they can shift your internal state just enough to help you take the next step. And during truly tough times, taking the next step is often all that matters.
+
+> 💡 **Pro Tip:** Choose one quote each morning and write it down. Ask yourself how it applies to your current situation — active engagement works far better than passive reading.
+
+---
 
 ## Perseverance
 
@@ -61,6 +69,8 @@ Of course, quotes alone do not solve problems. But they can shift your internal 
 
 15. "You may have to fight a battle more than once to win it." — Margaret Thatcher
 
+---
+
 ## Courage
 
 16. "Courage is not the absence of fear, but rather the judgment that something else is more important than fear." — Ambrose Redmoon
@@ -92,6 +102,8 @@ Of course, quotes alone do not solve problems. But they can shift your internal 
 29. "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage." — Lao Tzu
 
 30. "Without courage, wisdom bears no fruit." — Baltasar Gracian
+
+---
 
 ## Hope
 
@@ -129,6 +141,8 @@ Christopher Reeve spoke from deep personal experience, having rebuilt his sense 
 
 45. "Rock bottom became the solid foundation on which I rebuilt my life." — J.K. Rowling
 
+---
+
 ## Self-Belief
 
 46. "Believe you can and you're halfway there." — Theodore Roosevelt
@@ -162,6 +176,8 @@ Eleanor Roosevelt offered this insight after years of navigating criticism and d
 59. "The question isn't who is going to let me; it's who is going to stop me." — Ayn Rand
 
 60. "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." — Ralph Waldo Emerson
+
+---
 
 ## Starting Over
 
@@ -197,19 +213,22 @@ Maya Angelou's words carry particular weight given her own extraordinary journey
 
 75. "The human capacity for burden is like bamboo — far more flexible than you'd ever believe at first glance." — Jodi Picoult
 
+---
+
 ## Building a Quote Practice
 
 Reading quotes once is pleasant. Building a consistent practice around them is transformative. Here are a few ways to make motivational words a regular part of your routine.
 
-Keep a quote journal. Each morning, write down one quote that speaks to your current situation. Below it, write one sentence about how you plan to embody that quote today.
+- **Keep a quote journal.** Each morning, write down one quote that speaks to your current situation. Below it, write one sentence about how you plan to embody that quote today.
+- **Create a quote wall.** Designate a space — a bulletin board, a section of your mirror, a digital wallpaper — where you rotate motivational quotes weekly.
+- **Share quotes with someone you trust.** When you share a quote that moved you, you reinforce its message for yourself and offer support to someone else at the same time.
+- **Pair quotes with action.** The most powerful way to use a motivational quote is to let it inspire a concrete step, however small. Read the quote, feel its truth, and then do one thing that aligns with its message.
 
-Create a quote wall. Designate a space — a bulletin board, a section of your mirror, a digital wallpaper — where you rotate motivational quotes weekly.
-
-Share quotes with someone you trust. When you share a quote that moved you, you reinforce its message for yourself and offer support to someone else at the same time.
-
-Pair quotes with action. The most powerful way to use a motivational quote is to let it inspire a concrete step, however small. Read the quote, feel its truth, and then do one thing that aligns with its message.
+> ⚠️ **Important:** Motivational quotes are a supplement to — not a replacement for — professional support. If you are struggling with depression, anxiety, or thoughts of self-harm, please reach out to a licensed therapist or a crisis helpline.
 
 Difficult times are an inevitable part of the human experience, but they are not the whole of it. The voices collected here — spanning centuries, cultures, and circumstances — all point to the same truth: you are more resilient than you know, and the struggle you are facing right now is shaping you into someone stronger.
+
+---
 
 ## References
 

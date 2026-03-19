@@ -19,7 +19,11 @@ faq:
 
 Living in an apartment does not mean living without a dog. Millions of city dwellers successfully share small spaces with canine companions, and many dog breeds actually prefer the cozier indoor life to sprawling yards they would never fully use.
 
-The key to apartment dog ownership is choosing a breed whose energy level, noise output, and exercise needs match the realities of small-space living. This guide profiles twelve breeds that thrive in apartments, provides detailed information on why each one works, and covers the practical essentials of apartment dog ownership.
+> ✨ **Quick Summary:** 12 dog breeds that thrive in apartments, ranked by energy level, barking tendency, and exercise needs — plus practical tips for noise training, potty solutions, and neighbor etiquette.
+
+The key to apartment dog ownership is choosing a breed whose energy level, noise output, and exercise needs match the realities of small-space living. This guide profiles twelve breeds that thrive in apartments and covers the practical essentials of apartment dog ownership.
+
+---
 
 ## What Makes a Dog Apartment-Friendly
 
@@ -32,6 +36,10 @@ Before reviewing specific breeds, it helps to understand the traits that make a 
 **Moderate exercise needs.** A breed that requires two hours of vigorous daily exercise is difficult to manage without a yard. Apartment dogs should be satisfied with regular walks and indoor play rather than requiring constant outdoor running.
 
 **Good temperament in close quarters.** Dogs that are anxious, territorial, or reactive to noise do poorly in apartments where stimuli are constant and close.
+
+> 💡 **Pro Tip:** Size alone does not determine apartment suitability. Some large breeds like Greyhounds are perfectly happy in apartments, while some small breeds like Jack Russell Terriers are too energetic and vocal.
+
+---
 
 ## The 12 Best Apartment Dogs
 
@@ -167,6 +175,8 @@ The Havanese is Cuba's national dog and a natural apartment companion. They are 
 - **Grooming:** High — silky coat requires regular brushing or professional grooming
 - **Why they work in apartments:** Hypoallergenic, friendly with neighbors, adaptable, trainable
 
+---
+
 ## Breed Comparison Table
 
 | Breed | Size (lbs) | Energy | Noise | Exercise (min/day) | Grooming |
@@ -184,11 +194,18 @@ The Havanese is Cuba's national dog and a natural apartment companion. They are 
 | English Bulldog | 40-50 | Low | Low | 20-30 | Moderate |
 | Havanese | 7-13 | Moderate | Low-Mod | 30 | High |
 
+---
+
 ## Apartment Dog Essentials
 
 ### Exercise Alternatives for Small Spaces
 
-When weather or schedules prevent outdoor walks, keep your dog physically and mentally stimulated indoors. Hallway fetch works in long apartment corridors during quiet hours. Tug-of-war provides vigorous exercise in a small footprint. Puzzle feeders and snuffle mats offer mental stimulation that tires a dog as effectively as physical exercise. Stairwell walks (if your building allows it) provide an excellent cardio workout.
+When weather or schedules prevent outdoor walks, keep your dog physically and mentally stimulated indoors:
+
+- **Hallway fetch** works in long apartment corridors during quiet hours
+- **Tug-of-war** provides vigorous exercise in a small footprint
+- **Puzzle feeders and snuffle mats** offer mental stimulation that tires a dog as effectively as physical exercise
+- **Stairwell walks** (if your building allows it) provide an excellent cardio workout
 
 ### Noise Training
 
@@ -203,6 +220,8 @@ Establish a reliable outdoor schedule. Most apartment dogs need three to four ou
 Always leash your dog in common areas. Clean up after your dog immediately. Keep your dog from jumping on neighbors, even if your dog is friendly and the interaction seems welcome. Not everyone is comfortable with dogs, and respecting shared space is essential for maintaining positive relationships in your building.
 
 A well-chosen, well-trained dog can be one of the best companions for apartment living. The breeds on this list have proven track records in small spaces, and with proper exercise, training, and enrichment, they will be just as happy in your apartment as any dog in a house with a yard.
+
+---
 
 ## References
 

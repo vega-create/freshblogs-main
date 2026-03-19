@@ -17,7 +17,11 @@ faq:
     a: "Winter garden maintenance is important even though the garden appears dormant. Key tasks include cleaning and sharpening tools, planning next year's garden layout, ordering seeds early for the best selection, maintaining compost bins, and protecting perennials with mulch. Winter preparation saves time and improves results when spring arrives."
 ---
 
-A productive garden requires attention throughout the year, not just during the growing season. Each month brings specific tasks that, when completed on time, prevent problems, reduce workload, and set up success for the months ahead. Skipping seasonal maintenance leads to compounding issues: neglected fall cleanup means more pest and disease pressure in spring; postponed tool maintenance means dull blades and rusty joints when you need them most.
+A productive garden requires attention throughout the year, not just during the growing season. Each month brings specific tasks that, when completed on time, prevent problems, reduce workload, and set up success for the months ahead.
+
+> ✨ **Quick Summary:** This month-by-month garden maintenance calendar covers every season for temperate climates (USDA zones 5-8), from spring soil prep through winter tool maintenance — so you always know what to do and when to do it.
+
+Skipping seasonal maintenance leads to compounding issues: neglected fall cleanup means more pest and disease pressure in spring; postponed tool maintenance means dull blades and rusty joints when you need them most.
 
 This month-by-month guide is designed for temperate climates (USDA zones 5-8) where four distinct seasons influence the garden calendar. Gardeners in warmer or cooler zones should shift the timing by a few weeks in either direction based on their local frost dates and growing season.
 
@@ -38,6 +42,8 @@ This month-by-month guide is designed for temperate climates (USDA zones 5-8) wh
 | November | Final cleanup, mulch perennials, put beds to rest | Closing |
 | December | Tool maintenance, plan next year, rest | Planning |
 
+---
+
 ## Spring (March - May)
 
 Spring is the busiest and most critical season in the garden. The work you do now determines the success of your entire growing year.
@@ -56,13 +62,17 @@ Spring is the busiest and most critical season in the garden. The work you do no
 
 ### April: Planting Begins
 
-**Transplant seedlings outdoors.** Begin hardening off indoor-started seedlings by placing them outside for increasing periods over 7-10 days. Start with 1-2 hours in a sheltered spot and gradually increase time and sun exposure. Transplant into the garden after the hardening period and when nighttime temperatures stay above 50 degrees Fahrenheit for warm-season crops.
+**Transplant seedlings outdoors.** Begin hardening off indoor-started seedlings by placing them outside for increasing periods over 7-10 days. Start with 1-2 hours in a sheltered spot and gradually increase time and sun exposure.
+
+Transplant into the garden after the hardening period and when nighttime temperatures stay above 50 degrees Fahrenheit for warm-season crops.
 
 **Direct sow cool-season crops.** Plant lettuce, spinach, peas, radishes, carrots, and beets directly into garden beds. These crops tolerate light frost and perform best in the cool temperatures of spring.
 
 **Apply mulch.** Spread 2-3 inches of organic mulch (shredded bark, straw, or leaf mold) around plants and across bare soil. Mulch suppresses weeds, retains soil moisture, and regulates soil temperature. Keep mulch 2 inches away from plant stems to prevent rot.
 
 **Set up supports.** Install tomato cages, bean trellises, and other plant supports at planting time rather than after plants are large and established. Installing supports later risks damaging roots and stems.
+
+> 💡 **Pro Tip:** Install plant supports at the same time you transplant seedlings. Trying to add a tomato cage after the plant is 3 feet tall risks breaking stems and damaging roots.
 
 ### May: Full Planting Season
 
@@ -75,6 +85,8 @@ Spring is the busiest and most critical season in the garden. The work you do no
 **Monitor for pests.** Check plants daily for early signs of pest activity: holes in leaves, discolored spots, sticky residue, or visible insects. Early detection makes control much easier and prevents population explosions.
 
 **Stake and tie tall plants.** Secure tomato plants to cages or stakes with soft ties as they grow. Train cucumber and bean vines onto their trellises. Keeping plants upright improves air circulation, reduces disease, and makes harvesting easier.
+
+---
 
 ## Summer (June - August)
 
@@ -104,6 +116,8 @@ Summer is about maintenance, monitoring, and harvesting. The foundation you laid
 
 **Maintain compost.** Turn your compost pile every 1-2 weeks to accelerate decomposition. Add a balanced mix of green materials (vegetable scraps, grass clippings) and brown materials (dried leaves, cardboard) to maintain a healthy ratio.
 
+> 📌 **Key Point:** Harvest vegetables daily during peak season. Leaving overripe zucchini, beans, or cucumbers on the plant signals it to slow down production. Regular picking keeps plants producing at maximum output.
+
 ### August: Transition Begins
 
 **Continue harvesting and preserving.** August is peak harvest for tomatoes, peppers, corn, and melons. If your harvest exceeds what you can eat fresh, consider freezing, canning, or dehydrating the surplus.
@@ -115,6 +129,8 @@ Summer is about maintenance, monitoring, and harvesting. The foundation you laid
 **Reduce nitrogen fertilizer.** As the growing season winds down, reduce or stop high-nitrogen fertilizer applications. Late nitrogen encourages soft new growth that is vulnerable to early fall frost.
 
 **Assess and plan.** Take notes on what succeeded and what struggled. Record pest issues, variety performance, and layout observations. These notes are invaluable when planning next year's garden.
+
+---
 
 ## Fall (September - November)
 
@@ -152,6 +168,8 @@ Fall is about harvesting the last of the season's bounty, protecting the soil fo
 
 **Drain and store rain barrels.** Empty rain barrels before freezing temperatures arrive. Frozen water expands and cracks plastic barrels. Store upside down or in a sheltered location.
 
+---
+
 ## Winter (December - February)
 
 Winter is the garden's dormant season but not the gardener's off-season. Planning and preparation during these months directly impact next year's success.
@@ -176,6 +194,8 @@ Winter is the garden's dormant season but not the gardener's off-season. Plannin
 
 **Inventory last year's seeds.** Check expiration dates and germination rates of leftover seeds. Most vegetable seeds remain viable for 2-5 years when stored in a cool, dry location. Test questionable seeds by placing 10 on a damp paper towel in a sealed bag. If 7 or more germinate within the expected timeframe, the batch is still good.
 
+> ⚠️ **Important:** Do not skip winter tool maintenance. Dull pruners make ragged cuts that invite disease into plants. Rusty tools require more effort to use and deteriorate quickly. Thirty minutes of cleaning and sharpening in December saves hours of frustration in spring.
+
 ### February: Preparation Begins Again
 
 **Start seeds indoors.** Begin with the slowest-growing crops: peppers, eggplant, and certain flowers need 8-10 weeks of indoor growing before transplant. Set up grow lights and seed-starting supplies.
@@ -188,6 +208,8 @@ Winter is the garden's dormant season but not the gardener's off-season. Plannin
 
 **Check garden structures.** Inspect raised beds, fences, gates, and cold frames for winter damage. Repair or replace damaged components before the busy spring season makes them a low priority.
 
+---
+
 ## Climate Zone Adjustments
 
 This calendar is based on temperate climates in USDA zones 5-8. Adjust timing based on your specific zone:
@@ -199,6 +221,8 @@ This calendar is based on temperate climates in USDA zones 5-8. Adjust timing ba
 **Coastal and maritime climates:** Milder winters and cooler summers shift the calendar. Frost protection is rarely needed, but consistent moisture management replaces the freeze-thaw concerns of inland gardens.
 
 The most valuable tool in seasonal garden maintenance is consistency. A little attention each week prevents the cascade of problems that results from neglect. Follow this calendar, adapt it to your local conditions, and your garden will reward you with healthy plants and abundant harvests year after year.
+
+---
 
 ## References
 

@@ -19,6 +19,8 @@ faq:
 
 You jolt awake, heart pounding, sheets damp with sweat. The details are already fading, but the fear lingers. Whether it was a shadowy figure, a fall from an impossible height, or a scenario where everything goes catastrophically wrong, the experience of a nightmare is universally unsettling.
 
+> ✨ **Quick Summary:** The 8 major causes of nightmares (from stress to medications to sleep position) and 8 evidence-based solutions including Image Rehearsal Therapy, which reduces nightmare frequency by 60-90%.
+
 Nightmares are not just bad dreams — they are vivid, emotionally disturbing dream experiences that wake you up and leave a lasting impression. About five percent of adults experience nightmares frequently enough that they affect daily functioning, and occasional nightmares are even more common. The good news is that nightmares have identifiable causes and, more importantly, effective solutions.
 
 ## What Makes a Nightmare Different From a Bad Dream
@@ -26,6 +28,9 @@ Nightmares are not just bad dreams — they are vivid, emotionally disturbing dr
 The clinical distinction matters. A bad dream is an unpleasant dream that does not wake you up. A nightmare is a disturbing dream that does wake you, and it causes significant post-waking distress — fear, anxiety, sadness, or an inability to return to sleep.
 
 Nightmares occur predominantly during REM sleep, which means they are concentrated in the second half of the night when REM periods are longest. This is why you often wake from a nightmare in the early morning hours rather than shortly after falling asleep. Night terrors, which are different, occur during deep non-REM sleep and typically in the first third of the night.
+
+
+---
 
 ## The 8 Major Causes of Nightmares
 
@@ -74,6 +79,12 @@ Obstructive sleep apnea — a condition where breathing repeatedly stops and sta
 
 Other sleep disorders including restless leg syndrome, narcolepsy, and REM sleep behavior disorder can also increase nightmare frequency.
 
+
+> 💡 **Pro Tip:** Image Rehearsal Therapy (IRT) is the most effective non-drug treatment for nightmares. Rewrite a recurring nightmare's ending while awake, then rehearse the new version for 10-20 minutes daily.
+
+
+---
+
 ## 8 Evidence-Based Solutions
 
 ### 1. Image Rehearsal Therapy (IRT)
@@ -83,7 +94,9 @@ IRT is the single most effective non-pharmacological treatment for nightmares, a
 **How to practice IRT:**
 
 1. Write down a recent nightmare in detail. Choose one that recurs or represents a common theme in your nightmares.
-2. Now rewrite the ending. You are not trying to make it pleasant or unrealistic — just change the outcome so it is no longer distressing. If you dream of being chased, the new version might have you turning around and the pursuer shrinking away. If you dream of falling, the new version might have you sprouting wings or landing safely.
+2. Now rewrite the ending.
+
+You are not trying to make it pleasant or unrealistic — just change the outcome so it is no longer distressing. If you dream of being chased, the new version might have you turning around and the pursuer shrinking away. If you dream of falling, the new version might have you sprouting wings or landing safely.
 3. Spend 10 to 20 minutes each day visualizing the new version of the dream. Read through your rewritten script, close your eyes, and imagine it playing out in vivid detail. Engage all your senses.
 4. Practice this daily for at least two weeks. Research shows that IRT reduces nightmare frequency by 60 to 90 percent in most people, including those with PTSD.
 
@@ -173,6 +186,9 @@ Seek professional help when:
 
 A sleep specialist may recommend a sleep study (polysomnography) to check for underlying sleep disorders, medication adjustments, or structured therapeutic protocols like clinical IRT.
 
+
+---
+
 ## Nightmare Triggers and Solutions: Quick Reference
 
 | Trigger | Primary Solution | Additional Steps |
@@ -186,6 +202,12 @@ A sleep specialist may recommend a sleep study (polysomnography) to check for un
 | Horror/disturbing media | 60-minute screen-free wind-down | Replace with calming content |
 | Sleep apnea | Sleep study, specialist consultation | CPAP therapy if diagnosed |
 
+
+> ⚠️ **Important:** If nightmares occur more than once a week and affect your daily functioning, consult a sleep specialist. Persistent nightmares can indicate treatable conditions like sleep apnea or PTSD.
+
+
+---
+
 ## Understanding Recurring Nightmares
 
 Recurring nightmares deserve special attention because they indicate an unresolved issue that your brain is repeatedly trying to process. The most common recurring nightmare themes — being chased, teeth falling out, being unprepared for an exam, falling, being naked in public — each connect to specific waking-life anxieties.
@@ -195,6 +217,9 @@ What makes recurring nightmares persistent is avoidance. The natural response to
 IRT is particularly effective for recurring nightmares because it directly addresses this cycle. By consciously engaging with the nightmare content and rewriting the ending, you give your brain the resolution it has been seeking. Many people find that after two to three weeks of IRT practice, a nightmare they have had for years simply stops occurring.
 
 If a nightmare recurs with exact precision — the same setting, same events, same sequence — it often relates to a specific unprocessed memory or trauma. If it recurs thematically but with varying details (always being chased, but by different things in different places), it typically relates to an ongoing emotional pattern like chronic avoidance or unaddressed anxiety.
+
+
+---
 
 ## Building a Nightmare-Resistant Sleep Routine
 
@@ -211,6 +236,9 @@ The most effective approach to nightmares combines multiple strategies into a co
 **Upon waking from a nightmare:** Do not fight to forget it. Instead, write it down briefly and remind yourself that it was a dream. If you practice IRT, note whether it relates to a scenario you are already rehearsing. If it is a new nightmare, consider adding it to your IRT practice the next day.
 
 Consistency matters more than perfection. Following this routine on most nights will produce noticeable results within two to four weeks. Nightmares may not disappear entirely, but their frequency, intensity, and impact on your daily life should decrease significantly.
+
+
+---
 
 ## References
 

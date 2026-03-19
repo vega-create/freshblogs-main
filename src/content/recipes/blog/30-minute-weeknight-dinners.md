@@ -19,6 +19,8 @@ faq:
 
 Getting a home-cooked dinner on the table during the week does not have to feel like a marathon. These 20 recipes are designed for real life: minimal ingredients, straightforward techniques, and results that taste far better than takeout. Every dish clocks in at 30 minutes or under from start to plate.
 
+> ✨ **Quick Summary:** 20 easy weeknight dinner recipes organized by protein — chicken, beef/pork, seafood, vegetarian, and pasta — all ready in 30 minutes or less with simple pantry-friendly ingredients.
+
 ## Quick Reference Table
 
 | Recipe | Time | Servings | Difficulty |
@@ -63,6 +65,8 @@ Before diving into the recipes, make sure your kitchen has these essentials on h
 **Freezer Staples:** Frozen broccoli, frozen stir-fry vegetables, frozen shrimp, chicken breasts or thighs.
 
 ---
+
+> 💡 **Pro Tip:** Prep ingredients on Sunday — marinate proteins, chop vegetables, and pre-measure sauces. On weeknights you just cook and assemble, cutting active time to 15 minutes or less.
 
 ## Chicken Recipes
 
@@ -131,6 +135,8 @@ Before diving into the recipes, make sure your kitchen has these essentials on h
 
 ---
 
+---
+
 ## Beef and Pork Recipes
 
 ### 6. Beef and Broccoli
@@ -182,6 +188,8 @@ Before diving into the recipes, make sure your kitchen has these essentials on h
 3. Return pork chops to the pan, spoon the apples and pan juices over the top, and serve immediately.
 
 **Why it works on a weeknight:** The sweet-savory combination feels like a fall celebration meal but it is really just a single pan and about ten minutes of active cooking.
+
+---
 
 ---
 
@@ -239,6 +247,8 @@ Before diving into the recipes, make sure your kitchen has these essentials on h
 
 ---
 
+---
+
 ## Vegetarian Recipes
 
 ### 14. Black Bean Quesadillas
@@ -293,6 +303,8 @@ Before diving into the recipes, make sure your kitchen has these essentials on h
 
 ---
 
+---
+
 ## Pasta Recipes
 
 ### 18. One-Pot Spaghetti
@@ -334,19 +346,19 @@ Before diving into the recipes, make sure your kitchen has these essentials on h
 
 ---
 
+---
+
 ## Tips for Faster Weeknight Cooking
 
-**Read the recipe first.** Spend one minute scanning the steps before you start. Knowing what comes next prevents mid-cook confusion.
-
-**Prep while you wait.** While water boils or oil heats, chop your vegetables and measure your sauces. Professional cooks call this mise en place, and it works.
-
-**Clean as you go.** Drop used bowls and cutting boards into soapy water between steps. You will finish dinner with a nearly clean kitchen.
-
-**Invest in one good knife.** A sharp eight-inch chef's knife cuts prep time in half compared to struggling with a dull blade.
-
-**Use the right heat.** High heat for searing and stir-frying, medium for sauteing, low for simmering. Correct heat means faster and more predictable results.
+- **Read the recipe first.** Spend one minute scanning the steps before you start. Knowing what comes next prevents mid-cook confusion.
+- **Prep while you wait.** While water boils or oil heats, chop your vegetables and measure your sauces. Professional cooks call this mise en place, and it works.
+- **Clean as you go.** Drop used bowls and cutting boards into soapy water between steps. You will finish dinner with a nearly clean kitchen.
+- **Invest in one good knife.** A sharp eight-inch chef's knife cuts prep time in half compared to struggling with a dull blade.
+- **Use the right heat.** High heat for searing and stir-frying, medium for sauteing, low for simmering. Correct heat means faster and more predictable results.
 
 These 20 recipes prove that busy weeknights and good homemade food are not mutually exclusive. Pick one tonight, set a timer, and see for yourself.
+
+---
 
 ## References
 

@@ -19,6 +19,8 @@ faq:
 
 A full bathroom renovation can cost thousands of dollars and take weeks to complete. A bathroom refresh, on the other hand, uses targeted cosmetic updates that dramatically change the look and feel of the space in a single weekend for a fraction of the price. None of these projects require a plumber, electrician, or contractor. All you need is basic tools, a trip to the hardware store, and two days of focused effort.
 
+> ✨ **Quick Summary:** Eight budget-friendly bathroom updates — from swapping the mirror to painting the vanity — that you can complete in one weekend for $200-$500, delivering a transformation that rivals a much more expensive renovation.
+
 The eight updates in this guide were chosen because they deliver the highest visual impact relative to their cost and difficulty. Tackle all eight for a complete transformation, or pick the three or four that address your bathroom's biggest weaknesses.
 
 ## Cost vs Impact Comparison Table
@@ -35,6 +37,8 @@ The eight updates in this guide were chosen because they deliver the highest vis
 | Organize under-sink storage | $20-$50 | 1-2 hours | 1 | 3 |
 
 **Total estimated cost:** $240-$720 | **Total impact:** Complete bathroom transformation
+
+---
 
 ## Weekend Schedule
 
@@ -62,6 +66,10 @@ The eight updates in this guide were chosen because they deliver the highest vis
 - Place new accessories (soap dispenser, toothbrush holder)
 - Final cleanup and admiration
 
+> 💡 **Pro Tip:** Follow this Saturday-Sunday schedule in order. Starting with demolition and prep on Saturday morning gives paint and caulk maximum drying time before you install hardware and accessories on Sunday.
+
+---
+
 ## 1. Install a New Mirror
 
 **Cost:** $50-$200 | **Time:** 30-60 minutes | **Difficulty:** 2/5 | **Impact:** 5/5
@@ -78,6 +86,8 @@ Builder-grade plate mirrors are functional but bland. Replacing one with a frame
 6. If the mirror frame has a gap against the wall, run a small bead of clear caulk along the top edge to prevent moisture from getting behind it.
 
 **Pro tip:** Choose a mirror that is slightly wider than the vanity for a more modern, proportional look. Round or oval mirrors add softness to a room dominated by straight lines and rectangular tiles.
+
+---
 
 ## 2. Update the Lighting
 
@@ -97,6 +107,8 @@ Outdated light fixtures are one of the biggest visual offenders in bathrooms. A 
 
 **Safety warning:** Always turn off the breaker and verify with a voltage tester before touching any wiring. If you encounter unfamiliar wiring configurations, hire a licensed electrician.
 
+---
+
 ## 3. Re-Caulk and Re-Grout
 
 **Cost:** $15-$40 | **Time:** 2-3 hours | **Difficulty:** 2/5 | **Impact:** 4/5
@@ -115,6 +127,8 @@ Discolored caulk and stained grout make even a clean bathroom look neglected. Fr
 
 **Pro tip:** Grout pens are a fast shortcut for refreshing grout color without the mess of regrouting. They work well on grout that is stained but structurally sound.
 
+---
+
 ## 4. Replace Towel Bars and Hardware
 
 **Cost:** $30-$80 | **Time:** 1-2 hours | **Difficulty:** 1/5 | **Impact:** 4/5
@@ -130,7 +144,9 @@ Matching towel bars, hooks, toilet paper holders, and cabinet knobs in a coordin
 5. Attach the bars, hooks, or rings to the brackets according to the manufacturer's instructions.
 6. Replace cabinet knobs and drawer pulls while you are at it. Choose the same finish as the towel hardware for a unified look.
 
-**Pro tip:** Buy all your hardware from the same product line to ensure the finish matches perfectly. Different manufacturers use slightly different shades of the same finish name.
+> 📌 **Key Point:** Buy all your hardware from the same product line to ensure the finish matches perfectly. Different manufacturers use slightly different shades of the same finish name.
+
+---
 
 ## 5. Paint the Vanity
 
@@ -150,6 +166,8 @@ Painting a dated oak or cherry vanity white, gray, or navy blue is one of the mo
 
 **Pro tip:** Cabinet-grade alkyd or hybrid enamel paints produce a harder, more durable finish than standard latex wall paint. They self-level to reduce brush marks and resist moisture, chipping, and yellowing. The extra cost per quart is well worth it for a surface that gets daily use.
 
+---
+
 ## 6. Add Floating Shelves
 
 **Cost:** $25-$60 | **Time:** 1-2 hours | **Difficulty:** 2/5 | **Impact:** 3/5
@@ -168,6 +186,8 @@ Floating shelves add storage and display space above the toilet, beside the mirr
 
 **Pro tip:** Use matching baskets or containers on the shelves to keep small items organized and prevent the shelves from looking cluttered. Woven baskets in natural tones add warmth to the space.
 
+---
+
 ## 7. New Shower Curtain and Rings
 
 **Cost:** $20-$60 | **Time:** 10 minutes | **Difficulty:** 1/5 | **Impact:** 3/5
@@ -183,6 +203,8 @@ The shower curtain occupies a large amount of visual real estate in most bathroo
 5. Adjust the curtain length. The liner should hang inside the tub, and the decorative curtain should hang about half an inch above the floor.
 
 **Pro tip:** A curved shower curtain rod (also called a bow rod) pushes the curtain outward, creating more elbow room inside the shower. It is a minor investment that significantly improves the shower experience in standard-sized tubs.
+
+---
 
 ## 8. Organize Under-Sink Storage
 
@@ -200,13 +222,17 @@ The space under the bathroom sink typically becomes a chaotic dumping ground. Or
 6. Group items by category: cleaning supplies on one side, personal care on the other. Place frequently used items in the most accessible positions.
 7. Add a small turntable (lazy Susan) for bottles that tend to get pushed to the back and forgotten.
 
-**Pro tip:** Line the bottom of the cabinet with a waterproof mat or tray. If a pipe fitting ever develops a slow leak, the mat catches the water before it damages the cabinet floor, giving you time to notice and fix the problem.
+> ⚠️ **Important:** Line the bottom of the cabinet with a waterproof mat or tray. If a pipe fitting ever develops a slow leak, the mat catches the water before it damages the cabinet floor, giving you time to notice and fix the problem.
+
+---
 
 ## Making It All Come Together
 
 The secret to a bathroom refresh that looks intentional rather than piecemeal is choosing a cohesive color palette and sticking to one hardware finish throughout. Pick a wall color, decide on the hardware finish (matte black, brushed nickel, or brushed gold), and select accessories that fit within that palette.
 
-A weekend bathroom refresh proves that you do not need to gut a bathroom to make it feel new. Strategic updates to the most visible elements, including the mirror, lighting, hardware, and vanity, create a cumulative effect that rivals a much more expensive renovation. The entire project pays for itself in satisfaction and added home value.
+A weekend bathroom refresh proves that you do not need to gut a bathroom to make it feel new. Strategic updates to the most visible elements — the mirror, lighting, hardware, and vanity — create a cumulative effect that rivals a much more expensive renovation. The entire project pays for itself in satisfaction and added home value.
+
+---
 
 ## References
 

@@ -19,7 +19,11 @@ faq:
 
 How you start your morning shapes the rest of your day. Before the emails, the meetings, and the endless to-do lists take hold, there is a brief window where you get to choose the tone. A single well-chosen quote, read with intention, can anchor your mind in positivity and purpose before the noise of the day begins.
 
-This collection of 60 morning quotes is organized into five themes to match whatever energy you need on a given morning — whether that is gratitude, motivation, calm, mental clarity, or simply a reason to smile. Each quote is attributed to its source, and the collection closes with practical advice for turning morning quotes into a lasting habit.
+> ✨ **Quick Summary:** 60 morning quotes organized by gratitude, energy, mindset, peace, and humor — plus practical methods for building a morning quote routine that actually sticks.
+
+This collection is organized into five themes to match whatever energy you need on a given morning. Each quote is attributed to its source, and the collection closes with practical advice for turning morning quotes into a lasting habit.
+
+---
 
 ## Gratitude
 
@@ -49,6 +53,8 @@ Marcus Aurelius, Roman emperor and Stoic philosopher, wrote these words in his p
 
 12. "The real gift of gratitude is that the more grateful you are, the more present you become." — Robert Holden
 
+---
+
 ## Energy and Action
 
 13. "The way to get started is to quit talking and begin doing." — Walt Disney
@@ -75,6 +81,8 @@ Marcus Aurelius, Roman emperor and Stoic philosopher, wrote these words in his p
 
 24. "The biggest source of motivation are your own thoughts, so think big and motivate yourself to win." — Unknown
 
+---
+
 ## Mindset
 
 25. "The mind is everything. What you think you become." — Buddha
@@ -100,6 +108,8 @@ Marcus Aurelius, Roman emperor and Stoic philosopher, wrote these words in his p
 35. "Think in the morning. Act in the noon. Eat in the evening. Sleep in the night." — William Blake
 
 36. "A positive attitude gives you power over your circumstances instead of your circumstances having power over you." — Joyce Meyer
+
+---
 
 ## Peace and Calm
 
@@ -129,6 +139,8 @@ Rumi, the thirteenth-century Persian poet, captured the quiet magic of early mor
 
 48. "Let the morning bring me word of your unfailing love, for I have put my trust in you." — Psalm 143:8
 
+---
+
 ## Humor and Lightness
 
 49. "I like my coffee like I like myself: strong, sweet, and too hot for you." — Unknown
@@ -155,9 +167,13 @@ Rumi, the thirteenth-century Persian poet, captured the quiet magic of early mor
 
 60. "Morning paradox: nothing is so beautiful as a sunrise, and nothing is so difficult as actually waking up for one." — Unknown
 
+---
+
 ## Building a Morning Quote Routine
 
 Reading a quote in passing is one thing. Turning morning quotes into a genuine practice that shapes your day requires a bit more intentionality. Here are some approaches that work.
+
+> 💡 **Pro Tip:** Read your morning quote within the first 30 minutes of waking, before checking your phone or email. Your mind is most receptive to positive input during this window.
 
 ### The Quote Journal Method
 
@@ -180,6 +196,8 @@ After reading your morning quote, identify one small action you can take in the 
 The most important element of any morning routine is consistency. You do not need to meditate for an hour or journal three pages. You just need to show up, read one quote, and let it land. Over weeks and months, this small daily investment compounds into a genuinely more positive and purposeful outlook on life.
 
 Your morning belongs to you. Before the world makes its demands, you get to choose what enters your mind first. Choose well.
+
+---
 
 ## References
 

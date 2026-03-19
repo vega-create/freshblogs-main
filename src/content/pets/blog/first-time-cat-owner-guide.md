@@ -19,7 +19,11 @@ faq:
 
 Bringing a cat into your home for the first time is exciting, but the amount of preparation and knowledge required often surprises new owners. Cats have a reputation for being low-maintenance pets, and while they are generally more independent than dogs, they still need proper care, a well-prepared environment, and an owner who understands their behavior.
 
-This guide covers everything a first-time cat owner needs: essential supplies with realistic cost estimates, feeding guidelines by age, litter box setup and maintenance, how to cat-proof your home, veterinary care essentials, and a crash course in understanding cat behavior. A first-week timeline at the end maps out exactly what to expect during those critical early days.
+> ✨ **Quick Summary:** Everything a first-time cat owner needs — from essential supplies and feeding guidelines to litter box setup, cat-proofing, vet care, and a day-by-day first-week timeline.
+
+This guide covers it all, with realistic cost estimates and a crash course in understanding cat behavior.
+
+---
 
 ## Essential Supplies Checklist
 
@@ -45,6 +49,8 @@ Before bringing your cat home, have these items ready and set up. Preparing the 
 ### Total Initial Setup Cost: Approximately $200 to $500
 
 This range covers basic to mid-range supplies. You can spend less by purchasing secondhand items or more by opting for premium products.
+
+---
 
 ## Feeding Guide
 
@@ -79,6 +85,8 @@ Several human foods are toxic to cats and should never be offered or left access
 - **Dairy milk** — most adult cats are lactose intolerant despite the popular myth
 - **Xylitol** — an artificial sweetener found in some peanut butters and sugar-free products that is toxic to cats
 
+---
+
 ## Litter Box Setup
 
 Getting the litter box right from the start prevents most elimination problems down the road.
@@ -100,6 +108,10 @@ The general rule is one litter box per cat plus one extra. For a single cat, two
 ### Cleaning Schedule
 
 Scoop the litter box at least once daily. Cats are fastidiously clean animals and may refuse to use a box that has not been scooped. Do a complete litter change and box wash every one to two weeks. Use mild, unscented soap — strong cleaning chemicals can deter your cat from the box.
+
+> 💡 **Pro Tip:** The general rule is one litter box per cat plus one extra. If you live in a multi-story home, place at least one box on each floor.
+
+---
 
 ## Cat-Proofing Your Home
 
@@ -125,6 +137,8 @@ Keep cleaning products, medications, antifreeze (which has a sweet taste cats fi
 
 Cats will find hiding spots you did not know existed. Check behind appliances, inside recliners (the mechanism can injure a hiding cat), inside dryers before running them, and inside any small spaces where a cat could become trapped.
 
+---
+
 ## Veterinary Care
 
 ### The First Vet Visit
@@ -147,6 +161,8 @@ Bring any medical records from the shelter or breeder, a stool sample if possibl
 ### Spay or Neuter Timing
 
 Most veterinarians recommend spaying or neutering between four and six months of age. This prevents unwanted litters, reduces certain health risks including some cancers, and typically reduces behavioral issues like spraying and roaming. Many shelters and rescues perform this surgery before adoption, so check your cat's records.
+
+---
 
 ## Understanding Cat Behavior
 
@@ -182,6 +198,10 @@ When a cat presses its head against you, it is depositing scent from glands loca
 
 If your cat brings you a toy, a dead insect, or (for outdoor cats) a small animal, it is sharing a successful hunt. This behavior may reflect the cat treating you as part of its colony and contributing to the group's food supply. Accept the gift graciously, dispose of it quietly, and understand it as a sign of your cat's connection to you.
 
+> ⚠️ **Important:** A slow blink from your cat is the feline equivalent of a kiss. You can return the gesture by slowly blinking back — this exchange is a powerful bonding moment.
+
+---
+
 ## First-Week Timeline
 
 ### Day 1: Arrival and Settling In
@@ -205,6 +225,8 @@ Gradually give access to more of the home. Watch for signs of stress (hiding exc
 Cats are creatures of habit. Feed at consistent times, play at consistent times, and keep the litter box on a predictable cleaning schedule. Routine reduces stress and builds trust. Within two to four weeks, most cats will be fully settled and showing their true personality.
 
 Owning a cat is a commitment of fifteen years or more, and the first few weeks set the foundation for the entire relationship. Patience during the adjustment period, a well-prepared home, and a willingness to learn your cat's language will reward you with one of the most satisfying human-animal bonds possible.
+
+---
 
 ## References
 

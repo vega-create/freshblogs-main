@@ -19,6 +19,8 @@ faq:
 
 A tarot spread is a specific arrangement of cards where each position carries a defined meaning. The spread gives structure to a reading, turning a random collection of cards into a coherent narrative. Here are twelve spreads covering everything from a thirty-second morning check-in to a full-year forecast, with position layouts and example interpretations for each.
 
+> ✨ **Quick Summary:** 12 tarot spreads for every occasion -- from 30-second daily pulls to the 10-card Celtic Cross -- with layouts, position meanings, and example interpretations for each.
+
 ## 1. One-Card Daily Pull
 
 **Cards:** 1 | **Best for:** Morning guidance, focused reflection, daily practice
@@ -33,6 +35,9 @@ Shuffle while asking "What do I need to know today?" and draw a single card. Thi
 
 **Example:** You draw the Knight of Pentacles. Today calls for steady, methodical work — focus on completing tasks with care rather than rushing through them. This is a day for reliability, not improvisation.
 
+
+---
+
 ## 2. Three-Card Past/Present/Future
 
 **Cards:** 3 | **Best for:** Quick situation overview, checking the trajectory of events
@@ -45,6 +50,9 @@ Shuffle while asking "What do I need to know today?" and draw a single card. Thi
 
 **Example:** For a question about a strained friendship: Past = Two of Cups (a strong bond once existed), Present = Five of Swords (conflict and harsh words), Future = Six of Cups (nostalgia and potential reconciliation). The reading suggests the friendship has a strong foundation that can survive the current tension.
 
+
+---
+
 ## 3. Three-Card Mind/Body/Spirit
 
 **Cards:** 3 | **Best for:** Holistic self-check-in, wellness assessment
@@ -56,6 +64,9 @@ Shuffle while asking "What do I need to know today?" and draw a single card. Thi
 **Position 1:** Mind — your current mental state and thought patterns. **Position 2:** Body — your physical energy and health needs. **Position 3:** Spirit — your spiritual or emotional well-being.
 
 **Example:** Mind = Nine of Swords (anxiety, overthinking at night), Body = Four of Swords (your body needs rest), Spirit = The Star (deep down, hope and healing are available). The message is clear: the mental noise is exhausting your body, but your spirit is resilient if you allow yourself to rest.
+
+
+---
 
 ## 4. Celtic Cross (10 Cards)
 
@@ -73,6 +84,12 @@ Shuffle while asking "What do I need to know today?" and draw a single card. Thi
 
 **Example:** Asking about a career change: Position 1 = Eight of Pentacles (skilled, focused work), crossed by Position 2 = The Devil (feeling trapped in the current job). Position 10 = Ace of Wands (a bold new creative beginning). The overall narrative shows that your skills are solid, but attachment to security is the main obstacle, and breaking free opens a powerful new chapter.
 
+
+> 📌 **Key Point:** Match the spread to the scope of your question. A one-card pull handles daily guidance. Three cards cover most questions. Save larger spreads for complex, multi-factor situations.
+
+
+---
+
 ## 5. Relationship Spread (5 Cards)
 
 **Cards:** 5 | **Best for:** Romantic partnerships, close friendships, family dynamics
@@ -86,6 +103,9 @@ Shuffle while asking "What do I need to know today?" and draw a single card. Thi
 **Position 1:** How you see the relationship. **Position 2:** How the other person sees the relationship. **Position 3:** The connection between you — the shared dynamic. **Position 4:** The strength of the relationship. **Position 5:** What needs attention or work.
 
 **Example:** Position 1 = Queen of Cups (deep emotional investment), Position 2 = Knight of Swords (restless, communication-focused energy), Position 3 = Temperance (a balancing act), Position 5 = Page of Pentacles (practical, grounded actions needed). The reading suggests one partner leads with emotion while the other leads with ideas, and the relationship needs more shared practical effort to stay grounded.
+
+
+---
 
 ## 6. Career Crossroads (6 Cards)
 
@@ -101,6 +121,9 @@ Shuffle while asking "What do I need to know today?" and draw a single card. Thi
 **Position 1:** Your current career energy. **Position 2:** What is pulling you toward Option A. **Position 3:** What is pulling you toward Option B. **Position 4:** What you truly value in your work. **Position 5:** Outcome of choosing Option A. **Position 6:** Outcome of choosing Option B.
 
 **Example:** Deciding between a promotion and starting a freelance business: Position 1 = Seven of Cups (overwhelmed by possibilities), Position 2 = Ten of Pentacles (financial security, legacy), Position 3 = The Fool (risk, adventure, fresh start), Position 5 = Four of Pentacles (stability but rigidity), Position 6 = Three of Wands (expansion and vision). The cards favor the freelance path for growth, while the promotion offers security at the cost of feeling stuck.
+
+
+---
 
 ## 7. Year Ahead (12 Cards)
 
@@ -120,6 +143,9 @@ Draw twelve cards and lay them in a clockwise circle. Each card reveals the domi
 
 **Example:** If Position 4 (four months from now) shows The Tower and Position 5 shows The Star, expect a significant disruption in month four followed by a healing, clarifying period in month five. The months are connected — the upheaval leads directly to renewal.
 
+
+---
+
 ## 8. New Moon Intention (5 Cards)
 
 **Cards:** 5 | **Best for:** New moon rituals, goal setting, beginning new projects
@@ -134,6 +160,9 @@ Draw twelve cards and lay them in a clockwise circle. Each card reveals the domi
 
 **Example:** Setting an intention around creative writing: Position 1 = Ace of Wands (pure creative spark), Position 3 = Eight of Swords (self-imposed mental restrictions), Position 4 = Page of Cups (playful emotional expression), Position 5 = Three of Pentacles (a collaborative creative project). Release the overthinking, embrace playful experimentation, and the work may attract collaborators.
 
+
+---
+
 ## 9. Shadow Work Spread (4 Cards)
 
 **Cards:** 4 | **Best for:** Self-exploration, identifying unconscious patterns, emotional processing
@@ -146,6 +175,12 @@ Draw twelve cards and lay them in a clockwise circle. Each card reveals the domi
 **Position 1:** The mask — the persona you present to the world. **Position 2:** The shadow — the hidden part of yourself you suppress or deny. **Position 3:** The root — where or when this shadow pattern originated. **Position 4:** Integration — how to acknowledge and work with this shadow constructively.
 
 **Example:** Position 1 = King of Swords (intellectual, controlled, authoritative), Position 2 = The Moon (fear, confusion, repressed emotions), Position 3 = Five of Cups (a past grief that was never fully processed), Position 4 = Temperance (gentle, patient integration of thinking and feeling). The reading reveals that an intellectual exterior masks unprocessed grief, and the path forward requires balancing logic with emotional honesty.
+
+
+> 💡 **Pro Tip:** Build your readings in layers. Start with three cards, and if the reading raises more questions, follow up with a targeted five or six-card spread focused on the unclear area.
+
+
+---
 
 ## 10. Decision Making Spread (5 Cards)
 
@@ -160,6 +195,9 @@ Draw twelve cards and lay them in a clockwise circle. Each card reveals the domi
 **Position 1:** The core of the decision — what this choice is really about. **Position 2:** Advantages of Choice A. **Position 3:** Advantages of Choice B. **Position 4:** Consequences of Choice A. **Position 5:** Consequences of Choice B.
 
 **Example:** Deciding whether to move cities: Position 1 = The Hermit (this decision is fundamentally about finding yourself), Position 2 = Six of Wands (the new city offers recognition and social opportunities), Position 3 = Ten of Cups (staying offers emotional fulfillment and family closeness), Position 4 = Five of Pentacles (the move may involve financial hardship initially), Position 5 = Four of Cups (staying risks complacency and boredom). The trade-off is clear: growth with financial risk versus comfort with stagnation risk.
+
+
+---
 
 ## 11. Weekly Forecast (7 Cards)
 
@@ -176,6 +214,9 @@ Draw seven cards and lay them in a row. Each card shows the dominant energy or p
 
 **Example:** If Wednesday shows the Two of Swords (stalemate, difficult decision) and Thursday shows the Ace of Swords (mental clarity, breakthrough), expect a mid-week period where you feel stuck followed by a moment of sudden clear thinking. Plan important conversations or decisions for Thursday rather than Wednesday.
 
+
+---
+
 ## 12. Self-Care Check-In (3 Cards)
 
 **Cards:** 3 | **Best for:** Weekly wellness check, burnout prevention, emotional inventory
@@ -190,6 +231,9 @@ This is intentionally a simple spread. Use it weekly, ideally on the same day, t
 
 **Example:** Position 1 = Ten of Wands (too many responsibilities), Position 2 = Nine of Pentacles (your independence and personal space), Position 3 = Four of Swords (rest, retreat, sleep). The message is direct: you are overextended, your alone time is your lifeline, and the most important thing you can do for yourself right now is rest.
 
+
+---
+
 ## Choosing the Right Spread
 
 Match the spread to the scope of your question. A one-card pull handles focused daily guidance. Three-card spreads cover most specific questions effectively. The Celtic Cross and other larger layouts are designed for situations that involve multiple factors, people, or timelines.
@@ -199,6 +243,9 @@ Avoid using a ten-card spread for a simple question — the extra positions will
 When in doubt, start with three cards. If the reading raises more questions than it answers, consider following up with a targeted five or six-card spread focused on the specific area that needs more depth. Build your readings in layers rather than always reaching for the biggest spread available.
 
 The spreads in this guide are frameworks, not rules. As you gain experience, you will modify positions, combine elements from different spreads, and eventually design your own layouts tailored to the exact questions you and your querents tend to ask. The structure is there to support your reading, not constrain it.
+
+
+---
 
 ## References
 

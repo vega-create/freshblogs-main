@@ -19,6 +19,8 @@ faq:
 
 Painting a room is one of the most impactful home improvements you can make, and it is entirely within reach for a first-timer. The difference between an amateur paint job and a professional-looking finish comes down to preparation and technique, not talent. Professional painters spend more time prepping than they do actually rolling paint, and that discipline is what you should copy.
 
+> ✨ **Quick Summary:** A professional-quality paint job is 60% preparation and 40% technique. This guide walks you through the full process — from choosing the right finish and calculating paint quantities to cutting in, rolling, and cleanup.
+
 This guide walks you through the entire process from choosing paint and calculating quantities to the final cleanup, covering everything you need to produce a finish you will be proud of.
 
 ## Choosing the Right Paint Finish
@@ -35,7 +37,9 @@ The finish (also called sheen) affects both the appearance and durability of the
 | Semi-Gloss | Noticeable sheen | Very good | Low | Bathrooms, trim, doors | Very good |
 | High Gloss | Mirror-like sheen | Excellent | None | Cabinets, furniture, accent details | Excellent |
 
-**General rule:** The higher the sheen, the more durable and washable the finish, but the more it reveals wall imperfections. Low-traffic, low-moisture rooms do well with flat or eggshell. High-traffic and high-moisture areas need satin or semi-gloss.
+> 📌 **Key Point:** The higher the sheen, the more durable and washable the finish, but the more it reveals wall imperfections. Low-traffic, low-moisture rooms do well with flat or eggshell. High-traffic and high-moisture areas need satin or semi-gloss.
+
+---
 
 ## Calculating How Much Paint to Buy
 
@@ -59,6 +63,8 @@ Use this formula to estimate paint quantities:
 
 **Estimated time:** 6-10 hours spread over two days (includes drying time between coats)
 
+---
+
 ## Tools and Supplies Needed
 
 Gather everything before you start. Running to the store mid-project with wet paint drying on the walls creates problems.
@@ -75,6 +81,8 @@ Gather everything before you start. Running to the store mid-project with wet pa
 - Paint can opener and stir sticks
 - Primer (if needed)
 
+---
+
 ## Step 1: Prepare the Room
 
 Preparation accounts for roughly 60 percent of the work and almost 100 percent of the quality.
@@ -86,6 +94,8 @@ Preparation accounts for roughly 60 percent of the work and almost 100 percent o
 **Repair imperfections.** Fill nail holes, dents, and small cracks with lightweight spackle using a putty knife. Apply spackle in thin layers, slightly overfilling the hole. Let it dry for 30 minutes, then sand flush with 120-grit sandpaper. Wipe away dust with a damp cloth.
 
 **Sand glossy surfaces.** If the existing paint has a semi-gloss or gloss finish, lightly sand the entire wall with 150-grit sandpaper. This roughens the surface so the new paint adheres properly. Wipe off all sanding dust.
+
+---
 
 ## Step 2: Apply Primer (If Needed)
 
@@ -100,19 +110,25 @@ Apply primer with the same technique you will use for paint (cut in the edges, t
 
 For color changes within a similar range, a quality paint-and-primer product eliminates this step entirely.
 
+---
+
 ## Step 3: Tape the Edges
 
 Apply painter's tape along the ceiling line, baseboards, window and door trim, and any other surface you want to protect.
 
 **Taping technique matters.** Press the tape firmly along the edge using the flat side of a putty knife or credit card. This seals the tape edge and prevents paint from bleeding underneath. Run your finger along the entire length to check for bubbles or lifted edges.
 
-**Quick release tip:** Apply a thin line of the wall color (or base color) along the tape edge before applying the new color. This seals any micro-gaps in the tape, ensuring the color change line is razor sharp.
+> 💡 **Pro Tip:** Apply a thin line of the wall color (or base color) along the tape edge before applying the new color. This seals any micro-gaps in the tape, ensuring the color change line is razor sharp.
+
+---
 
 ## Step 4: Lay Drop Cloths
 
 Canvas drop cloths stay in place better than plastic and absorb drips instead of letting them pool. Use canvas along the base of each wall and plastic sheeting to cover furniture and floors farther from the walls.
 
 Tape the drop cloths to the baseboards to keep them from shifting while you work.
+
+---
 
 ## Step 5: Cut In the Edges
 
@@ -128,6 +144,8 @@ Cutting in means painting a 2-3 inch border around the ceiling line, corners, ba
 
 **Pro tip:** Cut in one wall at a time, then roll that wall before the cut line dries. This blending technique produces the most uniform finish.
 
+---
+
 ## Step 6: Roll the Walls
 
 Rolling is faster than brushing and produces a smoother, more even finish on large surfaces.
@@ -141,11 +159,15 @@ Rolling is faster than brushing and produces a smoother, more even finish on lar
 5. Maintain a wet edge at all times. If paint dries before you blend into the next section, you will see a visible line called a lap mark.
 6. Apply consistent, moderate pressure. Pressing too hard squeezes paint to the edges of the roller and creates tracks.
 
+---
+
 ## Step 7: Apply the Second Coat
 
 Allow the first coat to dry for the time specified on the paint can, usually 2-4 hours for latex paint. The wall should feel completely dry to the touch with no tackiness.
 
 Repeat the cutting in and rolling process for the second coat. Two coats provide uniform color coverage, consistent sheen, and better durability. Skipping the second coat almost always shows, especially with lighter colors over darker backgrounds.
+
+---
 
 ## Step 8: Remove Tape and Clean Up
 
@@ -154,6 +176,8 @@ Repeat the cutting in and rolling process for the second coat. Two coats provide
 **Touch up any imperfections.** Use the angled brush to carefully touch up any spots where paint bled under the tape or where the roller missed. Apply paint sparingly and feather the edges.
 
 **Clean your tools.** Latex paint cleans up with soap and warm water. Rinse rollers and brushes thoroughly until the water runs clear. Reshape brush bristles and hang them to dry or wrap in paper to maintain their shape. Store leftover paint in a sealed can at room temperature for future touch-ups. Label the can with the room name and date.
+
+---
 
 ## Common Mistakes and How to Avoid Them
 
@@ -167,6 +191,8 @@ Repeat the cutting in and rolling process for the second coat. Two coats provide
 
 **Roller marks and texture.** Caused by using the wrong roller nap thickness, applying uneven pressure, or letting paint dry on the roller between passes. Use the correct nap size for your wall texture and reload frequently.
 
+---
+
 ## Professional Shortcuts Worth Knowing
 
 **Box your paint.** If you are using more than one gallon, pour all cans into a 5-gallon bucket and mix thoroughly. This eliminates slight color variations between cans that become visible when they dry.
@@ -177,7 +203,11 @@ Repeat the cutting in and rolling process for the second coat. Two coats provide
 
 **Paint in the right order.** Ceiling first, then walls, then trim and doors. This sequence lets you be slightly messy at each stage because the next step covers any overspray.
 
+> ⚠️ **Important:** If your home was built before 1978, test for lead paint before sanding or scraping. Lead paint dust is a serious health hazard, especially for children. Home test kits are available at hardware stores, or hire a certified inspector.
+
 The payoff for careful preparation and patient technique is a room that looks like a professional crew painted it. Take your time, follow the steps, and enjoy the transformation.
+
+---
 
 ## References
 

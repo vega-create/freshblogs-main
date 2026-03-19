@@ -17,9 +17,15 @@ faq:
     a: "Permit requirements vary by municipality, but generally you need permits for electrical work, plumbing changes, structural modifications, additions, and roofing. Cosmetic projects like painting, flooring, and hardware replacement typically do not require permits. Contact your local building department before starting any project you are unsure about."
 ---
 
-One of the most important skills a homeowner can develop is knowing when to pick up a tool and when to pick up the phone. The right answer depends on the project's complexity, the safety risks involved, the permit requirements, and an honest assessment of your skill level. Getting this decision wrong in either direction costs you money: overpaying a professional for a simple task wastes cash, while botching a complex project can cost far more to fix than hiring someone would have cost in the first place.
+One of the most important skills a homeowner can develop is knowing when to pick up a tool and when to pick up the phone. The right answer depends on the project's complexity, the safety risks involved, the permit requirements, and an honest assessment of your skill level.
+
+> ✨ **Quick Summary:** Not every home project should be DIY. This guide provides a decision framework to help you determine which projects are safe to tackle yourself, which are grey areas depending on skill level, and which you should always hire a licensed professional for.
+
+Getting this decision wrong in either direction costs you money: overpaying a professional for a simple task wastes cash, while botching a complex project can cost far more to fix than hiring someone would have cost in the first place.
 
 This guide gives you a clear decision framework for every type of household project, from the obvious DIY wins to the jobs that demand a licensed professional.
+
+---
 
 ## The Decision Framework
 
@@ -30,6 +36,8 @@ Before starting any project, ask yourself these five questions:
 3. **Do I have or can I rent the necessary tools?** Specialty tools that cost hundreds of dollars for a single use often signal that a project is better left to a professional who already owns them.
 4. **Is the work covered by my homeowner's insurance?** Many insurance policies exclude damage caused by unlicensed work on major systems (electrical, plumbing, structural).
 5. **What is my realistic skill level?** Be honest. Watching a YouTube video does not equal hands-on experience with a specific task.
+
+---
 
 ## Decision Tree Table
 
@@ -52,6 +60,8 @@ Before starting any project, ask yourself these five questions:
 | Roofing | Always hire | Yes | High | High (falls, leaks) |
 | Major plumbing rerouting | Always hire | Yes | Moderate | High |
 | Asbestos/lead removal | Always hire | Yes | High | Extreme (health) |
+
+---
 
 ## Projects You Should DIY
 
@@ -77,7 +87,9 @@ Swapping knobs, pulls, towel bars, and similar hardware requires only a screwdri
 
 ### Replacing a Faucet or Toilet
 
-Modern faucets and toilets are designed for homeowner installation with standard tools and clear instructions. A plumber charges $150 to $350 for a faucet installation. The faucet itself costs $80 to $250, and installation takes 1-2 hours. Toilet replacement follows the same pattern: straightforward, well-documented, and saves you a service call fee.
+Modern faucets and toilets are designed for homeowner installation with standard tools and clear instructions. A plumber charges $150 to $350 for a faucet installation. The faucet itself costs $80 to $250, and installation takes 1-2 hours.
+
+Toilet replacement follows the same pattern: straightforward, well-documented, and saves you a service call fee.
 
 **DIY savings:** $150-$350 per fixture
 
@@ -87,19 +99,27 @@ Small holes, dents, and cracks in drywall are easily patched with spackle, a put
 
 **DIY savings:** $75-$150 per repair visit
 
+> 💡 **Pro Tip:** Start with the low-risk DIY projects above to build your skills and confidence. Each successful project expands the range of work you can confidently handle yourself.
+
+---
+
 ## Grey Area Projects (Depends on Your Skill Level)
 
 These projects are achievable for a moderately skilled homeowner but carry moderate risk if done incorrectly. Assess your experience honestly before deciding.
 
 ### Tile Work
 
-Installing a simple backsplash on a flat wall is manageable for a careful beginner. The material cost is modest, and mistakes are contained to a small area. However, tiling a shower or bathroom floor requires understanding waterproofing, slope, and proper substrate preparation. A poorly waterproofed shower can cause thousands of dollars in hidden water damage before the problem becomes visible.
+Installing a simple backsplash on a flat wall is manageable for a careful beginner. The material cost is modest, and mistakes are contained to a small area.
+
+However, tiling a shower or bathroom floor requires understanding waterproofing, slope, and proper substrate preparation. A poorly waterproofed shower can cause thousands of dollars in hidden water damage before the problem becomes visible.
 
 **Recommendation:** Backsplash is a good DIY project. Shower and floor tile should be done by a professional unless you have previous tiling experience.
 
 ### Deck Building
 
-Building a ground-level deck is a satisfying project for someone with intermediate carpentry skills. The work is physically demanding but conceptually straightforward. However, elevated decks involve structural engineering, footings, ledger board attachment, and building codes that vary by jurisdiction. An improperly built elevated deck can collapse, causing severe injuries.
+Building a ground-level deck is a satisfying project for someone with intermediate carpentry skills. The work is physically demanding but conceptually straightforward.
+
+However, elevated decks involve structural engineering, footings, ledger board attachment, and building codes that vary by jurisdiction. An improperly built elevated deck can collapse, causing severe injuries.
 
 **Recommendation:** Ground-level decks (less than 30 inches above grade) are reasonable DIY projects. Elevated decks should involve at minimum a professional design review.
 
@@ -115,9 +135,11 @@ A simple privacy fence on flat ground is a manageable weekend project. Post-hole
 
 **Recommendation:** DIY-friendly on flat terrain with clear property boundaries. Consider hiring a professional for sloped terrain, retaining-wall situations, or if a property survey is needed.
 
+---
+
 ## Projects You Should Always Hire a Professional For
 
-These projects carry risks that range from serious property damage to loss of life. The cost of professional work is justified by the safety, code compliance, and insurance coverage a licensed contractor provides.
+> ⚠️ **Important:** The projects below carry risks ranging from serious property damage to loss of life. The cost of professional work is justified by the safety, code compliance, and insurance coverage a licensed contractor provides. Never attempt these as DIY.
 
 ### Electrical Panel Upgrades
 
@@ -154,6 +176,8 @@ Homes built before 1980 may contain asbestos in insulation, flooring, and textur
 **Average professional cost:** $1,500-$5,000 depending on scope
 **Risk of DIY:** Serious long-term health consequences
 
+---
+
 ## How to Find and Vet a Contractor
 
 When you decide to hire a professional, choosing the right one protects your investment and your home.
@@ -166,11 +190,11 @@ When you decide to hire a professional, choosing the right one protects your inv
 
 ### Red Flags to Watch For
 
-- Requests full payment upfront. A standard payment structure is 10-30 percent at signing, progress payments at milestones, and the final 10-15 percent upon completion and your satisfaction.
-- No written contract or scope of work. Every project should have a detailed written agreement specifying work, materials, timeline, payment schedule, and warranty.
-- Pressure to sign immediately or accept a cash discount. Legitimate contractors give you time to make decisions and maintain standard pricing.
-- Cannot provide proof of insurance. General liability and workers' compensation insurance protect you if someone is injured on your property or if the work damages your home.
-- No references or unwillingness to share recent project examples.
+- **Requests full payment upfront.** A standard payment structure is 10-30 percent at signing, progress payments at milestones, and the final 10-15 percent upon completion and your satisfaction.
+- **No written contract or scope of work.** Every project should have a detailed written agreement specifying work, materials, timeline, payment schedule, and warranty.
+- **Pressure to sign immediately or accept a cash discount.** Legitimate contractors give you time to make decisions and maintain standard pricing.
+- **Cannot provide proof of insurance.** General liability and workers' compensation insurance protect you if someone is injured on your property or if the work damages your home.
+- **No references or unwillingness to share recent project examples.**
 
 ### Getting Quotes
 
@@ -178,9 +202,15 @@ Obtain at least three written quotes for any project over $1,000. Ensure each qu
 
 Ask each contractor what is and is not included in their quote. Permit fees, material delivery, cleanup, and disposal costs are common line items that may or may not be included.
 
+---
+
 ## The Bottom Line
 
-The most financially savvy approach is to DIY the projects that are safe and within your skill level while hiring licensed professionals for the jobs that involve serious safety risks, complex code requirements, or systems where mistakes have expensive consequences. Building your DIY skills on low-risk projects gradually expands the range of work you can confidently handle yourself, saving you more money over time while keeping your home and family safe.
+The most financially savvy approach is to DIY the projects that are safe and within your skill level while hiring licensed professionals for the jobs that involve serious safety risks, complex code requirements, or systems where mistakes have expensive consequences.
+
+Building your DIY skills on low-risk projects gradually expands the range of work you can confidently handle yourself, saving you more money over time while keeping your home and family safe.
+
+---
 
 ## References
 

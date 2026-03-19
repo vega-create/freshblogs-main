@@ -19,6 +19,8 @@ faq:
 
 Your name is more than a label. In numerology, every letter carries a specific numerical vibration, and when those vibrations combine, they paint a detailed portrait of your personality, hidden desires, and the face you show the world.
 
+> ✨ **Quick Summary:** Calculate your Expression, Soul Urge, and Personality Numbers using the Pythagorean system, plus learn how name changes and business names carry their own numerological vibrations.
+
 The Pythagorean name numerology system — the most widely used method in Western numerology — assigns numbers 1 through 9 to the 26 letters of the English alphabet in a repeating cycle. From that simple framework, you can extract three powerful numbers from your full birth name: the Expression Number, the Soul Urge Number, and the Personality Number.
 
 In this guide, you will learn the complete letter-to-number conversion chart, walk through detailed calculations using a sample name, explore the meaning of every core number (including the Master Numbers 11, 22, and 33), and discover how name changes and business names carry their own numerological weight.
@@ -37,6 +39,9 @@ To read the chart: A = 1, B = 2, C = 3, and so on through I = 9. Then it resets 
 
 Write this chart down or bookmark this page. You will use it every time you calculate a name number.
 
+
+---
+
 ## The Three Core Name Numbers
 
 Your full birth name — the name that appears on your birth certificate — is the basis for three distinct calculations. Each one reveals a different layer of your numerological identity.
@@ -46,6 +51,12 @@ Your full birth name — the name that appears on your birth certificate — is 
 **Soul Urge Number** (also called the Heart's Desire Number): Derived from only the vowels in your full birth name. It reveals your inner cravings, motivations, and what truly drives you beneath the surface.
 
 **Personality Number**: Derived from only the consonants in your full birth name. It describes the outward impression you make on others — the version of yourself the world sees before getting to know you deeply.
+
+
+> 💡 **Pro Tip:** Calculate the numbers for every version of your name you commonly use -- formal name, nickname, married name. The differences often reveal surprising insights about how you present yourself in different contexts.
+
+
+---
 
 ## Step-by-Step Calculation: A Worked Example
 
@@ -95,13 +106,18 @@ Reduce: 4 + 3 = **7**
 
 Sarah's Personality Number is **7**.
 
+
+---
+
 ## What Each Number Means
 
 Below is a guide to the core vibrations of each number. These interpretations apply to all three name numbers, though the context differs — the Expression Number describes talents, the Soul Urge describes inner desires, and the Personality Number describes your outer image.
 
 ### Number 1 — The Leader
 
-People with a strong 1 vibration are independent, ambitious, and driven to forge their own path. They are natural pioneers who prefer to lead rather than follow. In the Expression position, 1 signals someone with strong creative initiative. As a Soul Urge, it reveals a deep need for autonomy. As a Personality Number, it projects confidence and self-assurance.
+People with a strong 1 vibration are independent, ambitious, and driven to forge their own path. They are natural pioneers who prefer to lead rather than follow.
+
+In the Expression position, 1 signals someone with strong creative initiative. As a Soul Urge, it reveals a deep need for autonomy. As a Personality Number, it projects confidence and self-assurance.
 
 ### Number 2 — The Diplomat
 
@@ -147,13 +163,18 @@ The 22 takes the practical energy of 4 and scales it to an extraordinary level. 
 
 The 33 elevates the nurturing energy of 6 to a selfless, almost spiritual plane of service. It is the rarest Master Number to appear in name calculations. People carrying 33 energy are devoted to uplifting humanity through compassion and creative expression. When the vibration is not fully realized, the person operates at the level of 6.
 
+
+---
+
 ## The Impact of Name Changes
 
 One of the most frequently asked questions in numerology is whether a name change actually matters. The answer is yes, but with nuance.
 
 ### Marriage and Legal Name Changes
 
-When you take a spouse's surname or legally change your name, you adopt a new numerological vibration. This new name becomes an overlay on top of your birth name energy. Your birth name — the one given to you at birth — always remains your core numerological DNA. It never disappears. But the name you use day to day increasingly shapes how you express yourself and how others perceive you.
+When you take a spouse's surname or legally change your name, you adopt a new numerological vibration. This new name becomes an overlay on top of your birth name energy.
+
+Your birth name — the one given to you at birth — always remains your core numerological DNA. It never disappears. But the name you use day to day increasingly shapes how you express yourself and how others perceive you.
 
 For example, if your birth Expression Number is 4 (disciplined, structured) and your married name shifts your Expression Number to 3 (creative, expressive), you may notice yourself becoming more outgoing and artistically inclined after the name change. The foundational 4 energy still runs in the background, but the 3 layer colors your outward experience.
 
@@ -166,6 +187,12 @@ If you are considering a stage name, calculate its Expression Number first. Choo
 ### Nicknames and Shortened Names
 
 Even informal nicknames carry numerological weight. If everyone calls you "Mike" instead of "Michael," the vibration of "Mike" is what you are projecting most of the time. It can be illuminating to calculate the numbers for every version of your name you commonly use and notice how they differ.
+
+
+> 📌 **Key Point:** Your birth name always remains your core numerological DNA. A name change creates an overlay, but the original blueprint never disappears.
+
+
+---
 
 ## Business Name Numerology
 
@@ -191,15 +218,23 @@ Use the same Pythagorean chart and the same reduction method. Take the full lega
 
 If you are in the process of naming a new business, try several options and compare their Expression Numbers. The best business name is one where the numerological vibration aligns with your mission, your personal Expression Number, and the energy you want your customers to feel.
 
+
+---
+
 ## Putting It All Together
 
 Name numerology is one of the richest areas of numerological study because it is so personal and so actionable. Unlike your Life Path Number, which is fixed by your date of birth, your name numbers can shift and evolve as your identity evolves.
 
-Start by calculating all three numbers from your birth name. Write them down. Then calculate the numbers for the name you currently use. Compare the two sets. Where are the similarities? Where are the differences? Those gaps often reveal the most interesting insights — the space between who you were born to be and who you are choosing to become.
+Start by calculating all three numbers from your birth name. Write them down. Then calculate the numbers for the name you currently use.
+
+Compare the two sets. Where are the similarities? Where are the differences? Those gaps often reveal the most interesting insights — the space between who you were born to be and who you are choosing to become.
 
 If you are considering a name change of any kind, run the numbers first. A few minutes of calculation can give you a valuable perspective on the energetic shift you are about to make.
 
 Your name has been speaking a numerical language since the day it was first written down. Now you have the tools to listen.
+
+
+---
 
 ## References
 

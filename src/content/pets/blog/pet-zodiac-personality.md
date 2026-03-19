@@ -19,13 +19,19 @@ faq:
 
 Every pet owner has moments where their animal does something so specific, so predictable, and so utterly characteristic that it feels like the behavior must be written in the stars. While pet astrology falls firmly in the entertainment category rather than the science department, it offers a surprisingly fun and oddly accurate-feeling framework for understanding your pet's personality quirks.
 
-This guide covers all twelve zodiac signs for both dogs and cats. For each sign, you will find personality traits, typical behavior patterns, preferred activities, compatibility with owner signs, and ideal toys or treats. Whether you know your pet's exact birthday or you are assigning them an adoption-day sign, this is meant to be enjoyed — not taken as veterinary advice.
+> ✨ **Quick Summary:** All 12 zodiac signs decoded for dogs and cats — with personality traits, behavior patterns, compatible owner signs, and ideal toys for each sign. Pure fun, not veterinary advice!
+
+This guide covers all twelve zodiac signs for both dogs and cats. For each sign, you will find personality traits, typical behavior patterns, preferred activities, compatibility with owner signs, and ideal toys or treats. Whether you know your pet's exact birthday or you are assigning them an adoption-day sign, this is meant to be enjoyed.
 
 **A note before we begin:** Pet personality is shaped by genetics, breed, socialization, training, and individual experience. Astrology is not science. This guide is for fun. If your Virgo cat is messy or your Leo dog is shy, that is perfectly normal. Now, with that disclaimer firmly in place, let us see what the stars say about your pet.
+
+---
 
 ## How to Determine Your Pet's Zodiac Sign
 
 If you know your pet's birthday, finding their sign is straightforward — use the same date ranges as human astrology. If you do not know the birthday, use the date you adopted them or the date they first came into your life. Some owners look at the personality descriptions below and choose the sign that fits best, which is an equally valid approach for an entertainment exercise.
+
+---
 
 ## The 12 Pet Zodiac Signs
 
@@ -197,6 +203,10 @@ Pisces pets are sensitive, gentle, and deeply empathic. They are the dog who res
 - **Compatible owner signs:** Cancer, Scorpio, Taurus
 - **Ideal toys/treats:** Calming treats, water-themed toys, soft plush toys, cozy blankets
 
+> 💡 **Pro Tip:** If you do not know your pet's birthday, use the date you adopted them or observe their personality and match it to the sign that fits best — both are equally valid for this fun exercise.
+
+---
+
 ## Quick Reference Table
 
 | Sign | Dates | Key Trait | Dog Behavior | Cat Behavior |
@@ -214,6 +224,8 @@ Pisces pets are sensitive, gentle, and deeply empathic. They are the dog who res
 | Aquarius | Jan 20 - Feb 18 | Eccentric | Unique habits, inventive | Weird in the best way |
 | Pisces | Feb 19 - Mar 20 | Empathic | Comforter, water lover | Healer, gentle dreamer |
 
+---
+
 ## Making It Personal
 
 The best way to enjoy pet astrology is to read your pet's sign, laugh at what fits, shrug at what does not, and appreciate the personality your pet has regardless of when they were born. Every pet is unique, and their individual quirks are what make them irreplaceable members of your family.
@@ -221,6 +233,8 @@ The best way to enjoy pet astrology is to read your pet's sign, laugh at what fi
 If you want to take this further, consider your own zodiac sign and check the compatibility suggestions for each pet sign. While there is no scientific basis for sign compatibility between species, it can be a fun conversation starter at the dog park or with fellow cat enthusiasts.
 
 Remember that the most compatible pet is the one who is well-cared for, properly trained, and genuinely loved — regardless of what the stars say. Astrology is a playful lens, but responsible ownership is the real foundation of a great human-animal bond.
+
+---
 
 ## References
 

@@ -19,6 +19,8 @@ faq:
 
 Growing your own vegetables is one of the most rewarding activities a homeowner can take on. A well-planned garden produces fresh food that tastes better than anything from a grocery store, saves money over the growing season, and provides consistent physical activity and time outdoors. The barrier to entry is low: a small patch of sunny ground, some basic tools, and a willingness to learn from your plants.
 
+> ✨ **Quick Summary:** Everything a complete beginner needs to start a vegetable garden — from choosing the right location and preparing soil to planting the 10 easiest vegetables and keeping pests at bay.
+
 This guide covers everything a complete beginner needs to go from bare ground to a producing garden, including where to put it, what to grow, and how to keep it alive.
 
 ## Choosing a Location
@@ -32,6 +34,10 @@ The single most important decision you make is where to put your garden. Get thi
 **Choose level ground with good drainage.** Low spots that collect water after rain will drown roots and promote disease. A slight slope is fine, but avoid depressions. If your only option is a low area, raised beds solve the drainage problem.
 
 **Proximity to your kitchen helps.** A garden you can see from your kitchen window gets more attention than one hidden behind the garage. Visibility reminds you to water, harvest, and check for problems.
+
+> 💡 **Pro Tip:** Before committing to a spot, spend one full day tracking sunlight across your yard. Mark the areas that get 6+ hours of direct sun — those are your prime garden locations.
+
+---
 
 ## Garden Types Comparison
 
@@ -47,6 +53,8 @@ The single most important decision you make is where to put your garden. Get thi
 
 For most beginners, a single raised bed measuring 4 feet by 8 feet is the ideal starting size. It is large enough to grow a meaningful variety of crops, small enough to maintain easily, and provides the soil control and drainage that give new gardeners the best chance of success.
 
+---
+
 ## Soil Preparation
 
 Healthy soil is the foundation of a productive garden. Vegetables are heavy feeders that extract significant nutrients from the soil, so starting with rich, well-structured soil pays dividends all season.
@@ -56,6 +64,8 @@ Healthy soil is the foundation of a productive garden. Vegetables are heavy feed
 **For in-ground gardens:** Test your soil pH with an inexpensive kit from a garden center. Most vegetables prefer a pH between 6.0 and 7.0. Amend with lime to raise pH or sulfur to lower it. Work 2-4 inches of compost into the top 8-12 inches of soil before planting. This improves both clay soils (by loosening them) and sandy soils (by improving water retention).
 
 **For containers:** Use a commercial potting mix, never garden soil. Garden soil compacts in containers, suffocating roots and blocking drainage. Potting mix is formulated to stay loose and well-aerated.
+
+---
 
 ## 10 Easiest Vegetables to Grow
 
@@ -76,7 +86,9 @@ Healthy soil is the foundation of a productive garden. Vegetables are heavy feed
 
 ### Tomatoes
 
-The most popular home garden vegetable. Start with determinate (bush) varieties like Roma or Celebrity for your first season. They stay compact and produce fruit within a defined period, which simplifies care. Plant seedlings deep, burying the stem up to the lowest set of leaves. Tomatoes grow roots along buried stems, producing a stronger root system. Support plants with a cage or stake to keep fruit off the ground.
+The most popular home garden vegetable. Start with determinate (bush) varieties like Roma or Celebrity for your first season. They stay compact and produce fruit within a defined period, which simplifies care.
+
+Plant seedlings deep, burying the stem up to the lowest set of leaves. Tomatoes grow roots along buried stems, producing a stronger root system. Support plants with a cage or stake to keep fruit off the ground.
 
 ### Lettuce
 
@@ -114,6 +126,8 @@ Grow best in loose, sandy soil free of rocks. Raised beds are ideal for carrots 
 
 A cool-season crop that thrives in spring and fall. Direct sow seeds 4-6 weeks before the last spring frost. Spinach bolts quickly in hot weather, so plant early and harvest aggressively once leaves reach usable size. Baby spinach leaves are tender and mild.
 
+---
+
 ## Seasonal Planting Calendar
 
 | Season | What to Plant | Timing |
@@ -123,19 +137,25 @@ A cool-season crop that thrives in spring and fall. Direct sow seeds 4-6 weeks b
 | Summer | Succession-plant beans, lettuce (in shade), cucumbers | Every 2-3 weeks |
 | Late Summer/Fall | Lettuce, spinach, radishes, kale, broccoli | 6-8 weeks before first frost |
 
+---
+
 ## Watering Basics
 
 Most vegetable gardens need 1 to 1.5 inches of water per week, including rainfall. The best approach is deep, infrequent watering rather than shallow daily sprinkles. Deep watering encourages roots to grow down into the soil, which makes plants more drought-resistant and stable.
 
 Water at the base of the plants in the morning when possible. Wet foliage overnight promotes fungal diseases. A soaker hose or drip irrigation system delivers water directly to the root zone without wetting leaves.
 
-Check soil moisture by pushing your finger 2 inches into the soil. If it feels dry at that depth, it is time to water. If it feels moist, wait another day.
+> 📌 **Key Point:** Check soil moisture by pushing your finger 2 inches into the soil. If it feels dry at that depth, it is time to water. If it feels moist, wait another day. This simple test prevents both overwatering and underwatering.
+
+---
 
 ## Fertilizing Basics
 
 Vegetables are hungry plants. Compost mixed into the soil at planting provides a slow-release nutrient base. Supplement with a balanced granular fertilizer (such as 10-10-10) worked into the soil at planting time, and side-dress heavy feeders like tomatoes and peppers with additional fertilizer when they begin to flower.
 
 Avoid over-fertilizing with nitrogen, which promotes lush leaf growth at the expense of fruit production. Tomato plants with beautiful foliage but no tomatoes are often getting too much nitrogen.
+
+---
 
 ## Common Pest Solutions
 
@@ -148,6 +168,8 @@ Avoid over-fertilizing with nitrogen, which promotes lush leaf growth at the exp
 **Squash bugs:** Flat gray-brown insects found on squash and zucchini. Check the undersides of leaves for copper-colored egg clusters and scrape them off. Hand-pick adults in the early morning when they are sluggish.
 
 Starting a vegetable garden takes effort in the first season, but each successive year becomes easier as your soil improves, your knowledge grows, and your routines become habit. The first bite of a tomato you grew yourself makes every hour of work worthwhile.
+
+---
 
 ## References
 

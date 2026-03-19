@@ -21,6 +21,10 @@ Packing for an international trip is one of those tasks that feels straightforwa
 
 Print this list, check items off as you pack, and travel with the confidence that nothing important was left behind.
 
+> ✨ **Quick Summary:** A complete international packing checklist covering documents, electronics, clothing (with the 5-4-3-2-1 capsule formula), toiletries, health supplies, and carry-on size limits for major airlines.
+
+---
+
 ## Documents: The Non-Negotiable Category
 
 Your documents are the foundation of international travel. Missing a single item here can end your trip before it starts.
@@ -34,6 +38,8 @@ Your documents are the foundation of international travel. Missing a single item
 - **Flight confirmations and hotel reservations** — Print backup copies in case your phone battery dies at immigration.
 - **International driving permit** — Required in many countries if you plan to rent a car. Obtain one from your national automobile association before departure.
 - **Emergency contact card** — A physical card with your emergency contacts, hotel address, embassy phone number, and any medical information written in both English and the local language.
+
+---
 
 ## Electronics: Stay Powered and Connected
 
@@ -55,6 +61,8 @@ Your documents are the foundation of international travel. Missing a single item
 - **Phone with offline maps downloaded** — Download Google Maps or Maps.me offline maps for your destination before leaving home Wi-Fi.
 - **Headphones or earbuds** — For flights, transit, and any time you need to block out noise. Noise-canceling models make long flights significantly more comfortable.
 - **E-reader** — Optional but saves space versus physical books on longer trips.
+
+---
 
 ## Clothing: The 5-4-3-2-1 Capsule Wardrobe
 
@@ -79,6 +87,10 @@ For a full week of travel, this is the expanded packing list:
 - 1 dressier outfit for evenings out
 
 **Layering system explained:** Start with a moisture-wicking base layer. Add an insulating mid-layer like a fleece or down jacket. Top with a waterproof and windproof outer shell. This three-layer system works from tropical evenings to alpine mornings.
+
+> 💡 **Pro Tip:** Switch to solid toiletries (shampoo bars, solid deodorant, bar soap) to free up your entire TSA liquid bag for other essentials.
+
+---
 
 ## Toiletries: TSA 3-1-1 Rule and Solid Alternatives
 
@@ -110,6 +122,8 @@ Switching to solid toiletries frees up your entire liquid bag for other essentia
 - Hand sanitizer (travel size, counts as liquid)
 - Microfiber towel (for hostels and beaches)
 
+---
+
 ## Health and First Aid
 
 - **Prescription medications** — Bring enough for your entire trip plus a few extra days. Keep them in original labeled bottles. Carry a copy of your prescription.
@@ -117,6 +131,8 @@ Switching to solid toiletries frees up your entire liquid bag for other essentia
 - **Insect repellent** — Essential for tropical and subtropical destinations. DEET-based products are most effective.
 - **Rehydration sachets** — Oral rehydration salts are lightweight and invaluable for stomach issues or dehydration from heat and long flights.
 - **Copies of prescriptions and vaccination records** — Some countries require proof of yellow fever vaccination or other immunizations for entry.
+
+---
 
 ## Money: Cards, Cash, and Banking
 
@@ -126,6 +142,8 @@ Switching to solid toiletries frees up your entire liquid bag for other essentia
 - **No-foreign-transaction-fee card** — Cards like the Charles Schwab debit card or Capital One travel cards waive foreign transaction fees and ATM fees worldwide.
 - **Money belt or hidden wallet** — A slim under-clothing pouch holds backup cash and a copy of your passport in case of theft.
 
+---
+
 ## Comfort Items for Long Flights
 
 - **Neck pillow** — Memory foam or inflatable models that compress small
@@ -133,6 +151,8 @@ Switching to solid toiletries frees up your entire liquid bag for other essentia
 - **Eye mask** — A contoured mask that does not press on your eyelids
 - **Compression socks** — Reduce swelling on flights over 4 hours and lower the risk of deep vein thrombosis
 - **Refillable water bottle** — Fill after security to stay hydrated on the flight
+
+---
 
 ## Bags: Choosing the Right Luggage
 
@@ -159,6 +179,8 @@ Switching to solid toiletries frees up your entire liquid bag for other essentia
 - **Packing cubes** — Organize clothing by category and compress items to save 20-30% of space. A set of 3-4 cubes is sufficient.
 - **Laundry bag** — A simple drawstring bag separates dirty clothes from clean ones
 
+---
+
 ## The "Don't Forget" Last-Minute Checklist
 
 Print this checklist and tape it to your front door. Complete these items in the final 24 hours before departure:
@@ -179,6 +201,10 @@ Print this checklist and tape it to your front door. Complete these items in the
 - [ ] Pack chargers and cables last (so they are on top)
 - [ ] Put liquids bag in an accessible pocket for security screening
 
+> ⚠️ **Important:** Check your passport expiration date now — many countries require at least 6 months of validity beyond your travel dates, and renewals can take weeks.
+
+---
+
 ## Packing Strategy: How to Fit It All
 
 Start by laying everything out on your bed. Remove one item from each category — you probably do not need it. Then pack in this order:
@@ -194,6 +220,8 @@ Roll soft clothing instead of folding to minimize wrinkles and save space. Use t
 If your bag is overflowing, apply the "have I used this on my last three trips?" test. If the answer is no, leave it behind. Almost anything you forget can be purchased at your destination, usually for less than you would pay at home.
 
 The goal is a bag light enough to carry up a flight of stairs without strain. If you cannot do that, you have packed too much.
+
+---
 
 ## References
 

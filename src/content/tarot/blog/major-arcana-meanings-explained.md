@@ -19,6 +19,8 @@ faq:
 
 The Major Arcana is the backbone of every tarot deck. These 22 cards trace the Fool's Journey from innocence to enlightenment, and when one appears in a reading, it signals a moment of real significance. This guide covers every card with upright and reversed meanings, grouped into three stages of the journey.
 
+> ✨ **Quick Summary:** A complete guide to all 22 Major Arcana tarot cards with upright and reversed meanings, grouped into three stages of the Fool's Journey from innocence to enlightenment.
+
 ## The Fool's Early Journey (Cards 0–VII)
 
 The first eight cards represent the beginning of conscious awareness. The Fool steps into the world and encounters the fundamental forces that shape human experience: willpower, wisdom, authority, love, structure, and choice.
@@ -71,6 +73,9 @@ In the Rider-Waite-Smith depiction, a man and woman stand beneath the archangel 
 
 A warrior rides a chariot drawn by one black and one white sphinx, steering them forward through sheer force of will. The canopy of stars above and the city walls behind him show he has left the safety of the known world. The Chariot signals victory through discipline and the ability to harness opposing forces toward a single goal.
 
+
+---
+
 ## The Middle Path (Cards VIII–XIV)
 
 These seven cards deal with the inner work of maturity. The traveler now confronts questions of courage, solitude, consequence, sacrifice, and balance. The lessons here are less about external events and more about character development.
@@ -116,6 +121,12 @@ Death rides a white horse carrying a black flag with a white five-petaled rose, 
 **Upright:** Balance, moderation, patience. **Reversed:** Excess, imbalance, lack of harmony.
 
 An angel with one foot on land and one in water pours liquid between two cups in an endless flow. The triangle within a square on the angel's chest represents spirit grounded in matter. Temperance is the art of blending opposites — work and rest, logic and emotion, giving and receiving — into something sustainable.
+
+
+> 📌 **Key Point:** Three or more Major Arcana cards in a single spread signals that you are navigating a major life chapter with deep karmic or spiritual undertones.
+
+
+---
 
 ## The Higher Lessons (Cards XV–XXI)
 
@@ -163,6 +174,9 @@ The archangel Gabriel blows a trumpet from the clouds while figures rise from co
 
 A dancing figure wrapped in a purple scarf floats within a laurel wreath, surrounded by the same four zodiac figures from the Wheel of Fortune. She holds two wands, signifying balance between the active and receptive. The World marks the successful end of a cycle — a moment of wholeness before the next journey begins.
 
+
+---
+
 ## Quick Reference Table
 
 | Number | Card | Upright Keywords | Reversed Keywords |
@@ -190,6 +204,12 @@ A dancing figure wrapped in a purple scarf floats within a laurel wreath, surrou
 | XX | Judgement | Reflection, reckoning, inner calling | Self-doubt, refusal to learn, ignoring calling |
 | XXI | The World | Completion, integration, accomplishment | Incompleteness, shortcuts, unfinished business |
 
+
+> 💡 **Pro Tip:** Study the Major Arcana as a connected story rather than isolated keywords. The narrative arc from The Fool to The World will make every card easier to remember.
+
+
+---
+
 ## Reading Major Arcana in Different Positions
 
 The position a Major Arcana card occupies in a spread changes its emphasis significantly. Understanding positional context is just as important as memorizing card meanings.
@@ -205,6 +225,9 @@ The position a Major Arcana card occupies in a spread changes its emphasis signi
 **Obstacle position:** A Major Arcana card as an obstacle identifies a deep challenge — not a minor inconvenience. The Moon as an obstacle warns of illusions or fears clouding judgment. The Devil as an obstacle points to an attachment or unhealthy pattern that must be confronted before progress is possible.
 
 The Major Arcana cards are not louder versions of the Minor Arcana — they operate on a different level entirely. When they appear, the reading shifts from the everyday into the territory of lasting significance. Study them as a connected story, and they will speak far more clearly than any memorized keyword list ever could.
+
+
+---
 
 ## References
 
