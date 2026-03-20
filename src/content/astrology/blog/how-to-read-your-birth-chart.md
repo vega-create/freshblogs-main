@@ -32,6 +32,33 @@ faq:
     a: "Absolutely. Start with your sun, moon, and rising signs. Then explore the element and modality of each. Learning chart interpretation is a journey, not a destination — even professional astrologers learn something new every time."
 ---
 
+## Birth Chart Components
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🪐</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.9rem;">Planets</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">WHAT drives you</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Sun, Moon, Mercury, Venus, Mars + outer planets</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(139,92,246,0.12); border-radius: 12px; border: 1px solid rgba(139,92,246,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">♈</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.9rem;">Signs</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">HOW you express it</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">12 zodiac signs each with unique style</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(6,182,212,0.12); border-radius: 12px; border: 1px solid rgba(6,182,212,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🏠</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.9rem;">Houses</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">WHERE it shows up</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">12 life areas from self to spirit</div>
+</div>
+
+</div>
+
 ## What Is a Birth Chart?
 
 A **birth chart** — also called a natal chart — is a map of where every planet in our solar system was positioned at the exact moment you were born. Cast as a circular wheel divided into twelve sections, it is one of astrology's most powerful tools for self-understanding.

@@ -15,7 +15,29 @@ faq:
     a: "Start by asking neighbors and friends for referrals. Check online reviews on multiple platforms. Verify the contractor holds a valid license and insurance by contacting your state licensing board. Get at least three written quotes, ask for references from recent projects, and never pay more than 30 percent upfront."
   - q: "Do I need permits for DIY home improvement projects?"
     a: "Permit requirements vary by municipality, but generally you need permits for electrical work, plumbing changes, structural modifications, additions, and roofing. Cosmetic projects like painting, flooring, and hardware replacement typically do not require permits. Contact your local building department before starting any project you are unsure about."
+image: "/images/diy/diy-vs-professional.jpg"
+imageAlt: "DIY tools versus professional equipment"
 ---
+
+## DIY vs Professional: Decision Guide
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🔨</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.95rem;">DIY It</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Save 40-70% on labor</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Painting, shelving, landscaping, minor repairs</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(239,68,68,0.12); border-radius: 12px; border: 1px solid rgba(239,68,68,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">👷</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.95rem;">Hire a Pro</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Safety + warranty + permits</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Electrical, plumbing, roofing, structural</div>
+</div>
+
+</div>
 
 One of the most important skills a homeowner can develop is knowing when to pick up a tool and when to pick up the phone. The right answer depends on the project's complexity, the safety risks involved, the permit requirements, and an honest assessment of your skill level.
 

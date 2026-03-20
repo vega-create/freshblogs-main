@@ -15,7 +15,33 @@ faq:
     a: "Most methods are completely safe when done correctly. The two methods that carry risk are salt burial, which can draw moisture and warp cards if left too long, and direct sunlight, which can fade printed artwork. Smoke, moonlight, crystals, sound, and shuffling carry no risk of physical damage whatsoever."
   - q: "Do I need to cleanse a brand new tarot deck before using it?"
     a: "It is strongly recommended. A new deck has passed through factories, warehouses, and shipping facilities, absorbing ambient energy along the way. Cleansing creates a fresh energetic baseline and helps you begin bonding with the deck. Most readers consider the first cleanse a meaningful ritual that marks the start of their relationship with a new deck."
+image: "/images/tarot/cleanse-tarot.jpg"
+imageAlt: "Cleansing tarot sage crystals"
 ---
+
+## Cleansing Methods
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🌙</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Moonlight</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Overnight</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(107,114,128,0.1); border-radius: 10px; border: 1px solid rgba(107,114,128,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">💨</div>
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.8rem;">Smoke</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Sage or palo santo</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(6,182,212,0.1); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">💎</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.8rem;">Crystals</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Selenite or quartz</div>
+</div>
+
+</div>
 
 Whether your readings have started feeling muddy, you just bought a new deck, or someone else shuffled your cards without asking, cleansing your tarot deck resets its energy and restores clarity to your practice. But not every method works the same way, and not every situation calls for the same approach.
 

@@ -15,7 +15,39 @@ faq:
     a: "Tomatoes and basil are one of the most popular companion pairings. Basil's strong aromatic oils may deter aphids, whiteflies, and tomato hornworms from tomato plants. Both plants thrive in the same warm, sunny conditions with similar watering needs. Some gardeners also report that basil improves the flavor of nearby tomatoes, though this is anecdotal."
   - q: "What vegetables should never be planted near each other?"
     a: "Avoid planting tomatoes near fennel, which releases compounds that inhibit tomato growth. Keep beans away from onions and garlic, which can stunt bean development. Do not plant dill near carrots since they cross-pollinate and dill can reduce carrot yields. Brassicas like broccoli and cabbage should be kept away from strawberries and pole beans."
+image: "/images/garden/companion-planting.jpg"
+imageAlt: "Companion planting garden vegetables"
 ---
+
+## Best Companion Pairs
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1rem;">🍅 + 🌿</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Tomato & Basil</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Repels pests, improves flavor</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1rem;">🌽 + 🫘</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Corn & Beans</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Nitrogen fixing, support</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1rem;">🥕 + 🧅</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Carrot & Onion</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Mutual pest protection</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1rem;">🥒 + 🌻</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Cucumber & Sunflower</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Shade & pollinator magnet</div>
+</div>
+
+</div>
 
 Companion planting is one of the oldest and most effective techniques in organic gardening. By strategically placing certain plants near each other, you can naturally deter pests, improve pollination, maximize space, and even enhance the flavor of your harvest. This approach works with nature rather than against it, reducing the need for chemical pesticides and fertilizers.
 

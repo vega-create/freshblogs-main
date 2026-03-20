@@ -37,6 +37,73 @@ faq:
 
 This ranking considers multiple dimensions of power rather than declaring one supreme winner.
 
+## Power Score Overview
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Overall Power Rating by Sign</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♏ Scorpio</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 97%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: white; font-weight: 600;">97</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♌ Leo</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 94%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: #1a1a2e; font-weight: 600;">94</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♑ Capricorn</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 91%; height: 100%; background: linear-gradient(90deg, #6b7280, #9ca3af); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: white; font-weight: 600;">91</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♈ Aries</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 88%; height: 100%; background: linear-gradient(90deg, #ef4444, #f87171); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: white; font-weight: 600;">88</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♒ Aquarius</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 84%; height: 100%; background: linear-gradient(90deg, #06b6d4, #67e8f9); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: #1a1a2e; font-weight: 600;">84</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♐ Sagittarius</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 80%; height: 100%; background: linear-gradient(90deg, #f97316, #fb923c); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: #1a1a2e; font-weight: 600;">80</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♉ Taurus</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 76%; height: 100%; background: linear-gradient(90deg, #22c55e, #4ade80); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: #1a1a2e; font-weight: 600;">76</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♋ Cancer</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 72%; height: 100%; background: linear-gradient(90deg, #a3a3a3, #d4d4d4); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: #1a1a2e; font-weight: 600;">72</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♍ Virgo</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 68%; height: 100%; background: linear-gradient(90deg, #84cc16, #a3e635); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: #1a1a2e; font-weight: 600;">68</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♎ Libra</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 64%; height: 100%; background: linear-gradient(90deg, #ec4899, #f472b6); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: white; font-weight: 600;">64</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♊ Gemini</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 60%; height: 100%; background: linear-gradient(90deg, #eab308, #facc15); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: #1a1a2e; font-weight: 600;">60</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 100px; font-size: 0.85rem; color: #e5e7eb;">♓ Pisces</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 24px; overflow: hidden;">
+<div style="width: 56%; height: 100%; background: linear-gradient(90deg, #6366f1, #818cf8); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.75rem; color: white; font-weight: 600;">56</div></div></div>
+
+</div>
+
 ## The Power Rankings
 
 ### 🥇 1. Scorpio — Psychological Power
@@ -114,6 +181,48 @@ Gemini's **verbal agility and information mastery** give them power in the age o
 Pisces holds the **power of universal compassion and spiritual depth** — a form of strength that transcends conventional definitions. Their empathy and creative vision touch dimensions other signs rarely access.
 
 **Power type**: Spiritual, empathetic, creative
+
+## Power by Category
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+
+<div style="padding: 1.2rem; background: rgba(139,92,246,0.1); border-radius: 12px; border: 1px solid rgba(139,92,246,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🧠</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.9rem;">Psychological</div>
+<div style="color: #e5e7eb; font-size: 0.85rem; margin-top: 0.3rem;">Scorpio > Pisces > Cancer</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(245,158,11,0.1); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">👑</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.9rem;">Charismatic</div>
+<div style="color: #e5e7eb; font-size: 0.85rem; margin-top: 0.3rem;">Leo > Libra > Sagittarius</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(107,114,128,0.1); border-radius: 12px; border: 1px solid rgba(107,114,128,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🏗️</div>
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.9rem;">Strategic</div>
+<div style="color: #e5e7eb; font-size: 0.85rem; margin-top: 0.3rem;">Capricorn > Virgo > Aquarius</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(239,68,68,0.1); border-radius: 12px; border: 1px solid rgba(239,68,68,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">💪</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.9rem;">Physical</div>
+<div style="color: #e5e7eb; font-size: 0.85rem; margin-top: 0.3rem;">Aries > Taurus > Leo</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(6,182,212,0.1); border-radius: 12px; border: 1px solid rgba(6,182,212,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">💡</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.9rem;">Intellectual</div>
+<div style="color: #e5e7eb; font-size: 0.85rem; margin-top: 0.3rem;">Aquarius > Gemini > Virgo</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(99,102,241,0.1); border-radius: 12px; border: 1px solid rgba(99,102,241,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">✨</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.9rem;">Spiritual</div>
+<div style="color: #e5e7eb; font-size: 0.85rem; margin-top: 0.3rem;">Pisces > Scorpio > Cancer</div>
+</div>
+
+</div>
 
 ## Power Is Not a Competition
 

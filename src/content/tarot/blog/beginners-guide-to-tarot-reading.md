@@ -15,7 +15,29 @@ faq:
     a: "Yes, self-reading is how most people learn. The key is emotional distance — avoid reading when you are highly anxious or desperate for a specific answer, as this clouds interpretation. Treat self-readings as a reflective journaling exercise rather than fortune-telling, and you will get honest, useful insights from your cards."
   - q: "How long does it take to learn tarot?"
     a: "Most people can perform basic three-card readings within two to four weeks of daily practice. Developing fluency with all 78 cards, multiple spread types, and card combinations typically takes six months to a year. The learning never truly stops — experienced readers continue discovering new layers of meaning after decades of practice."
+image: "/images/tarot/beginners-tarot.jpg"
+imageAlt: "Tarot cards mystical reading"
 ---
+
+## Tarot Deck Overview
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(139,92,246,0.15); border-radius: 12px; border: 2px solid rgba(139,92,246,0.4); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🌟</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.9rem;">Major Arcana</div>
+<div style="color: #d1d5db; font-size: 0.8rem; margin-top: 0.2rem;">22 Cards</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Life lessons & spiritual themes</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(245,158,11,0.15); border-radius: 12px; border: 2px solid rgba(245,158,11,0.4); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🃏</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.9rem;">Minor Arcana</div>
+<div style="color: #d1d5db; font-size: 0.8rem; margin-top: 0.2rem;">56 Cards</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Daily life & practical matters</div>
+</div>
+
+</div>
 
 Tarot reading is not about predicting the future with certainty. It is a structured method for examining situations, uncovering blind spots, and exploring possibilities you might not have considered. This guide walks you through everything you need to go from holding your first deck to completing your first meaningful reading.
 

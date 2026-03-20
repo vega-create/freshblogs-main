@@ -15,7 +15,36 @@ faq:
     a: "Yes, multiple studies have documented this bias. Research from Stanford in 2023 found that GPTZero flagged 61% of TOEFL essays by non-native speakers as AI-generated. Simpler sentence structures and limited vocabulary range used by non-native writers resemble AI output patterns, leading to disproportionate false positives."
   - q: "Should I disclose when I use AI to help with my writing?"
     a: "Disclosure is increasingly expected in professional and academic contexts. Many publishers, universities, and employers now have explicit AI use policies. Transparent disclosure protects you from accusations of dishonesty and lets readers evaluate your work appropriately. The trend is moving toward requiring disclosure rather than banning AI assistance entirely."
+image: "/images/ai/ai-writing-detection.jpg"
+imageAlt: "AI writing detection analysis"
 ---
+
+## Detection Tool Accuracy
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Popular AI Detectors Compared</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">GPTZero</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 85%; height: 100%; background: linear-gradient(90deg, #22c55e, #4ade80); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">85%</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">Originality.ai</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 90%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">90%</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">Turnitin</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 80%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">80%</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">Copyleaks</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 75%; height: 100%; background: linear-gradient(90deg, #06b6d4, #67e8f9); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">75%</div></div></div>
+
+</div>
 
 AI writing detection has become a routine part of academic submissions, content publishing, and hiring processes. Whether you are a student submitting an essay, a freelance writer delivering client work, or an employer screening applications, understanding how these tools work and where they fail is essential. This guide covers the technical foundations, compares the leading detection platforms, and addresses the practical and ethical questions that surround AI content detection in 2026.
 

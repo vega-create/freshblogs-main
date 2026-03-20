@@ -15,7 +15,45 @@ faq:
     a: "Most fruiting vegetables like tomatoes, peppers, and squash need at least 6 to 8 hours of direct sunlight per day. Leafy greens including lettuce, spinach, and kale can tolerate partial shade with as little as 3 to 4 hours of direct sun, making them better choices for gardens with limited sun exposure."
   - q: "When should I start planting my vegetable garden?"
     a: "Planting timing depends on your USDA hardiness zone and last frost date. Cool-season crops like lettuce and peas can go in the ground 2 to 4 weeks before the last frost. Warm-season crops like tomatoes and peppers should not go outside until 2 weeks after the last frost date when soil temperatures have warmed consistently."
+image: "/images/garden/vegetable-gardening.jpg"
+imageAlt: "Beginner vegetable garden"
 ---
+
+## Easiest Vegetables to Grow
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🥬</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Lettuce</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">30 days to harvest</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🍅</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Tomatoes</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">60-80 days</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🥕</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Carrots</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">70-80 days</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(132,204,22,0.1); border-radius: 10px; border: 1px solid rgba(132,204,22,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🌿</div>
+<div style="font-weight: 700; color: #a3e635; font-size: 0.8rem;">Herbs</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">14-30 days</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.15); border-radius: 10px; border: 1px solid rgba(34,197,94,0.25); text-align: center;">
+<div style="font-size: 1.2rem;">🥒</div>
+<div style="font-weight: 700; color: #22c55e; font-size: 0.8rem;">Zucchini</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">45-55 days</div>
+</div>
+
+</div>
 
 Growing your own vegetables is one of the most rewarding activities a homeowner can take on. A well-planned garden produces fresh food that tastes better than anything from a grocery store, saves money over the growing season, and provides consistent physical activity and time outdoors. The barrier to entry is low: a small patch of sunny ground, some basic tools, and a willingness to learn from your plants.
 

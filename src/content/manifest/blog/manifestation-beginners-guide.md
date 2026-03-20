@@ -15,7 +15,45 @@ faq:
     a: "This is one of the most common manifestation mistakes. You cannot ethically or practically control another person's feelings. Attempting to manifest a specific person leads to obsession, boundary violations, and disappointment. Instead, manifest the qualities you want in a relationship and the version of yourself that attracts healthy love. This approach is both more ethical and more effective."
   - q: "What should I do if manifestation is not working for me?"
     a: "First, check whether you are combining mental techniques with real-world action. Visualization without effort produces nothing. Second, examine whether your goals are specific and believable. Third, watch for self-sabotage patterns like conflicting beliefs. Finally, make sure you are not obsessing over timelines. If you are doing the inner work and taking consistent action but seeing no results after several months, reassess whether the goal itself needs adjusting."
+image: "/images/manifest/manifestation-beginners.jpg"
+imageAlt: "Meditation manifestation practice"
 ---
+
+## Manifestation Methods Compared
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">✍️</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">369 Method</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Write 3-6-9 times daily</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">📋</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Vision Board</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Visual goal mapping</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🗣️</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Affirmations</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Repeat positive statements</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🧘</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Visualization</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Mental rehearsal</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(6,182,212,0.1); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">📝</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.8rem;">Scripting</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Write future as present</div>
+</div>
+
+</div>
 
 Manifestation has become one of the most discussed and most misunderstood concepts in personal development. Social media has turned it into everything from a serious self-improvement practice to a punchline about wishing for luxury cars. The truth sits somewhere in between, and it is more practical and less mystical than most people expect.
 

@@ -32,6 +32,33 @@ faq:
     a: "Virgo shows love through acts of service — remembering exactly how you take your coffee, organizing your schedule, researching the best doctor for your symptoms, fixing what is broken in your life. Their love language is practical help delivered with quiet, genuine devotion."
 ---
 
+## Virgo Compatibility Overview
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Top Matches for Virgo ♍</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♉ Taurus</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 90%; height: 100%; background: linear-gradient(90deg, #22c55e, #4ade80); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">90%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♑ Capricorn</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 90%; height: 100%; background: linear-gradient(90deg, #6b7280, #9ca3af); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">90%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♋ Cancer</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 85%; height: 100%; background: linear-gradient(90deg, #a3a3a3, #d4d4d4); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">85%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♏ Scorpio</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 80%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">80%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♍ Virgo</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 75%; height: 100%; background: linear-gradient(90deg, #84cc16, #a3e635); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">75%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♓ Pisces</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 73%; height: 100%; background: linear-gradient(90deg, #6366f1, #818cf8); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">73%</div></div></div>
+
+</div>
+
 ## Understanding Virgo: The Analyst of the Zodiac
 
 Virgo (August 23 - September 22) is the sixth sign of the zodiac, a mutable earth sign ruled by Mercury, the planet of communication, intellect, and detailed analysis. Represented by the Maiden (often depicted holding a sheaf of wheat, symbolizing harvest and discernment), Virgo embodies precision, service, health consciousness, and the pursuit of perfection in all things practical.

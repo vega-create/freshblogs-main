@@ -15,7 +15,55 @@ faq:
     a: "Three or more Major Arcana cards in a single spread is generally considered significant. It signals that the querent is navigating a major life chapter with deep karmic or spiritual undertones. A reading dominated by Major Arcana suggests forces larger than day-to-day decisions are at play."
   - q: "Should beginners start by learning the Major Arcana first?"
     a: "Yes, most tarot educators recommend starting with the 22 Major Arcana because they form a coherent narrative called the Fool's Journey. Learning these cards first gives you a strong symbolic foundation. Once you understand the Major Arcana themes, the Minor Arcana suits and court cards become much easier to interpret."
+image: "/images/tarot/major-arcana.jpg"
+imageAlt: "Major arcana tarot spread"
 ---
+
+## Major Arcana Journey
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 0.4rem;">
+
+<div style="padding: 0.6rem; background: rgba(245,158,11,0.1); border-radius: 8px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.75rem;">0</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Fool</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(139,92,246,0.1); border-radius: 8px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.75rem;">I</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Magician</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(99,102,241,0.1); border-radius: 8px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-weight: 700; color: #818cf8; font-size: 0.75rem;">II</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Priestess</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(236,72,153,0.1); border-radius: 8px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-weight: 700; color: #f472b6; font-size: 0.75rem;">III</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Empress</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(239,68,68,0.1); border-radius: 8px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-weight: 700; color: #f87171; font-size: 0.75rem;">IV</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Emperor</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(107,114,128,0.1); border-radius: 8px; border: 1px solid rgba(107,114,128,0.2); text-align: center;">
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.75rem;">XIII</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Death</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(6,182,212,0.1); border-radius: 8px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.75rem;">XVII</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Star</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(34,197,94,0.1); border-radius: 8px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-weight: 700; color: #4ade80; font-size: 0.75rem;">XXI</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">World</div>
+</div>
+
+</div>
 
 The Major Arcana is the backbone of every tarot deck. These 22 cards trace the Fool's Journey from innocence to enlightenment, and when one appears in a reading, it signals a moment of real significance. This guide covers every card with upright and reversed meanings, grouped into three stages of the journey.
 

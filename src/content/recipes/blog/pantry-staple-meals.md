@@ -15,7 +15,45 @@ faq:
     a: "Absolutely. Canned beans provide protein and fiber, canned tomatoes contain lycopene, whole grain pasta offers complex carbohydrates, and eggs deliver high-quality protein. Pair these with frozen vegetables for a nutritionally complete meal that costs very little per serving."
   - q: "How can I build a pantry on a tight budget?"
     a: "Buy one or two extra pantry staples each grocery trip instead of stocking up all at once. Focus on versatile items first like rice, canned beans, and pasta that appear in the most recipes. Store brands are nearly identical to name brands for staples. Within a month you will have a well-stocked pantry without a large upfront cost."
+image: "/images/recipes/pantry-meals.jpg"
+imageAlt: "Pantry ingredients cooking"
 ---
+
+## Pantry Must-Haves
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🍝</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Pasta</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🫘</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Beans</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🍅</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Canned Tomato</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(163,163,163,0.1); border-radius: 10px; border: 1px solid rgba(163,163,163,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🍚</div>
+<div style="font-weight: 700; color: #d4d4d4; font-size: 0.8rem;">Rice</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🧄</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Spices</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(6,182,212,0.1); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🫒</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.8rem;">Olive Oil</div>
+</div>
+
+</div>
 
 There are nights when the fridge is nearly empty and the grocery store feels impossibly far away. Those are the nights when a well-stocked pantry saves dinner. Every recipe in this guide uses ingredients that are shelf-stable, inexpensive, and likely sitting in your kitchen right now. No fresh herbs, no specialty items, no trips to the store.
 

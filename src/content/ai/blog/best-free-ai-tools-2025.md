@@ -15,7 +15,51 @@ faq:
     a: "Most tools on this list allow commercial use on their free tiers, but with limitations on volume or features. Check each tool's terms of service — ChatGPT, Canva, and Clipdrop all permit commercial use on free plans."
   - q: "What is the best free AI image generator in 2026?"
     a: "Microsoft Bing Image Creator (powered by DALL-E 3) offers the best quality-to-cost ratio for free AI image generation, producing detailed images with accurate text rendering at no cost."
+image: "/images/ai/best-free-ai-tools.jpg"
+imageAlt: "Best free AI tools on laptop"
 ---
+
+## AI Tool Categories
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">✍️</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Writing</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">ChatGPT, Claude, Jasper</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🎨</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Images</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">DALL-E, Midjourney, Canva</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🎵</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Audio</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">ElevenLabs, Descript</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">💻</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Coding</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">GitHub Copilot, Cursor</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(6,182,212,0.1); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">📊</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.8rem;">Research</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Perplexity, Elicit</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🎬</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Video</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Runway, Pika, HeyGen</div>
+</div>
+
+</div>
 
 The AI tool landscape exploded in 2025, and by early 2026 there are over 2,000 AI-powered tools available online. The problem is not finding AI tools — it is finding ones that are genuinely useful without requiring a $20/month subscription.
 

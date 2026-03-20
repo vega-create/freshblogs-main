@@ -15,7 +15,39 @@ faq:
     a: "In Western philosophy, Socrates, Plato, and Aristotle form the foundational trio. In Eastern philosophy, Confucius, Lao Tzu, and Buddha hold equivalent stature. Later influential thinkers include Immanuel Kant, Friedrich Nietzsche, and Simone de Beauvoir. Each tradition offers distinct insights into truth, ethics, and the good life."
   - q: "How can I apply philosophical wisdom to everyday life?"
     a: "Start by choosing one quote that resonates and sitting with it for a week. Ask yourself how its message applies to a specific situation you are facing. Philosophical wisdom is not meant to be admired from a distance — it is meant to be tested against the reality of your daily experience. Journaling about a quote's relevance to your life is one of the most effective methods."
+image: "/images/quotes/wisdom-quotes.jpg"
+imageAlt: "Wisdom books library"
 ---
+
+## Thinker Categories
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(107,114,128,0.1); border-radius: 10px; border: 1px solid rgba(107,114,128,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🏛️</div>
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.8rem;">Philosophers</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Socrates, Confucius</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🔬</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Scientists</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Einstein, Curie</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">✊</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Leaders</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">MLK, Mandela</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">✍️</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Writers</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Twain, Rumi</div>
+</div>
+
+</div>
 
 Throughout human history, certain individuals have possessed an extraordinary ability to distill the complexity of life into clear, enduring truths. Their words have traveled across centuries and continents, surviving because they speak to something fundamental about what it means to be human.
 

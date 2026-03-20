@@ -15,7 +15,36 @@ faq:
     a: "Flexibility with your travel dates is the single most impactful factor. Shifting your departure by just a day or two can save 20-40% on flights alone. Combined with traveling during shoulder season instead of peak season, date flexibility regularly saves travelers $500 or more per trip."
   - q: "Are budget airlines actually cheaper when you add up all the fees?"
     a: "Yes, in most cases. Even after adding a carry-on bag fee, budget airlines like Ryanair, EasyJet, and Spirit save you 30-50% compared to legacy carriers on the same routes. The key is packing light and understanding fee structures before you book so there are no surprises at the gate."
+image: "/images/travel/budget-travel.jpg"
+imageAlt: "Budget travel backpack map"
 ---
+
+## Where Your Travel Budget Goes
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Average Budget Breakdown</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">✈️ Flights</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 35%; height: 100%; background: linear-gradient(90deg, #ef4444, #f87171); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">35%</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">🏨 Hotels</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 30%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">30%</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">🍽️ Food</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 20%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">20%</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">🎡 Activities</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 15%; height: 100%; background: linear-gradient(90deg, #22c55e, #4ade80); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">15%</div></div></div>
+
+</div>
 
 Traveling on a budget does not mean skipping the good stuff. It means being strategic about where your money goes so you can travel longer, more often, and without the financial stress that ruins the experience for so many people.
 

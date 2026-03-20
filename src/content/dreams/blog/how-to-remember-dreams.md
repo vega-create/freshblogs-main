@@ -15,7 +15,35 @@ faq:
     a: "Research published in Perceptual and Motor Skills found that participants taking vitamin B6 before bed reported more vivid and detailed dream recall. The mechanism is thought to involve B6's role in converting tryptophan to serotonin, which influences REM sleep. Always consult a healthcare provider before starting any supplement."
   - q: "Can I use my phone as a dream journal?"
     a: "You can, but a physical notebook by your bed is generally more effective. Picking up your phone often triggers alerts, notifications, and screen brightness that can disrupt the fragile state of dream memory. If you prefer digital, use a dedicated voice recording app with minimal interaction required so you can capture dreams without fully waking your conscious mind."
+image: "/images/dreams/remember-dreams.jpg"
+imageAlt: "Peaceful sleeping person"
 ---
+
+## Dream Recall Techniques
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3);">
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">1. Dream Journal</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Write immediately on waking</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(139,92,246,0.12); border-radius: 12px; border: 1px solid rgba(139,92,246,0.3);">
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.85rem;">2. Set Intention</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Tell yourself before sleep</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3);">
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">3. Stay Still</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Don't move when you wake</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(236,72,153,0.12); border-radius: 12px; border: 1px solid rgba(236,72,153,0.3);">
+<div style="font-weight: 700; color: #f472b6; font-size: 0.85rem;">4. No Alarm</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Wake naturally when possible</div>
+</div>
+
+</div>
 
 You dream every single night. During a typical eight-hour sleep, you cycle through four to six REM (Rapid Eye Movement) periods, each one producing dreams that can be vivid, emotional, and narratively complex. Most people forget nearly all of them by the time they finish breakfast.
 

@@ -31,6 +31,108 @@ faq:
     a: "Astrology can highlight natural tendencies, strengths, and blind spots that are relevant to career — but success in any field depends far more on effort, learning, and circumstance than birth date. Use astrological career profiles as a self-reflection tool, not a prescription."
 ---
 
+## Career Strengths at a Glance
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♈</span>
+<span style="font-weight: 700; color: #f87171; font-size: 0.85rem;">Aries</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Entrepreneur, CEO, Athlete</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♉</span>
+<span style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">Taurus</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Finance, Design, Real Estate</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(234,179,8,0.1); border-radius: 10px; border: 1px solid rgba(234,179,8,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♊</span>
+<span style="font-weight: 700; color: #facc15; font-size: 0.85rem;">Gemini</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Media, Marketing, Teaching</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(163,163,163,0.1); border-radius: 10px; border: 1px solid rgba(163,163,163,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♋</span>
+<span style="font-weight: 700; color: #d4d4d4; font-size: 0.85rem;">Cancer</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Healthcare, Social Work, HR</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♌</span>
+<span style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">Leo</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Entertainment, Management, PR</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(132,204,22,0.1); border-radius: 10px; border: 1px solid rgba(132,204,22,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♍</span>
+<span style="font-weight: 700; color: #a3e635; font-size: 0.85rem;">Virgo</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Analytics, Research, Healthcare</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♎</span>
+<span style="font-weight: 700; color: #f472b6; font-size: 0.85rem;">Libra</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Law, Diplomacy, Fashion</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♏</span>
+<span style="font-weight: 700; color: #a78bfa; font-size: 0.85rem;">Scorpio</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Psychology, Investigation, Finance</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(249,115,22,0.1); border-radius: 10px; border: 1px solid rgba(249,115,22,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♐</span>
+<span style="font-weight: 700; color: #fb923c; font-size: 0.85rem;">Sagittarius</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Education, Travel, Publishing</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(107,114,128,0.1); border-radius: 10px; border: 1px solid rgba(107,114,128,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♑</span>
+<span style="font-weight: 700; color: #9ca3af; font-size: 0.85rem;">Capricorn</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Executive, Government, Engineering</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(6,182,212,0.1); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♒</span>
+<span style="font-weight: 700; color: #67e8f9; font-size: 0.85rem;">Aquarius</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Tech, Social Enterprise, AI Ethics</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2);">
+<div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;">
+<span style="font-size: 1.1rem;">♓</span>
+<span style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">Pisces</span>
+</div>
+<div style="color: #d1d5db; font-size: 0.75rem;">Arts, Healing, Music, Film</div>
+</div>
+
+</div>
+
 ## Your Cosmic Career Blueprint
 
 Every zodiac sign carries a set of natural talents, preferred work environments, and motivational drivers that can profoundly influence career satisfaction and success. While no birth chart can tell you exactly what to do with your life, understanding your sign's professional profile can help you understand why certain work energizes you while other types drain you dry.

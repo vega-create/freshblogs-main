@@ -15,7 +15,33 @@ faq:
     a: "No, you cannot get permanently stuck in a lucid dream. All dreams occur during REM sleep cycles, which naturally end every 20 to 45 minutes. Even if you feel trapped in a dream, your brain will cycle out of REM sleep on its own. You can also force yourself awake by closing your eyes tightly or trying to blink rapidly."
   - q: "What is the difference between lucid dreaming and sleep paralysis?"
     a: "Lucid dreaming happens during REM sleep when you become aware you are dreaming while the dream continues. Sleep paralysis occurs during the transition between sleep and waking when your mind is alert but your body remains temporarily immobilized. They are distinct experiences, though some techniques like WILD can briefly involve sleep paralysis as a transition phase."
+image: "/images/dreams/lucid-dreaming.jpg"
+imageAlt: "Lucid dreaming surreal sky"
 ---
+
+## Lucid Dreaming Methods
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(139,92,246,0.12); border-radius: 12px; border: 1px solid rgba(139,92,246,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🔍</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.85rem;">Reality Checks</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Best for beginners</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(99,102,241,0.12); border-radius: 12px; border: 1px solid rgba(99,102,241,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🌙</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">MILD</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Mnemonic technique</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(6,182,212,0.12); border-radius: 12px; border: 1px solid rgba(6,182,212,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">⏰</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.85rem;">WBTB</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Wake-back-to-bed</div>
+</div>
+
+</div>
 
 Imagine realizing you are dreaming — right in the middle of a dream — and then deciding exactly what happens next. You could soar over mountain ranges, have a conversation with a historical figure, or rehearse a presentation that is coming up at work. That is the reality of lucid dreaming, and it is a learnable skill backed by decades of neuroscience research.
 

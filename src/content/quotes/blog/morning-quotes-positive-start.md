@@ -15,7 +15,33 @@ faq:
     a: "Both approaches have value. Repeating the same quote for a week deepens its impact and allows the message to truly sink in. Changing quotes daily keeps the practice fresh and exposes you to a wider range of perspectives. Many people find a middle ground by rotating quotes weekly or choosing a new one when the current one no longer resonates."
   - q: "Can morning quotes help with productivity?"
     a: "Yes. Quotes focused on action, discipline, and purpose can serve as a mental warm-up that increases focus and intentionality throughout the day. Pairing a quote with a specific morning goal — like writing down three priorities — creates a bridge between inspiration and practical output that compounds over time."
+image: "/images/quotes/morning-quotes.jpg"
+imageAlt: "Morning sunrise motivational"
 ---
+
+## Morning Energy Categories
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.12); border-radius: 10px; border: 1px solid rgba(245,158,11,0.25); text-align: center;">
+<div style="font-size: 1.2rem;">☀️</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Energizing</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">20 quotes</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.12); border-radius: 10px; border: 1px solid rgba(236,72,153,0.25); text-align: center;">
+<div style="font-size: 1.2rem;">🧘</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Peaceful</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">20 quotes</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.12); border-radius: 10px; border: 1px solid rgba(34,197,94,0.25); text-align: center;">
+<div style="font-size: 1.2rem;">🎯</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Focused</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">20 quotes</div>
+</div>
+
+</div>
 
 How you start your morning shapes the rest of your day. Before the emails, the meetings, and the endless to-do lists take hold, there is a brief window where you get to choose the tone. A single well-chosen quote, read with intention, can anchor your mind in positivity and purpose before the noise of the day begins.
 

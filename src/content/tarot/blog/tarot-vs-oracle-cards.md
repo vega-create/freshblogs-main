@@ -15,7 +15,29 @@ faq:
     a: "Accuracy depends on the reader, not the tool. Oracle cards tend to deliver broader thematic messages rather than granular details, so they may feel less precise for specific questions. However, for emotional guidance, affirmations, and spiritual themes, oracle cards can be deeply insightful. Tarot excels at dissecting complex situations with multiple factors."
   - q: "How many oracle card decks do I need to start?"
     a: "One deck is enough to start. Choose a deck whose artwork and theme genuinely resonate with you, since oracle reading depends heavily on your intuitive connection to the imagery. Many readers eventually collect multiple oracle decks for different purposes — one for daily affirmations, another for shadow work, a third for spiritual guidance — but a single well-chosen deck will serve you well for months or years."
+image: "/images/tarot/tarot-vs-oracle.jpg"
+imageAlt: "Tarot oracle cards comparison"
 ---
+
+## Tarot vs Oracle: Quick Comparison
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(139,92,246,0.12); border-radius: 12px; border: 1px solid rgba(139,92,246,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🎴</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.9rem;">Tarot</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.2rem;">78 cards · Structured system</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Detailed, traditional, complex</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(236,72,153,0.12); border-radius: 12px; border: 1px solid rgba(236,72,153,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">✨</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.9rem;">Oracle</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.2rem;">Any # cards · Free-form</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Intuitive, gentle, beginner-friendly</div>
+</div>
+
+</div>
 
 Walk into any metaphysical shop or browse any online card retailer and you will find two broad categories dominating the shelves: tarot decks and oracle decks. They look similar at first glance — illustrated cards used for divination, self-reflection, and spiritual guidance. But the similarities are mostly surface-level.
 

@@ -15,7 +15,35 @@ faq:
     a: "Yes, most cooked meals freeze well for two to three months. Soups, stews, casseroles, and cooked grains freeze particularly well. Avoid freezing foods with high water content like lettuce or cucumbers. Use freezer-safe containers and remove as much air as possible before sealing."
   - q: "What containers work best for meal prep?"
     a: "Glass containers with snap-lock lids are the gold standard because they are microwave safe, do not stain, and last for years. BPA-free plastic containers are lighter and more affordable. Look for containers with compartments if you want to keep proteins, grains, and vegetables separated."
+image: "/images/recipes/meal-prep.jpg"
+imageAlt: "Meal prep containers healthy"
 ---
+
+## Meal Prep Steps
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(99,102,241,0.12); border-radius: 12px; border: 1px solid rgba(99,102,241,0.3);">
+<div style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">1. Plan Meals</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Pick 3-4 recipes for the week</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3);">
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">2. Grocery Shop</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Buy only what's on the list</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3);">
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">3. Batch Cook</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Cook proteins + grains + veggies</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(236,72,153,0.12); border-radius: 12px; border: 1px solid rgba(236,72,153,0.3);">
+<div style="font-weight: 700; color: #f472b6; font-size: 0.85rem;">4. Store Smart</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Label with dates, fridge 3-4 days</div>
+</div>
+
+</div>
 
 Meal prep is the practice of planning, cooking, and portioning your meals ahead of time so that healthy food is ready to grab throughout the week. It saves time on busy weeknights, reduces impulse takeout orders, cuts grocery spending, and helps you eat more consistently.
 

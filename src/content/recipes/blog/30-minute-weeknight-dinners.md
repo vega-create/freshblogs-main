@@ -15,7 +15,33 @@ faq:
     a: "Yes. Marinate proteins, chop vegetables, and pre-measure sauces on the weekend. Store each component separately in the fridge. On weeknights you just cook and assemble, cutting active time down to fifteen minutes or less."
   - q: "What kitchen tools help speed up weeknight cooking?"
     a: "A sharp chef's knife, a large skillet or wok, a sheet pan, and a food processor are the most helpful tools. A well-seasoned cast iron pan retains heat well for fast searing, and a rice cooker frees up a burner."
+image: "/images/recipes/30-minute-dinners.jpg"
+imageAlt: "Quick weeknight dinner cooking"
 ---
+
+## Recipe Quick Stats
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-size: 1.5rem;">⏱️</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.9rem;">Under 15 min</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">6 recipes</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.5rem;">⏱️</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.9rem;">15-25 min</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">8 recipes</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(249,115,22,0.12); border-radius: 12px; border: 1px solid rgba(249,115,22,0.3); text-align: center;">
+<div style="font-size: 1.5rem;">⏱️</div>
+<div style="font-weight: 700; color: #fb923c; font-size: 0.9rem;">25-30 min</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">6 recipes</div>
+</div>
+
+</div>
 
 Getting a home-cooked dinner on the table during the week does not have to feel like a marathon. These 20 recipes are designed for real life: minimal ingredients, straightforward techniques, and results that taste far better than takeout. Every dish clocks in at 30 minutes or under from start to plate.
 

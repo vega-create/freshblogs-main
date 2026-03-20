@@ -15,7 +15,36 @@ faq:
     a: "Mixed breed dogs can be excellent family pets and often benefit from greater genetic diversity, which may reduce certain breed-specific health problems. The trade-off is less predictability in adult size, temperament, and energy level. Purebreds offer more consistency in these traits, which helps families plan. Both options work well when matched thoughtfully to the family's lifestyle and living situation."
   - q: "How do I teach my children to interact safely with a new dog?"
     a: "Start with clear rules: never approach the dog while it is eating or sleeping, always pet gently on the chest or side rather than the head, and never pull ears or tails. Teach children to read basic body language such as a tucked tail meaning fear or showing teeth meaning back away. Supervise all interactions until you are confident both the child and the dog have established trust and boundaries."
+image: "/images/pets/family-dog-breeds.jpg"
+imageAlt: "Family dog playing children"
 ---
+
+## Family Dog Temperament Scores
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Top Family Breeds by Temperament</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 140px; font-size: 0.85rem; color: #e5e7eb;">🐕 Golden Retriever</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 98%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">9.8</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 140px; font-size: 0.85rem; color: #e5e7eb;">🐕 Labrador</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 95%; height: 100%; background: linear-gradient(90deg, #22c55e, #4ade80); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">9.5</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 140px; font-size: 0.85rem; color: #e5e7eb;">🐕 Beagle</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 90%; height: 100%; background: linear-gradient(90deg, #f97316, #fb923c); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">9.0</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 140px; font-size: 0.85rem; color: #e5e7eb;">🐕 Cavalier King</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 88%; height: 100%; background: linear-gradient(90deg, #ec4899, #f472b6); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">8.8</div></div></div>
+
+</div>
 
 Choosing a family dog is one of the most impactful decisions a household can make. The right breed brings years of companionship, teaches children responsibility and empathy, and adds a layer of warmth to daily life. The wrong match can create stress, safety concerns, and heartbreak when a dog needs to be rehomed.
 

@@ -32,6 +32,36 @@ faq:
     a: "Venus's position requires knowing your birth date and year (and ideally birth time). Use our Birth Chart Calculator to find your Venus sign and all planetary placements instantly."
 ---
 
+## Venus at a Glance
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">💕</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Rules</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.2rem;">Taurus & Libra</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">✨</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Exalted In</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.2rem;">Pisces</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">⚡</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Detriment In</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.2rem;">Aries & Scorpio</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(107,114,128,0.1); border-radius: 10px; border: 1px solid rgba(107,114,128,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">🔄</div>
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.8rem;">Orbit Speed</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.2rem;">~25 days/sign</div>
+</div>
+
+</div>
+
 ## The Planet of Love and Beauty
 
 Of all the planets in the birth chart, **Venus** is the one most directly connected to what we call love. Named for the Roman goddess of love and beauty (Aphrodite in Greek mythology), Venus governs attraction, pleasure, aesthetics, and the values that shape what we invest our hearts in.

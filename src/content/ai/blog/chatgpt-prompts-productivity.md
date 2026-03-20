@@ -15,7 +15,45 @@ faq:
     a: "Zero-shot prompts give ChatGPT a task with no examples. Few-shot prompts include 2-3 examples of the desired output before asking for the new result. Few-shot prompts produce more consistent formatting and tone because the model mimics the pattern you provide."
   - q: "How often should I update my saved prompts?"
     a: "Review your prompt library every 2-3 months. OpenAI updates model capabilities regularly, so prompts that needed workarounds before may now work with simpler instructions. Also remove prompts you no longer use and add new ones as your workflow changes."
+image: "/images/ai/chatgpt-prompts.jpg"
+imageAlt: "ChatGPT productivity prompts workspace"
 ---
+
+## Prompt Categories
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">📧</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Email</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">10 prompts</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">📝</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Writing</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">10 prompts</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">📊</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Analysis</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">10 prompts</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">💡</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Brainstorm</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">10 prompts</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🗓️</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Planning</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">10 prompts</div>
+</div>
+
+</div>
 
 Most people type a single sentence into ChatGPT and wonder why the output sounds generic. The difference between a mediocre result and a genuinely useful one almost always comes down to the prompt itself.
 

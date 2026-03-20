@@ -15,7 +15,39 @@ faq:
     a: "The TSA 3-1-1 rule allows liquids in containers of 3.4 ounces (100ml) or less, all fitting inside 1 quart-sized clear zip-top bag, with 1 bag per passenger. This applies to all flights departing from US airports. International rules are similar, though some countries allow slightly larger bags."
   - q: "Do I need a universal power adapter for international travel?"
     a: "Yes, different regions use different outlet types. The US and Japan use Type A/B, Europe uses Type C/F, the UK uses Type G, and Australia uses Type I. A universal adapter with USB-C and USB-A ports covers all regions. Buy one with built-in surge protection to safeguard your electronics."
+image: "/images/travel/packing-list.jpg"
+imageAlt: "Packing suitcase travel"
 ---
+
+## Packing Categories
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">👕</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Clothing</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Mix & match basics</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🧴</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Toiletries</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">TSA-sized essentials</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">📱</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Electronics</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Chargers, adapters</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">📄</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Documents</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Passport, insurance, copies</div>
+</div>
+
+</div>
 
 Packing for an international trip is one of those tasks that feels straightforward until you are standing at your suitcase the night before departure, wondering if you have everything. This guide eliminates that uncertainty with a category-by-category checklist, a carry-on size reference chart for major airlines, and the capsule wardrobe formula that experienced travelers rely on.
 

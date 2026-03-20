@@ -15,7 +15,39 @@ faq:
     a: "Breathing underwater in a dream is typically a positive symbol. It suggests that you are comfortable navigating your emotions, even deep or complex ones. It can also indicate that you are thriving in a situation others might find overwhelming. This dream often appears when you are handling a difficult emotional period with more grace than you give yourself credit for."
   - q: "Are water dreams connected to real-life events or just random?"
     a: "Water dreams are rarely random. Research in dream psychology consistently shows that dream content reflects waking concerns, emotions, and experiences. A flood dream after a stressful week at work or a calm ocean dream during a peaceful vacation are examples of how your subconscious processes real-life events through water symbolism."
+image: "/images/dreams/dream-water.jpg"
+imageAlt: "Water symbolism in dreams"
 ---
+
+## Water Dream Types
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(6,182,212,0.1); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🌊</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.8rem;">Ocean</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Unconscious mind</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🏊</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Swimming</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Navigating emotions</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🌧️</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Rain</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Cleansing & renewal</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🌊</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Flood</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Overwhelm</div>
+</div>
+
+</div>
 
 Water appears in dreams more than almost any other element. Across every culture, historical period, and psychological tradition, water has been recognized as a powerful symbol of emotion, the subconscious mind, and transformation. When water shows up in your dreams, it is almost always telling you something about your inner emotional landscape.
 

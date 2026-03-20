@@ -15,7 +15,29 @@ faq:
     a: "This is personal preference with a psychological nuance. Some research suggests that publicly declaring goals creates accountability. Other research shows that telling people about your goals can create a premature sense of accomplishment that reduces motivation. If sharing inspires you and the people you share with are supportive, share it. If sharing feels vulnerable or your circle tends to be critical, keep it private."
   - q: "Is a digital vision board as effective as a physical one?"
     a: "Both formats work when used consistently. Physical boards offer a larger visual impact and tactile engagement during creation. Digital boards offer portability and easy updating. The most important factor is daily exposure. A physical board in a room you rarely enter is less effective than a digital board set as your phone wallpaper that you see fifty times a day."
+image: "/images/manifest/vision-board.jpg"
+imageAlt: "Vision board goals inspiration"
 ---
+
+## Vision Board Formats
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">📌</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.9rem;">Physical Board</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Tactile, visible daily</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Cork board + magazine cutouts</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(99,102,241,0.12); border-radius: 12px; border: 1px solid rgba(99,102,241,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">📱</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.9rem;">Digital Board</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Portable, easy to update</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Canva, Pinterest, phone wallpaper</div>
+</div>
+
+</div>
 
 A vision board is a visual representation of your goals, dreams, and ideal life. It typically consists of images, words, and phrases arranged on a physical board or in a digital format. When used correctly, a vision board is far more than arts and crafts — it is a goal-clarification tool backed by real psychology.
 

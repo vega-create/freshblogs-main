@@ -15,7 +15,45 @@ faq:
     a: "Your primary love language tends to remain relatively stable, but life circumstances can shift your priorities. During a stressful period, you might crave Physical Touch more than usual. After becoming a parent, Acts of Service might suddenly feel more important. Periodic reassessment is healthy for any relationship."
   - q: "What if my partner and I have completely different love languages?"
     a: "Different love languages are actually very common in couples. The key is not having the same language but learning to speak each other's language fluently. When both partners make an effort to express love in the way that resonates most with the other, the relationship deepens significantly."
+image: "/images/personality/love-languages.jpg"
+imageAlt: "Love languages heart affection"
 ---
+
+## The 5 Love Languages
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">💬</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Words</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Verbal affirmation</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">⏰</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Quality Time</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Undivided attention</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🎁</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Gifts</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Thoughtful tokens</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🤝</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Acts of Service</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Helpful actions</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🤗</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Physical Touch</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Hugs, holding hands</div>
+</div>
+
+</div>
 
 Relationships thrive when both partners feel genuinely loved, yet what makes one person feel cherished might leave another feeling indifferent. This disconnect is at the heart of Gary Chapman's love languages framework, first introduced in his 1992 book. The premise is straightforward: people express and experience love in five primary ways, and understanding these languages can transform the quality of your relationships.
 

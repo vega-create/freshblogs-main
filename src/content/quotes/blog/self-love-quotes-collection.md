@@ -15,7 +15,35 @@ faq:
     a: "Quotes alone will not transform your self-image, but they can serve as seeds for change. When you repeatedly expose yourself to affirming messages and pair them with reflective practice, you begin to challenge the negative beliefs you hold about yourself. Over time, new neural pathways form that support a healthier self-concept."
   - q: "Why is self-love important for relationships?"
     a: "You cannot pour from an empty cup. When you practice self-love, you bring a more whole and secure version of yourself to your relationships. You are less likely to seek validation from others, less likely to tolerate mistreatment, and more capable of genuine generosity because your giving comes from abundance rather than need."
+image: "/images/quotes/self-love-quotes.jpg"
+imageAlt: "Self love confidence"
 ---
+
+## Self-Love Themes
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">💕</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Acceptance</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🛡️</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Boundaries</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">✨</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Worth</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🌱</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Growth</div>
+</div>
+
+</div>
 
 In a culture that often equates self-sacrifice with virtue and self-criticism with motivation, choosing to love yourself can feel almost rebellious. But self-love is not selfish. It is the foundation on which every other healthy relationship in your life is built.
 

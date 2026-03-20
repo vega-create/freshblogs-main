@@ -32,6 +32,33 @@ faq:
     a: "Gemini's dual nature (symbolized by the Twins) means they need constant mental stimulation and variety. They can appear inconsistent because they genuinely contain multiple perspectives. A partner who embraces Gemini's complexity rather than trying to pin them down will find a witty, loyal, and endlessly fascinating companion."
 ---
 
+## Gemini Compatibility Overview
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Top Matches for Gemini ♊</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♎ Libra</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 88%; height: 100%; background: linear-gradient(90deg, #ec4899, #f472b6); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">88%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♒ Aquarius</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 85%; height: 100%; background: linear-gradient(90deg, #06b6d4, #67e8f9); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">85%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♈ Aries</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 78%; height: 100%; background: linear-gradient(90deg, #ef4444, #f87171); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">78%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♌ Leo</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 77%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">77%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♐ Sagittarius</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 76%; height: 100%; background: linear-gradient(90deg, #f97316, #fb923c); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">76%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♊ Gemini</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 68%; height: 100%; background: linear-gradient(90deg, #eab308, #facc15); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">68%</div></div></div>
+
+</div>
+
 ## Understanding Gemini: The Twins of the Zodiac
 
 Gemini (May 21 - June 20) is the third sign of the zodiac, a mutable air sign ruled by Mercury, the planet of communication, intellect, and information exchange. Represented by the Twins (Castor and Pollux from Greek mythology), Gemini embodies duality, adaptability, and the human need to connect through language and ideas.

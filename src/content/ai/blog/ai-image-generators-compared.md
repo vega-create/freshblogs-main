@@ -15,7 +15,36 @@ faq:
     a: "Stable Diffusion is the cheapest at scale because you can run it locally for free after hardware costs. For cloud-based options, DALL-E 3 via API costs roughly $0.04 per standard image, making it more affordable than Midjourney's $30/month plan for users generating fewer than 750 images monthly."
   - q: "How accurate is text rendering in AI-generated images now?"
     a: "DALL-E 3 leads text rendering accuracy, correctly placing words in images about 85-90% of the time for short phrases. Midjourney v6 improved significantly but still struggles with text longer than 3-4 words. Stable Diffusion 3 handles text well thanks to its T5 text encoder architecture."
+image: "/images/ai/ai-image-generators.jpg"
+imageAlt: "AI image generation tools comparison"
 ---
+
+## Generator Comparison at a Glance
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🎨</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.9rem;">DALL-E 3</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Best for text & accuracy</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Ease: ★★★★★</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(139,92,246,0.12); border-radius: 12px; border: 1px solid rgba(139,92,246,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">✨</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.9rem;">Midjourney</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Best for artistic quality</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Ease: ★★★☆☆</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(249,115,22,0.12); border-radius: 12px; border: 1px solid rgba(249,115,22,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🔧</div>
+<div style="font-weight: 700; color: #fb923c; font-size: 0.9rem;">Stable Diffusion</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Best for customization</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Ease: ★★☆☆☆</div>
+</div>
+
+</div>
 
 Choosing between DALL-E 3, Midjourney v6, and Stable Diffusion 3 is no longer a matter of picking the "best" AI image generator. Each platform has developed distinct strengths that make it the right choice for specific workflows. This comparison breaks down exactly where each tool excels and where it falls short, based on hands-on testing across 10 categories.
 

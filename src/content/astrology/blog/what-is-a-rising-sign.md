@@ -30,6 +30,33 @@ faq:
     a: "No, your rising sign is fixed by your exact birth time and location. However, as you mature, you may express your rising sign's qualities more fully."
 ---
 
+## The Big Three in Astrology
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(245,158,11,0.1); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 2rem; margin-bottom: 0.3rem;">☀️</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.9rem;">Sun Sign</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Your core identity</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Who you ARE</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(163,163,163,0.1); border-radius: 12px; border: 1px solid rgba(163,163,163,0.3); text-align: center;">
+<div style="font-size: 2rem; margin-bottom: 0.3rem;">🌙</div>
+<div style="font-weight: 700; color: #d4d4d4; font-size: 0.9rem;">Moon Sign</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Your inner emotions</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Who you are in PRIVATE</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(139,92,246,0.15); border-radius: 12px; border: 2px solid rgba(139,92,246,0.5); text-align: center;">
+<div style="font-size: 2rem; margin-bottom: 0.3rem;">⬆️</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.9rem;">Rising Sign</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Your outer mask</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">How others SEE you</div>
+</div>
+
+</div>
+
 ## What Is a Rising Sign?
 
 Your **rising sign** — also known as your **ascendant** — is one of the three pillars of your astrological profile, alongside your sun sign and moon sign. It is the zodiac sign that was climbing over the eastern horizon at the precise moment you drew your first breath.

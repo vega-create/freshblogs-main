@@ -15,7 +15,39 @@ faq:
     a: "No. A pet's zodiac sign has no connection to their health. Health risks are determined by breed genetics, diet, exercise, environmental factors, and veterinary care. Always consult a veterinarian for health concerns rather than looking to astrology. This guide is purely for entertainment and should never replace professional medical advice for your pet."
   - q: "Do pets born on the cusp of two signs show traits of both?"
     a: "In the framework of pet astrology for fun, you could certainly assign traits from both signs to a pet born on a cusp date. Since pet astrology is entertainment rather than science, there are no rigid rules. If your pet was born on a cusp and seems to display characteristics of both signs, feel free to embrace the blend as part of the fun."
+image: "/images/pets/pet-zodiac.jpg"
+imageAlt: "Pet zodiac personality"
 ---
+
+## Pet Zodiac Elements
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(239,68,68,0.12); border-radius: 12px; border: 1px solid rgba(239,68,68,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🔥</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.85rem;">Fire Pets</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Energetic, playful, bold</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🌍</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">Earth Pets</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Calm, loyal, routine-loving</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(6,182,212,0.12); border-radius: 12px; border: 1px solid rgba(6,182,212,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">💨</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.85rem;">Air Pets</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Curious, social, chatty</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(99,102,241,0.12); border-radius: 12px; border: 1px solid rgba(99,102,241,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🌊</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">Water Pets</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Intuitive, sensitive, cuddly</div>
+</div>
+
+</div>
 
 Every pet owner has moments where their animal does something so specific, so predictable, and so utterly characteristic that it feels like the behavior must be written in the stars. While pet astrology falls firmly in the entertainment category rather than the science department, it offers a surprisingly fun and oddly accurate-feeling framework for understanding your pet's personality quirks.
 

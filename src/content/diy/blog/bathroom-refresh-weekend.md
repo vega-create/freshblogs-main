@@ -15,7 +15,36 @@ faq:
     a: "Replacing the mirror delivers the single biggest visual change for the money. A framed mirror in place of a plain builder-grade plate mirror instantly upgrades the look of the entire room. Framed mirrors range from $50 to $200 and take about 30 minutes to install. The before-and-after difference is dramatic."
   - q: "Do I need special paint for a bathroom?"
     a: "Yes. Use paint specifically labeled for bathrooms or kitchens, or choose a satin or semi-gloss finish with built-in mildew resistance. Bathroom paint is formulated to withstand high humidity and moisture without peeling or developing mold. It costs slightly more than standard interior paint but lasts significantly longer in wet environments."
+image: "/images/diy/bathroom-refresh.jpg"
+imageAlt: "Modern bathroom renovation project"
 ---
+
+## Weekend Refresh Impact vs Effort
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">High Impact, Low Effort Updates</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 140px; font-size: 0.85rem; color: #e5e7eb;">New Hardware</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 95%; height: 100%; background: linear-gradient(90deg, #22c55e, #4ade80); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">High Impact</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 140px; font-size: 0.85rem; color: #e5e7eb;">Fresh Caulk</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 88%; height: 100%; background: linear-gradient(90deg, #06b6d4, #67e8f9); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">High Impact</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 140px; font-size: 0.85rem; color: #e5e7eb;">New Mirror</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 82%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">High Impact</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 140px; font-size: 0.85rem; color: #e5e7eb;">Paint Accent Wall</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 78%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">Medium+</div></div></div>
+
+</div>
 
 A full bathroom renovation can cost thousands of dollars and take weeks to complete. A bathroom refresh, on the other hand, uses targeted cosmetic updates that dramatically change the look and feel of the space in a single weekend for a fraction of the price. None of these projects require a plumber, electrician, or contractor. All you need is basic tools, a trip to the hardware store, and two days of focused effort.
 

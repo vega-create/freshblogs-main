@@ -32,6 +32,33 @@ faq:
     a: "Libra needs harmony, fairness, intellectual stimulation, and beauty in their partnerships. They thrive with a partner who values good conversation, shares their aesthetic sensibility, and practices genuine compromise. A partner with strong personal identity who does not demand Libra be something they are not is ideal."
 ---
 
+## Libra Compatibility Overview
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Top Matches for Libra ♎</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♊ Gemini</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 88%; height: 100%; background: linear-gradient(90deg, #eab308, #facc15); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">88%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♒ Aquarius</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 84%; height: 100%; background: linear-gradient(90deg, #06b6d4, #67e8f9); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">84%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♌ Leo</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 82%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">82%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♐ Sagittarius</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 78%; height: 100%; background: linear-gradient(90deg, #f97316, #fb923c); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">78%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♎ Libra</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 70%; height: 100%; background: linear-gradient(90deg, #ec4899, #f472b6); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">70%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♈ Aries</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 67%; height: 100%; background: linear-gradient(90deg, #ef4444, #f87171); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">67%</div></div></div>
+
+</div>
+
 ## Understanding Libra: The Scales of the Zodiac
 
 Libra (September 23 - October 22) is the seventh sign of the zodiac, a cardinal air sign ruled by Venus, the planet of love, beauty, harmony, and value. Represented by the Scales — the only inanimate symbol in the zodiac — Libra embodies the principles of balance, justice, partnership, and aesthetic refinement. As the sign that begins at the autumn equinox (when day and night are perfectly equal), Libra is fundamentally concerned with equilibrium in all things.

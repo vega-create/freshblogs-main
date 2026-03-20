@@ -15,7 +15,39 @@ faq:
     a: "Costa Rica, New Zealand, Portugal, and Bali are especially family-friendly. Costa Rica offers safe wildlife encounters and adventure activities suitable for children. New Zealand has outstanding outdoor activities with excellent safety standards. Portugal combines beaches, mild weather, and a relaxed pace. Bali provides affordable family villas with pools."
   - q: "Are there any new visa-free travel options for 2026?"
     a: "Several countries have expanded visa-free or electronic visa programs. Many Southeast Asian nations continue extending visa-free stay durations for various passport holders. Check your specific nationality against your destination country's current requirements, as visa policies change frequently and vary by passport."
+image: "/images/travel/best-destinations.jpg"
+imageAlt: "Travel destination tropical beach"
 ---
+
+## Destination Categories
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(6,182,212,0.1); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🏖️</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.8rem;">Beach</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Bali, Maldives, Croatia</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🏔️</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Adventure</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Nepal, Patagonia, Iceland</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🏛️</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Culture</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Japan, Italy, Morocco</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">💰</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Budget</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Vietnam, Portugal, Mexico</div>
+</div>
+
+</div>
 
 Choosing where to travel is half the fun and half the frustration of trip planning. This list of 15 destinations for 2026 is not a random collection of beautiful places. Each one has a specific reason to visit this year, whether it is a major event, favorable exchange rates, new infrastructure, or a moment in time that will not last forever.
 

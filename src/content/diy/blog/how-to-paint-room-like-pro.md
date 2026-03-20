@@ -15,7 +15,45 @@ faq:
     a: "Most latex paints require 2 to 4 hours of drying time between coats. Check the label on your specific paint for the manufacturer's recommendation. Humidity and temperature affect drying time significantly. If the room feels damp or cool, add an extra hour before applying the second coat."
   - q: "Do I need to use primer before painting?"
     a: "You need primer when painting over dark colors, covering stains, painting new drywall, or switching between oil-based and latex paint. For repainting a wall that is already in good condition with a similar color, a paint-and-primer-in-one product works well and saves you a full step in the process."
+image: "/images/diy/paint-room-pro.jpg"
+imageAlt: "Painting a room with roller brush"
 ---
+
+## Painting Steps Overview
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-weight: 700; color: #818cf8; font-size: 1.2rem;">1</div>
+<div style="font-weight: 600; color: #d1d5db; font-size: 0.8rem;">Prep Room</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">~2 hours</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-weight: 700; color: #fbbf24; font-size: 1.2rem;">2</div>
+<div style="font-weight: 600; color: #d1d5db; font-size: 0.8rem;">Prime Walls</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">~1.5 hours</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-weight: 700; color: #4ade80; font-size: 1.2rem;">3</div>
+<div style="font-weight: 600; color: #d1d5db; font-size: 0.8rem;">Cut In Edges</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">~1 hour</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-weight: 700; color: #f472b6; font-size: 1.2rem;">4</div>
+<div style="font-weight: 600; color: #d1d5db; font-size: 0.8rem;">Roll Walls</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">~2 hours</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-weight: 700; color: #a78bfa; font-size: 1.2rem;">5</div>
+<div style="font-weight: 600; color: #d1d5db; font-size: 0.8rem;">Second Coat</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">~2 hours</div>
+</div>
+
+</div>
 
 Painting a room is one of the most impactful home improvements you can make, and it is entirely within reach for a first-timer. The difference between an amateur paint job and a professional-looking finish comes down to preparation and technique, not talent. Professional painters spend more time prepping than they do actually rolling paint, and that discipline is what you should copy.
 

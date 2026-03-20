@@ -34,6 +34,84 @@ faq:
 
 ## Working With the Full Moon Cycle
 
+## 2026 Full Moons at a Glance
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(163,163,163,0.1); border-radius: 10px; border: 1px solid rgba(163,163,163,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #d4d4d4; font-size: 0.8rem;">Jan 13</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Cancer</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Feb 12</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Leo</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(132,204,22,0.1); border-radius: 10px; border: 1px solid rgba(132,204,22,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #a3e635; font-size: 0.8rem;">Mar 14</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Virgo</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Apr 13</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Libra</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">May 12</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Scorpio</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(249,115,22,0.1); border-radius: 10px; border: 1px solid rgba(249,115,22,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #fb923c; font-size: 0.8rem;">Jun 11</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Sagittarius</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(107,114,128,0.1); border-radius: 10px; border: 1px solid rgba(107,114,128,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.8rem;">Jul 10</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Capricorn</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(6,182,212,0.1); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.8rem;">Aug 9</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Aquarius</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Sep 7</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Pisces</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Oct 6</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Aries</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Nov 5</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Taurus</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(234,179,8,0.1); border-radius: 10px; border: 1px solid rgba(234,179,8,0.2); text-align: center;">
+<div style="font-size: 1.1rem;">🌕</div>
+<div style="font-weight: 700; color: #facc15; font-size: 0.8rem;">Dec 4</div>
+<div style="color: #fbbf24; font-size: 0.7rem;">Gemini</div>
+</div>
+
+</div>
+
 The moon completes its cycle from new to full approximately every 29.5 days, with each full moon occurring in a specific zodiac sign opposite to the sun's current position. This opposition between sun and moon creates a natural tension — and a natural illumination — that makes full moons the most emotionally charged lunar events of the month.
 
 Each full moon is a chance to harvest what the month has grown, release what has outlived its purpose, and see clearly what was hidden in shadow. The zodiac sign the moon is in colors the specific themes that come into focus.

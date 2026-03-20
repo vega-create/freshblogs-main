@@ -15,7 +15,39 @@ faq:
     a: "Absolutely. Research shows that attachment styles can shift toward security through consistent, corrective emotional experiences. Therapy — especially modalities like emotionally focused therapy or psychodynamic therapy — helps people recognize insecure patterns, process childhood experiences, and build healthier relational habits."
   - q: "How does attachment style affect parenting?"
     a: "Your attachment style influences how you bond with and respond to your children. Securely attached parents tend to be more attuned and responsive. Insecurely attached parents may struggle with emotional availability or consistency. The good news is that awareness of your own patterns is the first step toward breaking intergenerational cycles."
+image: "/images/personality/attachment-styles.jpg"
+imageAlt: "Attachment styles relationships"
 ---
+
+## The 4 Attachment Styles
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🟢</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">Secure</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Comfortable with intimacy & independence</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🟡</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">Anxious</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Craves closeness, fears abandonment</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(99,102,241,0.12); border-radius: 12px; border: 1px solid rgba(99,102,241,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🔵</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">Avoidant</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Values independence, avoids closeness</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(239,68,68,0.12); border-radius: 12px; border: 1px solid rgba(239,68,68,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🔴</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.85rem;">Disorganized</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Conflicted between need & fear</div>
+</div>
+
+</div>
 
 Every close relationship you have ever had — romantic, familial, or platonic — has been shaped by invisible patterns established in the earliest years of your life. Attachment theory, originally developed by British psychiatrist John Bowlby in the mid-twentieth century and expanded by psychologist Mary Ainsworth through her groundbreaking research, explains how the bonds formed between infants and their primary caregivers create templates for all future relationships.
 

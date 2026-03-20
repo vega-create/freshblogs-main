@@ -15,7 +15,39 @@ faq:
     a: "Buy quality versions of tools you will use frequently, such as a drill, hammer, and tape measure. For specialty tools you may only use once or twice, budget-friendly options work fine. Many hardware stores offer lifetime warranties on hand tools regardless of price point, so check the warranty before you buy."
   - q: "What power tools should a beginner buy first?"
     a: "Start with a cordless drill and impact driver combo kit, which many brands offer at a discount. Add a circular saw if you plan to cut wood, and an orbital sander if you will be refinishing furniture or prepping surfaces for paint. These three power tools cover the vast majority of beginner projects."
+image: "/images/diy/essential-tools.jpg"
+imageAlt: "Essential homeowner tools collection"
 ---
+
+## Tool Categories at a Glance
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🔨</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Hand Tools</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Hammer, screwdrivers, pliers</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">⚡</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Power Tools</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Drill, saw, sander</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">📏</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Measuring</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Tape, level, stud finder</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🛡️</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Safety</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Goggles, gloves, mask</div>
+</div>
+
+</div>
 
 Owning a home means something will always need fixing, adjusting, or improving. Having the right tools on hand when those moments arrive saves you time, money, and the frustration of improvising with whatever happens to be in the kitchen drawer. This guide covers the 25 tools every homeowner should own, organized by category so you can build your collection strategically.
 

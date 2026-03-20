@@ -15,7 +15,60 @@ faq:
     a: "Wings are the two types adjacent to your core type on the Enneagram circle. A Type 5, for instance, has a 4-wing or a 6-wing. Your wing adds flavor and nuance to your core type. Most people lean more strongly toward one wing, creating subtypes like 5w4 the Iconoclast or 5w6 the Problem Solver."
   - q: "How do I find my Enneagram type accurately?"
     a: "The most reliable way is through honest self-reflection about your core motivations and fears rather than surface behaviors. Online tests like the RHETI from the Enneagram Institute can be a starting point, but reading detailed type descriptions and noticing which one makes you slightly uncomfortable in its accuracy is often more revealing."
+image: "/images/personality/enneagram-types.jpg"
+imageAlt: "Enneagram personality types"
 ---
+
+## The 9 Enneagram Types
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem;">
+
+<div style="padding: 0.7rem; background: rgba(239,68,68,0.1); border-radius: 8px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-weight: 800; color: #f87171; font-size: 1.1rem;">1</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Perfectionist</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(236,72,153,0.1); border-radius: 8px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-weight: 800; color: #f472b6; font-size: 1.1rem;">2</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Helper</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(245,158,11,0.1); border-radius: 8px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-weight: 800; color: #fbbf24; font-size: 1.1rem;">3</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Achiever</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(99,102,241,0.1); border-radius: 8px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-weight: 800; color: #818cf8; font-size: 1.1rem;">4</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Individualist</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(6,182,212,0.1); border-radius: 8px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-weight: 800; color: #67e8f9; font-size: 1.1rem;">5</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Investigator</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(34,197,94,0.1); border-radius: 8px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-weight: 800; color: #4ade80; font-size: 1.1rem;">6</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Loyalist</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(249,115,22,0.1); border-radius: 8px; border: 1px solid rgba(249,115,22,0.2); text-align: center;">
+<div style="font-weight: 800; color: #fb923c; font-size: 1.1rem;">7</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Enthusiast</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(139,92,246,0.1); border-radius: 8px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-weight: 800; color: #a78bfa; font-size: 1.1rem;">8</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Challenger</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(163,163,163,0.1); border-radius: 8px; border: 1px solid rgba(163,163,163,0.2); text-align: center;">
+<div style="font-weight: 800; color: #d4d4d4; font-size: 1.1rem;">9</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Peacemaker</div>
+</div>
+
+</div>
 
 The Enneagram is one of the most powerful tools for understanding human personality, motivation, and behavior. Unlike systems that sort people by surface-level preferences, the Enneagram peers beneath the exterior to examine the core fears and desires that shape how we move through the world.
 

@@ -15,7 +15,39 @@ faq:
     a: "The most common reasons are overcrowding the basket, not using enough oil spray, or cooking at too low a temperature. Food needs space for hot air to circulate on all sides. A light coat of oil spray helps browning. Try increasing the temperature by ten degrees."
   - q: "How do I prevent food from sticking to the air fryer basket?"
     a: "Lightly spray the basket with cooking oil before adding food. Avoid nonstick sprays containing lecithin or propellants that can damage the basket coating over time. A quick spritz of avocado or olive oil spray works best and adds minimal calories."
+image: "/images/recipes/air-fryer-recipes.jpg"
+imageAlt: "Air fryer kitchen cooking"
 ---
+
+## Air Fryer Quick Reference
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🍟</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Fries</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">400°F · 15 min</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🍗</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Chicken</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">375°F · 20 min</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🥦</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Vegetables</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">390°F · 10 min</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🐟</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Fish</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">400°F · 12 min</div>
+</div>
+
+</div>
 
 An air fryer is one of the most practical kitchen appliances you can own. It crisps food using rapidly circulating hot air, producing results similar to deep frying with a fraction of the oil. If you just unboxed yours or have been staring at it on the counter unsure where to start, these 15 recipes will get you cooking with confidence.
 

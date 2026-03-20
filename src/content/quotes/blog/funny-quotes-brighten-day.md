@@ -15,7 +15,39 @@ faq:
     a: "Research from Stanford Graduate School of Business shows that appropriate humor in the workplace increases trust, creativity, and team cohesion. It reduces stress and makes leaders more approachable. The key is using inclusive, self-deprecating, or observational humor rather than humor that targets individuals or groups."
   - q: "Why do we find certain things funny?"
     a: "The leading psychological theory is the incongruity theory, which suggests we laugh when there is a mismatch between what we expect and what actually happens. Our brains detect a pattern violation that is non-threatening, and laughter is the release of that cognitive tension. This is why punchlines work — they set up an expectation and then subvert it."
+image: "/images/quotes/funny-quotes.jpg"
+imageAlt: "Laughing joyful moments"
 ---
+
+## Humor Categories
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.5rem;">😂</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">Witty One-Liners</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">20 quotes</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-size: 1.5rem;">🤣</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">Life Observations</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">20 quotes</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(236,72,153,0.12); border-radius: 12px; border: 1px solid rgba(236,72,153,0.3); text-align: center;">
+<div style="font-size: 1.5rem;">💬</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.85rem;">Celebrity Humor</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">20 quotes</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(99,102,241,0.12); border-radius: 12px; border: 1px solid rgba(99,102,241,0.3); text-align: center;">
+<div style="font-size: 1.5rem;">📚</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">Literary Wit</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">20 quotes</div>
+</div>
+
+</div>
 
 Life is too important to be taken seriously — or at least that is what Oscar Wilde thought, and he had a point. Humor is one of humanity's most powerful coping mechanisms, a social glue, and a daily necessity that is too often undervalued.
 

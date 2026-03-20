@@ -15,7 +15,33 @@ faq:
     a: "Absolutely. Many entrepreneurs use numerology to select business names that align with their goals. Numbers like 1 and 8 suit ambitious ventures, while 6 works well for service-based businesses. Calculate the name's Expression Number and check that it resonates with your intended brand energy."
   - q: "What if my name has letters not in the English alphabet?"
     a: "The Pythagorean system is based on the English alphabet. For names in other languages, most numerologists recommend using the transliterated or commonly spelled English version of the name. The key is to use the spelling you most frequently write and identify with."
+image: "/images/numerology/name-numerology.jpg"
+imageAlt: "Name numerology letters"
 ---
+
+## Name Number Calculation
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(99,102,241,0.12); border-radius: 12px; border: 1px solid rgba(99,102,241,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">📛</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">Expression #</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Full name → your talents</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(236,72,153,0.12); border-radius: 12px; border: 1px solid rgba(236,72,153,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">💕</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.85rem;">Soul Urge #</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Vowels → heart's desire</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">👤</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">Personality #</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Consonants → outer self</div>
+</div>
+
+</div>
 
 Your name is more than a label. In numerology, every letter carries a specific numerical vibration, and when those vibrations combine, they paint a detailed portrait of your personality, hidden desires, and the face you show the world.
 

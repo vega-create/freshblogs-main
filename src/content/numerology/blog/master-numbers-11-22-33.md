@@ -15,7 +15,33 @@ faq:
     a: "Not necessarily. Master numbers carry higher potential but also greater pressure, anxiety, and internal conflict. Many master number holders struggle for decades before aligning with their energy. A person thriving as a life path 4 may be living a more fulfilled life than a 22 who feels perpetually overwhelmed by their own sense of mission. The number is neutral; what you do with it determines the outcome."
   - q: "Are 44, 55, and 66 also considered master numbers?"
     a: "This is debated within the numerology community. Traditional Pythagorean numerology recognizes only 11, 22, and 33 as master numbers. Some modern practitioners extend the concept to 44, 55, and 66, arguing they carry intensified energy of their root digits. However, these extended master numbers lack the historical and scholarly foundation of the original three and are not widely used in professional numerology readings."
+image: "/images/numerology/master-numbers.jpg"
+imageAlt: "Master numbers enlightenment"
 ---
+
+## The Three Master Numbers
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(245,158,11,0.15); border-radius: 12px; border: 2px solid rgba(245,158,11,0.4); text-align: center;">
+<div style="font-size: 2rem; font-weight: 800; color: #fbbf24;">11</div>
+<div style="font-weight: 700; color: #d1d5db; font-size: 0.85rem;">The Visionary</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Intuition & inspiration</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(139,92,246,0.15); border-radius: 12px; border: 2px solid rgba(139,92,246,0.4); text-align: center;">
+<div style="font-size: 2rem; font-weight: 800; color: #a78bfa;">22</div>
+<div style="font-weight: 700; color: #d1d5db; font-size: 0.85rem;">The Master Builder</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Ambition & manifestation</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(236,72,153,0.15); border-radius: 12px; border: 2px solid rgba(236,72,153,0.4); text-align: center;">
+<div style="font-size: 2rem; font-weight: 800; color: #f472b6;">33</div>
+<div style="font-weight: 700; color: #d1d5db; font-size: 0.85rem;">The Master Teacher</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Compassion & healing</div>
+</div>
+
+</div>
 
 In standard numerology, every multi-digit number gets reduced to a single digit. You add the digits together, and if the result is still two digits, you add again. There are exactly three exceptions: 11, 22, and 33. These are the master numbers, and they occupy a category entirely their own.
 

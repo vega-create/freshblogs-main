@@ -15,7 +15,33 @@ faq:
     a: "Low-light plants use less water than those in bright conditions, so overwatering is the biggest risk. Most low-light plants do well when watered every 10 to 14 days, or when the top 1 to 2 inches of soil feel dry. In winter, extend the interval to every 2 to 3 weeks. Always check the soil before watering rather than following a rigid schedule."
   - q: "Can low-light plants purify indoor air?"
     a: "Several low-light plants including pothos, snake plants, peace lilies, and spider plants were shown to remove certain volatile organic compounds from air in controlled NASA studies. However, practical air purification in a real home requires a large number of plants. Enjoy them for their beauty and wellbeing benefits rather than relying on them as air filters."
+image: "/images/garden/indoor-plants.jpg"
+imageAlt: "Indoor plants low light home"
 ---
+
+## Light Level Guide
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(107,114,128,0.12); border-radius: 12px; border: 1px solid rgba(107,114,128,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🌑</div>
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.85rem;">Low Light</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Snake plant, pothos, ZZ</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🌤️</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">Medium Light</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Monstera, calathea, fern</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(234,179,8,0.12); border-radius: 12px; border: 1px solid rgba(234,179,8,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">☀️</div>
+<div style="font-weight: 700; color: #facc15; font-size: 0.85rem;">Bright Light</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Succulents, cacti, fiddle leaf</div>
+</div>
+
+</div>
 
 Not every home comes with floor-to-ceiling windows and abundant natural light. North-facing rooms, basement apartments, offices, and hallways often have minimal sunlight, but that does not mean they have to be empty of greenery. Plenty of houseplants not only tolerate low light but actually prefer it, since their native habitat is the forest floor beneath a dense canopy.
 

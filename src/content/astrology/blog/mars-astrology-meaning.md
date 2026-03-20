@@ -32,6 +32,73 @@ faq:
     a: "Mars moves through one zodiac sign approximately every 6-7 weeks. You need your birth date and year to find your Mars sign. Use our Birth Chart Calculator for your complete chart."
 ---
 
+## Mars at a Glance
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">🔥</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Rules</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.2rem;">Aries & Scorpio</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(107,114,128,0.1); border-radius: 10px; border: 1px solid rgba(107,114,128,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">⭐</div>
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.8rem;">Exalted In</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.2rem;">Capricorn</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">💔</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Detriment In</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.2rem;">Taurus & Libra</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(249,115,22,0.1); border-radius: 10px; border: 1px solid rgba(249,115,22,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">🔄</div>
+<div style="font-weight: 700; color: #fb923c; font-size: 0.8rem;">Orbit Speed</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.2rem;">~6-7 weeks/sign</div>
+</div>
+
+</div>
+
+## Mars Energy by Sign
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Mars Strength by Placement</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+<span style="width: 120px; font-size: 0.8rem; color: #e5e7eb;">♈ Aries</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 20px; overflow: hidden;">
+<div style="width: 98%; height: 100%; background: linear-gradient(90deg, #ef4444, #f87171); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 6px; font-size: 0.65rem; color: white; font-weight: 600;">Domicile</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+<span style="width: 120px; font-size: 0.8rem; color: #e5e7eb;">♏ Scorpio</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 20px; overflow: hidden;">
+<div style="width: 95%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 6px; font-size: 0.65rem; color: white; font-weight: 600;">Co-domicile</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+<span style="width: 120px; font-size: 0.8rem; color: #e5e7eb;">♑ Capricorn</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 20px; overflow: hidden;">
+<div style="width: 92%; height: 100%; background: linear-gradient(90deg, #6b7280, #9ca3af); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 6px; font-size: 0.65rem; color: white; font-weight: 600;">Exalted</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+<span style="width: 120px; font-size: 0.8rem; color: #e5e7eb;">♌ Leo</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 20px; overflow: hidden;">
+<div style="width: 78%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 6px; font-size: 0.65rem; color: #1a1a2e; font-weight: 600;">Strong</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+<span style="width: 120px; font-size: 0.8rem; color: #e5e7eb;">♎ Libra</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 20px; overflow: hidden;">
+<div style="width: 35%; height: 100%; background: linear-gradient(90deg, #ec4899, #f472b6); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 6px; font-size: 0.65rem; color: white; font-weight: 600;">Detriment</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 120px; font-size: 0.8rem; color: #e5e7eb;">♋ Cancer</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 20px; overflow: hidden;">
+<div style="width: 30%; height: 100%; background: linear-gradient(90deg, #a3a3a3, #d4d4d4); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 6px; font-size: 0.65rem; color: #1a1a2e; font-weight: 600;">Fall</div></div></div>
+
+</div>
+
 ## The Planet of Drive and Desire
 
 If Venus shows *what* you want and *how* you love, **Mars** shows *how* you go after what you want. Mars is the planet of action, desire, ambition, anger, courage, and raw physical energy. Named for the Roman god of war, Mars governs everything from how you exercise and compete to how you handle confrontation and pursue the objects of your desire.

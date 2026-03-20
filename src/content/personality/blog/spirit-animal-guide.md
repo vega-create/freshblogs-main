@@ -15,7 +15,39 @@ faq:
     a: "Repeated encounters with the same animal across different contexts — in nature, dreams, art, or conversation — often signal a meaningful connection. Pay attention to the emotions the animal evokes in you. A spirit animal connection typically feels resonant and significant rather than random, and the animal's symbolic qualities often mirror your current life situation."
   - q: "Can I have more than one spirit animal?"
     a: "Many people resonate with multiple animal guides throughout their lives. Some traditions distinguish between a primary lifelong totem and secondary power animals that appear during specific life phases. You might have a core spirit animal that represents your fundamental nature plus additional guides that offer wisdom for particular challenges or seasons."
+image: "/images/personality/spirit-animal.jpg"
+imageAlt: "Spirit animal wolf nature"
 ---
+
+## Spirit Animal Elements
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🦁</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">Land Animals</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Grounding, strength, instinct</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(6,182,212,0.12); border-radius: 12px; border: 1px solid rgba(6,182,212,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🐬</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.85rem;">Water Animals</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Emotion, intuition, flow</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(139,92,246,0.12); border-radius: 12px; border: 1px solid rgba(139,92,246,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🦅</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.85rem;">Air Animals</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Vision, freedom, perspective</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🦎</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">Reptiles/Insects</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Transformation, patience</div>
+</div>
+
+</div>
 
 Across cultures and throughout history, humans have looked to the animal kingdom for guidance, inspiration, and a deeper understanding of themselves. The concept of spirit animals — sometimes called animal totems, power animals, or animal guides — appears in Indigenous traditions around the world, from Native American and First Nations cultures to Celtic, African, and Asian spiritual practices.
 

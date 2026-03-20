@@ -15,7 +15,45 @@ faq:
     a: "Speaking affirmations out loud is more effective than thinking them silently. Vocalization engages additional neural pathways including auditory processing and motor coordination. You hear your own voice making the statement, which adds another layer of reinforcement. If privacy is a concern, even whispering produces more engagement than silent repetition."
   - q: "Can affirmations replace therapy for anxiety or depression?"
     a: "No. Affirmations are a supplementary wellness practice, not a clinical treatment. For diagnosed anxiety or depression, professional therapy and potentially medication are the evidence-based first-line approaches. Affirmations can complement treatment by supporting positive thought patterns, but they should never be used as a substitute for professional mental health care."
+image: "/images/manifest/morning-affirmations.jpg"
+imageAlt: "Morning sunrise affirmation"
 ---
+
+## Affirmation Categories
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">💪</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Confidence</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">10 affirmations</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">💕</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Self-Love</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">10 affirmations</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">💰</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Abundance</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">10 affirmations</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🧘</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Peace</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">10 affirmations</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🎯</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Success</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">10 affirmations</div>
+</div>
+
+</div>
 
 Morning affirmations have moved from fringe self-help territory into mainstream wellness practice, and for good reason. The neuroscience behind repeated positive self-statements is more robust than most people realize. However, there is a significant gap between affirmations that actually shift your thinking and the generic feel-good phrases that clutter social media.
 

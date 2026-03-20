@@ -15,7 +15,51 @@ faq:
     a: "There is no scientific evidence that dreams are prophetic. However, dreams do process information your conscious mind may overlook, so they can sometimes highlight patterns or concerns that later prove relevant. This is pattern recognition, not prediction. Your dreaming mind is very good at connecting dots you have not consciously connected yet."
   - q: "Do nightmares mean something is wrong with me?"
     a: "Not necessarily. Occasional nightmares are a normal part of dreaming and often reflect temporary stress, anxiety, or major life changes. They become a concern if they are frequent, severely disruptive to sleep, or accompanied by daytime distress. In those cases, speaking with a therapist who specializes in sleep or trauma can be very helpful."
+image: "/images/dreams/common-dreams.jpg"
+imageAlt: "Surreal dreamscape with clouds"
 ---
+
+## Most Common Dream Themes
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🪂</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Falling</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Loss of control</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🏃</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Being Chased</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Avoidance</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🦷</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Teeth Falling</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Self-image anxiety</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(6,182,212,0.1); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">✈️</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.8rem;">Flying</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Freedom & power</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">📝</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Unprepared</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Performance anxiety</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🌊</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Water</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Emotions</div>
+</div>
+
+</div>
 
 Dreams speak in symbols. Every night, your subconscious mind constructs elaborate scenarios that can feel profoundly meaningful or absurdly random — and often both at the same time. While no dream dictionary can give you a definitive answer about what your specific dream means, decades of psychological research and clinical observation have identified consistent patterns in the dreams that nearly everyone experiences.
 

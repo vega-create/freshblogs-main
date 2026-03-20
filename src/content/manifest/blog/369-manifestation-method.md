@@ -15,7 +15,33 @@ faq:
     a: "Missing one session occasionally will not ruin your practice. Simply resume at the next scheduled time. However, if you miss an entire day, some practitioners recommend restarting the count from day one because consistency is the core mechanism. Others continue where they left off. The most important factor is maintaining the emotional connection to your affirmation, not perfect attendance."
   - q: "What is the difference between the 369 method and the 55x5 method?"
     a: "The 369 method spreads writing across three sessions per day for 21 or more days, totaling 18 written affirmations per day. The 55x5 method is more intensive but shorter — you write one affirmation 55 times in a single session, repeated for five consecutive days. The 369 method builds consistency over time while the 55x5 method creates a burst of concentrated focus. Some people respond better to sustained practice, others to intensive short bursts."
+image: "/images/manifest/369-method.jpg"
+imageAlt: "369 manifestation journal"
 ---
+
+## The 369 Method Steps
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(139,92,246,0.15); border-radius: 12px; border: 2px solid rgba(139,92,246,0.4); text-align: center;">
+<div style="font-size: 2rem; font-weight: 800; color: #a78bfa;">3</div>
+<div style="font-weight: 700; color: #d1d5db; font-size: 0.85rem;">Morning</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Write 3 times</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(236,72,153,0.15); border-radius: 12px; border: 2px solid rgba(236,72,153,0.4); text-align: center;">
+<div style="font-size: 2rem; font-weight: 800; color: #f472b6;">6</div>
+<div style="font-weight: 700; color: #d1d5db; font-size: 0.85rem;">Afternoon</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Write 6 times</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(245,158,11,0.15); border-radius: 12px; border: 2px solid rgba(245,158,11,0.4); text-align: center;">
+<div style="font-size: 2rem; font-weight: 800; color: #fbbf24;">9</div>
+<div style="font-weight: 700; color: #d1d5db; font-size: 0.85rem;">Night</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Write 9 times</div>
+</div>
+
+</div>
 
 The 369 manifestation method has become one of the most popular manifestation techniques in recent years, blending numerological fascination with practical repetition-based psychology.
 

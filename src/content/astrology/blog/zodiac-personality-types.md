@@ -31,6 +31,84 @@ faq:
     a: "The most introverted signs are typically Scorpio, Virgo, Capricorn, and Pisces. They tend to recharge in solitude and prefer deep one-on-one connections over large social groups."
 ---
 
+## Quick Personality Snapshot
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(239,68,68,0.15), rgba(239,68,68,0.05)); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♈</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Aries</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Pioneer</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(34,197,94,0.15), rgba(34,197,94,0.05)); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♉</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Taurus</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Builder</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(234,179,8,0.15), rgba(234,179,8,0.05)); border-radius: 10px; border: 1px solid rgba(234,179,8,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♊</div>
+<div style="font-weight: 700; color: #facc15; font-size: 0.8rem;">Gemini</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Communicator</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(163,163,163,0.15), rgba(163,163,163,0.05)); border-radius: 10px; border: 1px solid rgba(163,163,163,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♋</div>
+<div style="font-weight: 700; color: #d4d4d4; font-size: 0.8rem;">Cancer</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Nurturer</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(245,158,11,0.15), rgba(245,158,11,0.05)); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♌</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Leo</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Creator</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(132,204,22,0.15), rgba(132,204,22,0.05)); border-radius: 10px; border: 1px solid rgba(132,204,22,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♍</div>
+<div style="font-weight: 700; color: #a3e635; font-size: 0.8rem;">Virgo</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Analyst</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(236,72,153,0.15), rgba(236,72,153,0.05)); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♎</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Libra</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Diplomat</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(139,92,246,0.15), rgba(139,92,246,0.05)); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♏</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Scorpio</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Transformer</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(249,115,22,0.15), rgba(249,115,22,0.05)); border-radius: 10px; border: 1px solid rgba(249,115,22,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♐</div>
+<div style="font-weight: 700; color: #fb923c; font-size: 0.8rem;">Sagittarius</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Seeker</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(107,114,128,0.15), rgba(107,114,128,0.05)); border-radius: 10px; border: 1px solid rgba(107,114,128,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♑</div>
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.8rem;">Capricorn</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Achiever</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(6,182,212,0.15), rgba(6,182,212,0.05)); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♒</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.8rem;">Aquarius</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Visionary</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(99,102,241,0.15), rgba(99,102,241,0.05)); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-size: 1.3rem;">♓</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.8rem;">Pisces</div>
+<div style="color: #d1d5db; font-size: 0.7rem; margin-top: 0.2rem;">The Mystic</div>
+</div>
+
+</div>
+
 ## The Twelve Personality Archetypes of the Zodiac
 
 Each zodiac sign represents a distinct **archetypal personality** — a coherent pattern of traits, motivations, strengths, and blind spots that shapes how a person engages with themselves and the world. While no person is reducible to their sun sign alone, understanding these archetypes offers a remarkably useful map of human personality.

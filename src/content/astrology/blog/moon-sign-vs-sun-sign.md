@@ -31,6 +31,28 @@ faq:
     a: "Yes! When the sun and moon are in the same sign at birth, this is called a stellium in that sign and tends to amplify those qualities significantly."
 ---
 
+## Sun vs Moon at a Glance
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 2rem; margin-bottom: 0.3rem;">☀️</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.95rem;">Sun Sign</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Core identity & ego</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Who you ARE</div>
+<div style="color: #6b7280; font-size: 0.65rem; margin-top: 0.3rem;">Based on birth date only</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(163,163,163,0.12); border-radius: 12px; border: 1px solid rgba(163,163,163,0.3); text-align: center;">
+<div style="font-size: 2rem; margin-bottom: 0.3rem;">🌙</div>
+<div style="font-weight: 700; color: #d4d4d4; font-size: 0.95rem;">Moon Sign</div>
+<div style="color: #d1d5db; font-size: 0.75rem; margin-top: 0.3rem;">Emotions & inner world</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Who you are in PRIVATE</div>
+<div style="color: #6b7280; font-size: 0.65rem; margin-top: 0.3rem;">Needs birth time + location</div>
+</div>
+
+</div>
+
 ## Understanding Sun Sign and Moon Sign
 
 Most people know their **sun sign** — it is the sign you give when someone asks "What's your sign?" But your **moon sign** is equally important and often more revealing when it comes to understanding your emotional inner world.

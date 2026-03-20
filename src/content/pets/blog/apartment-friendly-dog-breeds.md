@@ -15,7 +15,39 @@ faq:
     a: "This depends entirely on the breed and your training. Breeds listed in this guide were selected partly for their lower barking tendency. However, any dog can develop excessive barking from boredom, separation anxiety, or lack of training. Address barking early through positive reinforcement training, adequate exercise, and mental stimulation. A tired, stimulated dog is a quiet dog."
   - q: "How much daily exercise does an apartment dog actually need?"
     a: "Most apartment-friendly breeds need 20 to 45 minutes of daily exercise, split into two or three outings. This typically includes a longer morning walk and a shorter evening walk, plus some indoor play. Breeds with higher energy needs like French Bulldogs or Greyhounds may benefit from occasional trips to a dog park for off-leash running. Mental stimulation through puzzle toys can supplement physical exercise on days when outdoor time is limited."
+image: "/images/pets/apartment-dog-breeds.jpg"
+imageAlt: "Small dog cozy apartment"
 ---
+
+## Apartment Dog Suitability
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🐕</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">French Bulldog</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Low energy, quiet</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🐕</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Cavalier King</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Gentle, adaptable</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🐕</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Shih Tzu</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Friendly, small</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🐕</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Pug</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Compact, charming</div>
+</div>
+
+</div>
 
 Living in an apartment does not mean living without a dog. Millions of city dwellers successfully share small spaces with canine companions, and many dog breeds actually prefer the cozier indoor life to sprawling yards they would never fully use.
 

@@ -15,7 +15,33 @@ faq:
     a: "Golden hour occurs roughly 30-60 minutes after sunrise and 30-60 minutes before sunset. The low-angle sunlight during these windows produces warm, soft, directional light that flatters faces, adds depth to landscapes, and creates long shadows. Midday sun is harsh and flat by comparison. Golden hour is the single biggest factor in making ordinary scenes look extraordinary."
   - q: "How do I take good photos of myself when traveling solo?"
     a: "Use a compact tripod with your phone's self-timer set to 3-10 seconds. Position the camera, frame the shot, start the timer, and walk into the scene. Burst mode captures multiple frames so you get at least one natural pose. Alternatively, ask other travelers to take your photo and show them the exact framing you want on your screen first."
+image: "/images/travel/travel-photography.jpg"
+imageAlt: "Travel photography phone scenic"
 ---
+
+## Phone Photography Settings
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">☀️</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">Golden Hour</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Best light for landscapes</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(99,102,241,0.12); border-radius: 12px; border: 1px solid rgba(99,102,241,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">📐</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">Rule of Thirds</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Grid lines for composition</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🔲</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">HDR Mode</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">For high contrast scenes</div>
+</div>
+
+</div>
 
 The best camera is the one you have with you, and for most travelers, that is a phone. Modern smartphone cameras are capable of producing genuinely stunning images when you understand a few core principles and use features that most people never explore beyond the default auto mode.
 

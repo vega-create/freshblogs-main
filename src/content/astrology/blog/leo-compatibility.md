@@ -32,6 +32,33 @@ faq:
     a: "Leo needs genuine admiration, unwavering loyalty, and a partner who is proud to be with them. They give generously — love, gifts, time, energy — and need to feel that generosity recognized and reciprocated. A partner who celebrates Leo publicly earns their fierce, lifelong devotion."
 ---
 
+## Leo Compatibility Overview
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Top Matches for Leo ♌</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♈ Aries</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 89%; height: 100%; background: linear-gradient(90deg, #ef4444, #f87171); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">89%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♐ Sagittarius</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 88%; height: 100%; background: linear-gradient(90deg, #f97316, #fb923c); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">88%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♎ Libra</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 82%; height: 100%; background: linear-gradient(90deg, #ec4899, #f472b6); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">82%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♊ Gemini</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 77%; height: 100%; background: linear-gradient(90deg, #eab308, #facc15); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">77%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♒ Aquarius</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 71%; height: 100%; background: linear-gradient(90deg, #06b6d4, #67e8f9); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">71%</div></div></div><div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 130px; font-size: 0.85rem; color: #e5e7eb;">♌ Leo</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 70%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">70%</div></div></div>
+
+</div>
+
 ## Understanding Leo: The Lion of the Zodiac
 
 Leo (July 23 - August 22) is the fifth sign of the zodiac, a fixed fire sign ruled by the Sun — the center of our solar system and the source of all light and life. Represented by the Lion, Leo embodies royalty, creativity, generosity, and the universal human need to be seen, appreciated, and loved. As the only sign ruled by a star rather than a planet, Leo carries a unique radiance that other signs instinctively recognize.

@@ -31,6 +31,48 @@ faq:
     a: "Get your exact birth chart — it will show precisely which sign the sun was in at your birth. The sun is in one sign, not two. The cusp 'blending' you feel often comes from your moon, rising, or Mercury sign being in the neighboring sign."
 ---
 
+## The Six Major Cusps
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(239,68,68,0.1), rgba(34,197,94,0.1)); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2);">
+<div style="font-weight: 700; color: #f87171; font-size: 0.85rem;">♈ Aries — ♉ Taurus</div>
+<div style="color: #fbbf24; font-size: 0.75rem; margin-top: 0.2rem;">Cusp of Power</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Apr 19–22</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(234,179,8,0.1), rgba(163,163,163,0.1)); border-radius: 10px; border: 1px solid rgba(234,179,8,0.2);">
+<div style="font-weight: 700; color: #facc15; font-size: 0.85rem;">♊ Gemini — ♋ Cancer</div>
+<div style="color: #fbbf24; font-size: 0.75rem; margin-top: 0.2rem;">Cusp of Magic</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Jun 19–23</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(245,158,11,0.1), rgba(132,204,22,0.1)); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2);">
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">♌ Leo — ♍ Virgo</div>
+<div style="color: #fbbf24; font-size: 0.75rem; margin-top: 0.2rem;">Cusp of Exposure</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Aug 19–25</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(249,115,22,0.1)); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2);">
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.85rem;">♏ Scorpio — ♐ Sagittarius</div>
+<div style="color: #fbbf24; font-size: 0.75rem; margin-top: 0.2rem;">Cusp of Revolution</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Nov 18–24</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(107,114,128,0.1), rgba(6,182,212,0.1)); border-radius: 10px; border: 1px solid rgba(107,114,128,0.2);">
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.85rem;">♑ Capricorn — ♒ Aquarius</div>
+<div style="color: #fbbf24; font-size: 0.75rem; margin-top: 0.2rem;">Cusp of Mystery</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Jan 16–23</div>
+</div>
+
+<div style="padding: 1rem; background: linear-gradient(135deg, rgba(99,102,241,0.1), rgba(239,68,68,0.1)); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2);">
+<div style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">♓ Pisces — ♈ Aries</div>
+<div style="color: #fbbf24; font-size: 0.75rem; margin-top: 0.2rem;">Cusp of Rebirth</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Mar 17–23</div>
+</div>
+
+</div>
+
 ## The Cusp Question
 
 If you were born in the last few days of one zodiac sign or the first few days of the next, you have probably wondered: *Am I really just one sign?* This is the essence of the cusp question, and it is one of astrology's most frequently asked and most misunderstood topics.

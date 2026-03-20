@@ -15,7 +15,36 @@ faq:
     a: "Yes. Same-number pairings share deep understanding and similar values, which creates a strong foundation. The risk is that both partners also share the same weaknesses, so blind spots can go unchecked. Awareness of those shared tendencies is the key to making same-number relationships thrive."
   - q: "How do I calculate my Life Path Number?"
     a: "Add all digits of your full birth date together and reduce to a single digit or Master Number. For example, if you were born on July 14, 1990: 7 + 1 + 4 + 1 + 9 + 9 + 0 = 31, then 3 + 1 = 4. Your Life Path Number would be 4. Keep 11, 22, or 33 unreduced as Master Numbers."
+image: "/images/numerology/numerology-compatibility.jpg"
+imageAlt: "Numerology love compatibility"
 ---
+
+## Best Number Matches
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Top Compatible Life Path Pairs</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 80px; font-size: 0.85rem; color: #e5e7eb;">1 + 5</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 95%; height: 100%; background: linear-gradient(90deg, #ec4899, #f472b6); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Excellent</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 80px; font-size: 0.85rem; color: #e5e7eb;">2 + 6</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 92%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Excellent</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 80px; font-size: 0.85rem; color: #e5e7eb;">3 + 9</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 88%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">Great</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 80px; font-size: 0.85rem; color: #e5e7eb;">4 + 8</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 85%; height: 100%; background: linear-gradient(90deg, #22c55e, #4ade80); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">Great</div></div></div>
+
+</div>
 
 Every relationship has its own energetic blueprint. In numerology, one of the most revealing ways to understand romantic compatibility is by comparing Life Path Numbers — the single most important number in your numerological chart.
 

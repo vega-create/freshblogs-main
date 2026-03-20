@@ -32,6 +32,84 @@ faq:
     a: "Absolutely. Our Daily Lucky Color tool updates every day based on your zodiac sign and current planetary positions. Incorporating even a small touch of your daily lucky color is easy and can subtly shift your energy."
 ---
 
+## 2026 Lucky Colors at a Glance
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(239,68,68,0.15); border-radius: 10px; border: 1px solid rgba(239,68,68,0.3); text-align: center;">
+<div style="font-weight: 700; color: #f87171; font-size: 0.85rem;">♈ Aries</div>
+<div style="width: 30px; height: 30px; background: #dc2626; border-radius: 50%; margin: 0.4rem auto;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Crimson Red</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.15); border-radius: 10px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">♉ Taurus</div>
+<div style="width: 30px; height: 30px; background: #16a34a; border-radius: 50%; margin: 0.4rem auto;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Emerald Green</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(234,179,8,0.15); border-radius: 10px; border: 1px solid rgba(234,179,8,0.3); text-align: center;">
+<div style="font-weight: 700; color: #facc15; font-size: 0.85rem;">♊ Gemini</div>
+<div style="width: 30px; height: 30px; background: #eab308; border-radius: 50%; margin: 0.4rem auto;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Bright Yellow</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(163,163,163,0.15); border-radius: 10px; border: 1px solid rgba(163,163,163,0.3); text-align: center;">
+<div style="font-weight: 700; color: #d4d4d4; font-size: 0.85rem;">♋ Cancer</div>
+<div style="width: 30px; height: 30px; background: #e5e7eb; border-radius: 50%; margin: 0.4rem auto;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Pearl White</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.15); border-radius: 10px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">♌ Leo</div>
+<div style="width: 30px; height: 30px; background: #d97706; border-radius: 50%; margin: 0.4rem auto;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Royal Gold</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(132,204,22,0.15); border-radius: 10px; border: 1px solid rgba(132,204,22,0.3); text-align: center;">
+<div style="font-weight: 700; color: #a3e635; font-size: 0.85rem;">♍ Virgo</div>
+<div style="width: 30px; height: 30px; background: #65a30d; border-radius: 50%; margin: 0.4rem auto;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Sage Green</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.15); border-radius: 10px; border: 1px solid rgba(236,72,153,0.3); text-align: center;">
+<div style="font-weight: 700; color: #f472b6; font-size: 0.85rem;">♎ Libra</div>
+<div style="width: 30px; height: 30px; background: #db2777; border-radius: 50%; margin: 0.4rem auto;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Blush Pink</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.15); border-radius: 10px; border: 1px solid rgba(139,92,246,0.3); text-align: center;">
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.85rem;">♏ Scorpio</div>
+<div style="width: 30px; height: 30px; background: #7c3aed; border-radius: 50%; margin: 0.4rem auto;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Deep Purple</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(249,115,22,0.15); border-radius: 10px; border: 1px solid rgba(249,115,22,0.3); text-align: center;">
+<div style="font-weight: 700; color: #fb923c; font-size: 0.85rem;">♐ Sagittarius</div>
+<div style="width: 30px; height: 30px; background: #ea580c; border-radius: 50%; margin: 0.4rem auto;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Burnt Orange</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(107,114,128,0.15); border-radius: 10px; border: 1px solid rgba(107,114,128,0.3); text-align: center;">
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.85rem;">♑ Capricorn</div>
+<div style="width: 30px; height: 30px; background: #374151; border-radius: 50%; margin: 0.4rem auto;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Charcoal</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(6,182,212,0.15); border-radius: 10px; border: 1px solid rgba(6,182,212,0.3); text-align: center;">
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.85rem;">♒ Aquarius</div>
+<div style="width: 30px; height: 30px; background: #0891b2; border-radius: 50%; margin: 0.4rem auto;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Electric Blue</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.15); border-radius: 10px; border: 1px solid rgba(99,102,241,0.3); text-align: center;">
+<div style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">♓ Pisces</div>
+<div style="width: 30px; height: 30px; background: #7c3aed; border-radius: 50%; margin: 0.4rem auto; opacity: 0.7;"></div>
+<div style="color: #d1d5db; font-size: 0.7rem;">Lavender</div>
+</div>
+
+</div>
+
 ## The Power of Color in Astrology
 
 Every zodiac sign carries a set of colors that resonate with its fundamental energy — colors that amplify its strengths, attract favorable conditions, and help restore balance when things feel off. In 2026, specific planetary cycles make certain colors particularly potent for each sign.

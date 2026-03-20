@@ -15,7 +15,39 @@ faq:
     a: "Winston Churchill, Nelson Mandela, Maya Angelou, Martin Luther King Jr., and Theodore Roosevelt are among the most frequently quoted figures for motivation and resilience. Their words endure because they spoke from direct experience with extraordinary adversity, lending their encouragement an authenticity that resonates across generations."
   - q: "Can motivational quotes replace professional help during a crisis?"
     a: "No. While motivational quotes can provide comfort and perspective, they are not a substitute for professional support during a serious mental health crisis. If you are struggling with depression, anxiety, or thoughts of self-harm, please reach out to a licensed therapist or a crisis helpline. Quotes work best as a supplement to — not a replacement for — proper care."
+image: "/images/quotes/motivational-quotes.jpg"
+imageAlt: "Motivational mountain perseverance"
 ---
+
+## Quote Themes
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">💪</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.8rem;">Resilience</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">15 quotes</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🌅</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Hope</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">15 quotes</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🌱</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Growth</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">15 quotes</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🏆</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Perseverance</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">15 quotes</div>
+</div>
+
+</div>
 
 There are moments in life when everything feels heavy — when the path forward is unclear, the setbacks keep piling up, and your reserves of strength feel dangerously low. During those times, the right words at the right moment can pierce through the fog and remind you of something essential: you have survived every difficult day so far, and you have what it takes to survive this one too.
 

@@ -15,7 +15,95 @@ faq:
     a: "INFJ is often cited as the rarest MBTI type, estimated at roughly 1-2 percent of the general population. INTJ and ENTJ are also relatively uncommon. However, distribution varies by culture and the specific population being studied."
   - q: "How do I find out my MBTI type?"
     a: "You can take the official MBTI assessment through a certified practitioner via the Myers-Briggs Company, or try free alternatives like the 16Personalities test online. For the most accurate results, consider working with a trained professional who can help you verify your type through conversation."
+image: "/images/personality/mbti-types.jpg"
+imageAlt: "MBTI 16 personality types"
 ---
+
+## The 16 Types at a Glance
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem;">
+
+<div style="padding: 0.6rem; background: rgba(139,92,246,0.1); border-radius: 8px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.75rem;">INTJ</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Architect</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(139,92,246,0.1); border-radius: 8px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.75rem;">INTP</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Logician</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(139,92,246,0.1); border-radius: 8px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.75rem;">ENTJ</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Commander</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(139,92,246,0.1); border-radius: 8px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.75rem;">ENTP</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Debater</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(34,197,94,0.1); border-radius: 8px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-weight: 700; color: #4ade80; font-size: 0.75rem;">INFJ</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Advocate</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(34,197,94,0.1); border-radius: 8px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-weight: 700; color: #4ade80; font-size: 0.75rem;">INFP</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Mediator</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(34,197,94,0.1); border-radius: 8px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-weight: 700; color: #4ade80; font-size: 0.75rem;">ENFJ</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Protagonist</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(34,197,94,0.1); border-radius: 8px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-weight: 700; color: #4ade80; font-size: 0.75rem;">ENFP</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Campaigner</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(6,182,212,0.1); border-radius: 8px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.75rem;">ISTJ</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Logistician</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(6,182,212,0.1); border-radius: 8px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.75rem;">ISFJ</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Defender</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(6,182,212,0.1); border-radius: 8px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.75rem;">ESTJ</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Executive</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(6,182,212,0.1); border-radius: 8px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.75rem;">ESFJ</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Consul</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(245,158,11,0.1); border-radius: 8px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.75rem;">ISTP</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Virtuoso</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(245,158,11,0.1); border-radius: 8px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.75rem;">ISFP</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Adventurer</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(245,158,11,0.1); border-radius: 8px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.75rem;">ESTP</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Entrepreneur</div>
+</div>
+
+<div style="padding: 0.6rem; background: rgba(245,158,11,0.1); border-radius: 8px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.75rem;">ESFP</div>
+<div style="color: #9ca3af; font-size: 0.6rem;">Entertainer</div>
+</div>
+
+</div>
 
 The Myers-Briggs Type Indicator, commonly known as MBTI, is one of the most popular personality frameworks in the world. Developed by Katharine Cook Briggs and her daughter Isabel Briggs Myers during the mid-twentieth century, it draws on the psychological theories of Carl Jung to sort people into sixteen distinct personality types. Whether you are exploring personality psychology for the first time or looking to deepen your understanding, this guide walks you through every type, the underlying theory, and practical ways to apply this knowledge in your daily life.
 

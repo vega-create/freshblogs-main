@@ -15,7 +15,39 @@ faq:
     a: "Cover frost-sensitive plants with floating row cover, old bed sheets, or frost blankets when overnight temperatures drop below 35 degrees Fahrenheit. Apply covers in the evening and remove them in the morning once temperatures rise above freezing. Watering the soil before a frost event also helps since moist soil retains more heat than dry soil."
   - q: "Is it necessary to do garden maintenance in winter?"
     a: "Winter garden maintenance is important even though the garden appears dormant. Key tasks include cleaning and sharpening tools, planning next year's garden layout, ordering seeds early for the best selection, maintaining compost bins, and protecting perennials with mulch. Winter preparation saves time and improves results when spring arrives."
+image: "/images/garden/seasonal-garden.jpg"
+imageAlt: "Seasonal garden maintenance"
 ---
+
+## Seasonal Calendar
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3);">
+<div style="font-size: 1.3rem; margin-bottom: 0.2rem;">🌱</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">Spring</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Planting, pruning, soil prep</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3);">
+<div style="font-size: 1.3rem; margin-bottom: 0.2rem;">☀️</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">Summer</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Watering, harvesting, pest control</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(249,115,22,0.12); border-radius: 12px; border: 1px solid rgba(249,115,22,0.3);">
+<div style="font-size: 1.3rem; margin-bottom: 0.2rem;">🍂</div>
+<div style="font-weight: 700; color: #fb923c; font-size: 0.85rem;">Fall</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Cleanup, mulching, planting bulbs</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(6,182,212,0.12); border-radius: 12px; border: 1px solid rgba(6,182,212,0.3);">
+<div style="font-size: 1.3rem; margin-bottom: 0.2rem;">❄️</div>
+<div style="font-weight: 700; color: #67e8f9; font-size: 0.85rem;">Winter</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Planning, tool care, indoor starts</div>
+</div>
+
+</div>
 
 A productive garden requires attention throughout the year, not just during the growing season. Each month brings specific tasks that, when completed on time, prevent problems, reduce workload, and set up success for the months ahead.
 

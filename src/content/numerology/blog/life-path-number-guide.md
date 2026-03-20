@@ -15,7 +15,60 @@ faq:
     a: "No. Your life path number is derived from your full date of birth, which never changes. However, your understanding of its energy can deepen with age and experience. Other numerology numbers like your personal year number do shift annually, which influences how your life path energy expresses itself in different seasons of life."
   - q: "What is the difference between a life path number and a destiny number?"
     a: "Your life path number comes from your birth date and reveals innate traits and life purpose. Your destiny number, also called the expression number, is calculated from the full name on your birth certificate and shows your talents and goals. Together they offer a more complete numerological profile than either number alone."
+image: "/images/numerology/life-path-number.jpg"
+imageAlt: "Life path number calculation"
 ---
+
+## Life Path Numbers at a Glance
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 0.5rem;">
+
+<div style="padding: 0.7rem; background: rgba(239,68,68,0.1); border-radius: 10px; border: 1px solid rgba(239,68,68,0.2); text-align: center;">
+<div style="font-weight: 800; color: #f87171; font-size: 1.3rem;">1</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Leader</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-weight: 800; color: #f472b6; font-size: 1.3rem;">2</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Diplomat</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-weight: 800; color: #fbbf24; font-size: 1.3rem;">3</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Creative</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-weight: 800; color: #4ade80; font-size: 1.3rem;">4</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Builder</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(6,182,212,0.1); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-weight: 800; color: #67e8f9; font-size: 1.3rem;">5</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Adventurer</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-weight: 800; color: #818cf8; font-size: 1.3rem;">6</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Nurturer</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-weight: 800; color: #a78bfa; font-size: 1.3rem;">7</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Seeker</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(249,115,22,0.1); border-radius: 10px; border: 1px solid rgba(249,115,22,0.2); text-align: center;">
+<div style="font-weight: 800; color: #fb923c; font-size: 1.3rem;">8</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Achiever</div>
+</div>
+
+<div style="padding: 0.7rem; background: rgba(163,163,163,0.1); border-radius: 10px; border: 1px solid rgba(163,163,163,0.2); text-align: center;">
+<div style="font-weight: 800; color: #d4d4d4; font-size: 1.3rem;">9</div>
+<div style="color: #9ca3af; font-size: 0.65rem;">Humanitarian</div>
+</div>
+
+</div>
 
 Your life path number is the single most important number in your entire numerology chart. Derived from your date of birth, it maps out the central themes, challenges, and opportunities you will encounter throughout your lifetime. Think of it as a blueprint for the journey your soul chose before you arrived here.
 

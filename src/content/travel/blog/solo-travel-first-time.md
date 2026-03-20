@@ -15,7 +15,33 @@ faq:
     a: "Hostels with common areas are the easiest way to meet fellow travelers. Free walking tours create natural conversation opportunities. Apps like Meetup, Couchsurfing Hangouts, and Bumble BFF connect you with locals and travelers. Co-working spaces attract digital nomads. The solo travel community is large and welcoming."
   - q: "How much more expensive is solo travel compared to traveling with a partner?"
     a: "Solo travel typically costs 20-40% more than splitting expenses with a partner, mainly due to single-occupancy accommodation. However, you save in other ways because you control every spending decision. Hostels, house-sitting, and cooking your own meals help close the gap significantly."
+image: "/images/travel/solo-travel.jpg"
+imageAlt: "Solo travel woman city"
 ---
+
+## Solo Travel Readiness
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🟢</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">Beginner</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">English-speaking, safe cities</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🟡</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">Intermediate</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Language barrier, diverse culture</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(239,68,68,0.12); border-radius: 12px; border: 1px solid rgba(239,68,68,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🔴</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.85rem;">Advanced</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Remote, off-grid, visa complex</div>
+</div>
+
+</div>
 
 Solo travel is one of those experiences that sounds intimidating until you actually do it. Then it becomes addictive. The freedom to follow your own schedule, change plans on a whim, and discover what you are capable of when you rely entirely on yourself transforms how you see travel and, often, how you see yourself.
 

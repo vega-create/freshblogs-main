@@ -15,7 +15,33 @@ faq:
     a: "Yes, and many experienced readers do. Start by identifying what you want to explore, then assign each card position a specific role or question. The key is making each position distinct — avoid overlapping meanings like putting both a 'feelings' and an 'emotions' position in the same spread. Test your custom spread several times to confirm it produces useful, non-redundant readings."
   - q: "How often should I do a tarot reading?"
     a: "A one-card daily pull can be done every morning without issue. Larger spreads on the same topic should be spaced at least one to two weeks apart to allow time for the previous reading's guidance to unfold. Over-reading on the same question leads to contradictory results and confusion rather than deeper clarity."
+image: "/images/tarot/tarot-spreads.jpg"
+imageAlt: "Tarot spread cards layout"
 ---
+
+## Spread Complexity
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🃏</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">1-3 Cards</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Daily pull, yes/no, quick insight</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🃏🃏</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">5-7 Cards</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Relationship, career, decision</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(139,92,246,0.12); border-radius: 12px; border: 1px solid rgba(139,92,246,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🃏🃏🃏</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.85rem;">10+ Cards</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Celtic Cross, deep analysis</div>
+</div>
+
+</div>
 
 A tarot spread is a specific arrangement of cards where each position carries a defined meaning. The spread gives structure to a reading, turning a random collection of cards into a coherent narrative. Here are twelve spreads covering everything from a thirty-second morning check-in to a full-year forecast, with position layouts and example interpretations for each.
 

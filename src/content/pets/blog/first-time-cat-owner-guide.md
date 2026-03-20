@@ -15,7 +15,39 @@ faq:
     a: "Indoor-only cats live significantly longer on average, typically 12 to 18 years compared to 5 to 10 years for outdoor cats. Indoor cats avoid risks like traffic, predators, diseases from other animals, and parasites. As long as you provide adequate enrichment including scratching posts, climbing structures, interactive toys, and window perches, an indoor cat can live a completely fulfilled life."
   - q: "How do I introduce a new cat to an existing pet in the household?"
     a: "Slow introductions are essential. Keep the new cat in a separate room for at least one to two weeks. Swap bedding between the animals so they become familiar with each other's scent. Feed them on opposite sides of a closed door. Gradually allow supervised visual contact through a baby gate before allowing direct interaction. Rushing introductions is the most common cause of long-term conflict between household pets."
+image: "/images/pets/first-time-cat.jpg"
+imageAlt: "Cute kitten first pet"
 ---
+
+## Essential Cat Supplies
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🍽️</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.8rem;">Food & Water</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Bowls, quality food</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🧹</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.8rem;">Litter Box</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Box + quality litter</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🎾</div>
+<div style="font-weight: 700; color: #f472b6; font-size: 0.8rem;">Toys</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Interactive + solo play</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-size: 1.2rem;">🏥</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.8rem;">Vet Care</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Vaccines, spay/neuter</div>
+</div>
+
+</div>
 
 Bringing a cat into your home for the first time is exciting, but the amount of preparation and knowledge required often surprises new owners. Cats have a reputation for being low-maintenance pets, and while they are generally more independent than dogs, they still need proper care, a well-prepared environment, and an owner who understands their behavior.
 

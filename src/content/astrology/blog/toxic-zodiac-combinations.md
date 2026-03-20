@@ -36,6 +36,43 @@ Every relationship takes work, but some zodiac pairings encounter friction so co
 
 A challenging combination does not mean a doomed relationship. It means a relationship that will demand more conscious effort, more communication, and more willingness to genuinely understand a different way of experiencing the world.
 
+## Friction Score Overview
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">Challenge Level (Higher = More Friction)</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 150px; font-size: 0.85rem; color: #e5e7eb;">♌ Leo + ♏ Scorpio</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 92%; height: 100%; background: linear-gradient(90deg, #ef4444, #dc2626); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">High</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 150px; font-size: 0.85rem; color: #e5e7eb;">♈ Aries + ♋ Cancer</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 88%; height: 100%; background: linear-gradient(90deg, #f97316, #ea580c); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">High</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 150px; font-size: 0.85rem; color: #e5e7eb;">♉ Taurus + ♒ Aquarius</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 85%; height: 100%; background: linear-gradient(90deg, #f97316, #fb923c); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">High</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 150px; font-size: 0.85rem; color: #e5e7eb;">♋ Cancer + ♑ Capricorn</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 78%; height: 100%; background: linear-gradient(90deg, #eab308, #facc15); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">Moderate</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 150px; font-size: 0.85rem; color: #e5e7eb;">♊ Gemini + ♍ Virgo</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 72%; height: 100%; background: linear-gradient(90deg, #eab308, #fde047); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">Moderate</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 150px; font-size: 0.85rem; color: #e5e7eb;">♐ Sagittarius + ♓ Pisces</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 68%; height: 100%; background: linear-gradient(90deg, #eab308, #fde047); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">Moderate</div></div></div>
+
+</div>
+
 ## The Most Challenging Zodiac Combinations
 
 ### Aries ♈ + Cancer ♋ — Fire Meets Extreme Sensitivity

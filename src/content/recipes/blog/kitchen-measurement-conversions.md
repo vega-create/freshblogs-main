@@ -15,7 +15,36 @@ faq:
     a: "No. A US cup is 236 milliliters while a UK or imperial cup is 284 milliliters. This roughly 20 percent difference can significantly affect baking recipes. Most modern recipes published internationally specify milliliters or grams to avoid confusion between the two systems."
   - q: "How do I convert oven temperatures from Fahrenheit to Celsius?"
     a: "Subtract 32 from the Fahrenheit temperature, then multiply by five-ninths. For quick reference, 350 degrees Fahrenheit equals roughly 177 degrees Celsius, and 400 degrees Fahrenheit equals roughly 204 degrees Celsius. Most ovens also have both scales printed on the dial or display."
+image: "/images/recipes/kitchen-measurements.jpg"
+imageAlt: "Kitchen measuring cups spoons"
 ---
+
+## Quick Conversion Reference
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(99,102,241,0.12); border-radius: 12px; border: 1px solid rgba(99,102,241,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🥄</div>
+<div style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">Volume</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">3 tsp = 1 tbsp</div>
+<div style="color: #6b7280; font-size: 0.65rem;">16 tbsp = 1 cup</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">⚖️</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">Weight</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">1 oz = 28g</div>
+<div style="color: #6b7280; font-size: 0.65rem;">1 lb = 454g</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(239,68,68,0.12); border-radius: 12px; border: 1px solid rgba(239,68,68,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🌡️</div>
+<div style="font-weight: 700; color: #f87171; font-size: 0.85rem;">Temperature</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">°F = (°C × 9/5) + 32</div>
+<div style="color: #6b7280; font-size: 0.65rem;">350°F = 175°C</div>
+</div>
+
+</div>
 
 Nothing derails a recipe faster than a measurement mistake. Whether you are converting a European recipe that uses grams, scaling a dish to feed a crowd, or simply trying to remember how many tablespoons are in a quarter cup, having a reliable reference saves time and prevents errors. This guide covers every conversion you will encounter in a home kitchen.
 

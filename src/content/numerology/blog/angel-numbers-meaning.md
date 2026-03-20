@@ -15,7 +15,45 @@ faq:
     a: "Pause and notice what you were thinking about or doing at that moment. The context provides the clue. Then look up the number's core meaning and see how it applies to your current situation. Many people journal about recurring angel numbers to track patterns over time and identify which areas of life the messages relate to most frequently."
   - q: "Can angel numbers be warnings?"
     a: "Some sequences carry cautionary energy rather than purely positive messages. The number 555 warns that major change is imminent and preparation is wise. The number 666 signals that your focus has shifted too heavily toward material concerns. These are not negative omens but gentle redirections encouraging you to rebalance before a situation becomes more difficult to correct."
+image: "/images/numerology/angel-numbers.jpg"
+imageAlt: "Angel numbers spiritual light"
 ---
+
+## Common Angel Numbers
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 0.6rem;">
+
+<div style="padding: 0.8rem; background: rgba(245,158,11,0.1); border-radius: 10px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+<div style="font-weight: 800; color: #fbbf24; font-size: 1.1rem;">111</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">New beginnings</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(236,72,153,0.1); border-radius: 10px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+<div style="font-weight: 800; color: #f472b6; font-size: 1.1rem;">222</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Balance & trust</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(139,92,246,0.1); border-radius: 10px; border: 1px solid rgba(139,92,246,0.2); text-align: center;">
+<div style="font-weight: 800; color: #a78bfa; font-size: 1.1rem;">333</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Divine support</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(34,197,94,0.1); border-radius: 10px; border: 1px solid rgba(34,197,94,0.2); text-align: center;">
+<div style="font-weight: 800; color: #4ade80; font-size: 1.1rem;">444</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Protection</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(6,182,212,0.1); border-radius: 10px; border: 1px solid rgba(6,182,212,0.2); text-align: center;">
+<div style="font-weight: 800; color: #67e8f9; font-size: 1.1rem;">555</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Major change</div>
+</div>
+
+<div style="padding: 0.8rem; background: rgba(99,102,241,0.1); border-radius: 10px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+<div style="font-weight: 800; color: #818cf8; font-size: 1.1rem;">777</div>
+<div style="color: #9ca3af; font-size: 0.7rem;">Spiritual awakening</div>
+</div>
+
+</div>
 
 You glance at the clock and it reads 11:11. You check your receipt and the total is $3.33.
 

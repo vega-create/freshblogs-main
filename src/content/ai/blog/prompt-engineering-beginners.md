@@ -15,7 +15,35 @@ faq:
     a: "Pick one task you do daily, like writing emails or summarizing notes. Write a prompt for it, run it, and then refine based on the output. Repeat this improve-and-iterate cycle 5-10 times. You will learn more from 30 minutes of hands-on practice than from hours of reading theory."
   - q: "How long does it take to get good at prompt engineering?"
     a: "Most people see noticeable improvement within a few hours of focused practice. The 5-element framework in this guide gives you a working structure immediately. Mastery of advanced techniques like chain-of-thought and few-shot prompting takes 2-4 weeks of regular use."
+image: "/images/ai/prompt-engineering.jpg"
+imageAlt: "Prompt engineering code screen"
 ---
+
+## Prompt Framework
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3);">
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">1. Role</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Tell AI who to be</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3);">
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">2. Context</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Give background info</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(99,102,241,0.12); border-radius: 12px; border: 1px solid rgba(99,102,241,0.3);">
+<div style="font-weight: 700; color: #818cf8; font-size: 0.85rem;">3. Task</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Specify what you want</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(236,72,153,0.12); border-radius: 12px; border: 1px solid rgba(236,72,153,0.3);">
+<div style="font-weight: 700; color: #f472b6; font-size: 0.85rem;">4. Format</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Define output style</div>
+</div>
+
+</div>
 
 The gap between a disappointing AI output and a genuinely useful one is rarely about the model. It is almost always about the prompt. Prompt engineering is the skill of writing instructions that get AI tools to produce the results you actually need, and it takes minutes to learn the fundamentals.
 

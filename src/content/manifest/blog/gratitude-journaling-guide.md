@@ -15,7 +15,30 @@ faq:
     a: "Start with the most basic things: clean water, a roof over your head, the ability to read these words. Gratitude journaling is especially powerful during difficult periods because it trains your brain to notice what is still working. You can also use the prompts in this guide to spark ideas when your mind feels blank."
   - q: "How long does it take for gratitude journaling to improve my mood?"
     a: "Most studies show measurable improvements in well-being within two to four weeks of consistent practice. Some people notice shifts in perspective within the first week. The key factor is consistency rather than duration. Writing for just five minutes daily produces better results than occasional thirty-minute sessions."
+image: "/images/manifest/gratitude-journal.jpg"
+imageAlt: "Gratitude journal morning coffee"
 ---
+
+## Gratitude Practice Methods
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3);">
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">📝 Journal</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Write 3 things daily</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 1px solid rgba(245,158,11,0.3);">
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.85rem;">🗣️ Share</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">Tell someone why you appreciate them</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(139,92,246,0.12); border-radius: 12px; border: 1px solid rgba(139,92,246,0.3);">
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.85rem;">🧘 Meditate</div>
+<div style="color: #9ca3af; font-size: 0.75rem; margin-top: 0.3rem;">5-min gratitude meditation</div>
+</div>
+
+</div>
 
 Gratitude journaling is one of the simplest mental health practices you can adopt, and it is also one of the most extensively studied. Unlike many wellness trends that rely on anecdotal evidence, gratitude journaling has decades of rigorous research behind it, demonstrating measurable effects on mood, sleep quality, relationship satisfaction, and even physical health.
 

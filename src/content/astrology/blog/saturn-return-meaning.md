@@ -30,6 +30,33 @@ faq:
     a: "Most people emerge from their Saturn return with a clearer sense of identity, purpose, and direction. The twenties' uncertainty tends to give way to more grounded confidence in your thirties."
 ---
 
+## Saturn Return Timeline
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1.2rem; background: rgba(245,158,11,0.12); border-radius: 12px; border: 2px solid rgba(245,158,11,0.4); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🪐</div>
+<div style="font-weight: 700; color: #fbbf24; font-size: 0.95rem;">1st Return</div>
+<div style="color: #d1d5db; font-size: 0.85rem; margin-top: 0.3rem;">Ages 27–30</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.3rem;">Adulthood, authenticity, life structure</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(139,92,246,0.12); border-radius: 12px; border: 1px solid rgba(139,92,246,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🪐</div>
+<div style="font-weight: 700; color: #a78bfa; font-size: 0.95rem;">2nd Return</div>
+<div style="color: #d1d5db; font-size: 0.85rem; margin-top: 0.3rem;">Ages 58–60</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.3rem;">Legacy, wisdom, reinvention</div>
+</div>
+
+<div style="padding: 1.2rem; background: rgba(107,114,128,0.12); border-radius: 12px; border: 1px solid rgba(107,114,128,0.3); text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🪐</div>
+<div style="font-weight: 700; color: #9ca3af; font-size: 0.95rem;">3rd Return</div>
+<div style="color: #d1d5db; font-size: 0.85rem; margin-top: 0.3rem;">Ages 88–90</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.3rem;">Completion, acceptance</div>
+</div>
+
+</div>
+
 ## The Cosmic Coming-of-Age
 
 Of all the astrological milestones that mark a human life, **Saturn return** may be the most consequential. It is the moment when the ringed planet completes one full journey around the sun and returns to the precise position it occupied the moment you were born — a journey that takes approximately **29.5 years**.

@@ -36,6 +36,49 @@ Three to four times per year, the planet Mercury appears to move backward throug
 
 In astrology, Mercury governs communication, technology, travel, and thinking. When it goes retrograde, these areas of life tend to become more prone to confusion, delays, and miscommunication. This is why Mercury retrograde has earned such a notorious reputation.
 
+## 2026 Retrograde Timeline
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1.2rem; text-transform: uppercase; letter-spacing: 0.05em;">Mercury Retrograde Periods in 2026</div>
+
+<div style="display: flex; flex-direction: column; gap: 1rem;">
+
+<div style="display: flex; align-items: center; gap: 1rem; padding: 1rem; background: rgba(6,182,212,0.1); border-radius: 10px; border-left: 4px solid #06b6d4;">
+<div style="text-align: center; min-width: 50px;">
+<div style="font-size: 1.5rem;">♒</div>
+<div style="font-size: 0.65rem; color: #67e8f9; font-weight: 600;">RX 1</div>
+</div>
+<div>
+<div style="font-weight: 700; color: #e5e7eb; font-size: 0.9rem;">Jan 25 — Feb 14 in Aquarius</div>
+<div style="font-size: 0.8rem; color: #9ca3af; margin-top: 0.2rem;">Tech glitches, group project delays, social media issues</div>
+</div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 1rem; padding: 1rem; background: rgba(234,179,8,0.1); border-radius: 10px; border-left: 4px solid #eab308;">
+<div style="text-align: center; min-width: 50px;">
+<div style="font-size: 1.5rem;">♊</div>
+<div style="font-size: 0.65rem; color: #facc15; font-weight: 600;">RX 2</div>
+</div>
+<div>
+<div style="font-weight: 700; color: #e5e7eb; font-size: 0.9rem;">May 29 — Jun 22 in Gemini</div>
+<div style="font-size: 0.8rem; color: #9ca3af; margin-top: 0.2rem;">Communication chaos, contract issues, writing revisions</div>
+</div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 1rem; padding: 1rem; background: rgba(236,72,153,0.1); border-radius: 10px; border-left: 4px solid #ec4899;">
+<div style="text-align: center; min-width: 50px;">
+<div style="font-size: 1.5rem;">♎</div>
+<div style="font-size: 0.65rem; color: #f472b6; font-weight: 600;">RX 3</div>
+</div>
+<div>
+<div style="font-weight: 700; color: #e5e7eb; font-size: 0.9rem;">Sep 20 — Oct 14 in Libra</div>
+<div style="font-size: 0.8rem; color: #9ca3af; margin-top: 0.2rem;">Relationship talks, legal delays, partnership renegotiation</div>
+</div>
+</div>
+
+</div>
+</div>
+
 ## Mercury Retrograde Dates 2026
 
 Mark your calendar for these Mercury retrograde periods in 2026:

@@ -15,7 +15,36 @@ faq:
     a: "Not necessarily, but they can be. Recurring nightmares are common in people with PTSD, anxiety disorders, and depression. However, they also occur in otherwise healthy people who are going through stressful periods. The distinguishing factor is severity and impact. If recurring nightmares are accompanied by other symptoms like persistent anxiety, flashbacks, or mood changes, seeking professional evaluation is recommended."
   - q: "Do children have nightmares for the same reasons as adults?"
     a: "Children experience nightmares for some of the same reasons as adults, such as stress and anxiety, but developmental factors also play a role. Children's brains are still developing the ability to regulate emotions and process new experiences, which makes them more prone to nightmares. Most children outgrow frequent nightmares by adolescence without intervention."
+image: "/images/dreams/nightmares.jpg"
+imageAlt: "Dark nightmare concept"
 ---
+
+## Common Nightmare Triggers
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.05); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+<div style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.05em;">How Often Each Cause is Reported</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">Stress</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 90%; height: 100%; background: linear-gradient(90deg, #ef4444, #f87171); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Very Common</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">Anxiety</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 85%; height: 100%; background: linear-gradient(90deg, #f97316, #fb923c); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Very Common</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">Late Eating</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 60%; height: 100%; background: linear-gradient(90deg, #eab308, #facc15); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: #1a1a2e; font-weight: 600;">Common</div></div></div>
+
+<div style="display: flex; align-items: center; margin-bottom: 0;">
+<span style="width: 120px; font-size: 0.85rem; color: #e5e7eb;">Medication</span>
+<div style="flex: 1; background: rgba(255,255,255,0.08); border-radius: 6px; height: 22px; overflow: hidden;">
+<div style="width: 45%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Moderate</div></div></div>
+
+</div>
 
 You jolt awake, heart pounding, sheets damp with sweat. The details are already fading, but the fear lingers. Whether it was a shadowy figure, a fall from an impossible height, or a scenario where everything goes catastrophically wrong, the experience of a nightmare is universally unsettling.
 

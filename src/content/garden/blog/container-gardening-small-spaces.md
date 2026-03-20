@@ -15,7 +15,33 @@ faq:
     a: "Container plants typically need watering every 1 to 2 days in summer and every 3 to 5 days in cooler weather. Containers dry out much faster than in-ground gardens because the soil volume is small and exposed to air on all sides. Check daily by pushing your finger one inch into the soil. If it feels dry, water thoroughly until it drains from the bottom."
   - q: "What vegetables grow best in containers?"
     a: "Tomatoes, peppers, lettuce, herbs, radishes, beans, and strawberries are all excellent container vegetables. Choose compact or dwarf varieties bred for small spaces. Cherry tomatoes outperform large beefsteak types in containers. Most herbs thrive in pots and stay within reach of your kitchen, making them the easiest and most practical container crops."
+image: "/images/garden/container-gardening.jpg"
+imageAlt: "Container garden on balcony"
 ---
+
+## Container Size Guide
+
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+
+<div style="padding: 1rem; background: rgba(132,204,22,0.12); border-radius: 12px; border: 1px solid rgba(132,204,22,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🪴</div>
+<div style="font-weight: 700; color: #a3e635; font-size: 0.85rem;">Small (6-8")</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Herbs, lettuce, strawberries</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(34,197,94,0.12); border-radius: 12px; border: 1px solid rgba(34,197,94,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🌱</div>
+<div style="font-weight: 700; color: #4ade80; font-size: 0.85rem;">Medium (12-14")</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Peppers, carrots, flowers</div>
+</div>
+
+<div style="padding: 1rem; background: rgba(22,163,74,0.12); border-radius: 12px; border: 1px solid rgba(22,163,74,0.3); text-align: center;">
+<div style="font-size: 1.3rem;">🌳</div>
+<div style="font-weight: 700; color: #16a34a; font-size: 0.85rem;">Large (18"+)</div>
+<div style="color: #9ca3af; font-size: 0.7rem; margin-top: 0.2rem;">Tomatoes, squash, trees</div>
+</div>
+
+</div>
 
 Container gardening removes the biggest barriers to growing food and flowers: you do not need a yard, garden beds, or even direct ground access. A sunny balcony, patio, rooftop, stoop, or windowsill is enough to grow a meaningful collection of vegetables, herbs, and ornamental plants.
 
