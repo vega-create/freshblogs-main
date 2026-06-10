@@ -90,12 +90,8 @@ if (Astro.url.pathname === '/') {
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet" />
 
-    <!-- Google AdSense -->
-    <script
-      async
-      src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${siteConfig.adsensePubId}`}
-      crossorigin="anonymous"
-    ></script>
+    <!-- Teleworker ad network -->
+    <script src="https://storage.googleapis.com/teleworker-public-storage/gad_js/net.min.js" async></script>
 
     <!-- GA4 -->
     {siteConfig.ga4Id && (
